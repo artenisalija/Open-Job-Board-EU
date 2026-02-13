@@ -2,37 +2,57 @@
   {
     "name": "Accenture",
     "website": "http://accenture.com",
-    "career_page_url": "http://accenture.com/de-de/services/talent-organization",
+    "career_page_url": "http://accenture.com/us-en/services/talent-organization",
     "country_of_origin": "Ireland",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Karriere Home",
-        "url": "http://accenture.com/de-de/careers"
+        "title": "Careers homepage",
+        "url": "http://accenture.com/us-en/careers"
       },
       {
-        "title": "Nach Jobs suchen",
-        "url": "http://accenture.com/de-de/careers/jobsearch"
+        "title": "Search for jobs",
+        "url": "http://accenture.com/us-en/careers/jobsearch"
+      },
+      {
+        "title": "Career areas",
+        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
       },
       {
         "title": "Working here",
-        "url": "http://accenture.com/de-de/careers/life-at-accenture/working-here"
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
       },
       {
         "title": "Benefits",
-        "url": "http://accenture.com/de-de/careers/local/benefits"
+        "url": "http://accenture.com/us-en/careers/local/benefits"
       },
       {
         "title": "Work environment",
-        "url": "http://accenture.com/de-de/careers/life-at-accenture/work-environment"
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
+      },
+      {
+        "title": "Careers blog",
+        "url": "http://accenture.com/us-en/blogs/blogs-careers"
+      },
+      {
+        "title": "Using AI",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
       },
       {
         "title": "Hiring journey",
-        "url": "http://accenture.com/de-de/careers/explore-careers/area-of-interest/journey-to-accenture"
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
       },
       {
         "title": "Pro tips",
-        "url": "http://accenture.com/de-de/careers/explore-careers/area-of-interest/pro-tips"
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
+      },
+      {
+        "title": "Careers",
+        "url": "http://accenture.com/us-en/services/talent-organization"
+      },
+      {
+        "title": "Search open roles",
+        "url": "http://accenture.com/us-en/careers/jobsearch?jk=talent&sb=0"
       }
     ]
   },
@@ -208,32 +228,6 @@
     ]
   },
   {
-    "name": "Atalef",
-    "website": "https://atalef.ai",
-    "career_page_url": "https://atalef.ai/talent",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Find your job",
-        "url": "https://app.atalef.ai"
-      }
-    ]
-  },
-  {
-    "name": "Atlas4D",
-    "website": "https://atlas4d.tech",
-    "career_page_url": "https://atlas4d.tech/careers",
-    "country_of_origin": "Bulgaria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Philosophy",
-        "url": "https://atlas4d.tech/careers"
-      }
-    ]
-  },
-  {
     "name": "Axa",
     "website": "https://www.axa.com",
     "career_page_url": "https://www.axa.com/careers",
@@ -295,13 +289,25 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "https://www.basf.com/global/en/careers/why-join-basf.html",
+    "career_page_url": "http://basf.com/us/en/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Careers",
-        "url": "https://www.basf.com/global/en/careers"
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
       }
     ]
   },
@@ -347,44 +353,6 @@
     ]
   },
   {
-    "name": "BigHub",
-    "website": "https://bighub.ai",
-    "career_page_url": "https://bighub.ai/careers",
-    "country_of_origin": "Czechia",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Career Join our team and build real AI solutions.",
-        "url": "https://bighub.ai/careers"
-      },
-      {
-        "title": "Data Data Engineer Prague Full-time View job",
-        "url": "https://bighub.ai/career/data-engineer"
-      },
-      {
-        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
-        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
-      },
-      {
-        "title": "Business IT Project Manager Prague Full-time View job",
-        "url": "https://bighub.ai/career/it-project-manager"
-      }
-    ]
-  },
-  {
-    "name": "Bikademy",
-    "website": "https://bikademy.com",
-    "career_page_url": "https://bikademy.com/careers",
-    "country_of_origin": "Croatia",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Skip to content",
-        "url": "https://bikademy.com/careers"
-      }
-    ]
-  },
-  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -414,19 +382,6 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
-      }
-    ]
-  },
-  {
-    "name": "Bridgeapp.ai",
-    "website": "https://bridgeapp.ai",
-    "career_page_url": "https://bridgeapp.ai/company/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://bridgeapp.ai/company/careers"
       }
     ]
   },
@@ -600,33 +555,12 @@
     "jobs": []
   },
   {
-    "name": "DiffScout",
-    "website": "https://diffscout.com",
-    "career_page_url": "https://diffscout.com/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
     "name": "Edeka",
     "website": "http://www.edeka.de",
     "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Enactia",
-    "website": "https://www.enactia.com",
-    "career_page_url": "https://www.enactia.com/index.php/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://www.enactia.com/index.php/careers"
-      }
-    ]
   },
   {
     "name": "EnBW",
@@ -1002,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1130,68 +1064,6 @@
     "jobs": []
   },
   {
-    "name": "iTutorOnline",
-    "website": "https://www.iTutorOnline.com",
-    "career_page_url": "https://www.iTutorOnline.com/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://www.iTutorOnline.com/careers"
-      }
-    ]
-  },
-  {
-    "name": "Jobloom",
-    "website": "https://www.jobloom.app",
-    "career_page_url": "https://www.jobloom.app/en",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Jobloom",
-        "url": "https://www.jobloom.app/en"
-      },
-      {
-        "title": "Media",
-        "url": "https://www.jobloom.app/en/blog"
-      },
-      {
-        "title": "Podcasts",
-        "url": "https://www.jobloom.app/en/podcast"
-      },
-      {
-        "title": "Events",
-        "url": "https://www.jobloom.app/en/agenda"
-      },
-      {
-        "title": "Contact",
-        "url": "https://www.jobloom.app/en/contact"
-      },
-      {
-        "title": "Jobs",
-        "url": "https://www.jobloom.app/en/careers"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/career-site"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/multiposting"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/ats"
-      },
-      {
-        "title": "Jobloom",
-        "url": "https://www.jobloom.app"
-      }
-    ]
-  },
-  {
     "name": "Koç Holding",
     "website": "https://www.koc.com.tr/en",
     "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
@@ -1222,14 +1094,6 @@
     "career_page_url": "http://lbbw.de/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Latiai",
-    "website": "https://www.latiai.com",
-    "career_page_url": "https://www.latiai.com/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -1292,14 +1156,6 @@
     ]
   },
   {
-    "name": "Meetcatcher",
-    "website": "https://meetcatcher.com",
-    "career_page_url": "https://meetcatcher.com/careers",
-    "country_of_origin": "Czechia",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1319,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Working Student Legal & Compliance (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/working-student-legal-and-compliance-m-f-d/3342/32576155200"
+        "title": "Claims Service Rep CEB",
+        "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35085608448"
       },
       {
-        "title": "Regional Manager (Midlands)",
-        "url": "https://www.munichre.com/en/job/coventry/regional-manager-midlands/3342/34859816704"
+        "title": "Public Entity Underwriter",
+        "url": "https://www.munichre.com/en/job/chicago/public-entity-underwriter/3342/35118311744"
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "url": "https://www.munichre.com/en/job/toronto/senior-devops-engineer/3342/34371757312"
       },
       {
         "title": "Regional Manager (East Anglia)",
         "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
-      },
-      {
-        "title": "Technical Accounting and Taxes - Intern (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/technical-accounting-and-taxes-intern-m-f-d/3342/34442940800"
       },
       {
         "title": "Find jobs",
@@ -1467,19 +1323,6 @@
     "jobs": []
   },
   {
-    "name": "Permis Online",
-    "website": "https://permis.online",
-    "career_page_url": "https://permis.online/jobs",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "S'inscrire",
-        "url": "https://permis.online/jobs"
-      }
-    ]
-  },
-  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1491,22 +1334,6 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
-  },
-  {
-    "name": "Radost IT",
-    "website": "https://radostit.com",
-    "career_page_url": "https://radostit.com/careers",
-    "country_of_origin": "Croatia",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
-    "name": "ReactNative Jobs",
-    "website": "https://reactnative-jobs.com",
-    "career_page_url": "https://reactnative-jobs.com/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": []
   },
   {
     "name": "Renault",
@@ -1835,48 +1662,6 @@
     ]
   },
   {
-    "name": "SecDevOpsPRO",
-    "website": "https://secdevopspro.com",
-    "career_page_url": "https://secdevopspro.com/careers",
-    "country_of_origin": "Bulgaria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://secdevopspro.com/careers"
-      }
-    ]
-  },
-  {
-    "name": "SEQUESTO",
-    "website": "https://sequesto.com",
-    "career_page_url": "https://sequesto.com/company/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://sequesto.com/company/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://sequesto.com/job-application-growth-marketing-manager"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Français",
-        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Nederlands",
-        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
-      }
-    ]
-  },
-  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -1887,13 +1672,42 @@
   {
     "name": "Siemens",
     "website": "https://www.siemens.com",
-    "career_page_url": "https://www.siemens.com/global/en/company/jobs.html",
+    "career_page_url": "https://www.siemens.com/en-us/company/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.siemens.com/global/en/company/jobs.html"
+        "url": "https://www.siemens.com/en-us/company/jobs"
+      },
+      {
+        "title": "How to apply Learn about our application process, our guidelines for the use of AI in applications, and get access to useful tips that can guide you through the various steps.",
+        "url": "https://www.siemens.com/en-us/company/jobs/how-to-apply"
+      },
+      {
+        "title": "Programs & Learning Discover how to create your individual growth journey through programs, initiatives and lifelong learning.",
+        "url": "https://www.siemens.com/en-us/company/jobs/growth-careers"
+      },
+      {
+        "title": "FAQs & Support Ready to start your future with us, but you still have a few questions? We’ve got you covered. We’ve compiled answers to a range of questions, from how to apply to how to further your career once you’re on board.",
+        "url": "https://www.siemens.com/en-us/company/jobs/faq"
+      },
+      {
+        "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
+        "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
@@ -2102,6 +1916,14 @@
     ]
   },
   {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Vodafone",
     "website": "https://vodafone.com",
     "career_page_url": "https://careers.vodafone.com",
@@ -2232,19 +2054,6 @@
     "jobs": []
   },
   {
-    "name": "WorkSmart",
-    "website": "https://work-smart.ai",
-    "career_page_url": "https://work-smart.ai/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://work-smart.ai/careers"
-      }
-    ]
-  },
-  {
     "name": "ZF Friedrichshafen",
     "website": "https://www.zf.com",
     "career_page_url": "https://www.zf.com/mobile/en/careers/careers.html",
@@ -2279,6 +2088,63 @@
     "career_page_url": "https://www.zurich.com/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.zurich.com/careers"
+      },
+      {
+        "title": "Governance & positions",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions"
+      },
+      {
+        "title": "Governance",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/governance"
+      },
+      {
+        "title": "Remuneration",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/remuneration"
+      },
+      {
+        "title": "Being a responsible taxpayer",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/being-a-responsible-taxpayer"
+      },
+      {
+        "title": "Our positions",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions"
+      },
+      {
+        "title": "Fossil fuels",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/fossil-fuels"
+      },
+      {
+        "title": "Banned cluster munitions and anti-personnel land mines",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/banned-cluster-munitions-and-anti-personnel-land-mines"
+      },
+      {
+        "title": "Respecting human rights",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/respecting-human-rights"
+      },
+      {
+        "title": "Our Hiring Process",
+        "url": "https://www.zurich.com/careers/hiring-process"
+      },
+      {
+        "title": "Students and Early Careers",
+        "url": "https://www.zurich.com/careers/students-and-early-careers"
+      },
+      {
+        "title": "NextGen Tech Internship Program",
+        "url": "https://www.zurich.com/careers/nextgen-tech"
+      },
+      {
+        "title": "Careers for Experienced Professionals",
+        "url": "https://www.zurich.com/careers/experienced-hires"
+      },
+      {
+        "title": "Hiring Process FAQs",
+        "url": "https://www.zurich.com/careers/frequently-asked-questions"
+      }
+    ]
   }
 ]
