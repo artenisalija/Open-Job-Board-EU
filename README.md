@@ -110,3 +110,6 @@ Workflow: `.github/workflows/deploy-frontend.yml`
 ## License
 
 Add your preferred open-source license file (for example MIT) in the repo root.
+
+## Public Link to access the platform
+- https://artenisalija.github.io/Open-Job-Board-EU/
