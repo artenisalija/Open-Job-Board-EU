@@ -1,124 +1,112 @@
 # Open Job Board EU
 
-FastAPI-powered EU company scraper with automated dataset refresh via GitHub Actions.
+Open-source job board project that scrapes EU companies with career pages, extracts job postings, and serves the data through a FastAPI API and a React frontend.
 
-## What It Does
+## Features
 
-- Scrapes EU company candidates from multiple sources.
-- Finds and validates career pages.
+- Multi-source scraping pipeline (Wikipedia, EU Startups, Clutch, The Manifest).
 - Skips companies without career pages.
-- Merges and deduplicates final records.
-- Serves results from `GET /companies`.
-- Tracks source health at `GET /sources/health`.
+- Tracks source per company.
+- Extracts job postings from company career pages.
+- FastAPI endpoints for companies, jobs, and source health.
+- React + Bootstrap frontend with search, filters, sorting, and pagination.
+- Automated dataset refresh with GitHub Actions.
+- Docker Compose setup for easy self-hosting.
 
-## Final Company Schema
+## Project Structure
 
-Each item returned by `/companies` has:
+- `scrapers/` source scrapers and shared base scraper utilities.
+- `api/` FastAPI application.
+- `data/` generated datasets (`companies.json`, `source_health.json`).
+- `frontend/` React application (Vite).
+- `run_pipeline.py` executes scraping + merge pipeline.
+- `career_finder.py` finds career pages and jobs.
+- `merger.py` deduplicates/merges company records.
+
+## Data Schema
+
+Each company record in `data/companies.json`:
 
 - `name`
 - `website`
 - `career_page_url`
 - `country_of_origin`
 - `source`
+- `jobs` (list of `{ title, url }`)
 
-## Data Pipeline
+## API Endpoints
 
-Main runner: `run_pipeline.py`
+Base: `http://127.0.0.1:8011`
 
-Sources currently wired:
+- `GET /` health message
+- `GET /companies` company list with filters/sorting
+- `GET /jobs` flattened job search endpoint
+- `GET /sources/health` source run health summary
+- `GET /debug/stats` quick stats for UI
 
-- `wikipedia`
-- `wikipedia_global`
-- `eu_startups`
-- `clutch` (can be blocked by Cloudflare in automation)
-- `themanifest` (can be blocked by Cloudflare in automation)
+## Run Locally (Python + Node)
 
-Pipeline outputs:
-
-- `data/companies.json`
-- `data/source_health.json`
-
-## Automation
-
-Workflow file: `.github/workflows/scrape.yml`
-
-Runs:
-
-- on manual dispatch
-- every 6 hours
-- on scraper/pipeline code changes
-
-## Local Run
-
-1. Install dependencies:
+1. Install Python dependencies:
    - `pip install -r requirements.txt`
 2. Build dataset:
    - `python run_pipeline.py`
 3. Start API:
-   - `uvicorn api.main:app --reload`
-
-## Frontend (React + Bootstrap)
-
-The frontend is in `frontend/` and uses Vite with a proxy to the FastAPI backend.
-
-1. Start API on port `8011`:
-   - `python -m uvicorn api.main:app --reload --port 8011 --app-dir C:\Users\Artenis\Documents\GitHub\Open-Job-Board-EU\eu-companies-scraper`
-2. Start frontend:
+   - `python -m uvicorn api.main:app --reload --port 8011 --app-dir <absolute-path-to-eu-companies-scraper>`
+4. Start frontend:
    - `cd frontend`
    - `npm install`
    - `npm run dev`
+5. Open:
+   - Frontend: `http://127.0.0.1:5173`
+   - API docs: `http://127.0.0.1:8011/docs`
+
+## Run with Docker Compose
+
+From `eu-companies-scraper/`:
+
+1. Optional one-time scrape refresh:
+   - `docker compose --profile setup up --build pipeline`
+2. Start app:
+   - `docker compose up --build`
 3. Open:
-   - `http://127.0.0.1:5173`
+   - Frontend: `http://127.0.0.1:8080`
+   - API: `http://127.0.0.1:8011`
+4. Stop:
+   - `docker compose down`
 
-## Docker Compose (Shareable Setup)
+## GitHub Automation
 
-This repo includes a full Docker setup so anyone can run it without local Python/Node setup.
+### 1) Scraping workflow
 
-Files:
+Workflow: `.github/workflows/scrape.yml`
 
-- `docker-compose.yml`
-- `Dockerfile.api`
-- `frontend/Dockerfile`
-- `frontend/nginx.conf`
+- Runs every 6 hours.
+- Runs manually via workflow dispatch.
+- Commits updated data files when changed.
 
-Run scraping once to refresh dataset:
+### 2) Frontend deploy workflow (GitHub Pages)
 
-- `docker compose --profile setup up --build pipeline`
+Workflow: `.github/workflows/deploy-frontend.yml`
 
-Run API + frontend:
+- Builds frontend in static mode.
+- Reads `data/companies.json` from the repo.
+- Deploys public site to GitHub Pages.
 
-- `docker compose up --build`
+## Publish Public Link on GitHub Pages
 
-Open:
+1. Ensure workflows are in the repo root `.github/workflows`.
+2. Push to `main`.
+3. In GitHub: `Settings -> Pages -> Source = GitHub Actions`.
+4. Run `Deploy Frontend (GitHub Pages)` once.
+5. Public URL:
+   - `https://<your-github-username>.github.io/<repo-name>/`
 
-- Frontend: `http://127.0.0.1:8080`
-- API: `http://127.0.0.1:8011`
+## Notes
 
-Stop:
+- Some sources may block scraping with anti-bot protections.
+- Career/job extraction quality depends on site structure.
+- Keep `data/companies.json` committed so Pages can serve fresh data without a live backend.
 
-- `docker compose down`
+## License
 
-## Public Link on GitHub Pages
-
-Workflow file:
-
-- `.github/workflows/deploy-frontend.yml`
-
-What it does:
-
-- Builds the React frontend in static-data mode.
-- Deploys frontend to GitHub Pages.
-- Reads data from:
-  - `data/companies.json`
-  - `data/source_health.json`
-  committed in this repo (updated by `scrape.yml`).
-
-One-time setup in GitHub:
-
-1. Go to repo `Settings` -> `Pages`.
-2. Set source to `GitHub Actions`.
-3. Push to `main` or run the workflow manually.
-
-After deploy, the app will be publicly available at:
-
-- `https://<your-github-username>.github.io/<repo-name>/`
+Add your preferred open-source license file (for example MIT) in the repo root.
