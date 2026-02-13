@@ -1,0 +1,2284 @@
+[
+  {
+    "name": "Accenture",
+    "website": "http://accenture.com",
+    "career_page_url": "http://accenture.com/de-de/services/talent-organization",
+    "country_of_origin": "Ireland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Karriere Home",
+        "url": "http://accenture.com/de-de/careers"
+      },
+      {
+        "title": "Nach Jobs suchen",
+        "url": "http://accenture.com/de-de/careers/jobsearch"
+      },
+      {
+        "title": "Working here",
+        "url": "http://accenture.com/de-de/careers/life-at-accenture/working-here"
+      },
+      {
+        "title": "Benefits",
+        "url": "http://accenture.com/de-de/careers/local/benefits"
+      },
+      {
+        "title": "Work environment",
+        "url": "http://accenture.com/de-de/careers/life-at-accenture/work-environment"
+      },
+      {
+        "title": "Hiring journey",
+        "url": "http://accenture.com/de-de/careers/explore-careers/area-of-interest/journey-to-accenture"
+      },
+      {
+        "title": "Pro tips",
+        "url": "http://accenture.com/de-de/careers/explore-careers/area-of-interest/pro-tips"
+      }
+    ]
+  },
+  {
+    "name": "Ahold Delhaize",
+    "website": "https://www.aholddelhaize.com",
+    "career_page_url": "https://www.aholddelhaize.com/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "careers",
+        "url": "https://www.aholddelhaize.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Airbus",
+    "website": "https://airbus.com",
+    "career_page_url": "https://airbus.com/en/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://airbus.com/en/careers"
+      },
+      {
+        "title": "Explore our opportunities",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus"
+      },
+      {
+        "title": "Airbus is recruiting in Belfast To support the ramp-up of the A220 programme, Airbus is recruiting now at its operations in Belfast.",
+        "url": "https://www.airbus.com/en/careers/belfast"
+      },
+      {
+        "title": "Hiring now: Production roles in North Wales To support our growing order book, we're hiring at our Broughton site. Find your future in pioneering aerospace with Airbus.",
+        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/opportunities-in-production-in-broughton"
+      },
+      {
+        "title": "Graduate Programme in Spain: Applications open! Graduating in 2025? Kick-start your career in Engineering, Finance, HR, Digital, Legal & more — this is your moment!",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/graduates/graduates-programmes-in-spain"
+      },
+      {
+        "title": "Make your career your mission We're on a mission to create sustainable aerospace solutions that make a positive impact on people's lives and pave the way for a…",
+        "url": "https://airbus.com/en/careers/make-your-career-your-mission"
+      },
+      {
+        "title": "Apprenticeships in the UK - last chance to apply for 2026! Find your future with an apprenticeship with Airbus. Our programmes provide a clear route for you to make your career fly.",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom"
+      },
+      {
+        "title": "Internships in France - open now! Find an opportunity that fits your skills and abilities to start your adventure.",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/interns/internships-in-france"
+      },
+      {
+        "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
+        "url": "https://airbus.com/en/careers/international-women-at-airbus"
+      },
+      {
+        "title": "Manufacturing and Quality Careers Welcome to the Airbus Manufacturing and Quality team, where professionals are the artisans behind our cutting-edge solutions.",
+        "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
+      },
+      {
+        "title": "Aerospace Engineering Virtual Work Experience Working with Springpod, Airbus has developed a programme for you to look behind the scenes at what aerospace engineers at Airbus…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
+      },
+      {
+        "title": "Aircraft Fitter Belfast 27 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Belfast/Aircraft-Fitter_JR10374158"
+      },
+      {
+        "title": "Export Control Manager Belfast 19 December 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Export-Control-Manager_JR10329149-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      {
+        "title": "System Architect Ulm Area Immenstaad am Bodensee, Germany 17 December 2024",
+        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Ulm-Area/System-Architect--d-m-w--BMC4ISR_JR10301177"
+      },
+      {
+        "title": "Senior Cloud Specialist - Site Reliability Gdansk 19 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-CA/Airbus/job/Gdansk/Senior-Cloud-Specialist---Site-Reliability_JR10329677?locations=8d25f08af12c1001a5d63d943e360000&locationCountry=131d5ac7e3ee4d7b962bdc96e498e412"
+      },
+      {
+        "title": "Surface Protection Painter Hamburg 19 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Maler---Lackierer--d-m-w--im-Oberflchenschutz-fr-die-Strukturmontage-in-Hamburg_JR10241639"
+      },
+      {
+        "title": "Electrical Fitter Hamburg 19 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Ausrstungselektriker--d-m-w--fr-die-Ausrstungsmontage-in-Hamburg_JR10241637"
+      },
+      {
+        "title": "Mechanical Fitter Hamburg 19 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Ausrstungsmechaniker--d-m-w--fr-die-Ausrstungsmontage-in-Hamburg_JR10241672"
+      },
+      {
+        "title": "Structural Fitter Hamburg 19 November 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Strukturmechaniker--d-m-w--fr-die-Strukturmontage-in-Hamburg_JR10241638"
+      },
+      {
+        "title": "Craft Plant Apprenticeship - Aerostructures Belfast 18 December 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Craft-Plant-Apprenticeship---Aerostructures_JR10379569?locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      {
+        "title": "C++ Software Developer Bristol 17 December 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Wind-Tunnel-C---Software-Developer_JR10369946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      {
+        "title": "Approved Operator Prestwick 17 December 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Approved-Operator---Grade-A_JR10378946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      {
+        "title": "Quality Assurance Technician Bingen, WA 15 December 2025",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Quality-Assurance-Technician_JR10372011"
+      },
+      {
+        "title": "Ground Test Inspector Mobile Area, AL 21 January 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Ground-Test-Inspector_JR10385099"
+      },
+      {
+        "title": "Browse all jobs",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+      }
+    ]
+  },
+  {
+    "name": "Assicurazioni Generali",
+    "website": "https://www.generali.com",
+    "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
+    "country_of_origin": "Italy",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "shortcut to career",
+        "url": "https://www.generali.com/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "go to Italian version",
+        "url": "https://www.generali.com/it/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "Our organization",
+        "url": "https://www.generali.com/who-we-are/global-positioning"
+      },
+      {
+        "title": "Insurance",
+        "url": "https://www.generali.com/who-we-are/global-positioning/insurance-division"
+      },
+      {
+        "title": "Asset Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/asset-management"
+      },
+      {
+        "title": "Wealth Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/wealth-management"
+      },
+      {
+        "title": "Greenhouse gas emissions",
+        "url": "https://www.generali.com/sustainability/responsible-employer/greenhouse-gas-emissions"
+      },
+      {
+        "title": "Five reasons to apply",
+        "url": "https://www.generali.com/work-with-us/join-us/five-reasons-to-apply"
+      },
+      {
+        "title": "Openings for Graduates and Students",
+        "url": "https://www.generali.com/work-with-us/join-us/Openings_Graduates_and_Students"
+      },
+      {
+        "title": "Debt composition and maturity",
+        "url": "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity"
+      }
+    ]
+  },
+  {
+    "name": "Atalef",
+    "website": "https://atalef.ai",
+    "career_page_url": "https://atalef.ai/talent",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Find your job",
+        "url": "https://app.atalef.ai"
+      }
+    ]
+  },
+  {
+    "name": "Atlas4D",
+    "website": "https://atlas4d.tech",
+    "career_page_url": "https://atlas4d.tech/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Philosophy",
+        "url": "https://atlas4d.tech/careers"
+      }
+    ]
+  },
+  {
+    "name": "Axa",
+    "website": "https://www.axa.com",
+    "career_page_url": "https://www.axa.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.axa.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Banco Santander",
+    "website": "https://santander.com",
+    "career_page_url": "https://www.santander.com/en/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.santander.com/en/careers"
+      },
+      {
+        "title": "Open oportunities",
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact"
+      },
+      {
+        "title": "FIND OUT MORE",
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/reinventing-technology-starts-with-you"
+      },
+      {
+        "title": "FIND OUT MORE",
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/santander-future-talent"
+      }
+    ]
+  },
+  {
+    "name": "Barclays",
+    "website": "http://home.barclays",
+    "career_page_url": "http://home.barclays/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Statements and policy positions",
+        "url": "http://home.barclays/our-sustainability-/sustainability-resource-hub/statements-and-policy-positions"
+      },
+      {
+        "title": "Barclays' position on the anti-defence movement",
+        "url": "http://home.barclays/how-Barclays-supports-the-defence-sector/barclays-position-on-the-anti-defence-movement"
+      },
+      {
+        "title": "Careers hub",
+        "url": "http://home.barclays/careers"
+      }
+    ]
+  },
+  {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "https://www.basf.com/global/en/careers/why-join-basf.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.basf.com/global/en/careers"
+      }
+    ]
+  },
+  {
+    "name": "BBVA",
+    "website": "http://www.bbva.com",
+    "career_page_url": "https://www.bbva.com/en/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.bbva.com/en/careers"
+      },
+      {
+        "title": "Life at BBVA",
+        "url": "https://www.bbva.com/en/careers/life-at-bbva"
+      },
+      {
+        "title": "Tech & Data",
+        "url": "https://www.bbva.com/en/careers/tech-data"
+      },
+      {
+        "title": "Corporate & Investment Banking",
+        "url": "https://www.bbva.com/en/careers/cib"
+      },
+      {
+        "title": "Retail Banking",
+        "url": "https://www.bbva.com/en/careers/retail-banking"
+      },
+      {
+        "title": "Other areas",
+        "url": "https://www.bbva.com/en/careers/other-areas"
+      },
+      {
+        "title": "Revolutionizing global banking: BBVA's global vision",
+        "url": "https://www.bbva.com/en/careers/revolutionizing-global-banking-bbvas-global-vision"
+      },
+      {
+        "title": "See vacancies",
+        "url": "https://bbva.wd3.myworkdayjobs.com/es/BBVA"
+      }
+    ]
+  },
+  {
+    "name": "BigHub",
+    "website": "https://bighub.ai",
+    "career_page_url": "https://bighub.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Career Join our team and build real AI solutions.",
+        "url": "https://bighub.ai/careers"
+      },
+      {
+        "title": "Data Data Engineer Prague Full-time View job",
+        "url": "https://bighub.ai/career/data-engineer"
+      },
+      {
+        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
+        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
+      },
+      {
+        "title": "Business IT Project Manager Prague Full-time View job",
+        "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Bosch",
+    "website": "https://www.bosch.com",
+    "career_page_url": "https://www.bosch.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.bosch.com/careers"
+      },
+      {
+        "title": "Overview",
+        "url": "https://www.bosch.com/careers/why-bosch"
+      },
+      {
+        "title": "Benefits",
+        "url": "https://www.bosch.com/careers/why-bosch/benefits"
+      },
+      {
+        "title": "Associate stories",
+        "url": "https://www.bosch.com/careers/why-bosch/associate-stories"
+      },
+      {
+        "title": "Career opportunities",
+        "url": "https://www.bosch.com/careers/career-opportunities"
+      },
+      {
+        "title": "Fields of work",
+        "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
+    "name": "Bridgeapp.ai",
+    "website": "https://bridgeapp.ai",
+    "career_page_url": "https://bridgeapp.ai/company/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://bridgeapp.ai/company/careers"
+      }
+    ]
+  },
+  {
+    "name": "Chubb",
+    "website": "https://chubb.com",
+    "career_page_url": "https://chubb.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Continental",
+    "website": "https://continental.com",
+    "career_page_url": "https://continental.com/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://continental.com/en/career"
+      },
+      {
+        "title": "Job Portal",
+        "url": "https://jobs.continental.com/en"
+      },
+      {
+        "title": "Our Range of Jobs",
+        "url": "https://continental.com/en/career/our-range-of-jobs"
+      },
+      {
+        "title": "Software Engineering and System Engineering",
+        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
+      },
+      {
+        "title": "Operating",
+        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
+      },
+      {
+        "title": "Quality",
+        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
+      },
+      {
+        "title": "IT and Cybersecurity",
+        "url": "https://continental.com/en/career/our-range-of-jobs/it"
+      },
+      {
+        "title": "Sales",
+        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
+      },
+      {
+        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
+        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
+      },
+      {
+        "title": "Jobs & Careers",
+        "url": "https://continental.com/en/career/contact-faqs/contact"
+      }
+    ]
+  },
+  {
+    "name": "Daimler Truck",
+    "website": "https://www.daimlertruck.com/en",
+    "career_page_url": "https://www.daimlertruck.com/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Holiday jobs",
+        "url": "https://www.daimlertruck.com/en/career/students-and-graduates/holiday-jobs"
+      },
+      {
+        "title": "Holiday jobs",
+        "url": "https://www.daimlertruck.com/en/career/pupils/holiday-jobs"
+      },
+      {
+        "title": "Benefits Looking for more than just a job?",
+        "url": "https://www.daimlertruck.com/en/career/benefits"
+      }
+    ]
+  },
+  {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "website": "http://db.com",
+    "career_page_url": "https://www.db.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://careers.db.com?language_id=1"
+      },
+      {
+        "title": "Play",
+        "url": "https://www.db.com/careers"
+      },
+      {
+        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
+        "url": "https://careers.db.com/this-is-db"
+      },
+      {
+        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
+        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
+      },
+      {
+        "title": "to careers in technology Discover careers in technology",
+        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
+      },
+      {
+        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
+        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
+      },
+      {
+        "title": "Professionals Professionals",
+        "url": "https://careers.db.com/professionals/index?language_id=1"
+      },
+      {
+        "title": "Students and Graduates Students and Graduates",
+        "url": "https://careers.db.com/students-graduates/index?language_id=1"
+      },
+      {
+        "title": "Apprentices School leavers",
+        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://careers.db.com/tools/sitemap?language_id=1"
+      },
+      {
+        "title": "Contact",
+        "url": "https://careers.db.com/tools/contact?language_id=1"
+      }
+    ]
+  },
+  {
+    "name": "Deutsche Telekom",
+    "website": "https://www.telekom.com",
+    "career_page_url": "https://www.telekom.com/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "active: Careers",
+        "url": "https://www.telekom.com/en/careers"
+      }
+    ]
+  },
+  {
+    "name": "DHL",
+    "website": "https://group.dhl.com/en.html",
+    "career_page_url": "https://group.dhl.com/en/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "DiffScout",
+    "website": "https://diffscout.com",
+    "career_page_url": "https://diffscout.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "Edeka",
+    "website": "http://www.edeka.de",
+    "career_page_url": "http://www.edeka.de/jobs",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/index.php/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/index.php/careers"
+      }
+    ]
+  },
+  {
+    "name": "EnBW",
+    "website": "https://www.enbw.com",
+    "career_page_url": "https://www.enbw.com/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Entry-level and specialist positions",
+        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
+      },
+      {
+        "title": "Vacancies for university students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
+      },
+      {
+        "title": "Vacancies for high school and vocational students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
+      },
+      {
+        "title": "Onboarding",
+        "url": "https://www.enbw.com/career/apply/onboarding"
+      }
+    ]
+  },
+  {
+    "name": "Enel",
+    "website": "https://www.enel.com",
+    "career_page_url": "https://www.enel.com/company/join-us",
+    "country_of_origin": "Italy",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Being Enel",
+        "url": "https://www.enel.com/careers/being-enel"
+      },
+      {
+        "title": "Teams",
+        "url": "https://www.enel.com/careers/teams"
+      }
+    ]
+  },
+  {
+    "name": "Engie",
+    "website": "http://engie.com/en",
+    "career_page_url": "http://engie.com/en/why-join-engie",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Students",
+        "url": "https://jobs.engie.com/go/students-us/9419755"
+      },
+      {
+        "title": "Young professionals",
+        "url": "https://jobs.engie.com/go/young-professionals-us/9421555"
+      },
+      {
+        "title": "Experts",
+        "url": "https://jobs.engie.com/go/experts-us/9414455"
+      },
+      {
+        "title": "Find the job that suits you",
+        "url": "https://jobs.engie.com/search/?q=&locationsearch=&searchResultView=LIST"
+      },
+      {
+        "title": "See our positions",
+        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*rhqo0c*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+      },
+      {
+        "title": "See our positions",
+        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*d1e2jv*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+      },
+      {
+        "title": "See our positions",
+        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*19cq6q1*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+      },
+      {
+        "title": "Join-us",
+        "url": "https://www.engie.com/en/jobs"
+      }
+    ]
+  },
+  {
+    "name": "Eni",
+    "website": "https://www.eni.com/en-IT/home.html",
+    "career_page_url": "https://www.eni.com/en-IT/careers.html",
+    "country_of_origin": "Italy",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.eni.com/en-IT/careers.html"
+      },
+      {
+        "title": "Selection process",
+        "url": "https://www.eni.com/en-IT/careers/recruitment-process.html"
+      },
+      {
+        "title": "Working at Eni Go to",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities.html"
+      },
+      {
+        "title": "Onboarding and career paths",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/onboarding.html"
+      },
+      {
+        "title": "International Careers",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/international.html"
+      },
+      {
+        "title": "Meet the Eni Ambassadors",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/ambassador.html"
+      },
+      {
+        "title": "Companies and professional areas Go to",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas.html"
+      },
+      {
+        "title": "Working at Versalis",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/versalis.html"
+      },
+      {
+        "title": "Working at Enilive",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/enilive.html"
+      },
+      {
+        "title": "Working at Plenitude",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/plenitude.html"
+      },
+      {
+        "title": "Working at EniProgetti",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/eniprogetti.html"
+      },
+      {
+        "title": "Working at Eni Technology, Research & Development and Digital",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/technology-research-development-digital.html"
+      },
+      {
+        "title": "Working at Eni Trade & Biofuels (ETB)",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/eni-trade-biofuels.html"
+      },
+      {
+        "title": "Working at Eni México",
+        "url": "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/careers-with-eni-mexico.html"
+      },
+      {
+        "title": "Welfare",
+        "url": "https://www.eni.com/en-IT/careers/welfare.html"
+      },
+      {
+        "title": "Training",
+        "url": "https://www.eni.com/en-IT/careers/training.html"
+      },
+      {
+        "title": "Educational and careers guidance",
+        "url": "https://www.eni.com/en-IT/careers/educational-career-guidance.html"
+      },
+      {
+        "title": "Eni Masters Discover our training programmes in partnership with Italian universities, placing people at the centre of future skills",
+        "url": "https://www.eni.com/en-IT/careers/training/master.html"
+      },
+      {
+        "title": "MEDEA Master: Applications are open Apply by 30 April 2026 (international candidates) or by 15 May 2026 (Italian candidates). APPLY NOW FOR THE MASTER'S",
+        "url": "https://www.eni.com/en-IT/careers/training/master/medea.html"
+      },
+      {
+        "title": "Guidelines for Spontaneous Applications",
+        "url": "https://www.eni.com/content/dam/enicom/documents/eng/careers/orc/ENG-ORC_15_Manuale_Candidati_Voluntary-external-application-(Join-us)_V01.pdf"
+      },
+      {
+        "title": "Guidelines for Applying to an Opportunity",
+        "url": "https://www.eni.com/content/dam/enicom/documents/eng/careers/orc/ORC_14_Guide_Candidates_External-Application(Career-Site)_V01.pdf"
+      },
+      {
+        "title": "Beware of job offer scams",
+        "url": "https://www.eni.com/en-IT/careers/job-offers-fraud.html"
+      }
+    ]
+  },
+  {
+    "name": "Exor",
+    "website": "https://www.exor.com",
+    "career_page_url": "https://www.exor.com/pages/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.exor.com/pages/careers"
+      }
+    ]
+  },
+  {
+    "name": "Glencore",
+    "website": "https://glencore.com",
+    "career_page_url": "https://glencore.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "SKIP NAVIGATION",
+        "url": "https://glencore.com/careers"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://glencore.com/careers/jobs"
+      },
+      {
+        "title": "Life at Glencore",
+        "url": "https://glencore.com/careers/life-at-glencore"
+      },
+      {
+        "title": "Career areas",
+        "url": "https://glencore.com/careers/career-areas"
+      },
+      {
+        "title": "How we hire",
+        "url": "https://glencore.com/careers/how-we-hire"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://glencore.com/careers/early-careers"
+      },
+      {
+        "title": "Baar, Switzerland - Headquarters",
+        "url": "https://glencore.com/careers/early-careers/baar"
+      },
+      {
+        "title": "London, UK",
+        "url": "https://glencore.com/careers/early-careers/london"
+      },
+      {
+        "title": "USA",
+        "url": "https://glencore.com/careers/early-careers/usa"
+      },
+      {
+        "title": "Singapore",
+        "url": "https://glencore.com/careers/early-careers/singapore"
+      },
+      {
+        "title": "China",
+        "url": "https://glencore.com/careers/early-careers/china"
+      },
+      {
+        "title": "Africa copper",
+        "url": "https://glencore.com/careers/early-careers/africa-copper"
+      },
+      {
+        "title": "South Africa",
+        "url": "https://glencore.com/careers/early-careers/south-africa"
+      },
+      {
+        "title": "Base metals north America",
+        "url": "https://glencore.com/careers/early-careers/base-metals-north-america"
+      },
+      {
+        "title": "Kazakhstan",
+        "url": "https://glencore.com/careers/early-careers/kazakhstan"
+      }
+    ]
+  },
+  {
+    "name": "HSBC",
+    "website": "https://hsbc.com",
+    "career_page_url": "https://hsbc.com/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to Primary navigation",
+        "url": "https://hsbc.com/careers"
+      },
+      {
+        "title": "OUR STRATEGY AND VALUES Opening up a world of opportunity",
+        "url": "https://hsbc.com/who-we-are/our-strategy-and-values"
+      },
+      {
+        "title": "Students and graduates",
+        "url": "https://hsbc.com/careers/students-and-graduates"
+      },
+      {
+        "title": "University students and graduates",
+        "url": "https://hsbc.com/careers/students-and-graduates/university-students-and-graduates"
+      },
+      {
+        "title": "Schools and apprenticeships",
+        "url": "https://hsbc.com/careers/students-and-graduates/schools-and-apprenticeships"
+      },
+      {
+        "title": "Events",
+        "url": "https://hsbc.com/careers/students-and-graduates/events"
+      },
+      {
+        "title": "Application guide",
+        "url": "https://hsbc.com/careers/students-and-graduates/application-guide"
+      },
+      {
+        "title": "FAQs",
+        "url": "https://hsbc.com/careers/students-and-graduates/faqs"
+      },
+      {
+        "title": "Find a programme",
+        "url": "https://hsbc.com/careers/students-and-graduates/find-a-programme"
+      },
+      {
+        "title": "Life at HSBC",
+        "url": "https://hsbc.com/careers/life-at-hsbc"
+      },
+      {
+        "title": "Meet our people",
+        "url": "https://hsbc.com/careers/life-at-hsbc/meet-our-people"
+      },
+      {
+        "title": "Career development",
+        "url": "https://hsbc.com/careers/life-at-hsbc/career-development"
+      },
+      {
+        "title": "Welcoming diversity",
+        "url": "https://hsbc.com/careers/life-at-hsbc/welcoming-diversity"
+      },
+      {
+        "title": "Pay and benefits",
+        "url": "https://hsbc.com/careers/life-at-hsbc/pay-and-benefits"
+      },
+      {
+        "title": "Alumni",
+        "url": "https://hsbc.com/careers/life-at-hsbc/alumni"
+      },
+      {
+        "title": "Our business areas and teams",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams"
+      },
+      {
+        "title": "Corporate and Institutional Banking",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/corporate-and-institutional-banking"
+      },
+      {
+        "title": "International Wealth and Premier Banking",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/international-wealth-and-premier-banking"
+      },
+      {
+        "title": "Group Infrastructure",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/group-infrastructure"
+      },
+      {
+        "title": "Find a job",
+        "url": "https://hsbc.com/careers/find-a-job"
+      },
+      {
+        "title": "Where we hire",
+        "url": "https://hsbc.com/careers/where-we-hire"
+      },
+      {
+        "title": "Key hiring areas",
+        "url": "https://hsbc.com/careers/where-we-hire/key-hiring-areas"
+      },
+      {
+        "title": "Application hints and tips",
+        "url": "https://hsbc.com/careers/application-hints-and-tips"
+      },
+      {
+        "title": "Careers contacts",
+        "url": "https://hsbc.com/careers/careers-contacts"
+      },
+      {
+        "title": "Careers FAQs",
+        "url": "https://hsbc.com/careers/careers-faqs"
+      }
+    ]
+  },
+  {
+    "name": "Inditex",
+    "website": "http://www.inditex.com",
+    "career_page_url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More than a job",
+        "url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex"
+      }
+    ]
+  },
+  {
+    "name": "ING",
+    "website": "http://ing.com",
+    "career_page_url": "https://careers.ing.com/en/search-jobs",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://careers.ing.com/en/search-jobs"
+      },
+      {
+        "title": "About ING",
+        "url": "https://careers.ing.com/en/about-ing"
+      },
+      {
+        "title": "Working at ING",
+        "url": "https://careers.ing.com/en/working-at-ing"
+      },
+      {
+        "title": "Diversity, Inclusion & Belonging",
+        "url": "https://careers.ing.com/en/diversity-inclusion-belonging"
+      },
+      {
+        "title": "Expertise & Teams",
+        "url": "https://careers.ing.com/en/expertise-teams"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://careers.ing.com/en/early-careers"
+      },
+      {
+        "title": "Locations",
+        "url": "https://careers.ing.com/en/locations"
+      },
+      {
+        "title": "Events",
+        "url": "https://careers.ing.com/en/events"
+      },
+      {
+        "title": "Saved",
+        "url": "https://careers.ing.com/en/saved-jobs"
+      },
+      {
+        "title": "Nederlands Dutch",
+        "url": "https://careers.ing.com/nl/jobs-zoeken"
+      },
+      {
+        "title": "Deutsch German",
+        "url": "https://careers.ing.com/de/jobsuche"
+      },
+      {
+        "title": "Français French",
+        "url": "https://careers.ing.com/fr/recherche-d'offres"
+      },
+      {
+        "title": "Español Spanish",
+        "url": "https://careers.ing.com/es/buscar-trabajo"
+      },
+      {
+        "title": "Italiano Italian",
+        "url": "https://careers.ing.com/it/lavori-di-ricerca"
+      },
+      {
+        "title": "Română Romanian",
+        "url": "https://careers.ing.com/ro"
+      },
+      {
+        "title": "Polski Polish",
+        "url": "https://careers.ing.com/pl/szukanie-pracy"
+      },
+      {
+        "title": "Senior Java Developer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+      },
+      {
+        "title": "Expert_ka - Financial Crime Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-ka-financial-crime-compliance/3120/32927872320"
+      },
+      {
+        "title": "Principal Dev Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/principal-dev-engineer/3120/32313116992"
+      },
+      {
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
+      },
+      {
+        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
+        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
+      },
+      {
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
+      },
+      {
+        "title": "Expert Dev Engineer – SAP",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
+      }
+    ]
+  },
+  {
+    "name": "INGKA Holding",
+    "website": "https://www.ingka.com",
+    "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "iTutorOnline",
+    "website": "https://www.iTutorOnline.com",
+    "career_page_url": "https://www.iTutorOnline.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.iTutorOnline.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Jobloom",
+    "website": "https://www.jobloom.app",
+    "career_page_url": "https://www.jobloom.app/en",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app/en"
+      },
+      {
+        "title": "Media",
+        "url": "https://www.jobloom.app/en/blog"
+      },
+      {
+        "title": "Podcasts",
+        "url": "https://www.jobloom.app/en/podcast"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.jobloom.app/en/agenda"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.jobloom.app/en/contact"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.jobloom.app/en/careers"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/career-site"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/multiposting"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/ats"
+      },
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app"
+      }
+    ]
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "L'Oréal",
+    "website": "https://www.loreal.com/en",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Go to Content",
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+      },
+      {
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
+        "url": "https://www.loreal.com/en/careers"
+      }
+    ]
+  },
+  {
+    "name": "Landesbank Baden-Württemberg",
+    "website": "http://lbbw.de",
+    "career_page_url": "http://lbbw.de/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Latiai",
+    "website": "https://www.latiai.com",
+    "career_page_url": "https://www.latiai.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "Lloyds Banking Group",
+    "website": "https://lloydsbankinggroup.com",
+    "career_page_url": "https://lloydsbankinggroup.com/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "page",
+        "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com",
+    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Vacancies",
+        "url": "https://www.lukoil.com/Company/Career/Vacancies"
+      }
+    ]
+  },
+  {
+    "name": "LyondellBasell",
+    "website": "https://lyondellbasell.com",
+    "career_page_url": "https://lyondellbasell.com/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://lyondellbasell.com/careers"
+      },
+      {
+        "title": "Explore our openings",
+        "url": "https://careers.lyondellbasell.com/search/?searchby=location&createNewAlert=false&q=&locationsearch=&geolocation="
+      },
+      {
+        "title": "Students & graduates",
+        "url": "https://lyondellbasell.com/en/careers/students-graduates"
+      },
+      {
+        "title": "Career pathways At LYB, we offer a range of career paths. Find what fuels your passion.",
+        "url": "https://lyondellbasell.com/en/careers/career-pathways"
+      },
+      {
+        "title": "LYB locations We’re in 32 countries with headquarters in North America and Europe.",
+        "url": "https://careers.lyondellbasell.com/content/Locations/?locale=en_US"
+      },
+      {
+        "title": "Career FAQs Get answers to commonly asked questions from LYB job seekers.",
+        "url": "https://lyondellbasell.com/en/careers/faqs"
+      }
+    ]
+  },
+  {
+    "name": "Meetcatcher",
+    "website": "https://meetcatcher.com",
+    "career_page_url": "https://meetcatcher.com/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "Munich Re",
+    "website": "https://www.munichre.com",
+    "career_page_url": "https://www.munichre.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.munichre.com/careers"
+      },
+      {
+        "title": "Saved Jobs",
+        "url": "https://www.munichre.com/en/saved-jobs"
+      },
+      {
+        "title": "View All Jobs",
+        "url": "https://www.munichre.com/en/munichre-search-results"
+      },
+      {
+        "title": "Working Student Legal & Compliance (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/working-student-legal-and-compliance-m-f-d/3342/32576155200"
+      },
+      {
+        "title": "Regional Manager (Midlands)",
+        "url": "https://www.munichre.com/en/job/coventry/regional-manager-midlands/3342/34859816704"
+      },
+      {
+        "title": "Regional Manager (East Anglia)",
+        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+      },
+      {
+        "title": "Technical Accounting and Taxes - Intern (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/technical-accounting-and-taxes-intern-m-f-d/3342/34442940800"
+      },
+      {
+        "title": "Find jobs",
+        "url": "https://www.munichre.com/en/munichre-europe-jobs"
+      },
+      {
+        "title": "Find your job",
+        "url": "https://www.munichre.com/en/munichre-opportunities"
+      }
+    ]
+  },
+  {
+    "name": "Novartis",
+    "website": "https://novartis.com",
+    "career_page_url": "https://novartis.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://novartis.com/careers"
+      },
+      {
+        "title": "Career search",
+        "url": "https://novartis.com/careers/career-search"
+      },
+      {
+        "title": "Our business functions",
+        "url": "https://novartis.com/careers/our-business-functions"
+      },
+      {
+        "title": "Careers in research and development",
+        "url": "https://novartis.com/careers/our-business-functions/careers-research-and-development"
+      },
+      {
+        "title": "Careers in operations",
+        "url": "https://novartis.com/careers/our-business-functions/careers-operations"
+      },
+      {
+        "title": "Careers in commercial and sales",
+        "url": "https://novartis.com/careers/our-business-functions/careers-commercial-and-sales"
+      },
+      {
+        "title": "Careers in global functions",
+        "url": "https://novartis.com/careers/our-business-functions/careers-global-functions"
+      },
+      {
+        "title": "Why Novartis",
+        "url": "https://novartis.com/careers/why-novartis"
+      },
+      {
+        "title": "Career hub",
+        "url": "https://novartis.com/careers/career-hub"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://novartis.com/careers/early-careers"
+      },
+      {
+        "title": "Graduates",
+        "url": "https://novartis.com/careers/early-careers/graduates"
+      },
+      {
+        "title": "Students",
+        "url": "https://novartis.com/careers/early-careers/students"
+      },
+      {
+        "title": "US Biomedical Research internship programs",
+        "url": "https://novartis.com/careers/early-careers/us-biomedical-research-internship-programs"
+      },
+      {
+        "title": "Community exploration and learning lab (CELL)",
+        "url": "https://novartis.com/careers/early-careers/community-exploration-and-learning-lab-cell"
+      },
+      {
+        "title": "All",
+        "url": "https://novartis.com/careers/career-search?field_job_posted_date=All"
+      },
+      {
+        "title": "Today",
+        "url": "https://novartis.com/careers/career-search?field_job_posted_date=1"
+      },
+      {
+        "title": "This Week",
+        "url": "https://novartis.com/careers/career-search?field_job_posted_date=2"
+      },
+      {
+        "title": "Last Two Weeks",
+        "url": "https://novartis.com/careers/career-search?field_job_posted_date=3"
+      },
+      {
+        "title": "This Month",
+        "url": "https://novartis.com/careers/career-search?field_job_posted_date=4"
+      },
+      {
+        "title": "Job search Explore our opportunities and see where you could make the biggest impact.",
+        "url": "https://www.novartis.com/careers/career-search"
+      },
+      {
+        "title": "Science in Motion: Autumn and Sabrina's Noteworthy Novartis Adventure In the ever-evolving world of STEM, where innovation and discovery are to the forefront, the stories of women who have made their mark are both inspiring and essential. Today, we're shining a spotlight on two dedicated Novartis employees who have chosen to begin their careers in manufacturing operations, paving the way for others to follow.",
+        "url": "https://novartis.com/stories/science-motion-autumn-and-sabrinas-noteworthy-novartis-adventure"
+      },
+      {
+        "title": "Every number has a story – my journey to Novartis as a Refugee The current refugee crisis is one of the world's greatest humanitarian challenges. Svitlana shares her story of her journey to Novartis and how her work as part of the Giving and Volunteering team is opening the doors to refugees and other marginalized groups and allowing our people to make a difference by helping those who are most vulnerable.",
+        "url": "https://novartis.com/stories/every-number-has-story-my-journey-novartis-refugee"
+      },
+      {
+        "title": "Join our community",
+        "url": "https://novartis.wd3.myworkdayjobs.com/Internal_Careers_for_Acquired_Entities/job/Basel-City/Novartis-Talent-Community_REQ-10067767"
+      }
+    ]
+  },
+  {
+    "name": "OMV",
+    "website": "https://www.omv.com/en",
+    "career_page_url": "https://www.omv.com/en/career",
+    "country_of_origin": "Austria",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Read more",
+        "url": "https://www.omv.com/en/career/job-stories"
+      }
+    ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Permis Online",
+    "website": "https://permis.online",
+    "career_page_url": "https://permis.online/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "S'inscrire",
+        "url": "https://permis.online/jobs"
+      }
+    ]
+  },
+  {
+    "name": "Phoenix Pharmahandel",
+    "website": "https://www.phoenixgroup.eu/en",
+    "career_page_url": "https://www.phoenixgroup.eu/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Join the Team",
+        "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
+      }
+    ]
+  },
+  {
+    "name": "Radost IT",
+    "website": "https://radostit.com",
+    "career_page_url": "https://radostit.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "ReactNative Jobs",
+    "website": "https://reactnative-jobs.com",
+    "career_page_url": "https://reactnative-jobs.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "Renault",
+    "website": "https://www.renaultgroup.com/en",
+    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
+      },
+      {
+        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
+        "url": "https://www.renaultgroup.com/en/careers"
+      },
+      {
+        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
+      }
+    ]
+  },
+  {
+    "name": "Repsol",
+    "website": "https://www.repsol.com/en/index.cshtml",
+    "career_page_url": "https://www.repsol.com/en/careers/index.cshtml",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.repsol.com/en/careers/index.cshtml"
+      },
+      {
+        "title": "Composition of the Board of Directors",
+        "url": "https://www.repsol.com/en/shareholders-and-investors/corporate-governance/board-of-directors/composition/index.cshtml"
+      },
+      {
+        "title": "Why Repsol?",
+        "url": "https://www.repsol.com/en/careers/why-repsol/index.cshtml"
+      },
+      {
+        "title": "Diversity and equality",
+        "url": "https://www.repsol.com/en/careers/why-repsol/diversity-and-equality/index.cshtml"
+      },
+      {
+        "title": "Proud to be energy for everyone",
+        "url": "https://www.repsol.com/en/careers/why-repsol/diversity-and-equality/proud-to-be-energy-for-everyone/index.cshtml"
+      },
+      {
+        "title": "Total compensation and benefits",
+        "url": "https://www.repsol.com/en/careers/why-repsol/total-compensation-and-benefits/index.cshtml"
+      },
+      {
+        "title": "STEM Initiatives",
+        "url": "https://www.repsol.com/en/careers/why-repsol/stem-initiatives/index.cshtml"
+      },
+      {
+        "title": "Repsol Digital Girls",
+        "url": "https://www.repsol.com/en/careers/why-repsol/stem-initiatives/digital-girls/index.cshtml"
+      },
+      {
+        "title": "Internships and graduate programs",
+        "url": "https://www.repsol.com/en/careers/internships-and-graduate-programs/index.cshtml"
+      },
+      {
+        "title": "Talent Energy internships",
+        "url": "https://www.repsol.com/en/careers/internships-and-graduate-programs/talent-energy-program/index.cshtml"
+      },
+      {
+        "title": "Graduate programs",
+        "url": "https://www.repsol.com/en/careers/internships-and-graduate-programs/graduate-programs/index.cshtml"
+      },
+      {
+        "title": "Dual VT",
+        "url": "https://www.repsol.com/en/careers/internships-and-graduate-programs/dual-vt/index.cshtml"
+      },
+      {
+        "title": "Work at Repsol",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/index.cshtml"
+      },
+      {
+        "title": "Technology and digital innovation",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/technology-and-digital-innovation/index.cshtml"
+      },
+      {
+        "title": "Data science and AI",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/data-science-and-ai/index.cshtml"
+      },
+      {
+        "title": "Renewable energies",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/renewable-energies/index.cshtml"
+      },
+      {
+        "title": "Transformation and sustainability",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/transformation-and-sustainability/index.cshtml"
+      },
+      {
+        "title": "People and corporate services",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/people-and-corporate-services/index.cshtml"
+      },
+      {
+        "title": "Business strategy and development",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/business-strategy-and-development/index.cshtml"
+      },
+      {
+        "title": "Service stations",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/work-at-network-of-service-stations/index.cshtml"
+      },
+      {
+        "title": "Employee testimonials",
+        "url": "https://www.repsol.com/en/careers/work-at-repsol/employee-testimonials/index.cshtml"
+      },
+      {
+        "title": "See openings",
+        "url": "https://repsol.wd3.myworkdayjobs.com/en-US/Repsol?utm_source=repsolcom-all&utm_medium=referral&utm_campaign=rep-empleo-all_2404_corp-buentrabajar"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.repsol.com/en/careers/get-your-questions-answered-and-contact/index.cshtml"
+      }
+    ]
+  },
+  {
+    "name": "Rio Tinto",
+    "website": "https://www.riotinto.com",
+    "career_page_url": "https://www.riotinto.com/en/news/trending-topics/rio-tinto-into/into-wa-jobs",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Climate position and advocacy",
+        "url": "https://www.riotinto.com/en/sustainability/climate-change/climate-position"
+      },
+      {
+        "title": "Into WA jobs",
+        "url": "https://www.riotinto.com/en/news/trending-topics/rio-tinto-into/into-wa-jobs"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.riotinto.com/en/careers"
+      },
+      {
+        "title": "Why work here",
+        "url": "https://www.riotinto.com/en/careers/why-work-here"
+      },
+      {
+        "title": "Available jobs",
+        "url": "https://www.riotinto.com/en/careers/available-jobs"
+      },
+      {
+        "title": "Career areas",
+        "url": "https://www.riotinto.com/en/careers/career-areas"
+      },
+      {
+        "title": "In-house consulting",
+        "url": "https://www.riotinto.com/en/careers/in-house-consulting"
+      },
+      {
+        "title": "Graduates and interns",
+        "url": "https://www.riotinto.com/en/careers/graduates-interns"
+      },
+      {
+        "title": "Careers FAQs",
+        "url": "https://www.riotinto.com/en/careers/faqs"
+      }
+    ]
+  },
+  {
+    "name": "Roche",
+    "website": "https://www.roche.com",
+    "career_page_url": "https://www.roche.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Sainsbury's",
+    "website": "http://about.sainsburys.co.uk",
+    "career_page_url": "http://about.sainsburys.co.uk/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "http://about.sainsburys.co.uk/careers"
+      }
+    ]
+  },
+  {
+    "name": "Sanofi",
+    "website": "http://sanofi.com",
+    "career_page_url": "https://jobs.sanofi.com",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.sanofi.com"
+      },
+      {
+        "title": "Why Sanofi",
+        "url": "https://jobs.sanofi.com/why-join-sanofi"
+      },
+      {
+        "title": "Career Development",
+        "url": "https://jobs.sanofi.com/career-development"
+      },
+      {
+        "title": "Rewards & Benefits",
+        "url": "https://jobs.sanofi.com/rewards-and-benefits"
+      },
+      {
+        "title": "Culture & Values",
+        "url": "https://jobs.sanofi.com/culture-and-values"
+      },
+      {
+        "title": "Early Talent",
+        "url": "https://jobs.sanofi.com/early-talent"
+      },
+      {
+        "title": "Digital",
+        "url": "https://jobs.sanofi.com/digital"
+      },
+      {
+        "title": "Manufacturing & Supply",
+        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
+      },
+      {
+        "title": "Corporate Functions",
+        "url": "https://jobs.sanofi.com/corporate"
+      },
+      {
+        "title": "Hubs",
+        "url": "https://jobs.sanofi.com/hubs"
+      },
+      {
+        "title": "Research & Development",
+        "url": "https://jobs.sanofi.com/research-and-development"
+      },
+      {
+        "title": "Early Careers",
+        "url": "https://jobs.sanofi.com/early-career-jobs"
+      },
+      {
+        "title": "Marketing & Sales",
+        "url": "https://jobs.sanofi.com/marketing-and-sales"
+      },
+      {
+        "title": "Medical & Market Access",
+        "url": "https://jobs.sanofi.com/medical-market-access"
+      },
+      {
+        "title": "Quality Assurance",
+        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
+      },
+      {
+        "title": "Regulatory Affairs",
+        "url": "https://jobs.sanofi.com/regulatory-affairs"
+      },
+      {
+        "title": "Business Operations",
+        "url": "https://jobs.sanofi.com/business-operations-jobs"
+      },
+      {
+        "title": "Engineering",
+        "url": "https://jobs.sanofi.com/engineering-jobs"
+      },
+      {
+        "title": "Data & Technology",
+        "url": "https://jobs.sanofi.com/data-technology-jobs"
+      },
+      {
+        "title": "Locations",
+        "url": "https://jobs.sanofi.com/locations"
+      },
+      {
+        "title": "Sanofi Feeling",
+        "url": "https://jobs.sanofi.com/sanofi-feeling"
+      },
+      {
+        "title": "Sanofi Stories",
+        "url": "https://jobs.sanofi.com/sanofi-stories"
+      },
+      {
+        "title": "Join Our Talent Community opens in a new tab",
+        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
+      },
+      {
+        "title": "Your Saved Jobs",
+        "url": "https://jobs.sanofi.com/saved-jobs"
+      },
+      {
+        "title": "Search Jobs",
+        "url": "https://jobs.sanofi.com/en/search-jobs"
+      }
+    ]
+  },
+  {
+    "name": "Sberbank",
+    "website": "http://sberbank.com",
+    "career_page_url": "http://sberbank.com/jobs",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Schneider Electric",
+    "website": "https://www.se.com",
+    "career_page_url": "https://www.se.com/ww/en/about-us/careers/overview.jsp",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Schwarz Gruppe",
+    "website": "https://gruppe.schwarz/en",
+    "career_page_url": "https://gruppe.schwarz/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Career People, professions and careers in the companies of Schwarz Group",
+        "url": "https://gruppe.schwarz/en"
+      }
+    ]
+  },
+  {
+    "name": "SecDevOpsPRO",
+    "website": "https://secdevopspro.com",
+    "career_page_url": "https://secdevopspro.com/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://secdevopspro.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
+      }
+    ]
+  },
+  {
+    "name": "Shell",
+    "website": "https://www.shell.com",
+    "career_page_url": "https://www.shell.com/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Siemens",
+    "website": "https://www.siemens.com",
+    "career_page_url": "https://www.siemens.com/global/en/company/jobs.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.siemens.com/global/en/company/jobs.html"
+      }
+    ]
+  },
+  {
+    "name": "Stellantis",
+    "website": "https://www.stellantis.com",
+    "career_page_url": "https://www.stellantis.com/en/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.stellantis.com/en/careers"
+      },
+      {
+        "title": "IT",
+        "url": "https://www.stellantis.com/it/careers"
+      }
+    ]
+  },
+  {
+    "name": "TotalEnergies",
+    "website": "https://totalenergies.com",
+    "career_page_url": "https://totalenergies.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Main menu",
+        "url": "https://totalenergies.com/careers"
+      },
+      {
+        "title": "Join us",
+        "url": "https://careers.totalenergies.com/en"
+      },
+      {
+        "title": "Our opportunities for young people",
+        "url": "https://careers.totalenergies.com/en/who-are-we/company-supporting-new-graduates"
+      },
+      {
+        "title": "Find out about our jobs",
+        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs"
+      },
+      {
+        "title": "Find your own path",
+        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs/find-your-own-path"
+      },
+      {
+        "title": "Support our transformation",
+        "url": "https://careers.totalenergies.com/en/make-progress-us/support-energy-transition"
+      },
+      {
+        "title": "Come and work with us",
+        "url": "https://careers.totalenergies.com/en/come-and-work-us"
+      },
+      {
+        "title": "Get ahead in your career",
+        "url": "https://careers.totalenergies.com/en/make-progress-us/get-ahead-your-career"
+      },
+      {
+        "title": "Enjoy the benefits of a great place to work",
+        "url": "https://careers.totalenergies.com/en/come-and-work-us/enjoy-benefits-great-place-work"
+      },
+      {
+        "title": "Benefit from an attractive package",
+        "url": "https://careers.totalenergies.com/en/come-and-work-us/benefit-quality-package"
+      },
+      {
+        "title": "Our fixed-term and regular positions Discover our offers",
+        "url": "https://jobs.totalenergies.com/en_US/careers/SearchJobs/?707=%5B42257%2C42253%5D&707_format=1393&listFilterMode=1&jobRecordsPerPage=6"
+      },
+      {
+        "title": "Discover our DNA TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas and green gases, renewables and electricity. Our more than 100,000 employees are committed to provide as many people as possible with energy that is more reliable, more affordable and more sustainable. Active in about 120 countries, TotalEnergies places sustainability at the heart of its strategy, its projects and its operations. Find out more",
+        "url": "https://careers.totalenergies.com/en/who-are-we"
+      },
+      {
+        "title": "Find your own path Our jobs in videos Watch the testimonials",
+        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs/discover-job-your-dreams"
+      }
+    ]
+  },
+  {
+    "name": "UBS Group",
+    "website": "https://www.ubs.com",
+    "career_page_url": "https://www.ubs.com/global/en/careers.html",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content Area",
+        "url": "https://www.ubs.com/global/en/careers.html"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://www.ubs.com/global/de/careers.html"
+      },
+      {
+        "title": "Français",
+        "url": "https://www.ubs.com/global/fr/careers.html"
+      },
+      {
+        "title": "Italiano",
+        "url": "https://www.ubs.com/global/it/careers.html"
+      },
+      {
+        "title": "Home",
+        "url": "https://www.ubs.com/global/en/careers/home.html"
+      },
+      {
+        "title": "About us",
+        "url": "https://www.ubs.com/global/en/careers/about-us.html"
+      },
+      {
+        "title": "Professional careers",
+        "url": "https://www.ubs.com/global/en/careers/professional-careers.html"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://www.ubs.com/global/en/careers/early-careers.html"
+      },
+      {
+        "title": "Apprentices",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships.html"
+      },
+      {
+        "title": "Switzerland",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/che.html"
+      },
+      {
+        "title": "Banking apprenticeship",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/che/banking.html"
+      },
+      {
+        "title": "ICT apprenticeships",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/che/ict.html"
+      },
+      {
+        "title": "BEM – Bank entry programme for high school graduates",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/che/bem.html"
+      },
+      {
+        "title": "IT-way-up",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/che/way-up.html"
+      },
+      {
+        "title": "United Kingdom",
+        "url": "https://www.ubs.com/global/en/careers/apprenticeships/gbr.html"
+      },
+      {
+        "title": "Search jobs",
+        "url": "https://www.ubs.com/global/en/careers/search-jobs.html"
+      },
+      {
+        "title": "A career in technology Tech is at the heart of our evolution. And our opportunities are as diverse as our people. Tech careers",
+        "url": "https://www.ubs.com/global/en/careers/professional-careers/group-functions/technology.html"
+      },
+      {
+        "title": "Explore benefits of UBS employees",
+        "url": "https://www.ubs.com/global/en/careers/about-us/employee-benefits.html"
+      },
+      {
+        "title": "Our locations Switzerland is where we call home, but you can find us on almost every continent (sorry, Antarctica).",
+        "url": "https://www.ubs.com/global/en/careers/about-us/locations.html"
+      },
+      {
+        "title": "Our employer awards We’re proud to be recognized as a high-quality employer because that means we come through for our people.",
+        "url": "https://www.ubs.com/global/en/careers/about-us/employer-awards.html"
+      }
+    ]
+  },
+  {
+    "name": "Veolia",
+    "website": "https://www.veolia.com/en",
+    "career_page_url": "https://www.veolia.com/en/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Join Us",
+        "url": "https://www.veolia.com/en/careers"
+      },
+      {
+        "title": "Working at Veolia",
+        "url": "https://www.veolia.com/en/careers/why-join-veolia"
+      },
+      {
+        "title": "Students, recent graduates",
+        "url": "https://www.veolia.com/en/careers/your-career/students-trainees-recent-graduates"
+      },
+      {
+        "title": "Evolve at Veolia",
+        "url": "https://www.veolia.com/en/careers/evolve-veolia"
+      },
+      {
+        "title": "Professions",
+        "url": "https://www.veolia.com/en/careers/professions"
+      },
+      {
+        "title": "the recruitment process",
+        "url": "https://www.veolia.com/en/careers/join-us/our-recruitment-process"
+      },
+      {
+        "title": "Internal mobility",
+        "url": "https://www.veolia.com/en/careers/internal-mobility"
+      }
+    ]
+  },
+  {
+    "name": "Vodafone",
+    "website": "https://vodafone.com",
+    "career_page_url": "https://careers.vodafone.com",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://careers.vodafone.com"
+      },
+      {
+        "title": "Our Teams",
+        "url": "https://careers.vodafone.com/our-teams"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://careers.vodafone.com/early-careers"
+      },
+      {
+        "title": "Graduates",
+        "url": "https://careers.vodafone.com/early-careers/graduates"
+      },
+      {
+        "title": "Apprenticeships",
+        "url": "https://careers.vodafone.com/early-careers/apprenticeships"
+      },
+      {
+        "title": "Industrial placements",
+        "url": "https://careers.vodafone.com/early-careers/industrial-placements"
+      },
+      {
+        "title": "Our offer",
+        "url": "https://careers.vodafone.com/our-offer"
+      },
+      {
+        "title": "Career Development",
+        "url": "https://careers.vodafone.com/our-offer/career-development"
+      },
+      {
+        "title": "Reward, Recognition & Benefits",
+        "url": "https://careers.vodafone.com/our-offer/reward-recognition-benefits"
+      },
+      {
+        "title": "Hybrid Working",
+        "url": "https://careers.vodafone.com/our-offer/hybrid-working"
+      },
+      {
+        "title": "Inclusion",
+        "url": "https://careers.vodafone.com/our-offer/inclusion"
+      },
+      {
+        "title": "Gender Equality",
+        "url": "https://careers.vodafone.com/our-offer/inclusion/gender-equality"
+      },
+      {
+        "title": "LGBT+",
+        "url": "https://careers.vodafone.com/our-offer/inclusion/lgbt"
+      },
+      {
+        "title": "Disability",
+        "url": "https://careers.vodafone.com/our-offer/inclusion/disability"
+      },
+      {
+        "title": "Life at Vodafone",
+        "url": "https://careers.vodafone.com/life-at-vodafone"
+      },
+      {
+        "title": "Hear from our people",
+        "url": "https://careers.vodafone.com/life-at-vodafone/projects-stories"
+      },
+      {
+        "title": "Our Purpose",
+        "url": "https://careers.vodafone.com/life-at-vodafone/our-purpose"
+      },
+      {
+        "title": "The Spirit of Vodafone",
+        "url": "https://careers.vodafone.com/life-at-vodafone/the-spirit-of-vodafone"
+      },
+      {
+        "title": "Apply",
+        "url": "https://jobs.vodafone.com/careers"
+      },
+      {
+        "title": "Our Application Journey",
+        "url": "https://careers.vodafone.com/our-application-journey"
+      },
+      {
+        "title": "Our Assessments",
+        "url": "https://careers.vodafone.com/our-assessments"
+      },
+      {
+        "title": "Our Interviews",
+        "url": "https://careers.vodafone.com/interviews-at-vodafone"
+      },
+      {
+        "title": "Application Top Tips",
+        "url": "https://careers.vodafone.com/our-application-journey/application-tips"
+      },
+      {
+        "title": "Application adjustments",
+        "url": "https://careers.vodafone.com/application-adjustments"
+      },
+      {
+        "title": "Talent community",
+        "url": "https://careers.vodafone.com/talent-community"
+      }
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "website": "http://volkswagen-group.com",
+    "career_page_url": "http://volkswagen-group.com/en/career-16057",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers with the Group",
+        "url": "http://volkswagen-group.com/en/careers-with-the-group-16105"
+      }
+    ]
+  },
+  {
+    "name": "Volvo",
+    "website": "https://www.volvogroup.com",
+    "career_page_url": "https://www.volvogroup.com/careers",
+    "country_of_origin": "Sweden",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "WorkSmart",
+    "website": "https://work-smart.ai",
+    "career_page_url": "https://work-smart.ai/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://work-smart.ai/careers"
+      }
+    ]
+  },
+  {
+    "name": "ZF Friedrichshafen",
+    "website": "https://www.zf.com",
+    "career_page_url": "https://www.zf.com/mobile/en/careers/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
+        "url": "https://www.zf.com/mobile/en/technologies/electric_mobility/electric_mobility.html"
+      },
+      {
+        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
+        "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
+      },
+      {
+        "title": "Find Your Job",
+        "url": "https://www.zf.com/mobile/en/careers/students/students.html"
+      },
+      {
+        "title": "Read the full Story",
+        "url": "https://www.zf.com/mobile/en/careers/employee_stories/stories/stories.html"
+      },
+      {
+        "title": "Read more",
+        "url": "https://www.zf.com/mobile/en/careers/employee_stories/employee_stories.html"
+      }
+    ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
+  }
+]
