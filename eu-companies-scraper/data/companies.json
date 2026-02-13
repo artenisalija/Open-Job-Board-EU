@@ -181,10 +181,51 @@
   {
     "name": "Assicurazioni Generali",
     "website": "https://www.generali.com",
-    "career_page_url": "https://www.generali.com/work-with-us",
+    "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
     "country_of_origin": "Italy",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "shortcut to career",
+        "url": "https://www.generali.com/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "go to Italian version",
+        "url": "https://www.generali.com/it/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "Our organization",
+        "url": "https://www.generali.com/who-we-are/global-positioning"
+      },
+      {
+        "title": "Insurance",
+        "url": "https://www.generali.com/who-we-are/global-positioning/insurance-division"
+      },
+      {
+        "title": "Asset Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/asset-management"
+      },
+      {
+        "title": "Wealth Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/wealth-management"
+      },
+      {
+        "title": "Greenhouse gas emissions",
+        "url": "https://www.generali.com/sustainability/responsible-employer/greenhouse-gas-emissions"
+      },
+      {
+        "title": "Five reasons to apply",
+        "url": "https://www.generali.com/work-with-us/join-us/five-reasons-to-apply"
+      },
+      {
+        "title": "Openings for Graduates and Students",
+        "url": "https://www.generali.com/work-with-us/join-us/Openings_Graduates_and_Students"
+      },
+      {
+        "title": "Debt composition and maturity",
+        "url": "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity"
+      }
+    ]
   },
   {
     "name": "Axa",
@@ -895,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1001,16 +1042,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
       {
+        "title": "Node.js Developer",
+        "url": "https://careers.ing.com/en/job/tychy/node-js-developer/3120/32522674688"
+      },
+      {
         "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
         "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       },
       {
         "title": "Expert - Data Scientist",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Expert Dev Engineer – SAP",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1134,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Working Student Legal & Compliance (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/working-student-legal-and-compliance-m-f-d/3342/32576155200"
-      },
-      {
-        "title": "Regional Manager (Midlands)",
-        "url": "https://www.munichre.com/en/job/coventry/regional-manager-midlands/3342/34859816704"
-      },
-      {
-        "title": "Regional Manager (East Anglia)",
-        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+        "title": "Reserving Actuary Non-life (m/w/d)* - Reserve Management & Actuarial Reporting (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-m-w-d-reserve-management-and-actuarial-reporting-m-w-d/3342/33967245056"
       },
       {
         "title": "Technical Accounting and Taxes - Intern (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/technical-accounting-and-taxes-intern-m-f-d/3342/34442940800"
+      },
+      {
+        "title": "Senior Construction & Engineering Underwriter (m/f/d)* - Germany",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-construction-and-engineering-underwriter-m-f-d-germany/3342/34660690688"
+      },
+      {
+        "title": "Claims Service Rep CEB",
+        "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35085608448"
       },
       {
         "title": "Find jobs",
@@ -1631,15 +1672,39 @@
   {
     "name": "Siemens",
     "website": "https://www.siemens.com",
-    "career_page_url": "https://www.siemens.com/global/en/company/jobs.html",
+    "career_page_url": "https://www.siemens.com/en-us/company/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.siemens.com/global/en/company/jobs.html"
+        "url": "https://www.siemens.com/en-us/company/jobs"
+      },
+      {
+        "title": "How to apply Learn about our application process, our guidelines for the use of AI in applications, and get access to useful tips that can guide you through the various steps.",
+        "url": "https://www.siemens.com/en-us/company/jobs/how-to-apply"
+      },
+      {
+        "title": "Programs & Learning Discover how to create your individual growth journey through programs, initiatives and lifelong learning.",
+        "url": "https://www.siemens.com/en-us/company/jobs/growth-careers"
+      },
+      {
+        "title": "FAQs & Support Ready to start your future with us, but you still have a few questions? We’ve got you covered. We’ve compiled answers to a range of questions, from how to apply to how to further your career once you’re on board.",
+        "url": "https://www.siemens.com/en-us/company/jobs/faq"
+      },
+      {
+        "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
+        "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
