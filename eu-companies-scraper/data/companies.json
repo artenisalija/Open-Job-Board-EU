@@ -228,6 +228,32 @@
     ]
   },
   {
+    "name": "Atalef",
+    "website": "https://atalef.ai",
+    "career_page_url": "https://atalef.ai/talent",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Find your job",
+        "url": "https://app.atalef.ai"
+      }
+    ]
+  },
+  {
+    "name": "Atlas4D",
+    "website": "https://atlas4d.tech",
+    "career_page_url": "https://atlas4d.tech/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Philosophy",
+        "url": "https://atlas4d.tech/careers"
+      }
+    ]
+  },
+  {
     "name": "Axa",
     "website": "https://www.axa.com",
     "career_page_url": "https://www.axa.com/careers",
@@ -353,6 +379,44 @@
     ]
   },
   {
+    "name": "BigHub",
+    "website": "https://bighub.ai",
+    "career_page_url": "https://bighub.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Career Join our team and build real AI solutions.",
+        "url": "https://bighub.ai/careers"
+      },
+      {
+        "title": "Data Data Engineer Prague Full-time View job",
+        "url": "https://bighub.ai/career/data-engineer"
+      },
+      {
+        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
+        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
+      },
+      {
+        "title": "Business IT Project Manager Prague Full-time View job",
+        "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -382,6 +446,19 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
+    "name": "Bridgeapp.ai",
+    "website": "https://bridgeapp.ai",
+    "career_page_url": "https://bridgeapp.ai/company/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://bridgeapp.ai/company/careers"
       }
     ]
   },
@@ -464,23 +541,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -555,12 +615,33 @@
     "jobs": []
   },
   {
+    "name": "DiffScout",
+    "website": "https://diffscout.com",
+    "career_page_url": "https://diffscout.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
     "name": "Edeka",
     "website": "http://www.edeka.de",
     "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/index.php/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/index.php/careers"
+      }
+    ]
   },
   {
     "name": "EnBW",
@@ -936,13 +1017,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1064,6 +1145,55 @@
     "jobs": []
   },
   {
+    "name": "Jobloom",
+    "website": "https://www.jobloom.app",
+    "career_page_url": "https://www.jobloom.app/en",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app/en"
+      },
+      {
+        "title": "Media",
+        "url": "https://www.jobloom.app/en/blog"
+      },
+      {
+        "title": "Podcasts",
+        "url": "https://www.jobloom.app/en/podcast"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.jobloom.app/en/agenda"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.jobloom.app/en/contact"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.jobloom.app/en/careers"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/career-site"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/multiposting"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/ats"
+      },
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app"
+      }
+    ]
+  },
+  {
     "name": "Koç Holding",
     "website": "https://www.koc.com.tr/en",
     "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
@@ -1094,6 +1224,14 @@
     "career_page_url": "http://lbbw.de/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Latiai",
+    "website": "https://www.latiai.com",
+    "career_page_url": "https://www.latiai.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -1154,6 +1292,14 @@
         "url": "https://lyondellbasell.com/en/careers/faqs"
       }
     ]
+  },
+  {
+    "name": "Meetcatcher",
+    "website": "https://meetcatcher.com",
+    "career_page_url": "https://meetcatcher.com/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Munich Re",
@@ -1323,6 +1469,19 @@
     "jobs": []
   },
   {
+    "name": "Permis Online",
+    "website": "https://permis.online",
+    "career_page_url": "https://permis.online/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "S'inscrire",
+        "url": "https://permis.online/jobs"
+      }
+    ]
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1334,6 +1493,14 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
+  },
+  {
+    "name": "ReactNative Jobs",
+    "website": "https://reactnative-jobs.com",
+    "career_page_url": "https://reactnative-jobs.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Renault",
@@ -1524,115 +1691,6 @@
     ]
   },
   {
-    "name": "Sanofi",
-    "website": "http://sanofi.com",
-    "career_page_url": "https://jobs.sanofi.com",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://jobs.sanofi.com"
-      },
-      {
-        "title": "Why Sanofi",
-        "url": "https://jobs.sanofi.com/why-join-sanofi"
-      },
-      {
-        "title": "Career Development",
-        "url": "https://jobs.sanofi.com/career-development"
-      },
-      {
-        "title": "Rewards & Benefits",
-        "url": "https://jobs.sanofi.com/rewards-and-benefits"
-      },
-      {
-        "title": "Culture & Values",
-        "url": "https://jobs.sanofi.com/culture-and-values"
-      },
-      {
-        "title": "Early Talent",
-        "url": "https://jobs.sanofi.com/early-talent"
-      },
-      {
-        "title": "Digital",
-        "url": "https://jobs.sanofi.com/digital"
-      },
-      {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Corporate Functions",
-        "url": "https://jobs.sanofi.com/corporate"
-      },
-      {
-        "title": "Hubs",
-        "url": "https://jobs.sanofi.com/hubs"
-      },
-      {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Early Careers",
-        "url": "https://jobs.sanofi.com/early-career-jobs"
-      },
-      {
-        "title": "Marketing & Sales",
-        "url": "https://jobs.sanofi.com/marketing-and-sales"
-      },
-      {
-        "title": "Medical & Market Access",
-        "url": "https://jobs.sanofi.com/medical-market-access"
-      },
-      {
-        "title": "Quality Assurance",
-        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
-      },
-      {
-        "title": "Regulatory Affairs",
-        "url": "https://jobs.sanofi.com/regulatory-affairs"
-      },
-      {
-        "title": "Business Operations",
-        "url": "https://jobs.sanofi.com/business-operations-jobs"
-      },
-      {
-        "title": "Engineering",
-        "url": "https://jobs.sanofi.com/engineering-jobs"
-      },
-      {
-        "title": "Data & Technology",
-        "url": "https://jobs.sanofi.com/data-technology-jobs"
-      },
-      {
-        "title": "Locations",
-        "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
-      },
-      {
-        "title": "Sanofi Stories",
-        "url": "https://jobs.sanofi.com/sanofi-stories"
-      },
-      {
-        "title": "Join Our Talent Community opens in a new tab",
-        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
-      },
-      {
-        "title": "Your Saved Jobs",
-        "url": "https://jobs.sanofi.com/saved-jobs"
-      },
-      {
-        "title": "Search Jobs",
-        "url": "https://jobs.sanofi.com/en/search-jobs"
-      }
-    ]
-  },
-  {
     "name": "Sberbank",
     "website": "http://sberbank.com",
     "career_page_url": "http://sberbank.com/jobs",
@@ -1697,6 +1755,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
@@ -2039,6 +2105,19 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "WorkSmart",
+    "website": "https://work-smart.ai",
+    "career_page_url": "https://work-smart.ai/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://work-smart.ai/careers"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",
