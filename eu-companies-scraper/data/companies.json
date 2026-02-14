@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Reserving Actuary Non-life (m/w/d)* - Reserve Management & Actuarial Reporting (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-m-w-d-reserve-management-and-actuarial-reporting-m-w-d/3342/33967245056"
+      },
+      {
+        "title": "Technical Accounting and Taxes - Intern (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/technical-accounting-and-taxes-intern-m-f-d/3342/34442940800"
+      },
+      {
+        "title": "Senior Construction & Engineering Underwriter (m/f/d)* - Germany",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-construction-and-engineering-underwriter-m-f-d-germany/3342/34660690688"
+      },
+      {
         "title": "Claims Service Rep CEB",
         "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35085608448"
-      },
-      {
-        "title": "Public Entity Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/public-entity-underwriter/3342/35118311744"
-      },
-      {
-        "title": "Senior DevOps Engineer",
-        "url": "https://www.munichre.com/en/job/toronto/senior-devops-engineer/3342/34371757312"
-      },
-      {
-        "title": "Regional Manager (East Anglia)",
-        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
       },
       {
         "title": "Find jobs",
@@ -1701,15 +1701,10 @@
   {
     "name": "SNCF",
     "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "career_page_url": "https://www.groupe-sncf.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Stellantis",
