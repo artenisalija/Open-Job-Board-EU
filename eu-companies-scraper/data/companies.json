@@ -287,6 +287,19 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/jobs",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "http://basf.com/jobs"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -911,13 +924,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1150,20 +1163,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Country Claims Manager, Spain",
-        "url": "https://www.munichre.com/en/job/madrid/country-claims-manager-spain/3342/34763836672"
+        "title": "Regional Manager (East Anglia)",
+        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
       },
       {
-        "title": "Senior Underwriting & Analytics Analyst",
-        "url": "https://www.munichre.com/en/job/new-york/senior-underwriting-and-analytics-analyst/3342/35150079936"
+        "title": "Regional Manager (Midlands)",
+        "url": "https://www.munichre.com/en/job/coventry/regional-manager-midlands/3342/34859816704"
       },
       {
-        "title": "Engagement Manager",
-        "url": "https://www.munichre.com/en/job/new-york/engagement-manager/3342/35150055296"
+        "title": "AVP, Legal Counsel & Compliance Officer (12 month contract)",
+        "url": "https://www.munichre.com/en/job/toronto/avp-legal-counsel-and-compliance-officer-12-month-contract/3342/35149479936"
       },
       {
-        "title": "Claims Service Representative",
-        "url": "https://www.munichre.com/en/job/wayne/claims-service-representative/3342/35085608320"
+        "title": "Head of Property, Construction & Engineering",
+        "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
       },
       {
         "title": "Find jobs",
@@ -1674,6 +1687,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
