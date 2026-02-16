@@ -287,31 +287,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1175,20 +1150,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP, Legal Counsel & Compliance Officer (12 month contract)",
-        "url": "https://www.munichre.com/en/job/toronto/avp-legal-counsel-and-compliance-officer-12-month-contract/3342/35149479936"
-      },
-      {
-        "title": "Head of Property, Construction & Engineering",
-        "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
-      },
-      {
-        "title": "Inspector Trainee - Lynchburg, Virginia",
-        "url": "https://www.munichre.com/en/job/lynchburg/inspector-trainee-lynchburg-virginia/3342/34412019136"
-      },
-      {
         "title": "Country Claims Manager, Spain",
         "url": "https://www.munichre.com/en/job/madrid/country-claims-manager-spain/3342/34763836672"
+      },
+      {
+        "title": "Senior Underwriting & Analytics Analyst",
+        "url": "https://www.munichre.com/en/job/new-york/senior-underwriting-and-analytics-analyst/3342/35150079936"
+      },
+      {
+        "title": "Engagement Manager",
+        "url": "https://www.munichre.com/en/job/new-york/engagement-manager/3342/35150055296"
+      },
+      {
+        "title": "Claims Service Representative",
+        "url": "https://www.munichre.com/en/job/wayne/claims-service-representative/3342/35085608320"
       },
       {
         "title": "Find jobs",
