@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Financial Risk Manager",
+        "url": "https://www.munichre.com/en/job/london/financial-risk-manager/3342/31471120320"
+      },
+      {
         "title": "Electrical Technician",
         "url": "https://www.munichre.com/en/job/manchester/electrical-technician/3342/35003991232"
       },
       {
-        "title": "Compliance Analyst",
-        "url": "https://www.munichre.com/en/job/london/compliance-analyst/3342/34442941312"
+        "title": "Category Manager - Professional Services & BPO (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-professional-services-and-bpo-m-f-d/3342/35026451584"
       },
       {
-        "title": "Inspector Trainee - Lynchburg, Virginia",
-        "url": "https://www.munichre.com/en/job/lynchburg/inspector-trainee-lynchburg-virginia/3342/34412019136"
-      },
-      {
-        "title": "Engineer Surveyor - Chester",
-        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-chester/3342/34406986688"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/34139238400"
       },
       {
         "title": "Find jobs",
