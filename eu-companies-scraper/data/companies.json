@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1064,14 +1064,6 @@
     "jobs": []
   },
   {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1175,20 +1167,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Regional Manager (East Anglia)",
-        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+        "title": "Electrical Technician",
+        "url": "https://www.munichre.com/en/job/manchester/electrical-technician/3342/35003991232"
       },
       {
-        "title": "Regional Manager (Midlands)",
-        "url": "https://www.munichre.com/en/job/coventry/regional-manager-midlands/3342/34859816704"
+        "title": "Category Manager - Professional Services & BPO (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-professional-services-and-bpo-m-f-d/3342/35026451584"
       },
       {
-        "title": "AVP, Legal Counsel & Compliance Officer (12 month contract)",
-        "url": "https://www.munichre.com/en/job/toronto/avp-legal-counsel-and-compliance-officer-12-month-contract/3342/35149479936"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/34139238400"
       },
       {
-        "title": "Head of Property, Construction & Engineering",
-        "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
+        "title": "Economics Intern (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/economics-intern-m-f-d/3342/32040011840"
       },
       {
         "title": "Find jobs",
@@ -1699,6 +1691,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
