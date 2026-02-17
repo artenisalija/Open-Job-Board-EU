@@ -1,0 +1,56 @@
+name: CI Guardrails
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/deploy-frontend.yml"
+      - ".github/workflows/ci-guardrails.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/deploy-frontend.yml"
+      - ".github/workflows/ci-guardrails.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-pages-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate deploy workflow paths
+        run: |
+          python - <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          workflow_path = Path(".github/workflows/deploy-frontend.yml")
+          content = workflow_path.read_text(encoding="utf-8")
+
+          required_patterns = [
+              r'^\s*-\s*["\']?eu-companies-scraper/frontend/\*\*["\']?\s*$',
+              r'^\s*-\s*["\']?eu-companies-scraper/data/companies\.json["\']?\s*$',
+              r'^\s*-\s*["\']?eu-companies-scraper/data/source_health\.json["\']?\s*$',
+              r'^\s*-\s*["\']?\.github/workflows/deploy-frontend\.yml["\']?\s*$',
+              r'^\s*working-directory:\s*eu-companies-scraper/frontend\s*$',
+          ]
+
+          missing = []
+          for pattern in required_patterns:
+              if not re.search(pattern, content, flags=re.MULTILINE):
+                  missing.append(pattern)
+
+          if missing:
+              print("Deploy workflow guard failed.")
+              print("Missing required lines/patterns:")
+              for item in missing:
+                  print(f" - {item}")
+              sys.exit(1)
+
+          print("Deploy workflow guard passed.")
+          PY

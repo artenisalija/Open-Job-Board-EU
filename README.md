@@ -1,4 +1,7 @@
 # Open Job Board EU
+[![Scrape Data](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/scrape.yml/badge.svg)](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/scrape.yml)
+[![Deploy Frontend](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/deploy-frontend.yml/badge.svg)](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/deploy-frontend.yml)
+[![CI Guardrails](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/ci-guardrails.yml/badge.svg)](https://github.com/artenisalija/Open-Job-Board-EU/actions/workflows/ci-guardrails.yml)
 
 Open-source job board project that scrapes EU companies with career pages, extracts job postings, and serves the data through a FastAPI API and a React frontend.
 
@@ -9,7 +12,7 @@ Open-source job board project that scrapes EU companies with career pages, extra
 - Tracks source per company.
 - Extracts job postings from company career pages.
 - FastAPI endpoints for companies, jobs, and source health.
-- React + Bootstrap frontend with search, filters, sorting, and pagination.
+- React frontend with a dark shadcn UI, search, filters, sorting, and pagination.
 - Automated dataset refresh with GitHub Actions.
 - Docker Compose setup for easy self-hosting.
 
