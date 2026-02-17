@@ -1,5 +1,25 @@
 import { useEffect, useMemo, useState } from 'react'
-import './App.css'
+import { ArrowLeft, ExternalLink, Menu } from 'lucide-react'
+import { Badge } from '@/components/ui/badge'
+import { Button } from '@/components/ui/button'
+import { Card, CardContent } from '@/components/ui/card'
+import { Checkbox } from '@/components/ui/checkbox'
+import { Input } from '@/components/ui/input'
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select'
+import {
+  Sheet,
+  SheetContent,
+  SheetDescription,
+  SheetHeader,
+  SheetTitle,
+} from '@/components/ui/sheet'
+import { cn } from '@/lib/utils'
 
 const API_BASE = import.meta.env.VITE_API_BASE || '/api'
 const STATIC_MODE = import.meta.env.VITE_STATIC_MODE === 'true'
@@ -94,8 +114,12 @@ function buildStatsFromCompanies(companies) {
   }
 }
 
+function toId(prefix, value) {
+  return `${prefix}-${String(value).toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+}
+
 function App() {
-  const MOBILE_BREAKPOINT = 992
+  const MOBILE_BREAKPOINT = 1024
   const [companies, setCompanies] = useState([])
   const [stats, setStats] = useState(null)
   const [searchTerm, setSearchTerm] = useState('')
@@ -278,6 +302,7 @@ function App() {
     const start = (currentPage - 1) * pageSize
     return jobCards.slice(start, start + pageSize)
   }, [jobCards, currentPage])
+
   const pageNumbers = useMemo(() => {
     const pages = []
     const start = Math.max(1, currentPage - 2)
@@ -323,6 +348,7 @@ function App() {
     () => paginatedJobCards.find((job) => job.key === selectedJobKey) || null,
     [paginatedJobCards, selectedJobKey]
   )
+
   const showListColumn = !isMobile || !showMobileDetail
   const showDetailColumn = !isMobile || showMobileDetail
 
@@ -345,285 +371,272 @@ function App() {
   function sectionHeader(label, section) {
     const isOpen = expanded[section]
     return (
-      <button type="button" className="list-expand-btn" onClick={() => toggleSection(section)}>
-        <span className="plus-mark">{isOpen ? '-' : '+'}</span>
+      <Button
+        type='button'
+        variant='ghost'
+        className='h-8 w-full justify-start px-0 text-primary hover:bg-transparent hover:text-primary/80'
+        onClick={() => toggleSection(section)}
+      >
+        <span className='inline-block w-4 text-center'>{isOpen ? '-' : '+'}</span>
         <span>{label}</span>
-      </button>
+      </Button>
     )
   }
 
   function renderPaginator(extraClass = '') {
     return (
-      <div className={`pagination-wrap ${extraClass}`}>
-        <div className="small text-muted">
+      <div className={cn('mt-3 flex flex-wrap items-center justify-between gap-3 rounded-lg border border-border/70 bg-card/70 p-3', extraClass)}>
+        <span className='text-xs text-muted-foreground'>
           Page {currentPage} of {totalPages}
+        </span>
+        <div className='flex flex-wrap items-center gap-1'>
+          <Button type='button' variant='outline' size='sm' disabled={currentPage <= 1} onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}>
+            Prev
+          </Button>
+          {pageNumbers[0] > 1 && (
+            <>
+              <Button type='button' variant='ghost' size='sm' onClick={() => setCurrentPage(1)}>
+                1
+              </Button>
+              {pageNumbers[0] > 2 && <span className='px-1 text-muted-foreground'>...</span>}
+            </>
+          )}
+          {pageNumbers.map((page) => (
+            <Button
+              type='button'
+              key={page}
+              variant={page === currentPage ? 'default' : 'ghost'}
+              size='sm'
+              onClick={() => setCurrentPage(page)}
+            >
+              {page}
+            </Button>
+          ))}
+          {pageNumbers[pageNumbers.length - 1] < totalPages && (
+            <>
+              {pageNumbers[pageNumbers.length - 1] < totalPages - 1 && <span className='px-1 text-muted-foreground'>...</span>}
+              <Button type='button' variant='ghost' size='sm' onClick={() => setCurrentPage(totalPages)}>
+                {totalPages}
+              </Button>
+            </>
+          )}
+          <Button type='button' variant='outline' size='sm' disabled={currentPage >= totalPages} onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}>
+            Next
+          </Button>
         </div>
-        <nav aria-label="Job results pages">
-          <ul className="pagination pagination-sm mb-0">
-            <li className={`page-item ${currentPage <= 1 ? 'disabled' : ''}`}>
-              <button
-                type="button"
-                className="page-link"
-                disabled={currentPage <= 1}
-                onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
-              >
-                Prev
-              </button>
-            </li>
-
-            {pageNumbers[0] > 1 && (
-              <>
-                <li className="page-item">
-                  <button type="button" className="page-link" onClick={() => setCurrentPage(1)}>
-                    1
-                  </button>
-                </li>
-                {pageNumbers[0] > 2 && (
-                  <li className="page-item disabled">
-                    <span className="page-link">...</span>
-                  </li>
-                )}
-              </>
-            )}
-
-            {pageNumbers.map((page) => (
-              <li key={page} className={`page-item ${page === currentPage ? 'active' : ''}`}>
-                <button type="button" className="page-link" onClick={() => setCurrentPage(page)}>
-                  {page}
-                </button>
-              </li>
-            ))}
-
-            {pageNumbers[pageNumbers.length - 1] < totalPages && (
-              <>
-                {pageNumbers[pageNumbers.length - 1] < totalPages - 1 && (
-                  <li className="page-item disabled">
-                    <span className="page-link">...</span>
-                  </li>
-                )}
-                <li className="page-item">
-                  <button type="button" className="page-link" onClick={() => setCurrentPage(totalPages)}>
-                    {totalPages}
-                  </button>
-                </li>
-              </>
-            )}
-
-            <li className={`page-item ${currentPage >= totalPages ? 'disabled' : ''}`}>
-              <button
-                type="button"
-                className="page-link"
-                disabled={currentPage >= totalPages}
-                onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
-              >
-                Next
-              </button>
-            </li>
-          </ul>
-        </nav>
       </div>
     )
   }
 
   return (
-    <div className="app-shell">
-      <nav className="navbar navbar-expand-lg shadow-sm app-navbar">
-        <div className="container">
-          <span className="navbar-brand fw-bold text-primary">Open Job Board EU</span>
-          <span className="badge text-bg-light border d-inline-flex align-items-center gap-2">
-            <img className="inline-icon" src="https://flagcdn.com/w40/eu.png" alt="EU" />
+    <div className='min-h-screen bg-[radial-gradient(circle_at_top,_hsl(212_45%_14%),_hsl(222_47%_8%))] text-foreground'>
+      <header className='sticky top-0 z-40 border-b border-border/70 bg-background/80 backdrop-blur-sm'>
+        <div className='mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6'>
+          <h1 className='text-lg font-semibold tracking-tight text-primary sm:text-xl'>Open Job Board EU</h1>
+          <Badge variant='secondary' className='gap-2 border border-border/80'>
+            <img className='h-3.5 w-3.5 rounded-sm object-contain' src='https://flagcdn.com/w40/eu.png' alt='EU' />
             EU Jobs
-          </span>
+          </Badge>
         </div>
-      </nav>
+      </header>
 
-      <main className="container py-4 fixed-main">
-        <div className="search-row mb-3">
-          <button
-            type="button"
-            className="btn btn-primary filter-open-btn"
-            onClick={() => setShowFilters(true)}
-            aria-label="Open filters"
-            title="Open filters"
-          >
-            &#9776;
-          </button>
-          <input
-            className="form-control search-input"
-            placeholder="Search jobs, company, country or source..."
+      <main className='mx-auto max-w-7xl px-4 py-4 sm:px-6'>
+        <div className='mb-4 flex items-center gap-2'>
+          <Button type='button' variant='default' size='icon' className='h-10 w-10' onClick={() => setShowFilters(true)}>
+            <Menu className='h-4 w-4' />
+            <span className='sr-only'>Open filters</span>
+          </Button>
+          <Input
+            className='h-10 bg-background/80'
+            placeholder='Search jobs, company, country or source...'
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
         </div>
 
-        {showFilters && <div className="filter-backdrop" onClick={() => setShowFilters(false)} />}
-        <aside className={`filter-drawer ${showFilters ? 'open' : ''}`}>
-          <div className="d-flex justify-content-between align-items-center mb-3">
-            <h2 className="h5 mb-0">Filter Lists</h2>
-            <button type="button" className="btn btn-sm btn-outline-secondary" onClick={() => setShowFilters(false)}>
-              Close
-            </button>
-          </div>
+        <Sheet open={showFilters} onOpenChange={setShowFilters}>
+          <SheetContent side='left' className='w-full overflow-y-auto border-border/70 bg-card sm:max-w-md'>
+            <SheetHeader>
+              <SheetTitle>Filter Lists</SheetTitle>
+              <SheetDescription>Narrow results by company, source, country, or job availability.</SheetDescription>
+            </SheetHeader>
 
-          <div className="card border-0 shadow-sm mb-3">
-            <div className="card-body">
-              <label className="form-label">Sort By</label>
-              <select className="form-select mb-2" value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
-                <option value="company">Company</option>
-                <option value="country">Country</option>
-                <option value="source">Source</option>
-                <option value="jobs_count">Jobs Count</option>
-              </select>
-              <label className="form-label">Order</label>
-              <select className="form-select" value={sortOrder} onChange={(e) => setSortOrder(e.target.value)}>
-                <option value="asc">Ascending</option>
-                <option value="desc">Descending</option>
-              </select>
-              <div className="d-flex gap-2 mt-3">
-                <button type="button" className="btn btn-outline-secondary btn-sm" onClick={resetAllFilters}>
-                  Reset all
-                </button>
-              </div>
-            </div>
-          </div>
+            <div className='mt-5 space-y-4'>
+              <Card className='border-border/70 bg-background/70'>
+                <CardContent className='space-y-3 p-4'>
+                  <div className='space-y-1'>
+                    <div className='text-xs font-medium uppercase tracking-wide text-muted-foreground'>Sort by</div>
+                    <Select value={sortBy} onValueChange={setSortBy}>
+                      <SelectTrigger>
+                        <SelectValue placeholder='Sort by' />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value='company'>Company</SelectItem>
+                        <SelectItem value='country'>Country</SelectItem>
+                        <SelectItem value='source'>Source</SelectItem>
+                        <SelectItem value='jobs_count'>Jobs Count</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
 
-          <div className="card border-0 shadow-sm mb-3">
-            <div className="card-body">
-              {sectionHeader('Country', 'country')}
-              {expanded.country && (
-                <div className="checkbox-list mt-2">
-                  {countryOptions.map((country) => (
-                    <div key={country} className="form-check">
-                      <input
-                        className="form-check-input"
-                        type="checkbox"
-                        id={`country-${country}`}
-                        checked={selectedCountries.includes(country)}
-                        onChange={() => setSelectedCountries((prev) => toggleInList(prev, country))}
-                      />
-                      <label className="form-check-label small" htmlFor={`country-${country}`}>
-                        {country}
-                      </label>
+                  <div className='space-y-1'>
+                    <div className='text-xs font-medium uppercase tracking-wide text-muted-foreground'>Order</div>
+                    <Select value={sortOrder} onValueChange={setSortOrder}>
+                      <SelectTrigger>
+                        <SelectValue placeholder='Order' />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value='asc'>Ascending</SelectItem>
+                        <SelectItem value='desc'>Descending</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
+
+                  <Button type='button' variant='outline' size='sm' onClick={resetAllFilters}>
+                    Reset all
+                  </Button>
+                </CardContent>
+              </Card>
+
+              <Card className='border-border/70 bg-background/70'>
+                <CardContent className='p-4'>
+                  {sectionHeader('Country', 'country')}
+                  {expanded.country && (
+                    <div className='mt-2 max-h-64 space-y-2 overflow-y-auto rounded-md border border-border/70 bg-background/70 p-3'>
+                      {countryOptions.map((country) => {
+                        const id = toId('country', country)
+                        return (
+                          <label key={country} htmlFor={id} className='flex items-center gap-2 text-sm'>
+                            <Checkbox
+                              id={id}
+                              checked={selectedCountries.includes(country)}
+                              onCheckedChange={() => setSelectedCountries((prev) => toggleInList(prev, country))}
+                            />
+                            <span className='text-muted-foreground'>{country}</span>
+                          </label>
+                        )
+                      })}
                     </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
+                  )}
+                </CardContent>
+              </Card>
 
-          <div className="card border-0 shadow-sm mb-3">
-            <div className="card-body">
-              {sectionHeader('Source', 'source')}
-              {expanded.source && (
-                <div className="checkbox-list mt-2">
-                  {sourceOptions.map((source) => (
-                    <div key={source} className="form-check">
-                      <input
-                        className="form-check-input"
-                        type="checkbox"
-                        id={`source-${source}`}
-                        checked={selectedSources.includes(source)}
-                        onChange={() => setSelectedSources((prev) => toggleInList(prev, source))}
-                      />
-                      <label className="form-check-label small" htmlFor={`source-${source}`}>
-                        {source}
-                      </label>
+              <Card className='border-border/70 bg-background/70'>
+                <CardContent className='p-4'>
+                  {sectionHeader('Source', 'source')}
+                  {expanded.source && (
+                    <div className='mt-2 max-h-64 space-y-2 overflow-y-auto rounded-md border border-border/70 bg-background/70 p-3'>
+                      {sourceOptions.map((source) => {
+                        const id = toId('source', source)
+                        return (
+                          <label key={source} htmlFor={id} className='flex items-center gap-2 text-sm'>
+                            <Checkbox
+                              id={id}
+                              checked={selectedSources.includes(source)}
+                              onCheckedChange={() => setSelectedSources((prev) => toggleInList(prev, source))}
+                            />
+                            <span className='text-muted-foreground'>{source}</span>
+                          </label>
+                        )
+                      })}
                     </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
+                  )}
+                </CardContent>
+              </Card>
 
-          <div className="card border-0 shadow-sm mb-3">
-            <div className="card-body">
-              {sectionHeader('Company', 'company')}
-              {expanded.company && (
-                <>
-                  <input
-                    className="form-control form-control-sm mt-2"
-                    placeholder="Find company..."
-                    value={companyListSearch}
-                    onChange={(e) => setCompanyListSearch(e.target.value)}
-                  />
-                  <div className="checkbox-list mt-2">
-                    {filteredCompanyOptions.map((name) => (
-                      <div key={name} className="form-check">
-                        <input
-                          className="form-check-input"
-                          type="checkbox"
-                          id={`company-${name}`}
-                          checked={selectedCompanies.includes(name)}
-                          onChange={() => setSelectedCompanies((prev) => toggleInList(prev, name))}
-                        />
-                        <label className="form-check-label small" htmlFor={`company-${name}`}>
-                          {name}
-                        </label>
+              <Card className='border-border/70 bg-background/70'>
+                <CardContent className='p-4'>
+                  {sectionHeader('Company', 'company')}
+                  {expanded.company && (
+                    <>
+                      <Input
+                        className='mt-2 h-9'
+                        placeholder='Find company...'
+                        value={companyListSearch}
+                        onChange={(e) => setCompanyListSearch(e.target.value)}
+                      />
+                      <div className='mt-2 max-h-64 space-y-2 overflow-y-auto rounded-md border border-border/70 bg-background/70 p-3'>
+                        {filteredCompanyOptions.map((name) => {
+                          const id = toId('company', name)
+                          return (
+                            <label key={name} htmlFor={id} className='flex items-center gap-2 text-sm'>
+                              <Checkbox
+                                id={id}
+                                checked={selectedCompanies.includes(name)}
+                                onCheckedChange={() => setSelectedCompanies((prev) => toggleInList(prev, name))}
+                              />
+                              <span className='text-muted-foreground'>{name}</span>
+                            </label>
+                          )
+                        })}
                       </div>
-                    ))}
-                  </div>
-                </>
-              )}
+                    </>
+                  )}
+                </CardContent>
+              </Card>
+
+              <Card className='border-border/70 bg-background/70'>
+                <CardContent className='p-4'>
+                  {sectionHeader('Has Jobs', 'hasJobs')}
+                  {expanded.hasJobs && (
+                    <div className='mt-2 space-y-2 rounded-md border border-border/70 bg-background/70 p-3'>
+                      <label htmlFor='with-jobs' className='flex items-center gap-2 text-sm'>
+                        <Checkbox
+                          id='with-jobs'
+                          checked={selectedHasJobs.includes('with_jobs')}
+                          onCheckedChange={() => setSelectedHasJobs((prev) => toggleInList(prev, 'with_jobs'))}
+                        />
+                        <span className='text-muted-foreground'>With jobs</span>
+                      </label>
+                      <label htmlFor='without-jobs' className='flex items-center gap-2 text-sm'>
+                        <Checkbox
+                          id='without-jobs'
+                          checked={selectedHasJobs.includes('without_jobs')}
+                          onCheckedChange={() => setSelectedHasJobs((prev) => toggleInList(prev, 'without_jobs'))}
+                        />
+                        <span className='text-muted-foreground'>Without jobs</span>
+                      </label>
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
             </div>
-          </div>
+          </SheetContent>
+        </Sheet>
 
-          <div className="card border-0 shadow-sm">
-            <div className="card-body">
-              {sectionHeader('Has Jobs', 'hasJobs')}
-              {expanded.hasJobs && (
-                <div className="checkbox-list mt-2">
-                  <div className="form-check">
-                    <input
-                      className="form-check-input"
-                      type="checkbox"
-                      id="with-jobs"
-                      checked={selectedHasJobs.includes('with_jobs')}
-                      onChange={() => setSelectedHasJobs((prev) => toggleInList(prev, 'with_jobs'))}
-                    />
-                    <label className="form-check-label small" htmlFor="with-jobs">
-                      With jobs
-                    </label>
-                  </div>
-                  <div className="form-check">
-                    <input
-                      className="form-check-input"
-                      type="checkbox"
-                      id="without-jobs"
-                      checked={selectedHasJobs.includes('without_jobs')}
-                      onChange={() => setSelectedHasJobs((prev) => toggleInList(prev, 'without_jobs'))}
-                    />
-                    <label className="form-check-label small" htmlFor="without-jobs">
-                      Without jobs
-                    </label>
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
-        </aside>
+        {error && (
+          <Card className='mb-3 border-destructive/50 bg-destructive/10'>
+            <CardContent className='p-3 text-sm text-destructive'>{error}</CardContent>
+          </Card>
+        )}
+        {loading && (
+          <Card className='mb-3 border-primary/40 bg-primary/10'>
+            <CardContent className='p-3 text-sm text-primary'>Loading companies...</CardContent>
+          </Card>
+        )}
 
-        {error && <div className="alert alert-danger">{error}</div>}
-        {loading && <div className="alert alert-info">Loading companies...</div>}
-
-        <div className="d-flex justify-content-between align-items-center mb-2">
-          <h2 className="h5 mb-0">Job Listings</h2>
-          <div className="d-flex flex-wrap gap-2 justify-content-end">
-            <span className="badge text-bg-secondary">Companies Loaded: {stats?.companies_count ?? '-'}</span>
-            <span className="badge text-bg-success">Companies With Jobs: {stats?.companies_with_jobs_count ?? '-'}</span>
-            <span className="badge text-bg-primary">{jobCards.length} results</span>
+        <div className='mb-3 flex flex-wrap items-center justify-between gap-2'>
+          <h2 className='text-lg font-semibold tracking-tight'>Job Listings</h2>
+          <div className='flex flex-wrap gap-2'>
+            <Badge variant='outline' className='border-border/70'>Companies Loaded: {stats?.companies_count ?? '-'}</Badge>
+            <Badge variant='secondary'>Companies With Jobs: {stats?.companies_with_jobs_count ?? '-'}</Badge>
+            <Badge>{jobCards.length} results</Badge>
           </div>
         </div>
 
-        <div className="row g-3">
+        <div className='grid gap-4 lg:grid-cols-12'>
           {showListColumn && (
-            <div className="col-12 col-lg-7 jobs-column">
-              <div className="job-list-container">
-                <div className="job-list">
+            <section className='lg:col-span-7'>
+              <Card className='border-border/70 bg-card/80'>
+                <CardContent className='max-h-[calc(100vh-270px)] space-y-2 overflow-y-auto p-3 lg:min-h-[520px]'>
                   {paginatedJobCards.map((job) => (
                     <button
-                      type="button"
+                      type='button'
                       key={job.key}
-                      className={`card border-0 shadow-sm mb-2 job-card ${selectedJobKey === job.key ? 'active' : ''}`}
+                      className={cn(
+                        'w-full rounded-lg border border-border/70 bg-background/60 p-3 text-left transition hover:border-primary/40 hover:bg-accent/40',
+                        selectedJobKey === job.key && 'border-primary/70 bg-primary/10'
+                      )}
                       onClick={() => {
                         setSelectedJobKey(job.key)
                         if (isMobile) {
@@ -631,144 +644,145 @@ function App() {
                         }
                       }}
                     >
-                      <div className="card-body text-start job-card-content">
-                        <div className="job-main">
-                          <div className="job-title-main mb-2" title={job.title}>
+                      <div className='flex items-start justify-between gap-3'>
+                        <div className='min-w-0'>
+                          <div className='mb-2 line-clamp-2 text-base font-semibold text-foreground' title={job.title}>
                             {truncateText(job.title, CARD_TITLE_MAX_CHARS)}
                           </div>
-                          <div className="company-row company-inline">
-                            <span className="icon-dot" title={job.company_name}>
-                              <img className="inline-icon" src={companyLogoUrl(job.company_website)} alt={job.company_name} />
-                            </span>
-                            <span className="company-name-text">{job.company_name}</span>
+                          <div className='flex items-center gap-2'>
+                            <img className='h-4 w-4 rounded-sm object-contain' src={companyLogoUrl(job.company_website)} alt={job.company_name} />
+                            <span className='truncate text-sm font-medium text-muted-foreground'>{job.company_name}</span>
                           </div>
                         </div>
-                        <div className="job-meta-right">
+                        <div className='flex shrink-0 items-center gap-1.5'>
                           {countryFlagUrl(job.country_of_origin) ? (
-                            <span className="icon-dot" title={job.country_of_origin}>
-                              <img className="inline-icon" src={countryFlagUrl(job.country_of_origin)} alt={job.country_of_origin} />
-                            </span>
+                            <img className='h-4 w-4 rounded-sm object-contain' src={countryFlagUrl(job.country_of_origin)} alt={job.country_of_origin} />
                           ) : null}
                           {sourceLogoUrl(job.source) ? (
-                            <span className="icon-dot" title={job.source}>
-                              <img className="inline-icon" src={sourceLogoUrl(job.source)} alt={job.source} />
-                            </span>
+                            <img className='h-4 w-4 rounded-sm object-contain' src={sourceLogoUrl(job.source)} alt={job.source} />
                           ) : null}
                         </div>
                       </div>
                     </button>
                   ))}
-                </div>
-              </div>
-            {renderPaginator('mt-3')}
-            </div>
+                  {!paginatedJobCards.length && !loading && (
+                    <div className='rounded-md border border-dashed border-border/80 p-5 text-center text-sm text-muted-foreground'>
+                      No jobs found for the current filters.
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
+              {renderPaginator()}
+            </section>
           )}
 
           {showDetailColumn && (
-            <div className="col-12 col-lg-5 detail-column">
-            <div className="card border-0 shadow-sm job-detail-card">
-              <div className="card-body">
-                {selectedJob ? (
-                  <>
-                    {isMobile && (
-                      <button
-                        type="button"
-                        className="btn btn-outline-secondary btn-sm mb-3"
-                        onClick={() => setShowMobileDetail(false)}
-                      >
-                        Back to job list
-                      </button>
-                    )}
-                    <h3 className="h4 mb-2">{selectedJob.title}</h3>
-                    <div className="mb-2">
-                      <span className="badge company-badge">
-                        <img className="inline-icon" src={companyLogoUrl(selectedJob.company_website)} alt="" />
+            <section className='space-y-2 lg:col-span-5'>
+              <Card className='border-border/70 bg-card/80'>
+                <CardContent className='max-h-[calc(100vh-360px)] overflow-y-auto p-5 lg:min-h-[380px]'>
+                  {selectedJob ? (
+                    <>
+                      {isMobile && (
+                        <Button type='button' variant='outline' size='sm' className='mb-3' onClick={() => setShowMobileDetail(false)}>
+                          <ArrowLeft className='h-4 w-4' />
+                          Back to job list
+                        </Button>
+                      )}
+                      <h3 className='mb-2 text-xl font-semibold'>{selectedJob.title}</h3>
+                      <Badge variant='secondary' className='mb-3 inline-flex items-center gap-2'>
+                        <img className='h-3.5 w-3.5 rounded-sm object-contain' src={companyLogoUrl(selectedJob.company_website)} alt='' />
                         {selectedJob.company_name}
-                      </span>
+                      </Badge>
+
+                      <div className='mb-4 flex flex-wrap gap-2'>
+                        <Badge variant='outline' className='inline-flex items-center gap-1.5 border-border/70'>
+                          {countryFlagUrl(selectedJob.country_of_origin) ? (
+                            <img className='h-3.5 w-3.5 rounded-sm object-contain' src={countryFlagUrl(selectedJob.country_of_origin)} alt='' />
+                          ) : null}
+                          {selectedJob.country_of_origin}
+                        </Badge>
+                        <Badge variant='outline' className='inline-flex items-center gap-1.5 border-border/70'>
+                          {sourceLogoUrl(selectedJob.source) ? (
+                            <img className='h-3.5 w-3.5 rounded-sm object-contain' src={sourceLogoUrl(selectedJob.source)} alt='' />
+                          ) : null}
+                          {selectedJob.source}
+                        </Badge>
+                      </div>
+
+                      <div className='space-y-3 text-sm'>
+                        <div>
+                          <div className='mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground'>Job URL</div>
+                          <a className='break-all text-primary hover:underline' href={selectedJob.url} target='_blank' rel='noreferrer'>
+                            {selectedJob.url}
+                          </a>
+                        </div>
+                        <div>
+                          <div className='mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground'>Career Page</div>
+                          <a className='break-all text-primary hover:underline' href={selectedJob.career_page_url} target='_blank' rel='noreferrer'>
+                            {selectedJob.career_page_url}
+                          </a>
+                        </div>
+                        <div>
+                          <div className='mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground'>Company Website</div>
+                          <a className='break-all text-primary hover:underline' href={selectedJob.company_website} target='_blank' rel='noreferrer'>
+                            {selectedJob.company_website}
+                          </a>
+                        </div>
+                      </div>
+                    </>
+                  ) : (
+                    <div className='rounded-md border border-dashed border-border/80 p-5 text-center text-sm text-muted-foreground'>
+                      Select a job card to view details.
                     </div>
-                    <div className="d-flex gap-2 flex-wrap mb-3">
-                      <span className="badge text-bg-light border icon-badge">
-                        {countryFlagUrl(selectedJob.country_of_origin) ? (
-                          <img className="inline-icon" src={countryFlagUrl(selectedJob.country_of_origin)} alt="" />
-                        ) : null}
-                        {selectedJob.country_of_origin}
-                      </span>
-                      <span className="badge text-bg-light border icon-badge">
-                        {sourceLogoUrl(selectedJob.source) ? (
-                          <img className="inline-icon" src={sourceLogoUrl(selectedJob.source)} alt="" />
-                        ) : null}
-                        {selectedJob.source}
-                      </span>
-                    </div>
+                  )}
+                </CardContent>
+              </Card>
 
-                    <div className="detail-grid mb-3">
-                      <div className="detail-label">Job URL</div>
-                      <a className="detail-value" href={selectedJob.url} target="_blank" rel="noreferrer">
-                        {selectedJob.url}
-                      </a>
-
-                      <div className="detail-label">Career Page</div>
-                      <a className="detail-value" href={selectedJob.career_page_url} target="_blank" rel="noreferrer">
-                        {selectedJob.career_page_url}
-                      </a>
-
-                      <div className="detail-label">Company Website</div>
-                      <a className="detail-value" href={selectedJob.company_website} target="_blank" rel="noreferrer">
-                        {selectedJob.company_website}
-                      </a>
-                    </div>
-
-                  </>
-                ) : (
-                  <div className="text-muted">Select a job card to view details.</div>
-                )}
-              </div>
-            </div>
-              <div className="detail-actions-row mt-2">
+              <div className='grid grid-cols-3 gap-2'>
                 {selectedJob ? (
-                <a
-                  className="btn btn-success btn-sm detail-action-btn"
-                  href={selectedJob.url || selectedJob.career_page_url}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Apply Now
-                </a>
+                  <Button asChild size='sm'>
+                    <a href={selectedJob.url || selectedJob.career_page_url} target='_blank' rel='noreferrer'>
+                      Apply Now
+                    </a>
+                  </Button>
                 ) : (
-                  <button type="button" className="btn btn-success btn-sm detail-action-btn" disabled>
+                  <Button size='sm' disabled>
                     Apply Now
-                  </button>
+                  </Button>
                 )}
                 {selectedJob ? (
-                <a
-                  className="btn btn-outline-primary btn-sm detail-action-btn"
-                  href={selectedJob.career_page_url}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Career Page
-                </a>
+                  <Button asChild variant='outline' size='sm'>
+                    <a href={selectedJob.career_page_url} target='_blank' rel='noreferrer'>
+                      Career Page
+                    </a>
+                  </Button>
                 ) : (
-                  <button type="button" className="btn btn-outline-primary btn-sm detail-action-btn" disabled>
+                  <Button variant='outline' size='sm' disabled>
                     Career Page
-                  </button>
+                  </Button>
                 )}
                 {selectedJob ? (
-                <a
-                  className="btn btn-outline-secondary btn-sm detail-action-btn"
-                  href={selectedJob.company_website}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Company
-                </a>
+                  <Button asChild variant='secondary' size='sm'>
+                    <a href={selectedJob.company_website} target='_blank' rel='noreferrer'>
+                      Company
+                    </a>
+                  </Button>
                 ) : (
-                  <button type="button" className="btn btn-outline-secondary btn-sm detail-action-btn" disabled>
+                  <Button variant='secondary' size='sm' disabled>
                     Company
-                  </button>
+                  </Button>
                 )}
               </div>
-            </div>
+
+              {selectedJob && (
+                <Button asChild variant='ghost' size='sm' className='justify-start text-muted-foreground'>
+                  <a href={selectedJob.url || selectedJob.career_page_url} target='_blank' rel='noreferrer'>
+                    <ExternalLink className='h-4 w-4' />
+                    Open posting in new tab
+                  </a>
+                </Button>
+              )}
+            </section>
           )}
         </div>
       </main>

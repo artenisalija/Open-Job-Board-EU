@@ -1,15 +1,44 @@
-body {
-  margin: 0;
-  background-color: #f8f9fa;
-  color: #212529;
-  font-family:
-    "Segoe UI",
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 222 47% 8%;
+  --foreground: 210 40% 96%;
+  --card: 221 39% 11%;
+  --card-foreground: 210 40% 96%;
+  --popover: 221 39% 11%;
+  --popover-foreground: 210 40% 96%;
+  --primary: 174 72% 42%;
+  --primary-foreground: 210 40% 6%;
+  --secondary: 217 25% 20%;
+  --secondary-foreground: 210 40% 96%;
+  --muted: 217 24% 16%;
+  --muted-foreground: 215 20% 70%;
+  --accent: 205 36% 22%;
+  --accent-foreground: 210 40% 96%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 216 28% 24%;
+  --input: 216 28% 24%;
+  --ring: 174 72% 42%;
+  --radius: 0.7rem;
 }
 
+* {
+  @apply border-border;
+}
+
+html,
+body,
 #root {
-  min-height: 100vh;
+  min-height: 100%;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
 }
