@@ -6,9 +6,9 @@ on:
     branches:
       - main
     paths:
-      - "frontend/**"
-      - "data/companies.json"
-      - "data/source_health.json"
+      - "eu-companies-scraper/frontend/**"
+      - "eu-companies-scraper/data/companies.json"
+      - "eu-companies-scraper/data/source_health.json"
       - ".github/workflows/deploy-frontend.yml"
 
 permissions:
@@ -66,4 +66,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
