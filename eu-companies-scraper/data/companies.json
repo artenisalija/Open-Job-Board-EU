@@ -1317,10 +1317,15 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/en/our-impact/on-society/bringing-more-talent-digital",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://orange.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Phoenix Pharmahandel",
