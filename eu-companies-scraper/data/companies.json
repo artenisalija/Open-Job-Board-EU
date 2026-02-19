@@ -919,13 +919,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1047,14 +1047,6 @@
     "jobs": []
   },
   {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1158,20 +1150,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Customer Experience Specialist",
-        "url": "https://www.munichre.com/en/job/birkenhead/customer-experience-specialist/3342/35271881408"
+        "title": "Praktikant Data Analytics (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-data-analytics-m-f-d/3342/32393189056"
       },
       {
-        "title": "Engineer Surveyor London",
-        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-london/3342/34067967808"
+        "title": "Head of Subsection AMIG PMO",
+        "url": "https://www.munichre.com/en/job/cincinnati/head-of-subsection-amig-pmo/3342/35306103808"
       },
       {
-        "title": "Equipment Specialist",
-        "url": "https://www.munichre.com/en/job/wayne/equipment-specialist/3342/35085608064"
+        "title": "Head of Subsection - Data Prod Support 1",
+        "url": "https://www.munichre.com/en/job/amelia/head-of-subsection-data-prod-support-1/3342/31297151936"
       },
       {
-        "title": "Product Operations Manager",
-        "url": "https://www.munichre.com/en/job/hartford/product-operations-manager/3342/31297160896"
+        "title": "BI Developer",
+        "url": "https://www.munichre.com/en/job/london/bi-developer/3342/35065851456"
       },
       {
         "title": "Find jobs",
@@ -1687,19 +1679,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
