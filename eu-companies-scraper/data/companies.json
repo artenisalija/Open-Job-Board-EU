@@ -1013,10 +1013,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Expert_ka - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-ka-financial-crime-compliance/3120/32927872320"
-      },
-      {
         "title": "Principal Dev Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/principal-dev-engineer/3120/32313116992"
       },
@@ -1035,6 +1031,10 @@
       {
         "title": "Expert Dev Engineer – SAP",
         "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
+      },
+      {
+        "title": "Cloud MLOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/cloud-mlops-engineer/3120/35321392384"
       }
     ]
   },
@@ -1158,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Data Engineering Summer Intern",
-        "url": "https://www.munichre.com/en/job/hartford/data-engineering-summer-intern/3342/34841838464"
+        "title": "Customer Experience Specialist",
+        "url": "https://www.munichre.com/en/job/birkenhead/customer-experience-specialist/3342/35271881408"
       },
       {
-        "title": "Senior Surety Underwriter Germany (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-surety-underwriter-germany-m-f-d/3342/35225872256"
+        "title": "Engineer Surveyor London",
+        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-london/3342/34067967808"
       },
       {
-        "title": "Werkstudent im Bereich SAP Business Intelligence - Daten in Entscheidungen verwandeln (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/werkstudent-im-bereich-sap-business-intelligence-daten-in-entscheidungen-verwandeln-m-w-d/3342/35298442560"
+        "title": "Equipment Specialist",
+        "url": "https://www.munichre.com/en/job/wayne/equipment-specialist/3342/35085608064"
       },
       {
-        "title": "Underwriter Level 3",
-        "url": "https://www.munichre.com/en/job/leeds/underwriter-level-3/3342/34404837824"
+        "title": "Product Operations Manager",
+        "url": "https://www.munichre.com/en/job/hartford/product-operations-manager/3342/31297160896"
       },
       {
         "title": "Find jobs",
@@ -1696,7 +1696,12 @@
     "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
+      }
+    ]
   },
   {
     "name": "Stellantis",
