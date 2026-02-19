@@ -1691,6 +1691,19 @@
     ]
   },
   {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
