@@ -233,12 +233,7 @@
     "career_page_url": "https://www.axa.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.axa.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Banco Santander",
@@ -1150,20 +1145,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Praktikant Data Analytics (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-data-analytics-m-f-d/3342/32393189056"
+        "title": "Authorized Nuclear Inspector - Northeast US",
+        "url": "https://www.munichre.com/en/job/boston/authorized-nuclear-inspector-northeast-us/3342/31297150592"
       },
       {
-        "title": "Head of Subsection AMIG PMO",
-        "url": "https://www.munichre.com/en/job/cincinnati/head-of-subsection-amig-pmo/3342/35306103808"
-      },
-      {
-        "title": "Head of Subsection - Data Prod Support 1",
-        "url": "https://www.munichre.com/en/job/amelia/head-of-subsection-data-prod-support-1/3342/31297151936"
+        "title": "Country Claims Manager (m/f/d)* - Germany",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/country-claims-manager-m-f-d-germany/3342/35292771648"
       },
       {
         "title": "BI Developer",
         "url": "https://www.munichre.com/en/job/london/bi-developer/3342/35065851456"
+      },
+      {
+        "title": "Senior Surety Bond & Guarantee Specialist (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-surety-bond-and-guarantee-specialist-m-f-d/3342/35132343552"
       },
       {
         "title": "Find jobs",
@@ -1679,6 +1674,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
