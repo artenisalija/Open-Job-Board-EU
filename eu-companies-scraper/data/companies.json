@@ -1013,10 +1013,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Principal Dev Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/principal-dev-engineer/3120/32313116992"
-      },
-      {
         "title": "Senior Specialist - Finance Accounting & Reporting",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
@@ -1035,6 +1031,10 @@
       {
         "title": "Cloud MLOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/cloud-mlops-engineer/3120/35321392384"
+      },
+      {
+        "title": "Ekspert_ka FCC- Risk Management",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-fcc-risk-management/3120/27595516032"
       }
     ]
   },
@@ -1057,16 +1057,12 @@
   {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
+    "career_page_url": "https://www.loreal.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Go to Content",
-        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
-      },
-      {
-        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
         "url": "https://www.loreal.com/en/careers"
       }
     ]
@@ -1158,20 +1154,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Authorized Nuclear Inspector - Northeast US",
-        "url": "https://www.munichre.com/en/job/boston/authorized-nuclear-inspector-northeast-us/3342/31297150592"
-      },
-      {
-        "title": "Country Claims Manager (m/f/d)* - Germany",
-        "url": "https://www.munichre.com/en/job/frankfurt-am-main/country-claims-manager-m-f-d-germany/3342/35292771648"
+        "title": "Actuarial Analyst - Longevity",
+        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
       },
       {
         "title": "BI Developer",
         "url": "https://www.munichre.com/en/job/london/bi-developer/3342/35065851456"
       },
       {
-        "title": "Senior Surety Bond & Guarantee Specialist (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-surety-bond-and-guarantee-specialist-m-f-d/3342/35132343552"
+        "title": "Delegated Partners Oversight Lead",
+        "url": "https://www.munichre.com/en/job/manchester/delegated-partners-oversight-lead/3342/34893039488"
+      },
+      {
+        "title": "Senior Delegated Authority Analyst",
+        "url": "https://www.munichre.com/en/job/london/senior-delegated-authority-analyst/3342/33284421312"
       },
       {
         "title": "Find jobs",
@@ -1300,15 +1296,10 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/en/our-impact/on-society/bringing-more-talent-digital",
+    "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://orange.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
