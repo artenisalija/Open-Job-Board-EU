@@ -464,6 +464,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1013,6 +1030,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
+        "title": "Principal Dev Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/principal-dev-engineer/3120/32313116992"
+      },
+      {
         "title": "Senior Specialist - Finance Accounting & Reporting",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
@@ -1029,12 +1050,8 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       },
       {
-        "title": "Cloud MLOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/cloud-mlops-engineer/3120/35321392384"
-      },
-      {
-        "title": "Ekspert_ka FCC- Risk Management",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-fcc-risk-management/3120/27595516032"
+        "title": "Specjalista_ka w obszarze bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/turek/specjalista-ka-w-obszarze-bankowosci-detalicznej/3120/35371537728"
       }
     ]
   },
@@ -1057,12 +1074,16 @@
   {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Go to Content",
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+      },
+      {
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
         "url": "https://www.loreal.com/en/careers"
       }
     ]
@@ -1154,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "MRSGM NA Sales Service Intern",
+        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-sales-service-intern/3342/35377121088"
+      },
+      {
+        "title": "Head of Subsection HSB PMO",
+        "url": "https://www.munichre.com/en/job/hartford/head-of-subsection-hsb-pmo/3342/35285071168"
+      },
+      {
         "title": "Actuarial Analyst - Longevity",
         "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
       },
       {
         "title": "BI Developer",
         "url": "https://www.munichre.com/en/job/london/bi-developer/3342/35065851456"
-      },
-      {
-        "title": "Delegated Partners Oversight Lead",
-        "url": "https://www.munichre.com/en/job/manchester/delegated-partners-oversight-lead/3342/34893039488"
-      },
-      {
-        "title": "Senior Delegated Authority Analyst",
-        "url": "https://www.munichre.com/en/job/london/senior-delegated-authority-analyst/3342/33284421312"
       },
       {
         "title": "Find jobs",
@@ -1678,6 +1699,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
