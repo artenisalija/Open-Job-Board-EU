@@ -464,6 +464,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1001,30 +1018,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Adviseur Zakelijk Remote Adviesteam",
-        "url": "https://careers.ing.com/en/job/utrecht/adviseur-zakelijk-remote-adviesteam/3121/35374483904"
-      },
-      {
-        "title": "Junior Facility Specialist (replacement contract)",
-        "url": "https://careers.ing.com/en/job/warsaw/junior-facility-specialist-replacement-contract/3121/35374483648"
-      },
-      {
-        "title": "Expert Lead Transformation",
-        "url": "https://careers.ing.com/en/job/katowice/expert-lead-transformation/3121/35374483392"
-      },
-      {
-        "title": "dev analyst eng and incident governance",
-        "url": "https://careers.ing.com/en/job/milan/dev-analyst-eng-and-incident-governance/3121/35374482880"
-      },
-      {
-        "title": "Senior/Expert Finance Advice – Private Individual Segment",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-expert-finance-advice-private-individual-segment/3121/35307048768"
-      },
-      {
-        "title": "Back Office Opération",
-        "url": "https://careers.ing.com/en/job/paris/back-office-operation/3121/35374480960"
-      },
-      {
         "title": "Senior Java Developer",
         "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
       },
@@ -1035,6 +1028,30 @@
       {
         "title": "DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+      },
+      {
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
+      },
+      {
+        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
+        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
+      },
+      {
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
+      },
+      {
+        "title": "Expert Dev Engineer – SAP",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
+      },
+      {
+        "title": "Cloud MLOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/cloud-mlops-engineer/3120/35321392384"
+      },
+      {
+        "title": "HR Business Partner",
+        "url": "https://careers.ing.com/en/job/warsaw/hr-business-partner/3120/33406319296"
       }
     ]
   },
@@ -1158,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "MRSGM NA Sales & Service Intern",
-        "url": "https://www.munichre.com/en/job/new-york/mrsgm-na-sales-and-service-intern/3342/35382836416"
-      },
-      {
         "title": "MRSGM NA Sales Service Intern",
-        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-sales-service-intern/3342/35382836288"
+        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-sales-service-intern/3342/35377121088"
       },
       {
-        "title": "Software Engineer Intern",
-        "url": "https://www.munichre.com/en/job/san-francisco/software-engineer-intern/3342/35347900032"
+        "title": "Head of Subsection HSB PMO",
+        "url": "https://www.munichre.com/en/job/hartford/head-of-subsection-hsb-pmo/3342/35285071168"
       },
       {
-        "title": "Senior Actuarial Associate, FinRe",
-        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-finre/3342/35316793088"
+        "title": "Actuarial Analyst - Longevity",
+        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
+      },
+      {
+        "title": "BI Developer",
+        "url": "https://www.munichre.com/en/job/london/bi-developer/3342/35065851456"
       },
       {
         "title": "Find jobs",
@@ -1296,6 +1313,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1676,14 +1701,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/career",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
