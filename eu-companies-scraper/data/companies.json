@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1703,6 +1703,19 @@
     ]
   },
   {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1905,6 +1918,14 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
+  },
+  {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Vodafone",
