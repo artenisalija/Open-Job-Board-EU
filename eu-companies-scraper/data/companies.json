@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/be/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/be/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1701,14 +1701,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/work-with-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
