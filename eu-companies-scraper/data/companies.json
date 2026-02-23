@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       },
       {
-        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
-      },
-      {
         "title": "Expert - Data Scientist",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
       },
@@ -1050,8 +1046,12 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       },
       {
-        "title": "Ekspert_ka - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-financial-crime-compliance/3120/35471200960"
+        "title": "Cloud MLOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/cloud-mlops-engineer/3120/35321392384"
+      },
+      {
+        "title": "HR Business Partner",
+        "url": "https://careers.ing.com/en/job/warsaw/hr-business-partner/3120/33406319296"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Underwriter",
-        "url": "https://www.munichre.com/en/job/birkenhead/senior-underwriter/3342/35449485440"
+        "title": "Senior Solution Architect",
+        "url": "https://www.munichre.com/en/job/london/senior-solution-architect/3342/31297158848"
       },
       {
-        "title": "Head of Property, Construction & Engineering",
-        "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
+        "title": "Underwriter",
+        "url": "https://www.munichre.com/en/job/london/underwriter/3342/35371459136"
       },
       {
-        "title": "Actuarial Intern, US Life (2026 Summer - New York)",
-        "url": "https://www.munichre.com/en/job/new-york/actuarial-intern-us-life-2026-summer-new-york/3342/34805466816"
+        "title": "Senior Operations Analyst",
+        "url": "https://www.munichre.com/en/job/madrid/senior-operations-analyst/3342/35139019776"
       },
       {
-        "title": "Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)",
-        "url": "https://www.munichre.com/en/job/new-york/business-analyst-intern-na-integrated-analytics-2026-summer-new-york/3342/34805467840"
+        "title": "Engineer Surveyor - Bolton",
+        "url": "https://www.munichre.com/en/job/bolton/engineer-surveyor-bolton/3342/35471108864"
       },
       {
         "title": "Find jobs",
@@ -1313,6 +1313,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1635,7 +1643,7 @@
   {
     "name": "Schneider Electric",
     "website": "https://www.se.com",
-    "career_page_url": "https://www.se.com/ww/en/about-us/careers/overview.jsp",
+    "career_page_url": "https://www.se.com/ww/en/about-us/careers/overview",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1691,19 +1699,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
