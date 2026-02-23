@@ -1158,6 +1158,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Senior Underwriter",
+        "url": "https://www.munichre.com/en/job/birkenhead/senior-underwriter/3342/35449485440"
+      },
+      {
         "title": "Head of Property, Construction & Engineering",
         "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
       },
@@ -1168,10 +1172,6 @@
       {
         "title": "Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)",
         "url": "https://www.munichre.com/en/job/new-york/business-analyst-intern-na-integrated-analytics-2026-summer-new-york/3342/34805467840"
-      },
-      {
-        "title": "Director & Actuary, North American Model Development (Valuation)",
-        "url": "https://www.munichre.com/en/job/toronto/director-and-actuary-north-american-model-development-valuation/3342/35387164288"
       },
       {
         "title": "Find jobs",
@@ -1296,6 +1296,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1683,7 +1691,12 @@
     "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
+      }
+    ]
   },
   {
     "name": "Stellantis",
