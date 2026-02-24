@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1064,14 +1064,6 @@
     "jobs": []
   },
   {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1175,20 +1167,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Solution Architect",
-        "url": "https://www.munichre.com/en/job/london/senior-solution-architect/3342/31297158848"
+        "title": "Facultative Property Engineering & Energy Sr. Underwriter",
+        "url": "https://www.munichre.com/en/job/chicago/facultative-property-engineering-and-energy-sr-underwriter/3342/35488871232"
       },
       {
-        "title": "Underwriter",
-        "url": "https://www.munichre.com/en/job/london/underwriter/3342/35371459136"
+        "title": "Facultative Property Energy & Construction Underwriter",
+        "url": "https://www.munichre.com/en/job/chicago/facultative-property-energy-and-construction-underwriter/3342/35485352640"
       },
       {
-        "title": "Senior Operations Analyst",
-        "url": "https://www.munichre.com/en/job/madrid/senior-operations-analyst/3342/35139019776"
+        "title": "Production Admin Intern",
+        "url": "https://www.munichre.com/en/job/wayne/production-admin-intern/3342/35488283008"
       },
       {
-        "title": "Engineer Surveyor - Bolton",
-        "url": "https://www.munichre.com/en/job/bolton/engineer-surveyor-bolton/3342/35471108864"
+        "title": "Research Scientist",
+        "url": "https://www.munichre.com/en/job/hartford/research-scientist/3342/34813689472"
       },
       {
         "title": "Find jobs",
@@ -2024,11 +2016,11 @@
     ]
   },
   {
-    "name": "Volkswagen",
+    "name": "Volkswagen Group",
     "website": "http://volkswagen-group.com",
     "career_page_url": "http://volkswagen-group.com/en/career-16057",
     "country_of_origin": "Germany",
-    "source": "wikipedia",
+    "source": "wikipedia_global",
     "jobs": [
       {
         "title": "Careers with the Group",
