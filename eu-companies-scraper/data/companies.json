@@ -161,10 +161,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Wind-Tunnel-C---Software-Developer_JR10369946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
       },
       {
-        "title": "Approved Operator Prestwick 17 December 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Approved-Operator---Grade-A_JR10378946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
         "title": "Quality Assurance Technician Bingen, WA 15 December 2025",
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Quality-Assurance-Technician_JR10372011"
       },
@@ -175,6 +171,10 @@
       {
         "title": "Browse all jobs",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+      },
+      {
+        "title": "Jumpstart your career",
+        "url": "https://airbus.com/en/careers/students-and-graduates"
       }
     ]
   },
@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/pr/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/pr/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1030,6 +1030,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
+        "title": "Senior QA Engineer",
+        "url": "https://careers.ing.com/en/job/katowice/senior-qa-engineer/3120/35501382336"
+      },
+      {
         "title": "Senior Specialist - Finance Accounting & Reporting",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
@@ -1048,10 +1052,6 @@
       {
         "title": "Expert - Data Scientist",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Expert Dev Engineer – SAP",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1175,10 +1175,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Internship Quantitative Investment Strategies (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-quantitative-investment-strategies-m-f-d/3342/33662480064"
-      },
-      {
         "title": "Facultative Property Engineering & Energy Sr. Underwriter",
         "url": "https://www.munichre.com/en/job/chicago/facultative-property-engineering-and-energy-sr-underwriter/3342/35488871232"
       },
@@ -1189,6 +1185,10 @@
       {
         "title": "Production Admin Intern",
         "url": "https://www.munichre.com/en/job/wayne/production-admin-intern/3342/35488283008"
+      },
+      {
+        "title": "Research Scientist",
+        "url": "https://www.munichre.com/en/job/hartford/research-scientist/3342/34813689472"
       },
       {
         "title": "Find jobs",
@@ -1313,6 +1313,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1700,12 +1708,7 @@
     "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Stellantis",
