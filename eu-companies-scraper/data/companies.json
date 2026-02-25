@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1030,8 +1030,8 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Senior QA Engineer",
-        "url": "https://careers.ing.com/en/job/katowice/senior-qa-engineer/3120/35501382336"
+        "title": "Staż z Lwem w Pionie Private Banking (obszar komunikacji i marketingu)",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-private-banking-obszar-komunikacji-i-marketingu/3120/35538678464"
       },
       {
         "title": "Senior Specialist - Finance Accounting & Reporting",
@@ -1060,6 +1060,14 @@
     "website": "https://www.ingka.com",
     "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
     "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
     "source": "wikipedia",
     "jobs": []
   },
@@ -1167,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "MRSGM NA Senior Account Manager, Commercial Insurance",
+        "url": "https://www.munichre.com/en/job/miami-gardens/mrsgm-na-senior-account-manager-commercial-insurance/3342/34689222784"
+      },
+      {
+        "title": "Seasonal CAT Adjuster",
+        "url": "https://www.munichre.com/en/job/amelia/seasonal-cat-adjuster/3342/35519339904"
+      },
+      {
+        "title": "Accounting Clerk Intern",
+        "url": "https://www.munichre.com/en/job/wayne/accounting-clerk-intern/3342/35315273152"
+      },
+      {
         "title": "Senior Consultant für Vorstandsangelegenheiten (m/w/d)*",
         "url": "https://www.munichre.com/en/job/munich/senior-consultant-fur-vorstandsangelegenheiten-m-w-d/3342/35514338432"
-      },
-      {
-        "title": "Business Project Manager Sr",
-        "url": "https://www.munichre.com/en/job/hartford/business-project-manager-sr/3342/35387164096"
-      },
-      {
-        "title": "Loss Prevention Representative - TEMP",
-        "url": "https://www.munichre.com/en/job/wayne/loss-prevention-representative-temp/3342/35477951808"
-      },
-      {
-        "title": "Senior Project Manager",
-        "url": "https://www.munichre.com/en/job/london/senior-project-manager/3342/35480460352"
       },
       {
         "title": "Find jobs",
@@ -1700,12 +1708,7 @@
     "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Stellantis",
