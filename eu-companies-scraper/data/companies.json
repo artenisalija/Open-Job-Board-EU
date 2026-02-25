@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/pr/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/pr/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Facultative Property Engineering & Energy Sr. Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/facultative-property-engineering-and-energy-sr-underwriter/3342/35488871232"
+        "title": "MRSGM NA Senior Account Manager, Commercial Insurance",
+        "url": "https://www.munichre.com/en/job/miami-gardens/mrsgm-na-senior-account-manager-commercial-insurance/3342/34689222784"
       },
       {
-        "title": "Facultative Property Energy & Construction Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/facultative-property-energy-and-construction-underwriter/3342/35485352640"
+        "title": "Seasonal CAT Adjuster",
+        "url": "https://www.munichre.com/en/job/amelia/seasonal-cat-adjuster/3342/35519339904"
       },
       {
-        "title": "Production Admin Intern",
-        "url": "https://www.munichre.com/en/job/wayne/production-admin-intern/3342/35488283008"
+        "title": "Accounting Clerk Intern",
+        "url": "https://www.munichre.com/en/job/wayne/accounting-clerk-intern/3342/35315273152"
       },
       {
-        "title": "Research Scientist",
-        "url": "https://www.munichre.com/en/job/hartford/research-scientist/3342/34813689472"
+        "title": "Senior Consultant für Vorstandsangelegenheiten (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/senior-consultant-fur-vorstandsangelegenheiten-m-w-d/3342/35514338432"
       },
       {
         "title": "Find jobs",
@@ -1701,14 +1701,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
