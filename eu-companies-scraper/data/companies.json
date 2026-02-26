@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1022,12 +1022,20 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
       },
       {
+        "title": "Staż z Lwem w Obszarze Operacji Klienta Biznesowego",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-operacji-klienta-biznesowego/3120/35577913152"
+      },
+      {
         "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       },
       {
         "title": "DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+      },
+      {
+        "title": "Data Scientist - Expert",
+        "url": "https://careers.ing.com/en/job/katowice/data-scientist-expert/3120/35577912832"
       },
       {
         "title": "Senior Specialist - Finance Accounting & Reporting",
@@ -1044,14 +1052,6 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
-      },
-      {
-        "title": "Expert - Data Scientist",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Expert Dev Engineer – SAP",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior HR Consultant/ HR Administation Team Lead",
-        "url": "https://www.munichre.com/en/job/manchester/senior-hr-consultant-hr-administation-team-lead/3342/35003991616"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
-        "title": "Senior Actuarial Analyst (Protection)",
-        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-protection/3342/35310055872"
+        "title": "Senior Accountant - Engineering",
+        "url": "https://www.munichre.com/en/job/manchester/senior-accountant-engineering/3342/34328498752"
       },
       {
-        "title": "Actuarial Analyst - Longevity",
-        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
+        "title": "Senior Delegated Authority Analyst",
+        "url": "https://www.munichre.com/en/job/london/senior-delegated-authority-analyst/3342/33284421312"
       },
       {
-        "title": "Claims Business Intelligence Lead (Manchester)",
-        "url": "https://www.munichre.com/en/job/manchester/claims-business-intelligence-lead-manchester/3342/33626173248"
+        "title": "Pricing Infrastructure Developer",
+        "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
       },
       {
         "title": "Find jobs",
@@ -1703,19 +1703,6 @@
     ]
   },
   {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/jobs",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/jobs"
-      }
-    ]
-  },
-  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1922,10 +1909,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
