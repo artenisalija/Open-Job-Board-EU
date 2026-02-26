@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1030,18 +1030,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Staż z Lwem w obszarze testów",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-testow/3120/35546510784"
-      },
-      {
-        "title": "Staż z Lwem w zespole automatyzacji procesów",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-zespole-automatyzacji-procesow/3120/35546510720"
-      },
-      {
-        "title": "Staż z Lwem w Pionie Private Banking (obszar Business Intelligence)",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-private-banking-obszar-business-intelligence/3120/35542613056"
-      },
-      {
         "title": "Senior Specialist - Finance Accounting & Reporting",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
@@ -1052,6 +1040,18 @@
       {
         "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
         "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
+      },
+      {
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
+      },
+      {
+        "title": "Expert Dev Engineer – SAP",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Data Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/technical-data-analyst/3342/35483171584"
+        "title": "Senior HR Consultant/ HR Administation Team Lead",
+        "url": "https://www.munichre.com/en/job/manchester/senior-hr-consultant-hr-administation-team-lead/3342/35003991616"
       },
       {
-        "title": "Data Science Intern, NA Integrated Analytics (2026 Summer - New York)",
-        "url": "https://www.munichre.com/en/job/new-york/data-science-intern-na-integrated-analytics-2026-summer-new-york/3342/35480460096"
+        "title": "Senior Actuarial Analyst (Protection)",
+        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-protection/3342/35310055872"
       },
       {
-        "title": "Investment Accountant Associate - Hartford, CT Office",
-        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
+        "title": "Actuarial Analyst - Longevity",
+        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
       },
       {
-        "title": "Loss Control Inspector Trainee - Benton, Arkansas",
-        "url": "https://www.munichre.com/en/job/benton/loss-control-inspector-trainee-benton-arkansas/3342/33893367424"
+        "title": "Claims Business Intelligence Lead (Manchester)",
+        "url": "https://www.munichre.com/en/job/manchester/claims-business-intelligence-lead-manchester/3342/33626173248"
       },
       {
         "title": "Find jobs",
@@ -1699,6 +1699,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/jobs",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
