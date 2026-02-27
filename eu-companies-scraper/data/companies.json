@@ -85,6 +85,10 @@
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus"
       },
       {
+        "title": "Airbus Cybersecurity School 2026: Apply Now! Apply for the Airbus Cybersecurity School 2026! 🛡️ 100% tuition-free apprenticeship in Toulouse, France.",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeship-training-in-cybersecurity"
+      },
+      {
         "title": "Airbus is recruiting in Belfast To support the ramp-up of the A220 programme, Airbus is recruiting now at its operations in Belfast.",
         "url": "https://www.airbus.com/en/careers/belfast"
       },
@@ -105,10 +109,6 @@
         "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom"
       },
       {
-        "title": "Internships in France - open now! Find an opportunity that fits your skills and abilities to start your adventure.",
-        "url": "https://www.airbus.com/en/careers/students-and-graduates/interns/internships-in-france"
-      },
-      {
         "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
         "url": "https://airbus.com/en/careers/international-women-at-airbus"
       },
@@ -117,8 +117,12 @@
         "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
       },
       {
-        "title": "Aircraft Fitter Belfast 27 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Belfast/Aircraft-Fitter_JR10374158"
+        "title": "Apprenticehip Airbus Cybersecurity School 2026 Toulouse, France 27 February 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Cybersecurity-School-2026---formation--Mastre-Expert-en-Cyberscurit--en-alternance-H-F_JR10395108"
+      },
+      {
+        "title": "3DX - Urbanist Work Preparation Toulouse & Bristol 27 February 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/XMLNAME-3DX---Urbanist-Work-Preparation_JR10381061-1"
       },
       {
         "title": "Export Control Manager Belfast 19 December 2025",
@@ -171,10 +175,6 @@
       {
         "title": "Explore our professions",
         "url": "https://airbus.com/en/careers/professionals"
-      },
-      {
-        "title": "Explore our locations",
-        "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
       }
     ]
   },
@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Legal Counsel",
-        "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
+        "title": "Senior Reinsurance Broker",
+        "url": "https://www.munichre.com/en/job/london/senior-reinsurance-broker/3342/31723149568"
       },
       {
-        "title": "Pricing Infrastructure Developer",
-        "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
+        "title": "Actuarial Analyst - Longevity",
+        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
       },
       {
-        "title": "Regional Manager (East Anglia)",
-        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+        "title": "Customer Experience Specialist",
+        "url": "https://www.munichre.com/en/job/birkenhead/customer-experience-specialist/3342/35271881408"
       },
       {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/35129814336"
+        "title": "Senior Engineering Underwriter",
+        "url": "https://www.munichre.com/en/job/london/senior-engineering-underwriter/3342/34339160768"
       },
       {
         "title": "Find jobs",
@@ -1313,14 +1313,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/career",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
