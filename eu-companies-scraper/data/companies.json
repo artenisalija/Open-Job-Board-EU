@@ -157,8 +157,8 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Wind-Tunnel-C---Software-Developer_JR10369946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
       },
       {
-        "title": "Quality Assurance Technician Bingen, WA 15 December 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Quality-Assurance-Technician_JR10372011"
+        "title": "Senior Aircraft Sheetmetal Technician - NHC Columbus, MS 26 February 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Senior-Aircraft-Sheetmetal-Technician---NHC_JR10388218"
       },
       {
         "title": "Ground Test Inspector Mobile Area, AL 21 January 2026",
@@ -233,12 +233,7 @@
     "career_page_url": "https://www.axa.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.axa.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Banco Santander",
@@ -936,13 +931,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1018,12 +1013,16 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Java Developer",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
+        "title": "Senior Product Manager - Embedded Lending",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
-        "title": "Staż z Lwem w Obszarze Operacji Klienta Biznesowego",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-operacji-klienta-biznesowego/3120/35577913152"
+        "title": "Staż z lwem w obszarze Bankowości Korporacyjnej",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/35272691776"
+      },
+      {
+        "title": "Senior Java Developer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
       },
       {
         "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
@@ -1032,10 +1031,6 @@
       {
         "title": "DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
-      },
-      {
-        "title": "Data Scientist - Expert",
-        "url": "https://careers.ing.com/en/job/katowice/data-scientist-expert/3120/35577912832"
       },
       {
         "title": "Senior Specialist - Finance Accounting & Reporting",
@@ -1060,14 +1055,6 @@
     "website": "https://www.ingka.com",
     "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
     "country_of_origin": "Netherlands",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
     "source": "wikipedia",
     "jobs": []
   },
@@ -1703,6 +1690,19 @@
     ]
   },
   {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1909,15 +1909,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
