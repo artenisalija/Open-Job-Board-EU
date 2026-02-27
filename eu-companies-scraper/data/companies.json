@@ -233,7 +233,12 @@
     "career_page_url": "https://www.axa.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.axa.com/careers"
+      }
+    ]
   },
   {
     "name": "Banco Santander",
@@ -931,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1055,6 +1060,14 @@
     "website": "https://www.ingka.com",
     "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
     "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
     "source": "wikipedia",
     "jobs": []
   },
@@ -1692,13 +1705,13 @@
   {
     "name": "SNCF",
     "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "career_page_url": "https://www.groupe-sncf.com/jobs",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
+        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
