@@ -117,10 +117,6 @@
         "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
       },
       {
-        "title": "Aerospace Engineering Virtual Work Experience Working with Springpod, Airbus has developed a programme for you to look behind the scenes at what aerospace engineers at Airbus…",
-        "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
-      },
-      {
         "title": "Aircraft Fitter Belfast 27 November 2025",
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Belfast/Aircraft-Fitter_JR10374158"
       },
@@ -175,6 +171,10 @@
       {
         "title": "Explore our professions",
         "url": "https://airbus.com/en/careers/professionals"
+      },
+      {
+        "title": "Explore our locations",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
       }
     ]
   },
@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1022,10 +1022,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
-        "title": "Staż z lwem w obszarze Bankowości Korporacyjnej",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/35272691776"
-      },
-      {
         "title": "Senior Java Developer",
         "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
       },
@@ -1052,6 +1048,10 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
+      },
+      {
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
-      },
-      {
-        "title": "Senior Accountant - Engineering",
-        "url": "https://www.munichre.com/en/job/manchester/senior-accountant-engineering/3342/34328498752"
-      },
-      {
-        "title": "Senior Delegated Authority Analyst",
-        "url": "https://www.munichre.com/en/job/london/senior-delegated-authority-analyst/3342/33284421312"
+        "title": "Legal Counsel",
+        "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
       },
       {
         "title": "Pricing Infrastructure Developer",
         "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
+      },
+      {
+        "title": "Regional Manager (East Anglia)",
+        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+      },
+      {
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/35129814336"
       },
       {
         "title": "Find jobs",
@@ -1317,7 +1317,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1699,19 +1699,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/jobs",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
