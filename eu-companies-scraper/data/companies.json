@@ -125,10 +125,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/XMLNAME-3DX---Urbanist-Work-Preparation_JR10381061-1"
       },
       {
-        "title": "Export Control Manager Belfast 19 December 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Export-Control-Manager_JR10329149-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
         "title": "System Architect Ulm Area Immenstaad am Bodensee, Germany 17 December 2024",
         "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Ulm-Area/System-Architect--d-m-w--BMC4ISR_JR10301177"
       },
@@ -175,6 +171,10 @@
       {
         "title": "Explore our professions",
         "url": "https://airbus.com/en/careers/professionals"
+      },
+      {
+        "title": "Explore our locations",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Legal Counsel",
-        "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
+        "title": "Senior Reinsurance Broker",
+        "url": "https://www.munichre.com/en/job/london/senior-reinsurance-broker/3342/31723149568"
       },
       {
-        "title": "Pricing Infrastructure Developer",
-        "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
+        "title": "Actuarial Analyst - Longevity",
+        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
       },
       {
-        "title": "Regional Manager (East Anglia)",
-        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
+        "title": "Customer Experience Specialist",
+        "url": "https://www.munichre.com/en/job/birkenhead/customer-experience-specialist/3342/35271881408"
       },
       {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/35129814336"
+        "title": "Senior Engineering Underwriter",
+        "url": "https://www.munichre.com/en/job/london/senior-engineering-underwriter/3342/34339160768"
       },
       {
         "title": "Find jobs",
@@ -1697,7 +1697,7 @@
   {
     "name": "SNCF",
     "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/career",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
