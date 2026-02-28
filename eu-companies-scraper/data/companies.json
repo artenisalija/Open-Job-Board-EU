@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Reinsurance Broker",
-        "url": "https://www.munichre.com/en/job/london/senior-reinsurance-broker/3342/31723149568"
+        "title": "Legal Counsel",
+        "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
       },
       {
-        "title": "Actuarial Analyst - Longevity",
-        "url": "https://www.munichre.com/en/job/london/actuarial-analyst-longevity/3342/31297144768"
+        "title": "Pricing Infrastructure Developer",
+        "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
       },
       {
-        "title": "Customer Experience Specialist",
-        "url": "https://www.munichre.com/en/job/birkenhead/customer-experience-specialist/3342/35271881408"
+        "title": "Regional Manager (East Anglia)",
+        "url": "https://www.munichre.com/en/job/cambridge/regional-manager-east-anglia/3342/34805466560"
       },
       {
-        "title": "Senior Engineering Underwriter",
-        "url": "https://www.munichre.com/en/job/london/senior-engineering-underwriter/3342/34339160768"
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/35129814336"
       },
       {
         "title": "Find jobs",
@@ -1313,14 +1313,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1701,6 +1693,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/career",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
