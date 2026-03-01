@@ -233,7 +233,12 @@
     "career_page_url": "https://www.axa.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.axa.com/careers"
+      }
+    ]
   },
   {
     "name": "Banco Santander",
@@ -751,6 +756,75 @@
     ]
   },
   {
+    "name": "Glencore",
+    "website": "https://glencore.com",
+    "career_page_url": "https://glencore.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "SKIP NAVIGATION",
+        "url": "https://glencore.com/careers"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://glencore.com/careers/jobs"
+      },
+      {
+        "title": "Life at Glencore",
+        "url": "https://glencore.com/careers/life-at-glencore"
+      },
+      {
+        "title": "Career areas",
+        "url": "https://glencore.com/careers/career-areas"
+      },
+      {
+        "title": "How we hire",
+        "url": "https://glencore.com/careers/how-we-hire"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://glencore.com/careers/early-careers"
+      },
+      {
+        "title": "Baar, Switzerland - Headquarters",
+        "url": "https://glencore.com/careers/early-careers/baar"
+      },
+      {
+        "title": "London, UK",
+        "url": "https://glencore.com/careers/early-careers/london"
+      },
+      {
+        "title": "USA",
+        "url": "https://glencore.com/careers/early-careers/usa"
+      },
+      {
+        "title": "Singapore",
+        "url": "https://glencore.com/careers/early-careers/singapore"
+      },
+      {
+        "title": "China",
+        "url": "https://glencore.com/careers/early-careers/china"
+      },
+      {
+        "title": "Africa copper",
+        "url": "https://glencore.com/careers/early-careers/africa-copper"
+      },
+      {
+        "title": "South Africa",
+        "url": "https://glencore.com/careers/early-careers/south-africa"
+      },
+      {
+        "title": "Base metals north America",
+        "url": "https://glencore.com/careers/early-careers/base-metals-north-america"
+      },
+      {
+        "title": "Kazakhstan",
+        "url": "https://glencore.com/careers/early-careers/kazakhstan"
+      }
+    ]
+  },
+  {
     "name": "HSBC",
     "website": "https://hsbc.com",
     "career_page_url": "https://hsbc.com/careers",
@@ -986,6 +1060,14 @@
     "website": "https://www.ingka.com",
     "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
     "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
     "source": "wikipedia",
     "jobs": []
   },
@@ -1619,14 +1701,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/career",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
