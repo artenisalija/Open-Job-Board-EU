@@ -464,23 +464,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -936,13 +919,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1064,6 +1047,14 @@
     "jobs": []
   },
   {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1167,10 +1158,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector Trainee - Lynchburg, Virginia",
-        "url": "https://www.munichre.com/en/job/lynchburg/inspector-trainee-lynchburg-virginia/3342/34412019136"
-      },
-      {
         "title": "Legal Counsel",
         "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
       },
@@ -1181,6 +1168,10 @@
       {
         "title": "Claims Service Representative",
         "url": "https://www.munichre.com/en/job/houston/claims-service-representative/3342/35085608128"
+      },
+      {
+        "title": "Principal Data Scientist",
+        "url": "https://www.munichre.com/en/job/amelia/principal-data-scientist/3342/35592532224"
       },
       {
         "title": "Find jobs",
@@ -1305,14 +1296,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
