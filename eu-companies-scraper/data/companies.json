@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "International Graduate Trainee - focus on mathematics/actuarial science (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-mathematics-actuarial-science-m-f-d/3342/31297161408"
+      },
+      {
+        "title": "Change Lead",
+        "url": "https://www.munichre.com/en/job/london/change-lead/3342/35548399936"
+      },
+      {
         "title": "Inspector Trainee - Lynchburg, Virginia",
         "url": "https://www.munichre.com/en/job/lynchburg/inspector-trainee-lynchburg-virginia/3342/34412019136"
       },
       {
         "title": "Legal Counsel",
         "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
-      },
-      {
-        "title": "Regional Talent Development & Learning Specialist",
-        "url": "https://www.munichre.com/en/job/singapore/regional-talent-development-and-learning-specialist/3342/35630677760"
-      },
-      {
-        "title": "Claims Service Representative",
-        "url": "https://www.munichre.com/en/job/houston/claims-service-representative/3342/35085608128"
       },
       {
         "title": "Find jobs",
@@ -1313,6 +1313,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
