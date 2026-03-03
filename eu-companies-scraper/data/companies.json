@@ -149,10 +149,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Strukturmechaniker--d-m-w--fr-die-Strukturmontage-in-Hamburg_JR10241638"
       },
       {
-        "title": "C++ Software Developer Bristol 17 December 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/details/Wind-Tunnel-C---Software-Developer_JR10369946-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
         "title": "Senior Aircraft Sheetmetal Technician - NHC Columbus, MS 26 February 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Senior-Aircraft-Sheetmetal-Technician---NHC_JR10388218"
       },
@@ -175,6 +171,10 @@
       {
         "title": "Explore our locations",
         "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
+      },
+      {
+        "title": "Pride@Airbus Pride@Airbus is committed to contributing to a safer and better workplace, helping people bring their true selves to work and…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/pride-at-airbus"
       }
     ]
   },
@@ -460,23 +460,6 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1175,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "International Graduate Trainee - focus on mathematics/actuarial science (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-mathematics-actuarial-science-m-f-d/3342/31297161408"
+        "title": "IT Compliance Officer",
+        "url": "https://www.munichre.com/en/job/singapore/it-compliance-officer/3342/33836592832"
       },
       {
-        "title": "Change Lead",
-        "url": "https://www.munichre.com/en/job/london/change-lead/3342/35548399936"
+        "title": "Actuarial Intern",
+        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/35526940096"
       },
       {
-        "title": "Inspector Trainee - Lynchburg, Virginia",
-        "url": "https://www.munichre.com/en/job/lynchburg/inspector-trainee-lynchburg-virginia/3342/34412019136"
+        "title": "Risk & Compliance Intern",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
       },
       {
-        "title": "Legal Counsel",
-        "url": "https://www.munichre.com/en/job/dublin/legal-counsel/3342/34905607168"
+        "title": "Investment Accountant Associate - Hartford, CT Office",
+        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
       },
       {
         "title": "Find jobs",
@@ -1313,6 +1296,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
