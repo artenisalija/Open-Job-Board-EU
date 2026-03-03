@@ -464,6 +464,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -919,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1041,10 +1058,15 @@
   {
     "name": "INGKA Holding",
     "website": "https://www.ingka.com",
-    "career_page_url": "https://www.ingka.com/newsroom/fatin-badrul-hisham-nurul-fatihah-binti-rosli-from-ikea-malaysia-crowned-global-champions-of-ikea-talents-food-contest-with-stuffed-fried-tofu",
+    "career_page_url": "https://www.ingka.com/join-us",
     "country_of_origin": "Netherlands",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
+        "url": "https://www.ingka.com/projects/skills-for-employment"
+      }
+    ]
   },
   {
     "name": "Koç Holding",
@@ -1158,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "IT Compliance Officer",
-        "url": "https://www.munichre.com/en/job/singapore/it-compliance-officer/3342/33836592832"
-      },
-      {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/35526940096"
-      },
-      {
         "title": "Risk & Compliance Intern",
         "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
       },
       {
         "title": "Investment Accountant Associate - Hartford, CT Office",
         "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
+      },
+      {
+        "title": "Loss Control Inspector Trainee - Davenport, Iowa",
+        "url": "https://www.munichre.com/en/job/davenport/loss-control-inspector-trainee-davenport-iowa/3342/35730777344"
+      },
+      {
+        "title": "Director & Actuary, IL Pricing",
+        "url": "https://www.munichre.com/en/job/new-york/director-and-actuary-il-pricing/3342/35730532672"
       },
       {
         "title": "Find jobs",
@@ -1684,6 +1706,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/career",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
