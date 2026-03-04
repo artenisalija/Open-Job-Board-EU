@@ -464,6 +464,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -919,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1163,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "IT Compliance Officer",
-        "url": "https://www.munichre.com/en/job/singapore/it-compliance-officer/3342/33836592832"
+        "title": "Data Scientist / AI Engineer (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/data-scientist-ai-engineer-m-f-d/3342/31297160256"
       },
       {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/35526940096"
+        "title": "Carrier Account Executive",
+        "url": "https://www.munichre.com/en/job/hartford/carrier-account-executive/3342/33926301824"
       },
       {
-        "title": "Risk & Compliance Intern",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
+        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
+        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
       },
       {
-        "title": "Investment Accountant Associate - Hartford, CT Office",
-        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
+        "title": "AVP Financial Systems",
+        "url": "https://www.munichre.com/en/job/amelia/avp-financial-systems/3342/35758853440"
       },
       {
         "title": "Find jobs",
@@ -1689,6 +1706,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
