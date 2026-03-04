@@ -1529,115 +1529,6 @@
     ]
   },
   {
-    "name": "Sanofi",
-    "website": "http://sanofi.com",
-    "career_page_url": "https://jobs.sanofi.com",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://jobs.sanofi.com"
-      },
-      {
-        "title": "Why Sanofi",
-        "url": "https://jobs.sanofi.com/why-join-sanofi"
-      },
-      {
-        "title": "Career Development",
-        "url": "https://jobs.sanofi.com/career-development"
-      },
-      {
-        "title": "Rewards & Benefits",
-        "url": "https://jobs.sanofi.com/rewards-and-benefits"
-      },
-      {
-        "title": "Culture & Values",
-        "url": "https://jobs.sanofi.com/culture-and-values"
-      },
-      {
-        "title": "Early Talent",
-        "url": "https://jobs.sanofi.com/early-talent"
-      },
-      {
-        "title": "Digital",
-        "url": "https://jobs.sanofi.com/digital"
-      },
-      {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Corporate Functions",
-        "url": "https://jobs.sanofi.com/corporate"
-      },
-      {
-        "title": "Hubs",
-        "url": "https://jobs.sanofi.com/hubs"
-      },
-      {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Early Careers",
-        "url": "https://jobs.sanofi.com/early-career-jobs"
-      },
-      {
-        "title": "Marketing & Sales",
-        "url": "https://jobs.sanofi.com/marketing-and-sales"
-      },
-      {
-        "title": "Medical & Market Access",
-        "url": "https://jobs.sanofi.com/medical-market-access"
-      },
-      {
-        "title": "Quality Assurance",
-        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
-      },
-      {
-        "title": "Regulatory Affairs",
-        "url": "https://jobs.sanofi.com/regulatory-affairs"
-      },
-      {
-        "title": "Business Operations",
-        "url": "https://jobs.sanofi.com/business-operations-jobs"
-      },
-      {
-        "title": "Engineering",
-        "url": "https://jobs.sanofi.com/engineering-jobs"
-      },
-      {
-        "title": "Data & Technology",
-        "url": "https://jobs.sanofi.com/data-technology-jobs"
-      },
-      {
-        "title": "Locations",
-        "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
-      },
-      {
-        "title": "Sanofi Stories",
-        "url": "https://jobs.sanofi.com/sanofi-stories"
-      },
-      {
-        "title": "Join Our Talent Community opens in a new tab",
-        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
-      },
-      {
-        "title": "Your Saved Jobs",
-        "url": "https://jobs.sanofi.com/saved-jobs"
-      },
-      {
-        "title": "Search Jobs",
-        "url": "https://jobs.sanofi.com/en/search-jobs"
-      }
-    ]
-  },
-  {
     "name": "Sberbank",
     "website": "http://sberbank.com",
     "career_page_url": "http://sberbank.com/jobs",
@@ -1706,14 +1597,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
