@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1180,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Employee Advisory Partner, Singapore, Southeast Asia & Australia",
-        "url": "https://www.munichre.com/en/job/singapore/employee-advisory-partner-singapore-southeast-asia-and-australia/3342/35767631616"
+        "title": "Head of Surety Underwriting Italy (m/f/d*)",
+        "url": "https://www.munichre.com/en/job/milan/head-of-surety-underwriting-italy-m-f-d/3342/35790484416"
       },
       {
-        "title": "Data Scientist / AI Engineer (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/data-scientist-ai-engineer-m-f-d/3342/31297160256"
+        "title": "Loss Control Inspector Trainee - Benton, Arkansas",
+        "url": "https://www.munichre.com/en/job/benton/loss-control-inspector-trainee-benton-arkansas/3342/33893367424"
       },
       {
-        "title": "Carrier Account Executive",
-        "url": "https://www.munichre.com/en/job/hartford/carrier-account-executive/3342/33926301824"
+        "title": "Principal Account Engineer",
+        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/33949390208"
       },
       {
-        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
-        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
+        "title": "Principal Account Engineer",
+        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/31297154688"
       },
       {
         "title": "Find jobs",
@@ -1704,19 +1704,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
