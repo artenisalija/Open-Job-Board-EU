@@ -1018,8 +1018,16 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Manager Risk Advisory, Technology",
+        "url": "https://careers.ing.com/en/job/sydney/senior-manager-risk-advisory-technology/3121/35801646720"
+      },
+      {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+      },
+      {
+        "title": "Senior Java Developer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-java-developer/3120/34197854528"
       },
       {
         "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
@@ -1044,14 +1052,6 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
-      },
-      {
-        "title": "Expert - Data Scientist",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Expert Dev Engineer – SAP",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1180,10 +1180,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "IT Project Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/35747507904"
-      },
-      {
         "title": "Head of Surety Underwriting Italy (m/f/d*)",
         "url": "https://www.munichre.com/en/job/milan/head-of-surety-underwriting-italy-m-f-d/3342/35790484416"
       },
@@ -1194,6 +1190,10 @@
       {
         "title": "Principal Account Engineer",
         "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/33949390208"
+      },
+      {
+        "title": "Principal Account Engineer",
+        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/31297154688"
       },
       {
         "title": "Find jobs",
@@ -1343,20 +1343,20 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
+    "career_page_url": "https://www.renaultgroup.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
         "url": "https://www.renaultgroup.com/en/careers"
       },
       {
-        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "title": "View our offers",
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
+      },
+      {
+        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
         "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
