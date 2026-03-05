@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1018,6 +1018,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Manager Risk Advisory, Technology",
+        "url": "https://careers.ing.com/en/job/sydney/senior-manager-risk-advisory-technology/3121/35801646720"
+      },
+      {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
@@ -1048,10 +1052,6 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
-      },
-      {
-        "title": "Expert - Data Scientist",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
       }
     ]
   },
