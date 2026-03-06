@@ -1018,40 +1018,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Analyst",
-        "url": "https://careers.ing.com/en/job/istanbul/data-analyst/3121/35815770560"
+        "title": "Senior Product Manager - Embedded Lending",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
-        "title": "Data protection - control owner",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-protection-control-owner/3121/35815770112"
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       },
       {
-        "title": "INTERNSHIP - Data Operations Officer",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-data-operations-officer/3121/35815769856"
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Identity & Access Management Expert",
-        "url": "https://careers.ing.com/en/job/slovakia/identity-and-access-management-expert/3121/35815769600"
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
       {
-        "title": "Intern Sales Support Front Office CLT member for Lease",
-        "url": "https://careers.ing.com/en/job/brussels/intern-sales-support-front-office-clt-member-for-lease/3121/35143631040"
+        "title": "Expert - Financial Crime Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
       },
       {
-        "title": "Business Analyst Broadway | Trading Platforms @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/business-analyst-broadway-trading-platforms-ing-hubs-romania/3121/35815768576"
+        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
+        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       },
       {
-        "title": "Finance Advice Manager",
-        "url": "https://careers.ing.com/en/job/amsterdam/finance-advice-manager/3121/35815767616"
+        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
       },
       {
-        "title": "Senior Backend Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-backend-engineer/3121/32566933568"
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
       },
       {
-        "title": "Specialist – Global Sourcing & Category Expert Hardware & Telco (IT)",
-        "url": "https://careers.ing.com/en/job/katowice/specialist-global-sourcing-and-category-expert-hardware-and-telco-it/3121/35619186176"
+        "title": "Expert Dev Engineer – SAP",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1067,6 +1067,14 @@
         "url": "https://www.ingka.com/projects/skills-for-employment"
       }
     ]
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1172,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Valuation Actuary (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/35806324992"
+        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
+        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
       },
       {
-        "title": "Senior Actuarial Analyst (Protection)",
-        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-protection/3342/35310055872"
+        "title": "Director UW Pricing & Client Support",
+        "url": "https://www.munichre.com/en/job/atlanta/director-uw-pricing-and-client-support/3342/35831950912"
       },
       {
-        "title": "Claims Delegated Authority Analyst",
-        "url": "https://www.munichre.com/en/job/manchester/claims-delegated-authority-analyst/3342/32396842624"
+        "title": "Structural Engineering Manager (LVS) - (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/liverpool/structural-engineering-manager-lvs-m-f-d/3342/35831950784"
       },
       {
-        "title": "Technical Accountant - Life & Health",
-        "url": "https://www.munichre.com/en/job/mumbai/technical-accountant-life-and-health/3342/35536999872"
+        "title": "Business Project Manager Sr",
+        "url": "https://www.munichre.com/en/job/hartford/business-project-manager-sr/3342/35387164096"
       },
       {
         "title": "Find jobs",
@@ -1705,12 +1713,7 @@
     "career_page_url": "https://www.groupe-sncf.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Stellantis",
