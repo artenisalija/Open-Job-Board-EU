@@ -1180,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
-        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
+        "title": "Head of Reinsurance Contract Management",
+        "url": "https://www.munichre.com/en/job/hartford/head-of-reinsurance-contract-management/3342/35819128064"
       },
       {
-        "title": "Director UW Pricing & Client Support",
-        "url": "https://www.munichre.com/en/job/atlanta/director-uw-pricing-and-client-support/3342/35831950912"
+        "title": "HR Services Administrator - EULA (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/bogota/hr-services-administrator-eula-m-f-d/3342/35819127168"
       },
       {
-        "title": "Structural Engineering Manager (LVS) - (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/liverpool/structural-engineering-manager-lvs-m-f-d/3342/35831950784"
+        "title": "Project Manager for Organization (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-for-organization-m-f-d/3342/35736351936"
       },
       {
-        "title": "Business Project Manager Sr",
-        "url": "https://www.munichre.com/en/job/hartford/business-project-manager-sr/3342/35387164096"
+        "title": "Global Project Manager",
+        "url": "https://www.munichre.com/en/job/hartford/global-project-manager/3342/35721195904"
       },
       {
         "title": "Find jobs",
@@ -1708,14 +1708,6 @@
     ]
   },
   {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1731,6 +1723,22 @@
         "url": "https://www.stellantis.com/it/careers"
       }
     ]
+  },
+  {
+    "name": "Telefónica",
+    "website": "http://telefonica.com",
+    "career_page_url": "https://www.telefonica.com/es/sala-comunicacion/blog/dia-internacional-mujer-reafirmamos-compromiso-talento",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "ThyssenKrupp",
+    "website": "http://thyssenkrupp.com",
+    "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "TotalEnergies",
