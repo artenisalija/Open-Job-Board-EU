@@ -936,13 +936,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1067,14 +1067,6 @@
         "url": "https://www.ingka.com/projects/skills-for-employment"
       }
     ]
-  },
-  {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1723,14 +1715,6 @@
         "url": "https://www.stellantis.com/it/careers"
       }
     ]
-  },
-  {
-    "name": "Telefónica",
-    "website": "http://telefonica.com",
-    "career_page_url": "https://www.telefonica.com/es/sala-comunicacion/blog/dia-internacional-mujer-reafirmamos-compromiso-talento",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "ThyssenKrupp",
