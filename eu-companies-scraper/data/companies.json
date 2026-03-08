@@ -228,6 +228,32 @@
     ]
   },
   {
+    "name": "Atalef",
+    "website": "https://atalef.ai",
+    "career_page_url": "https://atalef.ai/talent",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Find your job",
+        "url": "https://app.atalef.ai"
+      }
+    ]
+  },
+  {
+    "name": "Atlas4D",
+    "website": "https://atlas4d.tech",
+    "career_page_url": "https://atlas4d.tech/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Philosophy",
+        "url": "https://atlas4d.tech/careers"
+      }
+    ]
+  },
+  {
     "name": "Axa",
     "website": "https://www.axa.com",
     "career_page_url": "https://www.axa.com/careers",
@@ -353,6 +379,31 @@
     ]
   },
   {
+    "name": "BigHub",
+    "website": "https://bighub.ai",
+    "career_page_url": "https://bighub.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Career Join our team and build real AI solutions.",
+        "url": "https://bighub.ai/careers"
+      },
+      {
+        "title": "Data Data Engineer Prague Full-time View job",
+        "url": "https://bighub.ai/career/data-engineer"
+      },
+      {
+        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
+        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
+      },
+      {
+        "title": "Business IT Project Manager Prague Full-time View job",
+        "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -382,6 +433,19 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
+    "name": "Bridgeapp.ai",
+    "website": "https://bridgeapp.ai",
+    "career_page_url": "https://bridgeapp.ai/company/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://bridgeapp.ai/company/careers"
       }
     ]
   },
@@ -555,12 +619,33 @@
     "jobs": []
   },
   {
+    "name": "DiffScout",
+    "website": "https://diffscout.com",
+    "career_page_url": "https://diffscout.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
     "name": "Edeka",
     "website": "http://www.edeka.de",
     "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/index.php/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/index.php/careers"
+      }
+    ]
   },
   {
     "name": "EnBW",
@@ -741,6 +826,14 @@
         "url": "https://www.eni.com/en-IT/careers/job-offers-fraud.html"
       }
     ]
+  },
+  {
+    "name": "Evernomic",
+    "website": "https://evernomic.com",
+    "career_page_url": "https://evernomic.com/letters/what-most-founders-get-wrong-about-building-their-first-team",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Exor",
@@ -1069,6 +1162,55 @@
     ]
   },
   {
+    "name": "Jobloom",
+    "website": "https://www.jobloom.app",
+    "career_page_url": "https://www.jobloom.app/en",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app/en"
+      },
+      {
+        "title": "Media",
+        "url": "https://www.jobloom.app/en/blog"
+      },
+      {
+        "title": "Podcasts",
+        "url": "https://www.jobloom.app/en/podcast"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.jobloom.app/en/agenda"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.jobloom.app/en/contact"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.jobloom.app/en/careers"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/career-site"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/multiposting"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/ats"
+      },
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app"
+      }
+    ]
+  },
+  {
     "name": "Koç Holding",
     "website": "https://www.koc.com.tr/en",
     "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
@@ -1099,6 +1241,14 @@
     "career_page_url": "http://lbbw.de/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Latiai",
+    "website": "https://www.latiai.com",
+    "career_page_url": "https://www.latiai.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -1159,6 +1309,14 @@
         "url": "https://lyondellbasell.com/en/careers/faqs"
       }
     ]
+  },
+  {
+    "name": "Meetcatcher",
+    "website": "https://meetcatcher.com",
+    "career_page_url": "https://meetcatcher.com/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Munich Re",
@@ -1328,6 +1486,19 @@
     "jobs": []
   },
   {
+    "name": "Permis Online",
+    "website": "https://permis.online",
+    "career_page_url": "https://permis.online/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "S'inscrire",
+        "url": "https://permis.online/jobs"
+      }
+    ]
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1339,6 +1510,14 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
+  },
+  {
+    "name": "ReactNative Jobs",
+    "website": "https://reactnative-jobs.com",
+    "career_page_url": "https://reactnative-jobs.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Renault",
@@ -1667,6 +1846,35 @@
     ]
   },
   {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
+      }
+    ]
+  },
+  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -1706,14 +1914,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
@@ -2064,6 +2264,19 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "WorkSmart",
+    "website": "https://work-smart.ai",
+    "career_page_url": "https://work-smart.ai/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://work-smart.ai/careers"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",

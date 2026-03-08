@@ -1,18 +1,19 @@
 {
-  "generated_at_utc": "2026-03-08T06:37:42.920261+00:00",
+  "generated_at_utc": "2026-03-08T12:40:24.250745+00:00",
   "candidates": {
     "wikipedia": 99,
     "wikipedia_global": 10,
-    "eu_startups": 0,
+    "eu_startups": 55,
     "clutch": 0,
     "themanifest": 0,
-    "total_raw": 109,
-    "total_deduped": 103
+    "total_raw": 164,
+    "total_deduped": 158
   },
-  "enriched_with_careers": 63,
-  "final_merged": 62,
+  "enriched_with_careers": 76,
+  "final_merged": 75,
   "final_by_source": {
-    "wikipedia": 61,
+    "eu_startups": 14,
+    "wikipedia": 60,
     "wikipedia_global": 1
   }
 }
