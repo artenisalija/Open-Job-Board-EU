@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T18:31:22.527902+00:00",
+  "generated_at_utc": "2026-03-08T01:32:31.173207+00:00",
   "candidates": {
     "wikipedia": 99,
     "wikipedia_global": 10,
@@ -9,11 +9,11 @@
     "total_raw": 165,
     "total_deduped": 159
   },
-  "enriched_with_careers": 77,
-  "final_merged": 76,
+  "enriched_with_careers": 78,
+  "final_merged": 77,
   "final_by_source": {
     "eu_startups": 15,
-    "wikipedia": 60,
+    "wikipedia": 61,
     "wikipedia_global": 1
   }
 }

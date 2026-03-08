@@ -463,6 +463,14 @@
     ]
   },
   {
+    "name": "Chubb",
+    "website": "https://chubb.com",
+    "career_page_url": "https://chubb.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Continental",
     "website": "https://continental.com",
     "career_page_url": "https://continental.com/en/career",
