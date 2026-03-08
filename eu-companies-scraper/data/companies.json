@@ -404,6 +404,19 @@
     ]
   },
   {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -624,14 +637,6 @@
     "career_page_url": "https://diffscout.com/careers",
     "country_of_origin": "Austria",
     "source": "eu_startups",
-    "jobs": []
-  },
-  {
-    "name": "Edeka",
-    "website": "http://www.edeka.de",
-    "career_page_url": "http://www.edeka.de/jobs",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
     "jobs": []
   },
   {
