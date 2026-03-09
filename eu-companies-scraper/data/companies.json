@@ -640,6 +640,14 @@
     "jobs": []
   },
   {
+    "name": "Edeka",
+    "website": "http://www.edeka.de",
+    "career_page_url": "http://www.edeka.de/jobs",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Enactia",
     "website": "https://www.enactia.com",
     "career_page_url": "https://www.enactia.com/index.php/careers",
@@ -1034,13 +1042,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1343,20 +1351,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Team Assistant",
-        "url": "https://www.munichre.com/en/job/tokyo/team-assistant/3342/34991028416"
+        "title": "Data Analytics Intern, High-Net Worth (HNW)",
+        "url": "https://www.munichre.com/en/job/singapore/data-analytics-intern-high-net-worth-hnw/3342/35918148160"
       },
       {
-        "title": "Financial and Prof Lines UW Lead",
-        "url": "https://www.munichre.com/en/job/new-york/financial-and-prof-lines-uw-lead/3342/35866686528"
+        "title": "Data Engineer Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/35918111616"
       },
       {
-        "title": "Senior Group Underwriter, Group Reinsurance 1",
-        "url": "https://www.munichre.com/en/job/toronto/senior-group-underwriter-group-reinsurance-1/3342/35865475456"
+        "title": "Actuarial Intern, Central Life Reserving (Valuation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-valuation/3342/35915534016"
       },
       {
-        "title": "Senior Group Underwriter, Group Reinsurance",
-        "url": "https://www.munichre.com/en/job/montreal/senior-group-underwriter-group-reinsurance/3342/33423082304"
+        "title": "Actuarial Intern, Central Life Reserving (Automation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-automation/3342/35915533952"
       },
       {
         "title": "Find jobs",
