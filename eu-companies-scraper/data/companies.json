@@ -1042,13 +1042,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1351,20 +1351,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Data Analytics Intern, High-Net Worth (HNW)",
-        "url": "https://www.munichre.com/en/job/singapore/data-analytics-intern-high-net-worth-hnw/3342/35918148160"
+        "title": "Technical Accounting Intern",
+        "url": "https://www.munichre.com/en/job/singapore/technical-accounting-intern/3342/35913600192"
       },
       {
-        "title": "Data Engineer Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/35918111616"
+        "title": "Actuary, Health Insurance",
+        "url": "https://www.munichre.com/en/job/singapore/actuary-health-insurance/3342/34785420288"
       },
       {
-        "title": "Actuarial Intern, Central Life Reserving (Valuation)",
-        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-valuation/3342/35915534016"
+        "title": "Team Assistant",
+        "url": "https://www.munichre.com/en/job/tokyo/team-assistant/3342/34991028416"
       },
       {
-        "title": "Actuarial Intern, Central Life Reserving (Automation)",
-        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-automation/3342/35915533952"
+        "title": "Financial and Prof Lines UW Lead",
+        "url": "https://www.munichre.com/en/job/new-york/financial-and-prof-lines-uw-lead/3342/35866686528"
       },
       {
         "title": "Find jobs",
@@ -1855,35 +1855,6 @@
       {
         "title": "Career People, professions and careers in the companies of Schwarz Group",
         "url": "https://gruppe.schwarz/en"
-      }
-    ]
-  },
-  {
-    "name": "SEQUESTO",
-    "website": "https://sequesto.com",
-    "career_page_url": "https://sequesto.com/company/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://sequesto.com/company/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://sequesto.com/job-application-growth-marketing-manager"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Français",
-        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Nederlands",
-        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
       }
     ]
   },
