@@ -228,35 +228,9 @@
     ]
   },
   {
-    "name": "Atalef",
-    "website": "https://atalef.ai",
-    "career_page_url": "https://atalef.ai/talent",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Find your job",
-        "url": "https://app.atalef.ai"
-      }
-    ]
-  },
-  {
-    "name": "Atlas4D",
-    "website": "https://atlas4d.tech",
-    "career_page_url": "https://atlas4d.tech/careers",
-    "country_of_origin": "Bulgaria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Philosophy",
-        "url": "https://atlas4d.tech/careers"
-      }
-    ]
-  },
-  {
     "name": "Axa",
     "website": "https://www.axa.com",
-    "career_page_url": "https://www.axa.com/careers",
+    "career_page_url": "https://www.axa.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
@@ -379,44 +353,6 @@
     ]
   },
   {
-    "name": "BigHub",
-    "website": "https://bighub.ai",
-    "career_page_url": "https://bighub.ai/careers",
-    "country_of_origin": "Czechia",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Career Join our team and build real AI solutions.",
-        "url": "https://bighub.ai/careers"
-      },
-      {
-        "title": "Data Data Engineer Prague Full-time View job",
-        "url": "https://bighub.ai/career/data-engineer"
-      },
-      {
-        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
-        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
-      },
-      {
-        "title": "Business IT Project Manager Prague Full-time View job",
-        "url": "https://bighub.ai/career/it-project-manager"
-      }
-    ]
-  },
-  {
-    "name": "Bikademy",
-    "website": "https://bikademy.com",
-    "career_page_url": "https://bikademy.com/careers",
-    "country_of_origin": "Croatia",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Skip to content",
-        "url": "https://bikademy.com/careers"
-      }
-    ]
-  },
-  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -446,19 +382,6 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
-      }
-    ]
-  },
-  {
-    "name": "Bridgeapp.ai",
-    "website": "https://bridgeapp.ai",
-    "career_page_url": "https://bridgeapp.ai/company/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://bridgeapp.ai/company/careers"
       }
     ]
   },
@@ -632,33 +555,12 @@
     "jobs": []
   },
   {
-    "name": "DiffScout",
-    "website": "https://diffscout.com",
-    "career_page_url": "https://diffscout.com/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
     "name": "Edeka",
     "website": "http://www.edeka.de",
     "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Enactia",
-    "website": "https://www.enactia.com",
-    "career_page_url": "https://www.enactia.com/index.php/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://www.enactia.com/index.php/careers"
-      }
-    ]
   },
   {
     "name": "EnBW",
@@ -839,14 +741,6 @@
         "url": "https://www.eni.com/en-IT/careers/job-offers-fraud.html"
       }
     ]
-  },
-  {
-    "name": "Evernomic",
-    "website": "https://evernomic.com",
-    "career_page_url": "https://evernomic.com/letters/what-most-founders-get-wrong-about-building-their-first-team",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": []
   },
   {
     "name": "Exor",
@@ -1136,6 +1030,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
+        "title": "Staż z Lwem w obszarze analizy biznesowo - systemowej w Tribe Aplikacji Biznesowych i Strategicznych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-analizy-biznesowo-systemowej-w-tribe-aplikacji-biznesowych-i-strategicznych/3120/35783502016"
+      },
+      {
         "title": "Senior Specialist - Finance Accounting & Reporting",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
@@ -1154,10 +1052,6 @@
       {
         "title": "Expert - Data Scientist",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Expert Dev Engineer – SAP",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-dev-engineer-sap/3120/34829523584"
       }
     ]
   },
@@ -1171,55 +1065,6 @@
       {
         "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
         "url": "https://www.ingka.com/projects/skills-for-employment"
-      }
-    ]
-  },
-  {
-    "name": "Jobloom",
-    "website": "https://www.jobloom.app",
-    "career_page_url": "https://www.jobloom.app/en",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Jobloom",
-        "url": "https://www.jobloom.app/en"
-      },
-      {
-        "title": "Media",
-        "url": "https://www.jobloom.app/en/blog"
-      },
-      {
-        "title": "Podcasts",
-        "url": "https://www.jobloom.app/en/podcast"
-      },
-      {
-        "title": "Events",
-        "url": "https://www.jobloom.app/en/agenda"
-      },
-      {
-        "title": "Contact",
-        "url": "https://www.jobloom.app/en/contact"
-      },
-      {
-        "title": "Jobs",
-        "url": "https://www.jobloom.app/en/careers"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/career-site"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/multiposting"
-      },
-      {
-        "title": "Learn more →",
-        "url": "https://www.jobloom.app/en/ats"
-      },
-      {
-        "title": "Jobloom",
-        "url": "https://www.jobloom.app"
       }
     ]
   },
@@ -1254,14 +1099,6 @@
     "career_page_url": "http://lbbw.de/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Latiai",
-    "website": "https://www.latiai.com",
-    "career_page_url": "https://www.latiai.com/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -1324,14 +1161,6 @@
     ]
   },
   {
-    "name": "Meetcatcher",
-    "website": "https://meetcatcher.com",
-    "career_page_url": "https://meetcatcher.com/careers",
-    "country_of_origin": "Czechia",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1351,20 +1180,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Accounting Intern",
-        "url": "https://www.munichre.com/en/job/singapore/technical-accounting-intern/3342/35913600192"
+        "title": "Data Analytics Intern, High-Net Worth (HNW)",
+        "url": "https://www.munichre.com/en/job/singapore/data-analytics-intern-high-net-worth-hnw/3342/35918148160"
       },
       {
-        "title": "Actuary, Health Insurance",
-        "url": "https://www.munichre.com/en/job/singapore/actuary-health-insurance/3342/34785420288"
+        "title": "Data Engineer Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/35918111616"
       },
       {
-        "title": "Team Assistant",
-        "url": "https://www.munichre.com/en/job/tokyo/team-assistant/3342/34991028416"
+        "title": "Actuarial Intern, Central Life Reserving (Valuation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-valuation/3342/35915534016"
       },
       {
-        "title": "Financial and Prof Lines UW Lead",
-        "url": "https://www.munichre.com/en/job/new-york/financial-and-prof-lines-uw-lead/3342/35866686528"
+        "title": "Actuarial Intern, Central Life Reserving (Automation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-automation/3342/35915533952"
       },
       {
         "title": "Find jobs",
@@ -1499,19 +1328,6 @@
     "jobs": []
   },
   {
-    "name": "Permis Online",
-    "website": "https://permis.online",
-    "career_page_url": "https://permis.online/jobs",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "S'inscrire",
-        "url": "https://permis.online/jobs"
-      }
-    ]
-  },
-  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1523,14 +1339,6 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
-  },
-  {
-    "name": "ReactNative Jobs",
-    "website": "https://reactnative-jobs.com",
-    "career_page_url": "https://reactnative-jobs.com/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": []
   },
   {
     "name": "Renault",
@@ -2248,19 +2056,6 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "WorkSmart",
-    "website": "https://work-smart.ai",
-    "career_page_url": "https://work-smart.ai/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://work-smart.ai/careers"
-      }
-    ]
   },
   {
     "name": "ZF Friedrichshafen",
