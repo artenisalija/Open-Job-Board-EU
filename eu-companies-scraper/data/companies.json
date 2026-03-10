@@ -259,12 +259,7 @@
     "career_page_url": "https://www.axa.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.axa.com/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Banco Santander",
@@ -862,75 +857,6 @@
     ]
   },
   {
-    "name": "Glencore",
-    "website": "https://glencore.com",
-    "career_page_url": "https://glencore.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "SKIP NAVIGATION",
-        "url": "https://glencore.com/careers"
-      },
-      {
-        "title": "Jobs",
-        "url": "https://glencore.com/careers/jobs"
-      },
-      {
-        "title": "Life at Glencore",
-        "url": "https://glencore.com/careers/life-at-glencore"
-      },
-      {
-        "title": "Career areas",
-        "url": "https://glencore.com/careers/career-areas"
-      },
-      {
-        "title": "How we hire",
-        "url": "https://glencore.com/careers/how-we-hire"
-      },
-      {
-        "title": "Early careers",
-        "url": "https://glencore.com/careers/early-careers"
-      },
-      {
-        "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/careers/early-careers/baar"
-      },
-      {
-        "title": "London, UK",
-        "url": "https://glencore.com/careers/early-careers/london"
-      },
-      {
-        "title": "USA",
-        "url": "https://glencore.com/careers/early-careers/usa"
-      },
-      {
-        "title": "Singapore",
-        "url": "https://glencore.com/careers/early-careers/singapore"
-      },
-      {
-        "title": "China",
-        "url": "https://glencore.com/careers/early-careers/china"
-      },
-      {
-        "title": "Africa copper",
-        "url": "https://glencore.com/careers/early-careers/africa-copper"
-      },
-      {
-        "title": "South Africa",
-        "url": "https://glencore.com/careers/early-careers/south-africa"
-      },
-      {
-        "title": "Base metals north America",
-        "url": "https://glencore.com/careers/early-careers/base-metals-north-america"
-      },
-      {
-        "title": "Kazakhstan",
-        "url": "https://glencore.com/careers/early-careers/kazakhstan"
-      }
-    ]
-  },
-  {
     "name": "HSBC",
     "website": "https://hsbc.com",
     "career_page_url": "https://hsbc.com/careers",
@@ -1224,14 +1150,6 @@
     ]
   },
   {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1351,20 +1269,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Project Specialist Intern",
-        "url": "https://www.munichre.com/en/job/hartford/project-specialist-intern/3342/35585451008"
+        "title": "Data Analytics Intern, High-Net Worth (HNW)",
+        "url": "https://www.munichre.com/en/job/singapore/data-analytics-intern-high-net-worth-hnw/3342/35918148160"
       },
       {
-        "title": "Inspector Trainee - Denver, CO",
-        "url": "https://www.munichre.com/en/job/denver/inspector-trainee-denver-co/3342/35585451136"
+        "title": "Data Engineer Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/35918111616"
       },
       {
-        "title": "Head of Programme Delivery",
-        "url": "https://www.munichre.com/en/job/london/head-of-programme-delivery/3342/35969180416"
+        "title": "Actuarial Intern, Central Life Reserving (Valuation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-valuation/3342/35915534016"
       },
       {
-        "title": "Inspector Trainee - Salt Lake City, Utah",
-        "url": "https://www.munichre.com/en/job/salt-lake-city/inspector-trainee-salt-lake-city-utah/3342/31297147328"
+        "title": "Actuarial Intern, Central Life Reserving (Automation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-automation/3342/35915533952"
       },
       {
         "title": "Find jobs",
@@ -1535,17 +1453,21 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers/reknow-university",
+    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
       },
       {
-        "title": "Careers",
+        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
         "url": "https://www.renaultgroup.com/en/careers"
+      },
+      {
+        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
@@ -1855,35 +1777,6 @@
     ]
   },
   {
-    "name": "SEQUESTO",
-    "website": "https://sequesto.com",
-    "career_page_url": "https://sequesto.com/company/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://sequesto.com/company/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://sequesto.com/job-application-growth-marketing-manager"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Français",
-        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Nederlands",
-        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
-      }
-    ]
-  },
-  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -1921,19 +1814,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
