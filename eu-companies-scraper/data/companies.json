@@ -823,6 +823,10 @@
         "url": "https://www.eni.com/en-IT/careers/training/master.html"
       },
       {
+        "title": "CAREERS GEMS Master’s – applications open Apply to the master’s to become an energy-sector professional. Applications close 10 August 2026. Learn more about the master’s",
+        "url": "https://www.eni.com/en-IT/careers/training/master/gems.html"
+      },
+      {
         "title": "MEDEA Master: Applications are open Apply by 30 April 2026 (international candidates) or by 15 May 2026 (Italian candidates). APPLY NOW FOR THE MASTER'S",
         "url": "https://www.eni.com/en-IT/careers/training/master/medea.html"
       },
@@ -1042,13 +1046,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1128,8 +1132,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
+        "title": "Staż z Lwem w Obszarze Analizy i Zarządzania Danymi",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-analizy-i-zarzadzania-danymi/3120/35996252032"
+      },
+      {
         "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
       },
       {
         "title": "DevOps Engineer",
@@ -1150,14 +1162,6 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
-      },
-      {
-        "title": "Expert - Data Scientist",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
-      },
-      {
-        "title": "Główny_a Specjalista_ka ds. Zabezpieczeń Technicznych",
-        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-a-specjalista-ka-ds-zabezpieczen-technicznych/3120/35969204736"
       }
     ]
   },
@@ -1222,6 +1226,14 @@
         "url": "https://www.jobloom.app"
       }
     ]
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/sustainability/empower-people-together/future-talent",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1343,20 +1355,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "E&S Property Underwriter",
-        "url": "https://www.munichre.com/en/job/philadelphia/e-and-s-property-underwriter/3342/35978871616"
+        "title": "Internship Opportunity: CRM System Design & Global Stakeholder Consulting (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-opportunity-crm-system-design-and-global-stakeholder-consulting-m-f-d/3342/31297153280"
       },
       {
-        "title": "E&S Property Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/e-and-s-property-underwriter/3342/35978871424"
+        "title": "Accounts Receivable Administrator",
+        "url": "https://www.munichre.com/en/job/manchester/accounts-receivable-administrator/3342/35998068544"
       },
       {
-        "title": "Underwriter Level 2 (P&C)",
-        "url": "https://www.munichre.com/en/job/london/underwriter-level-2-p-and-c/3342/35606813120"
+        "title": "HVAC Equipment Specialist",
+        "url": "https://www.munichre.com/en/job/wayne/hvac-equipment-specialist/3342/35085608064"
       },
       {
-        "title": "Specialty Claims Associate",
-        "url": "https://www.munichre.com/en/job/princeton/specialty-claims-associate/3342/35958476800"
+        "title": "Praktikant Recruiting & HR Marketing (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-recruiting-and-hr-marketing-m-w-d/3342/35606788736"
       },
       {
         "title": "Find jobs",
@@ -1851,6 +1863,35 @@
       {
         "title": "Career People, professions and careers in the companies of Schwarz Group",
         "url": "https://gruppe.schwarz/en"
+      }
+    ]
+  },
+  {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
       }
     ]
   },
