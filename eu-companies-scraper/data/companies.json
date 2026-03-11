@@ -117,6 +117,10 @@
         "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
       },
       {
+        "title": "Aerospace Engineering Virtual Work Experience Working with Springpod, Airbus has developed a programme for you to look behind the scenes at what aerospace engineers at Airbus…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
+      },
+      {
         "title": "Apprenticehip Airbus Cybersecurity School 2026 Toulouse, France 27 February 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Cybersecurity-School-2026---formation--Mastre-Expert-en-Cyberscurit--en-alternance-H-F_JR10395108"
       },
@@ -171,10 +175,6 @@
       {
         "title": "Women's Interactive Network The “WIN” initiatives are a dynamic network of local and global women's networks, dedicated to fostering professional growth and…",
         "url": "https://airbus.com/en/careers/life-at-airbus/women-networks-at-airbus"
-      },
-      {
-        "title": "ADAPT ADAPT is an employee resource group aiming to change perception, build a caring network and provide support to those who have or…",
-        "url": "https://airbus.com/en/careers/life-at-airbus/adapt"
       }
     ]
   },
@@ -276,6 +276,10 @@
       {
         "title": "Careers",
         "url": "https://www.santander.com/en/careers"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.santander.com/es/nuestro-compromiso/sostenibilidad/clima-nuestro-plan-de-transicion"
       },
       {
         "title": "Open oportunities",
@@ -446,19 +450,6 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
-      }
-    ]
-  },
-  {
-    "name": "Bridgeapp.ai",
-    "website": "https://bridgeapp.ai",
-    "career_page_url": "https://bridgeapp.ai/company/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://bridgeapp.ai/company/careers"
       }
     ]
   },
@@ -637,14 +628,6 @@
     "career_page_url": "https://diffscout.com/careers",
     "country_of_origin": "Austria",
     "source": "eu_startups",
-    "jobs": []
-  },
-  {
-    "name": "Edeka",
-    "website": "http://www.edeka.de",
-    "career_page_url": "http://www.edeka.de/jobs",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
     "jobs": []
   },
   {
@@ -1046,13 +1029,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1128,40 +1111,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior .Net Engineer – Komodo@ ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/senior-net-engineer-komodo-ing-hubs-romania/3121/35995543680"
+        "title": "Senior Product Manager - Embedded Lending",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
-        "title": "Customer Journey Expert | Business Analyst | IPA Business Support @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/customer-journey-expert-business-analyst-ipa-business-support-ing-hubs-romania/3121/34211703680"
+        "title": "Staż z Lwem w Obszarze Analizy i Zarządzania Danymi",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-analizy-i-zarzadzania-danymi/3120/35996252032"
       },
       {
-        "title": "Accountant Stageur",
-        "url": "https://careers.ing.com/en/job/milan/accountant-stageur/3121/35995543488"
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       },
       {
-        "title": "Senior Java Backend Developer",
-        "url": "https://careers.ing.com/en/job/milan/senior-java-backend-developer/3121/35995543360"
+        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
       },
       {
-        "title": "Technical Product Owner",
-        "url": "https://careers.ing.com/en/job/milan/technical-product-owner/3121/35995543232"
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
       },
       {
-        "title": "Internship - Energy",
-        "url": "https://careers.ing.com/en/job/milan/internship-energy/3121/35995543104"
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       },
       {
-        "title": "Strategy & Operations Manager (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/strategy-and-operations-manager-w-m-d/3121/35995542976"
+        "title": "Expert - Financial Crime Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
       },
       {
-        "title": "Project Finance Transaction Management - Director",
-        "url": "https://careers.ing.com/en/job/london/project-finance-transaction-management-director/3121/35995542848"
+        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
+        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       },
       {
-        "title": "Private Banker Hasselt SME owners & self-employed",
-        "url": "https://careers.ing.com/en/job/hasselt/private-banker-hasselt-sme-owners-and-self-employed/3121/35995542784"
+        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
       }
     ]
   },
@@ -1355,20 +1338,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Underwriting Assistant (Part‑Time, 1‑Year Contract)",
-        "url": "https://www.munichre.com/en/job/sydney/technical-underwriting-assistant-part-time-1-year-contract/3342/36014978688"
+        "title": "Accounts Payable & Accounts Receivable",
+        "url": "https://www.munichre.com/en/job/madrid/accounts-payable-and-accounts-receivable/3342/36025587456"
       },
       {
-        "title": "Regional Actuary",
-        "url": "https://www.munichre.com/en/job/singapore/regional-actuary/3342/36014978624"
+        "title": "Credit Controller",
+        "url": "https://www.munichre.com/en/job/madrid/credit-controller/3342/36025587072"
       },
       {
-        "title": "Actuarial Intern, US Life (2026 Summer - New York)",
-        "url": "https://www.munichre.com/en/job/new-york/actuarial-intern-us-life-2026-summer-new-york/3342/35860808320"
+        "title": "MGA Technical Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/mga-technical-accountant/3342/36025587008"
       },
       {
-        "title": "Microsoft Dynamics 365 Technical Architect Sr.",
-        "url": "https://www.munichre.com/en/job/hartford/microsoft-dynamics-365-technical-architect-sr/3342/36007323264"
+        "title": "Engineer Surveyor Kendal",
+        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-kendal/3342/32714695296"
       },
       {
         "title": "Find jobs",
@@ -1933,6 +1916,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
