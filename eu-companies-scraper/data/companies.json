@@ -419,17 +419,17 @@
   {
     "name": "Bosch",
     "website": "https://www.bosch.com",
-    "career_page_url": "https://www.bosch.com/careers/why-bosch",
+    "career_page_url": "https://www.bosch.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.bosch.com/careers/why-bosch"
+        "url": "https://www.bosch.com/careers"
       },
       {
-        "title": "Work LikeABosch",
-        "url": "https://www.bosch.com/careers"
+        "title": "Overview",
+        "url": "https://www.bosch.com/careers/why-bosch"
       },
       {
         "title": "Benefits",
@@ -1046,13 +1046,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1128,40 +1128,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Product Manager - Embedded Lending",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+        "title": "Senior .Net Engineer – Komodo@ ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/senior-net-engineer-komodo-ing-hubs-romania/3121/35995543680"
       },
       {
-        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
+        "title": "Customer Journey Expert | Business Analyst | IPA Business Support @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/customer-journey-expert-business-analyst-ipa-business-support-ing-hubs-romania/3121/34211703680"
       },
       {
-        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
+        "title": "Accountant Stageur",
+        "url": "https://careers.ing.com/en/job/milan/accountant-stageur/3121/35995543488"
       },
       {
-        "title": "DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+        "title": "Senior Java Backend Developer",
+        "url": "https://careers.ing.com/en/job/milan/senior-java-backend-developer/3121/35995543360"
       },
       {
-        "title": "Senior Specialist - Finance Accounting & Reporting",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
+        "title": "Technical Product Owner",
+        "url": "https://careers.ing.com/en/job/milan/technical-product-owner/3121/35995543232"
       },
       {
-        "title": "Expert - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
+        "title": "Internship - Energy",
+        "url": "https://careers.ing.com/en/job/milan/internship-energy/3121/35995543104"
       },
       {
-        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
-        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
+        "title": "Strategy & Operations Manager (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/strategy-and-operations-manager-w-m-d/3121/35995542976"
       },
       {
-        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
+        "title": "Project Finance Transaction Management - Director",
+        "url": "https://careers.ing.com/en/job/london/project-finance-transaction-management-director/3121/35995542848"
       },
       {
-        "title": "Expert - Data Scientist",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
+        "title": "Private Banker Hasselt SME owners & self-employed",
+        "url": "https://careers.ing.com/en/job/hasselt/private-banker-hasselt-sme-owners-and-self-employed/3121/35995542784"
       }
     ]
   },
@@ -1355,20 +1355,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Financial Planning Accountant",
-        "url": "https://www.munichre.com/en/job/princeton/financial-planning-accountant/3342/35782743424"
+        "title": "Technical Underwriting Assistant (Part‑Time, 1‑Year Contract)",
+        "url": "https://www.munichre.com/en/job/sydney/technical-underwriting-assistant-part-time-1-year-contract/3342/36014978688"
       },
       {
-        "title": "Inspector Trainee - Fond Du Lac, Wisconsin",
-        "url": "https://www.munichre.com/en/job/fond-du-lac/inspector-trainee-fond-du-lac-wisconsin/3342/31297150208"
+        "title": "Regional Actuary",
+        "url": "https://www.munichre.com/en/job/singapore/regional-actuary/3342/36014978624"
       },
       {
-        "title": "Claims Delegated Authority Analyst",
-        "url": "https://www.munichre.com/en/job/manchester/claims-delegated-authority-analyst/3342/32396842624"
+        "title": "Actuarial Intern, US Life (2026 Summer - New York)",
+        "url": "https://www.munichre.com/en/job/new-york/actuarial-intern-us-life-2026-summer-new-york/3342/35860808320"
       },
       {
-        "title": "Senior Group Underwriter, Group Reinsurance 1",
-        "url": "https://www.munichre.com/en/job/toronto/senior-group-underwriter-group-reinsurance-1/3342/35865475456"
+        "title": "Microsoft Dynamics 365 Technical Architect Sr.",
+        "url": "https://www.munichre.com/en/job/hartford/microsoft-dynamics-365-technical-architect-sr/3342/36007323264"
       },
       {
         "title": "Find jobs",
