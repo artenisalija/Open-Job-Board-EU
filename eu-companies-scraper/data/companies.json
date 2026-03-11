@@ -419,17 +419,17 @@
   {
     "name": "Bosch",
     "website": "https://www.bosch.com",
-    "career_page_url": "https://www.bosch.com/careers",
+    "career_page_url": "https://www.bosch.com/careers/why-bosch",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.bosch.com/careers"
+        "url": "https://www.bosch.com/careers/why-bosch"
       },
       {
-        "title": "Overview",
-        "url": "https://www.bosch.com/careers/why-bosch"
+        "title": "Work LikeABosch",
+        "url": "https://www.bosch.com/careers"
       },
       {
         "title": "Benefits",
@@ -1046,13 +1046,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1132,10 +1132,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
       },
       {
-        "title": "Staż z Lwem w Obszarze Analizy i Zarządzania Danymi",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-analizy-i-zarzadzania-danymi/3120/35996252032"
-      },
-      {
         "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       },
@@ -1162,6 +1158,10 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
+      },
+      {
+        "title": "Expert - Data Scientist",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-scientist/3120/32269597376"
       }
     ]
   },
@@ -1355,20 +1355,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Internship Opportunity: CRM System Design & Global Stakeholder Consulting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-opportunity-crm-system-design-and-global-stakeholder-consulting-m-f-d/3342/31297153280"
+        "title": "Financial Planning Accountant",
+        "url": "https://www.munichre.com/en/job/princeton/financial-planning-accountant/3342/35782743424"
       },
       {
-        "title": "Accounts Receivable Administrator",
-        "url": "https://www.munichre.com/en/job/manchester/accounts-receivable-administrator/3342/35998068544"
+        "title": "Inspector Trainee - Fond Du Lac, Wisconsin",
+        "url": "https://www.munichre.com/en/job/fond-du-lac/inspector-trainee-fond-du-lac-wisconsin/3342/31297150208"
       },
       {
-        "title": "HVAC Equipment Specialist",
-        "url": "https://www.munichre.com/en/job/wayne/hvac-equipment-specialist/3342/35085608064"
+        "title": "Claims Delegated Authority Analyst",
+        "url": "https://www.munichre.com/en/job/manchester/claims-delegated-authority-analyst/3342/32396842624"
       },
       {
-        "title": "Praktikant Recruiting & HR Marketing (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-recruiting-and-hr-marketing-m-w-d/3342/35606788736"
+        "title": "Senior Group Underwriter, Group Reinsurance 1",
+        "url": "https://www.munichre.com/en/job/toronto/senior-group-underwriter-group-reinsurance-1/3342/35865475456"
       },
       {
         "title": "Find jobs",
