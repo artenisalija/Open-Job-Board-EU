@@ -1043,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1336,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Financial Planning Accountant",
-        "url": "https://www.munichre.com/en/job/princeton/financial-planning-accountant/3342/35782743424"
+        "title": "Principal Data Scientist - Insurance Pricing",
+        "url": "https://www.munichre.com/en/job/amelia/principal-data-scientist-insurance-pricing/3342/35592532224"
       },
       {
-        "title": "Tax Manager (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/tax-manager-m-w-d/3342/36039394432"
+        "title": "Actuarial Associate, Biometric Research",
+        "url": "https://www.munichre.com/en/job/toronto/actuarial-associate-biometric-research/3342/36074167104"
       },
       {
-        "title": "Inspector Trainee - Parkersburg, West Virginia",
-        "url": "https://www.munichre.com/en/job/parkersburg/inspector-trainee-parkersburg-west-virginia/3342/34604779328"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
-        "title": "Property Underwriter (D&F)",
-        "url": "https://www.munichre.com/en/job/london/property-underwriter-d-and-f/3342/34339206976"
+        "title": "Microsoft Dynamics 365 Technical Architect Sr.",
+        "url": "https://www.munichre.com/en/job/hartford/microsoft-dynamics-365-technical-architect-sr/3342/36007323264"
       },
       {
         "title": "Find jobs",
@@ -1495,6 +1495,14 @@
         "url": "https://opensenselabs.com/career/accounts-associate"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Permis Online",
@@ -1931,19 +1939,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/jobs",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
