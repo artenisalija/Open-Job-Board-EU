@@ -228,6 +228,32 @@
     ]
   },
   {
+    "name": "Atalef",
+    "website": "https://atalef.ai",
+    "career_page_url": "https://atalef.ai/talent",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Find your job",
+        "url": "https://app.atalef.ai"
+      }
+    ]
+  },
+  {
+    "name": "Atlas4D",
+    "website": "https://atlas4d.tech",
+    "career_page_url": "https://atlas4d.tech/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Philosophy",
+        "url": "https://atlas4d.tech/careers"
+      }
+    ]
+  },
+  {
     "name": "Axa",
     "website": "https://www.axa.com",
     "career_page_url": "https://www.axa.com/careers",
@@ -353,6 +379,44 @@
     ]
   },
   {
+    "name": "BigHub",
+    "website": "https://bighub.ai",
+    "career_page_url": "https://bighub.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Career Join our team and build real AI solutions.",
+        "url": "https://bighub.ai/careers"
+      },
+      {
+        "title": "Data Data Engineer Prague Full-time View job",
+        "url": "https://bighub.ai/career/data-engineer"
+      },
+      {
+        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
+        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
+      },
+      {
+        "title": "Business IT Project Manager Prague Full-time View job",
+        "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -382,6 +446,32 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
+    "name": "Bridgeapp.ai",
+    "website": "https://bridgeapp.ai",
+    "career_page_url": "https://bridgeapp.ai/company/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://bridgeapp.ai/company/careers"
+      }
+    ]
+  },
+  {
+    "name": "Candidately",
+    "website": "https://www.candidately.com",
+    "career_page_url": "https://www.candidately.com/talent-marketplace",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Candidate Portal JOIN Waitlist Let candidates apply, schedule interviews, track their hiring journey and more.",
+        "url": "https://www.candidately.com/candidate-portal"
       }
     ]
   },
@@ -561,6 +651,19 @@
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/index.php/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/index.php/careers"
+      }
+    ]
   },
   {
     "name": "EnBW",
@@ -1022,10 +1125,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Analyst - Expert",
-        "url": "https://careers.ing.com/en/job/katowice/data-analyst-expert/3120/35622619904"
-      },
-      {
         "title": "Ekspert_ka - Financial Crime Compliance",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-financial-crime-compliance/3120/35471200960"
       },
@@ -1056,6 +1155,10 @@
       {
         "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
         "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
       }
     ]
   },
@@ -1069,6 +1172,55 @@
       {
         "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
         "url": "https://www.ingka.com/projects/skills-for-employment"
+      }
+    ]
+  },
+  {
+    "name": "Jobloom",
+    "website": "https://www.jobloom.app",
+    "career_page_url": "https://www.jobloom.app/en",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app/en"
+      },
+      {
+        "title": "Media",
+        "url": "https://www.jobloom.app/en/blog"
+      },
+      {
+        "title": "Podcasts",
+        "url": "https://www.jobloom.app/en/podcast"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.jobloom.app/en/agenda"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.jobloom.app/en/contact"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.jobloom.app/en/careers"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/career-site"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/multiposting"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/ats"
+      },
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app"
       }
     ]
   },
@@ -1157,6 +1309,14 @@
     ]
   },
   {
+    "name": "Meetcatcher",
+    "website": "https://meetcatcher.com",
+    "career_page_url": "https://meetcatcher.com/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1176,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Accounts Payable & Accounts Receivable",
-        "url": "https://www.munichre.com/en/job/madrid/accounts-payable-and-accounts-receivable/3342/36025587456"
+        "title": "Financial Planning Accountant",
+        "url": "https://www.munichre.com/en/job/princeton/financial-planning-accountant/3342/35782743424"
       },
       {
-        "title": "Credit Controller",
-        "url": "https://www.munichre.com/en/job/madrid/credit-controller/3342/36025587072"
+        "title": "Tax Manager (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/tax-manager-m-w-d/3342/36039394432"
       },
       {
-        "title": "MGA Technical Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/mga-technical-accountant/3342/36025587008"
+        "title": "Inspector Trainee - Parkersburg, West Virginia",
+        "url": "https://www.munichre.com/en/job/parkersburg/inspector-trainee-parkersburg-west-virginia/3342/34604779328"
       },
       {
-        "title": "Engineer Surveyor Kendal",
-        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-kendal/3342/32714695296"
+        "title": "Property Underwriter (D&F)",
+        "url": "https://www.munichre.com/en/job/london/property-underwriter-d-and-f/3342/34339206976"
       },
       {
         "title": "Find jobs",
@@ -1320,12 +1480,34 @@
     ]
   },
   {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/career",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
+    "name": "OpenSense Labs GmbH",
+    "website": "https://opensenselabs.com",
+    "career_page_url": "https://opensenselabs.com/career",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Apply Now",
+        "url": "https://opensenselabs.com/career/digital-marketing-specialist-content-social-media"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://opensenselabs.com/career/accounts-associate"
+      }
+    ]
+  },
+  {
+    "name": "Permis Online",
+    "website": "https://permis.online",
+    "career_page_url": "https://permis.online/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "S'inscrire",
+        "url": "https://permis.online/jobs"
+      }
+    ]
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1339,6 +1521,14 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
+  },
+  {
+    "name": "ReactNative Jobs",
+    "website": "https://reactnative-jobs.com",
+    "career_page_url": "https://reactnative-jobs.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Renault",
@@ -1667,6 +1857,43 @@
     ]
   },
   {
+    "name": "Seedance 2.0",
+    "website": "https://seedance2.so",
+    "career_page_url": "https://seedance2.so/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
+      }
+    ]
+  },
+  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -1704,6 +1931,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/jobs",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
