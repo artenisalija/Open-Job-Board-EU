@@ -932,6 +932,19 @@
     ]
   },
   {
+    "name": "HorSense Innovations",
+    "website": "https://horses.sale",
+    "career_page_url": "https://horses.sale/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "English",
+        "url": "https://horses.sale/careers"
+      }
+    ]
+  },
+  {
     "name": "HSBC",
     "website": "https://hsbc.com",
     "career_page_url": "https://hsbc.com/careers",
@@ -1043,13 +1056,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1125,8 +1138,24 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Specjalista_ka w Obszarze Sieci Detalicznej",
+        "url": "https://careers.ing.com/en/job/lubliniec/specjalista-ka-w-obszarze-sieci-detalicznej/3120/36094359168"
+      },
+      {
+        "title": "Koordynator_ka Sprzedaży Zdalnej",
+        "url": "https://careers.ing.com/en/job/warsaw/koordynator-ka-sprzedazy-zdalnej/3120/36094359104"
+      },
+      {
+        "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/35073259584"
+      },
+      {
         "title": "Młodszy_a Specjalista_tka - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-a-specjalista-tka-data-analyst/3120/36077742080"
+      },
+      {
+        "title": "Staż z Lwem – Cloud & AI Platform",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-cloud-and-ai-platform/3120/36094357952"
       },
       {
         "title": "Ekspert_ka - Financial Crime Compliance",
@@ -1143,22 +1172,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
-      },
-      {
-        "title": "DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
-      },
-      {
-        "title": "Senior Specialist - Finance Accounting & Reporting",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
-      },
-      {
-        "title": "Expert - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
-      },
-      {
-        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
-        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       }
     ]
   },
@@ -1362,6 +1375,14 @@
     ]
   },
   {
+    "name": "Nana Banana",
+    "website": "https://nanaimg.io",
+    "career_page_url": "https://nanaimg.io/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
     "name": "Novartis",
     "website": "https://novartis.com",
     "career_page_url": "https://novartis.com/careers",
@@ -1476,23 +1497,6 @@
       {
         "title": "Read more",
         "url": "https://www.omv.com/en/career/job-stories"
-      }
-    ]
-  },
-  {
-    "name": "OpenSense Labs GmbH",
-    "website": "https://opensenselabs.com",
-    "career_page_url": "https://opensenselabs.com/career",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Apply Now",
-        "url": "https://opensenselabs.com/career/digital-marketing-specialist-content-social-media"
-      },
-      {
-        "title": "Apply Now",
-        "url": "https://opensenselabs.com/career/accounts-associate"
       }
     ]
   },
