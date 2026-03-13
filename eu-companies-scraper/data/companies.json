@@ -932,19 +932,6 @@
     ]
   },
   {
-    "name": "HorSense Innovations",
-    "website": "https://horses.sale",
-    "career_page_url": "https://horses.sale/careers",
-    "country_of_origin": "Czechia",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "English",
-        "url": "https://horses.sale/careers"
-      }
-    ]
-  },
-  {
     "name": "HSBC",
     "website": "https://hsbc.com",
     "career_page_url": "https://hsbc.com/careers",
@@ -1056,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1373,14 +1360,6 @@
         "url": "https://www.munichre.com/en/munichre-opportunities"
       }
     ]
-  },
-  {
-    "name": "Nana Banana",
-    "website": "https://nanaimg.io",
-    "career_page_url": "https://nanaimg.io/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": []
   },
   {
     "name": "Novartis",
@@ -1869,43 +1848,6 @@
     ]
   },
   {
-    "name": "Seedance 2.0",
-    "website": "https://seedance2.so",
-    "career_page_url": "https://seedance2.so/careers",
-    "country_of_origin": "Austria",
-    "source": "eu_startups",
-    "jobs": []
-  },
-  {
-    "name": "SEQUESTO",
-    "website": "https://sequesto.com",
-    "career_page_url": "https://sequesto.com/company/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://sequesto.com/company/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://sequesto.com/job-application-growth-marketing-manager"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Français",
-        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Nederlands",
-        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
-      }
-    ]
-  },
-  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -2118,6 +2060,19 @@
       {
         "title": "Our employer awards We’re proud to be recognized as a high-quality employer because that means we come through for our people.",
         "url": "https://www.ubs.com/global/en/careers/about-us/employer-awards.html"
+      }
+    ]
+  },
+  {
+    "name": "Venvera",
+    "website": "https://venvera.com",
+    "career_page_url": "https://venvera.com/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://venvera.com/careers"
       }
     ]
   },
