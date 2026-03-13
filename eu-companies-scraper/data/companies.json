@@ -1043,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1125,6 +1125,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Młodszy_a Specjalista_tka - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-a-specjalista-tka-data-analyst/3120/36077742080"
+      },
+      {
         "title": "Ekspert_ka - Financial Crime Compliance",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-financial-crime-compliance/3120/35471200960"
       },
@@ -1155,10 +1159,6 @@
       {
         "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
         "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka - Wsparcie Ryzyka Kredytowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-ryzyka-kredytowego/3120/35471201600"
       }
     ]
   },
@@ -1336,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Principal Data Scientist - Insurance Pricing",
-        "url": "https://www.munichre.com/en/job/amelia/principal-data-scientist-insurance-pricing/3342/35592532224"
+        "title": "AVP, Legal Counsel & Compliance Officer (12 month contract)",
+        "url": "https://www.munichre.com/en/job/toronto/avp-legal-counsel-and-compliance-officer-12-month-contract/3342/36083580416"
       },
       {
-        "title": "Actuarial Associate, Biometric Research",
-        "url": "https://www.munichre.com/en/job/toronto/actuarial-associate-biometric-research/3342/36074167104"
+        "title": "Actuarial Intern, US Life (2026 Summer - New York)",
+        "url": "https://www.munichre.com/en/job/new-york/actuarial-intern-us-life-2026-summer-new-york/3342/35860808320"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "Inspector Trainee - Farmville, NC",
+        "url": "https://www.munichre.com/en/job/farmville/inspector-trainee-farmville-nc/3342/35708952448"
       },
       {
-        "title": "Microsoft Dynamics 365 Technical Architect Sr.",
-        "url": "https://www.munichre.com/en/job/hartford/microsoft-dynamics-365-technical-architect-sr/3342/36007323264"
+        "title": "IT-Project Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/35996141760"
       },
       {
         "title": "Find jobs",
@@ -1939,6 +1939,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
