@@ -1043,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1336,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP, Legal Counsel & Compliance Officer (12 month contract)",
-        "url": "https://www.munichre.com/en/job/toronto/avp-legal-counsel-and-compliance-officer-12-month-contract/3342/36083580416"
+        "title": "Inspector Trainee - Chicago, IL",
+        "url": "https://www.munichre.com/en/job/chicago/inspector-trainee-chicago-il/3342/36077690240"
+      },
+      {
+        "title": "Engagement Manager",
+        "url": "https://www.munichre.com/en/job/new-york/engagement-manager/3342/35150055296"
+      },
+      {
+        "title": "Life Actuarial Assistant (2026 New Grad Permanent - New York)",
+        "url": "https://www.munichre.com/en/job/new-york/life-actuarial-assistant-2026-new-grad-permanent-new-york/3342/35860808448"
       },
       {
         "title": "Actuarial Intern, US Life (2026 Summer - New York)",
         "url": "https://www.munichre.com/en/job/new-york/actuarial-intern-us-life-2026-summer-new-york/3342/35860808320"
-      },
-      {
-        "title": "Inspector Trainee - Farmville, NC",
-        "url": "https://www.munichre.com/en/job/farmville/inspector-trainee-farmville-nc/3342/35708952448"
-      },
-      {
-        "title": "IT-Project Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/35996141760"
       },
       {
         "title": "Find jobs",
@@ -1939,19 +1939,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
