@@ -1125,24 +1125,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Specjalista_ka w Obszarze Sieci Detalicznej",
-        "url": "https://careers.ing.com/en/job/lubliniec/specjalista-ka-w-obszarze-sieci-detalicznej/3120/36094359168"
-      },
-      {
-        "title": "Koordynator_ka Sprzedaży Zdalnej",
-        "url": "https://careers.ing.com/en/job/warsaw/koordynator-ka-sprzedazy-zdalnej/3120/36094359104"
-      },
-      {
         "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
         "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/35073259584"
       },
       {
         "title": "Młodszy_a Specjalista_tka - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-a-specjalista-tka-data-analyst/3120/36077742080"
-      },
-      {
-        "title": "Staż z Lwem – Cloud & AI Platform",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-cloud-and-ai-platform/3120/36094357952"
       },
       {
         "title": "Ekspert_ka - Financial Crime Compliance",
@@ -1159,6 +1147,18 @@
       {
         "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+      },
+      {
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
+      },
+      {
+        "title": "Expert - Financial Crime Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
       }
     ]
   },
@@ -1482,7 +1482,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1853,7 +1853,28 @@
     "career_page_url": "https://sequesto.com/company/careers",
     "country_of_origin": "Belgium",
     "source": "eu_startups",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
+      }
+    ]
   },
   {
     "name": "Shell",
