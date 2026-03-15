@@ -554,6 +554,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1319,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Associate Actuary",
-        "url": "https://www.munichre.com/en/job/amelia/associate-actuary/3342/34867283520"
+        "title": "Legal Counsel",
+        "url": "https://www.munichre.com/en/job/london/legal-counsel/3342/36001864960"
       },
       {
-        "title": "Principal Data Scientist (AI)",
-        "url": "https://www.munichre.com/en/job/amelia/principal-data-scientist-ai/3342/31297154496"
+        "title": "Project Manager (Business Development) (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-business-development-m-f-d/3342/35985556416"
       },
       {
-        "title": "Investment Accountant Associate - Hartford, CT Office",
-        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
+        "title": "Claims Service Rep CEB",
+        "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35823611712"
       },
       {
-        "title": "AVP & Actuary, Statutory Reporting",
-        "url": "https://www.munichre.com/en/job/new-york/avp-and-actuary-statutory-reporting/3342/31297146240"
+        "title": "Data Architect (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/data-architect-m-f-d/3342/35743243072"
       },
       {
         "title": "Find jobs",
@@ -1693,115 +1710,6 @@
     ]
   },
   {
-    "name": "Sanofi",
-    "website": "http://sanofi.com",
-    "career_page_url": "https://jobs.sanofi.com",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://jobs.sanofi.com"
-      },
-      {
-        "title": "Why Sanofi",
-        "url": "https://jobs.sanofi.com/why-join-sanofi"
-      },
-      {
-        "title": "Career Development",
-        "url": "https://jobs.sanofi.com/career-development"
-      },
-      {
-        "title": "Rewards & Benefits",
-        "url": "https://jobs.sanofi.com/rewards-and-benefits"
-      },
-      {
-        "title": "Culture & Values",
-        "url": "https://jobs.sanofi.com/culture-and-values"
-      },
-      {
-        "title": "Early Talent",
-        "url": "https://jobs.sanofi.com/early-talent"
-      },
-      {
-        "title": "Digital",
-        "url": "https://jobs.sanofi.com/digital"
-      },
-      {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Corporate Functions",
-        "url": "https://jobs.sanofi.com/corporate"
-      },
-      {
-        "title": "Hubs",
-        "url": "https://jobs.sanofi.com/hubs"
-      },
-      {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Early Careers",
-        "url": "https://jobs.sanofi.com/early-career-jobs"
-      },
-      {
-        "title": "Marketing & Sales",
-        "url": "https://jobs.sanofi.com/marketing-and-sales"
-      },
-      {
-        "title": "Medical & Market Access",
-        "url": "https://jobs.sanofi.com/medical-market-access"
-      },
-      {
-        "title": "Quality Assurance",
-        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
-      },
-      {
-        "title": "Regulatory Affairs",
-        "url": "https://jobs.sanofi.com/regulatory-affairs"
-      },
-      {
-        "title": "Business Operations",
-        "url": "https://jobs.sanofi.com/business-operations-jobs"
-      },
-      {
-        "title": "Engineering & Maintenance",
-        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
-      },
-      {
-        "title": "Data & Technology",
-        "url": "https://jobs.sanofi.com/data-technology-jobs"
-      },
-      {
-        "title": "Locations",
-        "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
-      },
-      {
-        "title": "Sanofi Stories",
-        "url": "https://jobs.sanofi.com/sanofi-stories"
-      },
-      {
-        "title": "Join Our Talent Community opens in a new tab",
-        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
-      },
-      {
-        "title": "Your Saved Jobs",
-        "url": "https://jobs.sanofi.com/saved-jobs"
-      },
-      {
-        "title": "Search Jobs",
-        "url": "https://jobs.sanofi.com/en/search-jobs"
-      }
-    ]
-  },
-  {
     "name": "Sberbank",
     "website": "http://sberbank.com",
     "career_page_url": "http://sberbank.com/jobs",
@@ -1827,6 +1735,35 @@
       {
         "title": "Career People, professions and careers in the companies of Schwarz Group",
         "url": "https://gruppe.schwarz/en"
+      }
+    ]
+  },
+  {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
       }
     ]
   },
