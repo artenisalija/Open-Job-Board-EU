@@ -315,13 +315,25 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/jobs",
+    "career_page_url": "http://basf.com/us/en/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to main content",
-        "url": "http://basf.com/jobs"
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
       }
     ]
   },
@@ -388,6 +400,19 @@
       {
         "title": "Business IT Project Manager Prague Full-time View job",
         "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
       }
     ]
   },
@@ -1018,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1311,20 +1336,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Investment Accountant Associate - Hartford, CT Office",
-        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
+        "title": "Legal Counsel",
+        "url": "https://www.munichre.com/en/job/london/legal-counsel/3342/36001864960"
       },
       {
-        "title": "AVP & Actuary, Statutory Reporting",
-        "url": "https://www.munichre.com/en/job/new-york/avp-and-actuary-statutory-reporting/3342/31297146240"
+        "title": "Project Manager (Business Development) (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-business-development-m-f-d/3342/35985556416"
       },
       {
-        "title": "Senior Actuarial Associate, Inforce and M&A",
-        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-inforce-and-m-and-a/3342/34621157248"
+        "title": "Claims Service Rep CEB",
+        "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35823611712"
       },
       {
-        "title": "Senior Life Underwriting Consultant",
-        "url": "https://www.munichre.com/en/job/atlanta/senior-life-underwriting-consultant/3342/36113561536"
+        "title": "Data Architect (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/data-architect-m-f-d/3342/35743243072"
       },
       {
         "title": "Find jobs",
@@ -1889,19 +1914,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
