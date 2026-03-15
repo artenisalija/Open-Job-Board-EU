@@ -554,23 +554,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1336,20 +1319,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Legal Counsel",
-        "url": "https://www.munichre.com/en/job/london/legal-counsel/3342/36001864960"
+        "title": "Associate Actuary",
+        "url": "https://www.munichre.com/en/job/amelia/associate-actuary/3342/34867283520"
       },
       {
-        "title": "Project Manager (Business Development) (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/project-manager-business-development-m-f-d/3342/35985556416"
+        "title": "Principal Data Scientist (AI)",
+        "url": "https://www.munichre.com/en/job/amelia/principal-data-scientist-ai/3342/31297154496"
       },
       {
-        "title": "Claims Service Rep CEB",
-        "url": "https://www.munichre.com/en/job/hartford/claims-service-rep-ceb/3342/35823611712"
+        "title": "Investment Accountant Associate - Hartford, CT Office",
+        "url": "https://www.munichre.com/en/job/hartford/investment-accountant-associate-hartford-ct-office/3342/35492915840"
       },
       {
-        "title": "Data Architect (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/data-architect-m-f-d/3342/35743243072"
+        "title": "AVP & Actuary, Statutory Reporting",
+        "url": "https://www.munichre.com/en/job/new-york/avp-and-actuary-statutory-reporting/3342/31297146240"
       },
       {
         "title": "Find jobs",
@@ -1844,35 +1827,6 @@
       {
         "title": "Career People, professions and careers in the companies of Schwarz Group",
         "url": "https://gruppe.schwarz/en"
-      }
-    ]
-  },
-  {
-    "name": "SEQUESTO",
-    "website": "https://sequesto.com",
-    "career_page_url": "https://sequesto.com/company/careers",
-    "country_of_origin": "Belgium",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://sequesto.com/company/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://sequesto.com/job-application-growth-marketing-manager"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Français",
-        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
-      },
-      {
-        "title": "Nederlands",
-        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
       }
     ]
   },
