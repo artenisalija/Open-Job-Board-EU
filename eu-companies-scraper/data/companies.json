@@ -1225,6 +1225,23 @@
     ]
   },
   {
+    "name": "L'Oréal",
+    "website": "https://www.loreal.com/en",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Go to Content",
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+      },
+      {
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
+        "url": "https://www.loreal.com/en/careers"
+      }
+    ]
+  },
+  {
     "name": "Landesbank Baden-Württemberg",
     "website": "http://lbbw.de",
     "career_page_url": "http://lbbw.de/career",
@@ -1461,6 +1478,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Permis Online",
@@ -2120,15 +2145,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
