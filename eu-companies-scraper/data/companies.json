@@ -1043,13 +1043,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1221,23 +1221,6 @@
       {
         "title": "Jobloom",
         "url": "https://www.jobloom.app"
-      }
-    ]
-  },
-  {
-    "name": "L'Oréal",
-    "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Go to Content",
-        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
-      },
-      {
-        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
-        "url": "https://www.loreal.com/en/careers"
       }
     ]
   },
@@ -1478,14 +1461,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Permis Online",
@@ -2145,10 +2120,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
