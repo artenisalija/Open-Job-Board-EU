@@ -479,55 +479,6 @@
     "jobs": []
   },
   {
-    "name": "Continental",
-    "website": "https://continental.com",
-    "career_page_url": "https://continental.com/en/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://continental.com/en/career"
-      },
-      {
-        "title": "Job Portal",
-        "url": "https://jobs.continental.com/en"
-      },
-      {
-        "title": "Our Range of Jobs",
-        "url": "https://continental.com/en/career/our-range-of-jobs"
-      },
-      {
-        "title": "Software Engineering and System Engineering",
-        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
-      },
-      {
-        "title": "Operating",
-        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
-      },
-      {
-        "title": "Quality",
-        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
-      },
-      {
-        "title": "IT and Cybersecurity",
-        "url": "https://continental.com/en/career/our-range-of-jobs/it"
-      },
-      {
-        "title": "Sales",
-        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
-      },
-      {
-        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
-        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
-      },
-      {
-        "title": "Jobs & Careers",
-        "url": "https://continental.com/en/career/contact-faqs/contact"
-      }
-    ]
-  },
-  {
     "name": "Daimler Truck",
     "website": "https://www.daimlertruck.com/en",
     "career_page_url": "https://www.daimlertruck.com/en/career",
@@ -1038,13 +989,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1331,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "International Graduate Trainee - focus on specialty risk underwriting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-specialty-risk-underwriting-m-f-d/3342/31297161408"
+        "title": "E&S Healthcare Underwriter - Allied Healthcare",
+        "url": "https://www.munichre.com/en/job/chicago/e-and-s-healthcare-underwriter-allied-healthcare/3342/36207346432"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "MGA Financial Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/mga-financial-accountant/3342/36025587008"
       },
       {
-        "title": "Specialty Cyber Ops Intern",
-        "url": "https://www.munichre.com/en/job/wayne/specialty-cyber-ops-intern/3342/35315273088"
+        "title": "Intake Admin Intern",
+        "url": "https://www.munichre.com/en/job/wayne/intake-admin-intern/3342/35585448768"
       },
       {
-        "title": "Life Claims Graduate Learner",
-        "url": "https://www.munichre.com/en/job/johannesburg/life-claims-graduate-learner/3342/36202765248"
+        "title": "MRSGM NA Roanoke Sales & Service Intern",
+        "url": "https://www.munichre.com/en/job/houston/mrsgm-na-roanoke-sales-and-service-intern/3342/35383415616"
       },
       {
         "title": "Find jobs",
