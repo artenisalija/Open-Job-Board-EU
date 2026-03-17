@@ -105,10 +105,6 @@
         "url": "https://airbus.com/en/careers/make-your-career-your-mission"
       },
       {
-        "title": "Apprenticeships in the UK - last chance to apply for 2026! Find your future with an apprenticeship with Airbus. Our programmes provide a clear route for you to make your career fly.",
-        "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom"
-      },
-      {
         "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
         "url": "https://airbus.com/en/careers/international-women-at-airbus"
       },
@@ -175,6 +171,10 @@
       {
         "title": "Women's Interactive Network The “WIN” initiatives are a dynamic network of local and global women's networks, dedicated to fostering professional growth and…",
         "url": "https://airbus.com/en/careers/life-at-airbus/women-networks-at-airbus"
+      },
+      {
+        "title": "ADAPT ADAPT is an employee resource group aiming to change perception, build a caring network and provide support to those who have or…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/adapt"
       }
     ]
   },
@@ -477,6 +477,55 @@
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Continental",
+    "website": "https://continental.com",
+    "career_page_url": "https://continental.com/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://continental.com/en/career"
+      },
+      {
+        "title": "Job Portal",
+        "url": "https://jobs.continental.com/en"
+      },
+      {
+        "title": "Our Range of Jobs",
+        "url": "https://continental.com/en/career/our-range-of-jobs"
+      },
+      {
+        "title": "Software Engineering and System Engineering",
+        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
+      },
+      {
+        "title": "Operating",
+        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
+      },
+      {
+        "title": "Quality",
+        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
+      },
+      {
+        "title": "IT and Cybersecurity",
+        "url": "https://continental.com/en/career/our-range-of-jobs/it"
+      },
+      {
+        "title": "Sales",
+        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
+      },
+      {
+        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
+        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
+      },
+      {
+        "title": "Jobs & Careers",
+        "url": "https://continental.com/en/career/contact-faqs/contact"
+      }
+    ]
   },
   {
     "name": "Daimler Truck",
@@ -1282,20 +1331,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "E&S Healthcare Underwriter - Allied Healthcare",
-        "url": "https://www.munichre.com/en/job/chicago/e-and-s-healthcare-underwriter-allied-healthcare/3342/36207346432"
+        "title": "International Graduate Trainee - focus on specialty risk underwriting (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-specialty-risk-underwriting-m-f-d/3342/31297161408"
       },
       {
-        "title": "MGA Financial Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/mga-financial-accountant/3342/36025587008"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
-        "title": "Intake Admin Intern",
-        "url": "https://www.munichre.com/en/job/wayne/intake-admin-intern/3342/35585448768"
+        "title": "Specialty Cyber Ops Intern",
+        "url": "https://www.munichre.com/en/job/wayne/specialty-cyber-ops-intern/3342/35315273088"
       },
       {
-        "title": "MRSGM NA Roanoke Sales & Service Intern",
-        "url": "https://www.munichre.com/en/job/houston/mrsgm-na-roanoke-sales-and-service-intern/3342/35383415616"
+        "title": "Life Claims Graduate Learner",
+        "url": "https://www.munichre.com/en/job/johannesburg/life-claims-graduate-learner/3342/36202765248"
       },
       {
         "title": "Find jobs",
@@ -1424,14 +1473,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Permis Online",
