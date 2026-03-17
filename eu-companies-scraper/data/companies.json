@@ -935,13 +935,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1017,8 +1017,28 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "QA Engineer w Tribe Platform Bankowych w obszarze Aplikacji Operacyjnych",
-        "url": "https://careers.ing.com/en/job/katowice/qa-engineer-w-tribe-platform-bankowych-w-obszarze-aplikacji-operacyjnych/3120/36236091456"
+        "title": "Marketing & Communicatie Professional Hypotheken",
+        "url": "https://careers.ing.com/en/job/amsterdam/marketing-and-communicatie-professional-hypotheken/3121/36241729344"
+      },
+      {
+        "title": "Internship - Transaction Services/Trade Finance Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-transaction-services-trade-finance-services/3121/36241729280"
+      },
+      {
+        "title": "Data Analyst within COO Risk",
+        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-within-coo-risk/3121/35968719488"
+      },
+      {
+        "title": "Platform DevOps Engineer – Linux/Ansible (SAS Platform)",
+        "url": "https://careers.ing.com/en/job/katowice/platform-devops-engineer-linux-ansible-sas-platform/3121/35550044672"
+      },
+      {
+        "title": "Service Owner - Customer Journey Expert Order Management @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/service-owner-customer-journey-expert-order-management-ing-hubs-romania/3121/35577213824"
+      },
+      {
+        "title": "Personal Banker Oostende",
+        "url": "https://careers.ing.com/en/job/flanders/personal-banker-oostende/3121/36241707520"
       },
       {
         "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
@@ -1031,26 +1051,6 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
-      },
-      {
-        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
-      },
-      {
-        "title": "DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
-      },
-      {
-        "title": "Senior Specialist - Finance Accounting & Reporting",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
-      },
-      {
-        "title": "Expert - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
       }
     ]
   },
@@ -1171,20 +1171,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "Executive Assitant to the Head of Reinsurance Accounting (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/executive-assitant-to-the-head-of-reinsurance-accounting-m-f-d/3342/35985874240"
       },
       {
-        "title": "Senior Cargo & Freight Underwriter",
-        "url": "https://www.munichre.com/en/job/manchester/senior-cargo-and-freight-underwriter/3342/34406986432"
+        "title": "Internship in Alternative Assets (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-in-alternative-assets-m-f-d/3342/33978053376"
       },
       {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
+        "title": "Praktikant Recruiting & HR Marketing (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-recruiting-and-hr-marketing-m-w-d/3342/35606788736"
       },
       {
-        "title": "Praktikant im Bereich HR Learning & Talent Development (w/m/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-learning-and-talent-development-w-m-d/3342/36235980864"
+        "title": "Intern Market Risk Modelling (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-market-risk-modelling-m-f-d/3342/35992157824"
       },
       {
         "title": "Find jobs",
@@ -1703,6 +1703,14 @@
     ]
   },
   {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1718,14 +1726,6 @@
         "url": "https://www.stellantis.com/it/careers"
       }
     ]
-  },
-  {
-    "name": "Telefónica",
-    "website": "http://telefonica.com",
-    "career_page_url": "https://www.telefonica.com/es/tag/talento",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "ThyssenKrupp",
