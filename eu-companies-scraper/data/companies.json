@@ -228,6 +228,32 @@
     ]
   },
   {
+    "name": "Atalef",
+    "website": "https://atalef.ai",
+    "career_page_url": "https://atalef.ai/talent",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Find your job",
+        "url": "https://app.atalef.ai"
+      }
+    ]
+  },
+  {
+    "name": "Atlas4D",
+    "website": "https://atlas4d.tech",
+    "career_page_url": "https://atlas4d.tech/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Philosophy",
+        "url": "https://atlas4d.tech/careers"
+      }
+    ]
+  },
+  {
     "name": "Axa",
     "website": "https://www.axa.com",
     "career_page_url": "https://www.axa.com/careers",
@@ -348,6 +374,44 @@
     ]
   },
   {
+    "name": "BigHub",
+    "website": "https://bighub.ai",
+    "career_page_url": "https://bighub.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Career Join our team and build real AI solutions.",
+        "url": "https://bighub.ai/careers"
+      },
+      {
+        "title": "Data Data Engineer Prague Full-time View job",
+        "url": "https://bighub.ai/career/data-engineer"
+      },
+      {
+        "title": "Data Gen AI Developer / AI Architect Prague Full-time View job",
+        "url": "https://bighub.ai/career/gen-ai-developer-ai-architect"
+      },
+      {
+        "title": "Business IT Project Manager Prague Full-time View job",
+        "url": "https://bighub.ai/career/it-project-manager"
+      }
+    ]
+  },
+  {
+    "name": "Bikademy",
+    "website": "https://bikademy.com",
+    "career_page_url": "https://bikademy.com/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://bikademy.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -377,6 +441,32 @@
       {
         "title": "Fields of work",
         "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
+    "name": "Bridgeapp.ai",
+    "website": "https://bridgeapp.ai",
+    "career_page_url": "https://bridgeapp.ai/company/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://bridgeapp.ai/company/careers"
+      }
+    ]
+  },
+  {
+    "name": "Candidately",
+    "website": "https://www.candidately.com",
+    "career_page_url": "https://www.candidately.com/talent-marketplace",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Candidate Portal JOIN Waitlist Let candidates apply, schedule interviews, track their hiring journey and more.",
+        "url": "https://www.candidately.com/candidate-portal"
       }
     ]
   },
@@ -550,12 +640,38 @@
     "jobs": []
   },
   {
+    "name": "Easy8",
+    "website": "https://easy8.ai",
+    "career_page_url": "https://easy8.ai/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Read more",
+        "url": "https://easy8.ai/resources/faq/do-you-build-solutions-from-scratch-or-leverage-tools"
+      }
+    ]
+  },
+  {
     "name": "Edeka",
     "website": "http://www.edeka.de",
     "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/index.php/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/index.php/careers"
+      }
+    ]
   },
   {
     "name": "EnBW",
@@ -935,13 +1051,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1017,30 +1133,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Marketing & Communicatie Professional Hypotheken",
-        "url": "https://careers.ing.com/en/job/amsterdam/marketing-and-communicatie-professional-hypotheken/3121/36241729344"
-      },
-      {
-        "title": "Internship - Transaction Services/Trade Finance Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-transaction-services-trade-finance-services/3121/36241729280"
-      },
-      {
-        "title": "Data Analyst within COO Risk",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-within-coo-risk/3121/35968719488"
-      },
-      {
-        "title": "Platform DevOps Engineer – Linux/Ansible (SAS Platform)",
-        "url": "https://careers.ing.com/en/job/katowice/platform-devops-engineer-linux-ansible-sas-platform/3121/35550044672"
-      },
-      {
-        "title": "Service Owner - Customer Journey Expert Order Management @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/service-owner-customer-journey-expert-order-management-ing-hubs-romania/3121/35577213824"
-      },
-      {
-        "title": "Personal Banker Oostende",
-        "url": "https://careers.ing.com/en/job/flanders/personal-banker-oostende/3121/36241707520"
-      },
-      {
         "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
         "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/35073259584"
       },
@@ -1051,6 +1143,30 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
+      },
+      {
+        "title": "Senior Specialist - Finance Accounting & Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
+      },
+      {
+        "title": "Expert - Financial Crime Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-financial-crime-compliance/3120/35474967040"
+      },
+      {
+        "title": "Product Manager - Rozwój Produktów Inwestycyjnych i Maklerskich",
+        "url": "https://careers.ing.com/en/job/warsaw/product-manager-rozwoj-produktow-inwestycyjnych-i-maklerskich/3120/34833495808"
       }
     ]
   },
@@ -1064,6 +1180,55 @@
       {
         "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
         "url": "https://www.ingka.com/projects/skills-for-employment"
+      }
+    ]
+  },
+  {
+    "name": "Jobloom",
+    "website": "https://www.jobloom.app",
+    "career_page_url": "https://www.jobloom.app/en",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app/en"
+      },
+      {
+        "title": "Media",
+        "url": "https://www.jobloom.app/en/blog"
+      },
+      {
+        "title": "Podcasts",
+        "url": "https://www.jobloom.app/en/podcast"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.jobloom.app/en/agenda"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.jobloom.app/en/contact"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.jobloom.app/en/careers"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/career-site"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/multiposting"
+      },
+      {
+        "title": "Learn more →",
+        "url": "https://www.jobloom.app/en/ats"
+      },
+      {
+        "title": "Jobloom",
+        "url": "https://www.jobloom.app"
       }
     ]
   },
@@ -1152,6 +1317,14 @@
     ]
   },
   {
+    "name": "Meetcatcher",
+    "website": "https://meetcatcher.com",
+    "career_page_url": "https://meetcatcher.com/careers",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": []
+  },
+  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1171,20 +1344,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Executive Assitant to the Head of Reinsurance Accounting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/executive-assitant-to-the-head-of-reinsurance-accounting-m-f-d/3342/35985874240"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
-        "title": "Internship in Alternative Assets (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-in-alternative-assets-m-f-d/3342/33978053376"
+        "title": "Senior Cargo & Freight Underwriter",
+        "url": "https://www.munichre.com/en/job/manchester/senior-cargo-and-freight-underwriter/3342/34406986432"
       },
       {
-        "title": "Praktikant Recruiting & HR Marketing (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-recruiting-and-hr-marketing-m-w-d/3342/35606788736"
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
       },
       {
-        "title": "Intern Market Risk Modelling (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-market-risk-modelling-m-f-d/3342/35992157824"
+        "title": "Praktikant im Bereich HR Learning & Talent Development (w/m/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-learning-and-talent-development-w-m-d/3342/36235980864"
       },
       {
         "title": "Find jobs",
@@ -1323,6 +1496,19 @@
     "jobs": []
   },
   {
+    "name": "Permis Online",
+    "website": "https://permis.online",
+    "career_page_url": "https://permis.online/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "S'inscrire",
+        "url": "https://permis.online/jobs"
+      }
+    ]
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1334,6 +1520,14 @@
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
       }
     ]
+  },
+  {
+    "name": "ReactNative Jobs",
+    "website": "https://reactnative-jobs.com",
+    "career_page_url": "https://reactnative-jobs.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": []
   },
   {
     "name": "Renault",
@@ -1662,6 +1856,35 @@
     ]
   },
   {
+    "name": "SEQUESTO",
+    "website": "https://sequesto.com",
+    "career_page_url": "https://sequesto.com/company/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://sequesto.com/company/careers"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://sequesto.com/job-application-growth-marketing-manager"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://sequesto.com/de/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Français",
+        "url": "https://sequesto.com/fr/company/careers/?wg-choose-original=false"
+      },
+      {
+        "title": "Nederlands",
+        "url": "https://sequesto.com/nl/company/careers/?wg-choose-original=false"
+      }
+    ]
+  },
+  {
     "name": "Shell",
     "website": "https://www.shell.com",
     "career_page_url": "https://www.shell.com/careers",
@@ -1701,14 +1924,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/join-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Stellantis",
@@ -1882,6 +2097,19 @@
       {
         "title": "Our employer awards We’re proud to be recognized as a high-quality employer because that means we come through for our people.",
         "url": "https://www.ubs.com/global/en/careers/about-us/employer-awards.html"
+      }
+    ]
+  },
+  {
+    "name": "Venvera",
+    "website": "https://venvera.com",
+    "career_page_url": "https://venvera.com/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://venvera.com/careers"
       }
     ]
   },
