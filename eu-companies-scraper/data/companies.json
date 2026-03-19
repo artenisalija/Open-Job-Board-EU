@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,14 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
-        "url": "https://careers.ing.com/en/job/gliwice/staz-z-lwem-w-centrum-bankowosci-biznesowej/3120/36306038848"
-      },
-      {
-        "title": "Staż z lwem w obszarze restrukturyzacji i windykacji",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-restrukturyzacji-i-windykacji/3120/36306038784"
-      },
-      {
         "title": "Expert Developer Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
       },
@@ -1072,6 +1064,14 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
       }
     ]
   },
@@ -1303,6 +1303,10 @@
       {
         "title": "Job search Explore our opportunities and see where you could make the biggest impact.",
         "url": "https://www.novartis.com/careers/career-search"
+      },
+      {
+        "title": "Building the Future: Novartis Innovation Lab - AI, Game Studio, XR & Emerging Tech The leaders behind the Novartis Innovation Lab share how they are leveraging emerging technologies to win for patients.",
+        "url": "https://novartis.com/stories/building-future-novartis-innovation-lab-ai-game-studio-xr-emerging-tech"
       },
       {
         "title": "Turning personal experience into purpose-driven careers What drives someone to dedicate their career to reimagining medicine? Three women at Novartis share their deeply personal and unique stories.",
@@ -1938,15 +1942,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
@@ -2049,7 +2048,7 @@
       },
       {
         "title": "Application adjustments",
-        "url": "https://careers.vodafone.com/?page_id=1670"
+        "url": "https://careers.vodafone.com/application-adjustments"
       },
       {
         "title": "Talent community",
