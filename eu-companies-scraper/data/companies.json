@@ -480,6 +480,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -939,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1074,12 +1091,16 @@
   {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Go to Content",
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+      },
+      {
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
         "url": "https://www.loreal.com/en/careers"
       }
     ]
@@ -1691,67 +1712,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/en/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Go to menu",
-        "url": "https://www.groupe-sncf.com/en/careers"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/design-urban-spaces/sncf-immobilier-career-videos"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/group/behind-the-scenes/unexpected-careers/drone-pilots"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/manage-rail-network"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/passenger-transport"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/maintain-trains"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/freight-transport"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/design-operate-stations"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/imagine-cities-of-tomorrow"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/design-urban-spaces"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/digital-technology"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/protect-people-property"
-      },
-      {
-        "title": "Learn more",
-        "url": "https://www.groupe-sncf.com/en/careers/serving-group-employees"
       }
     ]
   },
