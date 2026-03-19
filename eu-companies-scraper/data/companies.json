@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1011,7 +1011,7 @@
       },
       {
         "title": "Nederlands Dutch",
-        "url": "https://careers.ing.com/nl/jobs-zoeken"
+        "url": "https://careers.ing.com/nl/vacatures-zoeken"
       },
       {
         "title": "Deutsch German",
@@ -1038,6 +1038,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
+        "url": "https://careers.ing.com/en/job/gliwice/staz-z-lwem-w-centrum-bankowosci-biznesowej/3120/36306038848"
+      },
+      {
+        "title": "Staż z lwem w obszarze restrukturyzacji i windykacji",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-restrukturyzacji-i-windykacji/3120/36306038784"
+      },
+      {
+        "title": "Expert Developer Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "Expert - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
+      },
+      {
         "title": "Software Developer (React / Java)",
         "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       },
@@ -1056,22 +1072,6 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
-      },
-      {
-        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. Bezpieczeństwa Fizycznego i Osobowego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-bezpieczenstwa-fizycznego-i-osobowego/3120/35992291200"
-      },
-      {
-        "title": "DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer/3120/34677586880"
-      },
-      {
-        "title": "Senior Specialist - Finance Accounting & Reporting",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-finance-accounting-and-reporting/3120/33976480320"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Munich Re Investment Partners: Investment Operations Associate (m/f/d)",
-        "url": "https://www.munichre.com/en/job/munich/munich-re-investment-partners-investment-operations-associate-m-f-d/3342/36242485952"
+        "title": "Actuarial Intern, Pricing",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-pricing/3342/35915533824"
       },
       {
-        "title": "Longevity In-Force Actuary",
-        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/35858716544"
+        "title": "Financial Analyst",
+        "url": "https://www.munichre.com/en/job/toronto/financial-analyst/3342/36286394368"
       },
       {
-        "title": "Engineer Surveyor Kendal",
-        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-kendal/3342/32714695296"
+        "title": "Manager & Actuary, Individual Life Pricing",
+        "url": "https://www.munichre.com/en/job/new-york/manager-and-actuary-individual-life-pricing/3342/36067864000"
       },
       {
-        "title": "Praktikant Human Resources - Recruiting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-human-resources-recruiting-m-f-d/3342/35472187520"
+        "title": "Data Analytics Architect",
+        "url": "https://www.munichre.com/en/job/princeton/data-analytics-architect/3342/36287956032"
       },
       {
         "title": "Find jobs",
@@ -1938,10 +1938,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
@@ -2099,6 +2104,10 @@
       {
         "title": "Read more",
         "url": "https://www.zf.com/mobile/en/careers/employee_stories/employee_stories.html"
+      },
+      {
+        "title": "Career@ZF",
+        "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
   },
