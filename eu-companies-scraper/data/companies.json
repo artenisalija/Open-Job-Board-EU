@@ -480,23 +480,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1038,12 +1021,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Starszy_a Specjalista_ka - Implementacja Produktów Transakcyjnych",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-implementacja-produktow-transakcyjnych/3120/36337099072"
+        "title": "Starszy_a Specjalista_ka ds. Zarządzania Marką i Eventami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-marka-i-eventami/3120/36344730048"
       },
       {
-        "title": "Senior QA Engineer w Tribe Platform Bankowych w obszarze kart",
-        "url": "https://careers.ing.com/en/job/katowice/senior-qa-engineer-w-tribe-platform-bankowych-w-obszarze-kart/3120/36244492672"
+        "title": "Staż z Lwem w Obszarze Observability",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-observability/3120/35772582400"
       },
       {
         "title": "Expert Developer Engineer",
