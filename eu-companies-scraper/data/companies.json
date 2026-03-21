@@ -948,13 +948,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1030,10 +1030,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Starszy_a Specjalista_ka ds. Zarządzania Marką i Eventami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-marka-i-eventami/3120/36344730048"
-      },
-      {
         "title": "Staż z Lwem w Obszarze Observability",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-observability/3120/35772582400"
       },
@@ -1064,6 +1060,10 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       }
     ]
   },
@@ -1079,6 +1079,14 @@
         "url": "https://www.ingka.com/projects/skills-for-employment"
       }
     ]
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/en/careers",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "L'Oréal",
