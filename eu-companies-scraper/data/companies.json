@@ -1089,14 +1089,6 @@
     ]
   },
   {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/en/careers",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1346,14 +1338,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1946,14 +1930,6 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
-  },
-  {
-    "name": "Vinci",
-    "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Vodafone",
