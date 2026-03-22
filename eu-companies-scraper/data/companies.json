@@ -125,30 +125,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/XMLNAME-3DX---Urbanist-Work-Preparation_JR10381061-1"
       },
       {
-        "title": "System Architect Ulm Area Immenstaad am Bodensee, Germany 17 December 2024",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Ulm-Area/System-Architect--d-m-w--BMC4ISR_JR10301177"
-      },
-      {
-        "title": "Senior Cloud Specialist - Site Reliability Gdansk 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/fr-CA/Airbus/job/Gdansk/Senior-Cloud-Specialist---Site-Reliability_JR10329677?locations=8d25f08af12c1001a5d63d943e360000&locationCountry=131d5ac7e3ee4d7b962bdc96e498e412"
-      },
-      {
-        "title": "Surface Protection Painter Hamburg 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Maler---Lackierer--d-m-w--im-Oberflchenschutz-fr-die-Strukturmontage-in-Hamburg_JR10241639"
-      },
-      {
-        "title": "Electrical Fitter Hamburg 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Ausrstungselektriker--d-m-w--fr-die-Ausrstungsmontage-in-Hamburg_JR10241637"
-      },
-      {
-        "title": "Mechanical Fitter Hamburg 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Ausrstungsmechaniker--d-m-w--fr-die-Ausrstungsmontage-in-Hamburg_JR10241672"
-      },
-      {
-        "title": "Structural Fitter Hamburg 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Strukturmechaniker--d-m-w--fr-die-Strukturmontage-in-Hamburg_JR10241638"
-      },
-      {
         "title": "Browse all jobs",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
       },
@@ -175,6 +151,30 @@
       {
         "title": "ADAPT ADAPT is an employee resource group aiming to change perception, build a caring network and provide support to those who have or…",
         "url": "https://airbus.com/en/careers/life-at-airbus/adapt"
+      },
+      {
+        "title": "Generation Airbus GenA or Generation Airbus is an internationally empowered community of Airbus people from all locations, sites, functions,…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/generation-airbus"
+      },
+      {
+        "title": "Discover the Airbus life",
+        "url": "https://airbus.com/en/careers/life-at-airbus"
+      },
+      {
+        "title": "Discover employee benefits",
+        "url": "https://airbus.com/en/careers/life-at-airbus/reward-and-benefits"
+      },
+      {
+        "title": "More tips and guidance",
+        "url": "https://airbus.com/en/careers/recruitment-process-tips"
+      },
+      {
+        "title": "Meet Daniel Meet Daniel, Aircraft Systems Engineer at Airbus Defence and Space in Getafe, Spain",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniel-delapena"
+      },
+      {
+        "title": "Meet Shital Meet Shital, C295 Supply Chain Quality Manager at Airbus in Hyderabad, India",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-shital"
       }
     ]
   },
@@ -1340,6 +1340,14 @@
     ]
   },
   {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1930,6 +1938,14 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
+  },
+  {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Vodafone",
