@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1192,10 +1192,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Underwriting Assistant (Part‑Time, 1‑Year Contract)",
-        "url": "https://www.munichre.com/en/job/sydney/technical-underwriting-assistant-part-time-1-year-contract/3342/36014978688"
-      },
-      {
         "title": "AVP & Actuary, Statutory Reporting",
         "url": "https://www.munichre.com/en/job/new-york/avp-and-actuary-statutory-reporting/3342/31297146240"
       },
@@ -1206,6 +1202,10 @@
       {
         "title": "Senior Actuarial Analyst (Protection)",
         "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-protection/3342/35310055872"
+      },
+      {
+        "title": "Contract Surety Underwriter",
+        "url": "https://www.munichre.com/en/job/atlanta/contract-surety-underwriter/3342/36353349824"
       },
       {
         "title": "Find jobs",
@@ -1342,7 +1342,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
