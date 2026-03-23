@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP & Actuary, Statutory Reporting",
-        "url": "https://www.munichre.com/en/job/new-york/avp-and-actuary-statutory-reporting/3342/31297146240"
+        "title": "Engineer Surveyor Kendal",
+        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-kendal/3342/32714695296"
       },
       {
-        "title": "Assistant Underwriter, Green Solutions",
-        "url": "https://www.munichre.com/en/job/london/assistant-underwriter-green-solutions/3342/36280931136"
+        "title": "Technical Accountant - Life & Health",
+        "url": "https://www.munichre.com/en/job/mumbai/technical-accountant-life-and-health/3342/35536999872"
       },
       {
-        "title": "Senior Actuarial Analyst (Protection)",
-        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-protection/3342/35310055872"
+        "title": "Praktikant Vertrieb Risk Management Partners (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-vertrieb-risk-management-partners-m-w-d/3342/36444780992"
       },
       {
-        "title": "Contract Surety Underwriter",
-        "url": "https://www.munichre.com/en/job/atlanta/contract-surety-underwriter/3342/36353349824"
+        "title": "Engineer Surveyor Bournemouth/Poole",
+        "url": "https://www.munichre.com/en/job/portsmouth/engineer-surveyor-bournemouth-poole/3342/36039364672"
       },
       {
         "title": "Find jobs",
@@ -1342,7 +1342,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/career",
+    "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1750,7 +1750,12 @@
     "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Logo",
+        "url": "https://jobs.thyssenkrupp.com/de"
+      }
+    ]
   },
   {
     "name": "TotalEnergies",
