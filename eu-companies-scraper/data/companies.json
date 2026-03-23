@@ -169,12 +169,12 @@
         "url": "https://airbus.com/en/careers/recruitment-process-tips"
       },
       {
-        "title": "Meet Daniel Meet Daniel, Aircraft Systems Engineer at Airbus Defence and Space in Getafe, Spain",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniel-delapena"
+        "title": "Meet Candice Meet Candice, Service Delivery Manager at Airbus Helicopters in Edinburgh, Australia",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-candice"
       },
       {
-        "title": "Meet Shital Meet Shital, C295 Supply Chain Quality Manager at Airbus in Hyderabad, India",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-shital"
+        "title": "Meet Daniel Meet Daniel, Aircraft Systems Engineer at Airbus Defence and Space in Getafe, Spain",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniel-delapena"
       }
     ]
   },
@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze automatyzacji procesów",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-automatyzacji-procesow/3120/36444894784"
+      },
+      {
         "title": "Staż z Lwem w Obszarze Observability",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-observability/3120/35772582400"
       },
@@ -1068,10 +1072,6 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
-      },
-      {
-        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       }
     ]
   },
@@ -1342,7 +1342,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1743,6 +1743,14 @@
         "url": "https://www.stellantis.com/it/careers"
       }
     ]
+  },
+  {
+    "name": "Telefónica",
+    "website": "http://telefonica.com",
+    "career_page_url": "https://www.telefonica.com/es/tag/talento",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "ThyssenKrupp",
