@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w obszarze automatyzacji procesów",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-automatyzacji-procesow/3120/36444894784"
-      },
-      {
         "title": "Staż z Lwem w Obszarze Observability",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-observability/3120/35772582400"
       },
@@ -1072,6 +1068,10 @@
       {
         "title": "Senior Product Manager - Embedded Lending",
         "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor Kendal",
-        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-kendal/3342/32714695296"
+        "title": "Valuation Actuary (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/36443250432"
       },
       {
-        "title": "Technical Accountant - Life & Health",
-        "url": "https://www.munichre.com/en/job/mumbai/technical-accountant-life-and-health/3342/35536999872"
+        "title": "Underwriting Assistant",
+        "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/35347900416"
       },
       {
-        "title": "Praktikant Vertrieb Risk Management Partners (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-vertrieb-risk-management-partners-m-w-d/3342/36444780992"
+        "title": "Project Manager for Organization (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-for-organization-m-f-d/3342/35736351936"
       },
       {
-        "title": "Engineer Surveyor Bournemouth/Poole",
-        "url": "https://www.munichre.com/en/job/portsmouth/engineer-surveyor-bournemouth-poole/3342/36039364672"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
         "title": "Find jobs",
@@ -1741,27 +1741,6 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
-      }
-    ]
-  },
-  {
-    "name": "Telefónica",
-    "website": "http://telefonica.com",
-    "career_page_url": "https://www.telefonica.com/es/tag/talento",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "ThyssenKrupp",
-    "website": "http://thyssenkrupp.com",
-    "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Logo",
-        "url": "https://jobs.thyssenkrupp.com/de"
       }
     ]
   },
