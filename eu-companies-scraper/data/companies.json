@@ -89,6 +89,10 @@
         "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeship-training-in-cybersecurity"
       },
       {
+        "title": "FIDAE Airshow 2026 Join us at the Educational Day (Apr 10) & Tech Fair (Apr 11). Discover our aircraft, helicopters & more!",
+        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-latin-america"
+      },
+      {
         "title": "Airbus is recruiting in Belfast To support the ramp-up of the A220 programme, Airbus is recruiting now at its operations in Belfast.",
         "url": "https://www.airbus.com/en/careers/belfast"
       },
@@ -103,10 +107,6 @@
       {
         "title": "Make your career your mission We're on a mission to create sustainable aerospace solutions that make a positive impact on people's lives and pave the way for a…",
         "url": "https://airbus.com/en/careers/make-your-career-your-mission"
-      },
-      {
-        "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
-        "url": "https://airbus.com/en/careers/international-women-at-airbus"
       },
       {
         "title": "Manufacturing and Quality Careers Welcome to the Airbus Manufacturing and Quality team, where professionals are the artisans behind our cutting-edge solutions.",
@@ -157,6 +157,10 @@
         "url": "https://airbus.com/en/careers/life-at-airbus/generation-airbus"
       },
       {
+        "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
+        "url": "https://airbus.com/en/careers/international-women-at-airbus"
+      },
+      {
         "title": "Discover the Airbus life",
         "url": "https://airbus.com/en/careers/life-at-airbus"
       },
@@ -171,10 +175,6 @@
       {
         "title": "Meet Candice Meet Candice, Service Delivery Manager at Airbus Helicopters in Edinburgh, Australia",
         "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-candice"
-      },
-      {
-        "title": "Meet Daniel Meet Daniel, Aircraft Systems Engineer at Airbus Defence and Space in Getafe, Spain",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniel-delapena"
       }
     ]
   },
@@ -205,48 +205,7 @@
     "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
     "country_of_origin": "Italy",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "shortcut to career",
-        "url": "https://www.generali.com/work-with-us/join-us/job-search"
-      },
-      {
-        "title": "go to Italian version",
-        "url": "https://www.generali.com/it/work-with-us/join-us/job-search"
-      },
-      {
-        "title": "Our organization",
-        "url": "https://www.generali.com/who-we-are/global-positioning"
-      },
-      {
-        "title": "Insurance",
-        "url": "https://www.generali.com/who-we-are/global-positioning/insurance-division"
-      },
-      {
-        "title": "Asset Management",
-        "url": "https://www.generali.com/who-we-are/global-positioning/asset-management"
-      },
-      {
-        "title": "Wealth Management",
-        "url": "https://www.generali.com/who-we-are/global-positioning/wealth-management"
-      },
-      {
-        "title": "Greenhouse gas emissions",
-        "url": "https://www.generali.com/sustainability/responsible-employer/greenhouse-gas-emissions"
-      },
-      {
-        "title": "Five reasons to apply",
-        "url": "https://www.generali.com/work-with-us/join-us/five-reasons-to-apply"
-      },
-      {
-        "title": "Openings for Graduates and Students",
-        "url": "https://www.generali.com/work-with-us/join-us/Openings_Graduates_and_Students"
-      },
-      {
-        "title": "Debt composition and maturity",
-        "url": "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Axa",
@@ -956,13 +915,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1342,7 +1301,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/jobs",
+    "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
