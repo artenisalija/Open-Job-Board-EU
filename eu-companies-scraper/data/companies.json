@@ -205,7 +205,48 @@
     "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
     "country_of_origin": "Italy",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "shortcut to career",
+        "url": "https://www.generali.com/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "go to Italian version",
+        "url": "https://www.generali.com/it/work-with-us/join-us/job-search"
+      },
+      {
+        "title": "Our organization",
+        "url": "https://www.generali.com/who-we-are/global-positioning"
+      },
+      {
+        "title": "Insurance",
+        "url": "https://www.generali.com/who-we-are/global-positioning/insurance-division"
+      },
+      {
+        "title": "Asset Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/asset-management"
+      },
+      {
+        "title": "Wealth Management",
+        "url": "https://www.generali.com/who-we-are/global-positioning/wealth-management"
+      },
+      {
+        "title": "Greenhouse gas emissions",
+        "url": "https://www.generali.com/sustainability/responsible-employer/greenhouse-gas-emissions"
+      },
+      {
+        "title": "Five reasons to apply",
+        "url": "https://www.generali.com/work-with-us/join-us/five-reasons-to-apply"
+      },
+      {
+        "title": "Openings for Graduates and Students",
+        "url": "https://www.generali.com/work-with-us/join-us/Openings_Graduates_and_Students"
+      },
+      {
+        "title": "Debt composition and maturity",
+        "url": "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity"
+      }
+    ]
   },
   {
     "name": "Axa",
@@ -915,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1151,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Legal Counsel & Co Sec",
-        "url": "https://www.munichre.com/en/job/london/legal-counsel-and-co-sec/3342/36479443008"
-      },
-      {
-        "title": "Student Intern Human Resources - Global HR Change Management (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/student-intern-human-resources-global-hr-change-management-m-f-d/3342/34603723008"
-      },
-      {
         "title": "Valuation Actuary (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/36443250432"
       },
       {
         "title": "Underwriting Assistant",
         "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/35347900416"
+      },
+      {
+        "title": "Project Manager for Organization (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-for-organization-m-f-d/3342/35736351936"
+      },
+      {
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
         "title": "Find jobs",
