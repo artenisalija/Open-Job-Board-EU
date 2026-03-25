@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +1038,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Menadżer_ka Zespołu Doradców Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/poznan/menadzer-ka-zespo%c5%82u-doradcow-klienta-korporacyjnego/3120/36481596736"
+      },
+      {
+        "title": "Meet ITP Trainee",
+        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
+      },
+      {
+        "title": "Staż z Lwem - DevOps Enablement IT Team",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
+      },
+      {
         "title": "Staż z Lwem w Obszarze Observability",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-observability/3120/35772582400"
       },
@@ -1060,18 +1072,6 @@
       {
         "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
         "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/35073259584"
-      },
-      {
-        "title": "Ekspert_ka - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-financial-crime-compliance/3120/35471200960"
-      },
-      {
-        "title": "Senior Product Manager - Embedded Lending",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-product-manager-embedded-lending/3120/33323248896"
-      },
-      {
-        "title": "Starszy_a Ekspert_ka - Ryzyko Operacyjne",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-ryzyko-operacyjne/3120/34796692288"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Valuation Actuary (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/36443250432"
+        "title": "Office & Operations Manager",
+        "url": "https://www.munichre.com/en/job/madrid/office-and-operations-manager/3342/35602268544"
       },
       {
-        "title": "Underwriting Assistant",
-        "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/35347900416"
+        "title": "Consultant Geothermal Energy (Geothermie) (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/consultant-geothermal-energy-geothermie-m-w-d/3342/36517523840"
       },
       {
-        "title": "Project Manager for Organization (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/project-manager-for-organization-m-f-d/3342/35736351936"
+        "title": "Consultant Geothermal Energy (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/consultant-geothermal-energy-m-f-d/3342/36512812672"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297159680"
       },
       {
         "title": "Find jobs",
