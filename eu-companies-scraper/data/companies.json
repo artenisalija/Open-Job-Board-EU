@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1046,6 +1046,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       },
       {
+        "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
         "title": "Staż z Lwem - DevOps Enablement IT Team",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       },
@@ -1068,10 +1072,6 @@
       {
         "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
-      },
-      {
-        "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/35073259584"
       }
     ]
   },
@@ -1338,14 +1338,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1754,6 +1746,10 @@
       {
         "title": "Main menu",
         "url": "https://totalenergies.com/careers"
+      },
+      {
+        "title": "Careers",
+        "url": "https://totalenergies.com/jobseekers"
       },
       {
         "title": "Join us",
