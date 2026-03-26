@@ -1038,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Doradca_czyni Klienta Biznesowego",
+        "url": "https://careers.ing.com/en/job/katowice/doradca-czyni-klienta-biznesowego/3120/36556357888"
+      },
+      {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       },
@@ -1068,10 +1072,6 @@
       {
         "title": "Software Developer (React / Java)",
         "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
-      },
-      {
-        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Authorized Nuclear Inspector - Northeast US",
-        "url": "https://www.munichre.com/en/job/boston/authorized-nuclear-inspector-northeast-us/3342/31297150592"
+        "title": "Change Lead",
+        "url": "https://www.munichre.com/en/job/london/change-lead/3342/35548399936"
       },
       {
-        "title": "Inspector Trainee - Parkersburg, West Virginia",
-        "url": "https://www.munichre.com/en/job/parkersburg/inspector-trainee-parkersburg-west-virginia/3342/34604779328"
+        "title": "Compliance Analyst",
+        "url": "https://www.munichre.com/en/job/london/compliance-analyst/3342/34442941312"
       },
       {
-        "title": "Inspector Trainee- Albany, NY",
-        "url": "https://www.munichre.com/en/job/albany/inspector-trainee-albany-ny/3342/36488667648"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297162048"
       },
       {
-        "title": "Application Development Technical Lead",
-        "url": "https://www.munichre.com/en/job/hartford/application-development-technical-lead/3342/36520274432"
+        "title": "Head of Property, Construction & Engineering",
+        "url": "https://www.munichre.com/en/job/sydney/head-of-property-construction-and-engineering/3342/35195694144"
       },
       {
         "title": "Find jobs",
@@ -1338,6 +1338,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1746,10 +1754,6 @@
       {
         "title": "Main menu",
         "url": "https://totalenergies.com/careers"
-      },
-      {
-        "title": "Careers",
-        "url": "https://totalenergies.com/jobseekers"
       },
       {
         "title": "Join us",
