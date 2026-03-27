@@ -1485,17 +1485,17 @@
   {
     "name": "Rio Tinto",
     "website": "https://www.riotinto.com",
-    "career_page_url": "https://www.riotinto.com/en/news/trending-topics/rio-tinto-into/into-wa-jobs",
+    "career_page_url": "https://www.riotinto.com/en/operations/anz/rio-tinto-into/into-wa-jobs",
     "country_of_origin": "United Kingdom",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Climate position and advocacy",
-        "url": "https://www.riotinto.com/en/sustainability/climate-change/climate-position"
+        "title": "Into WA jobs",
+        "url": "https://www.riotinto.com/en/operations/anz/rio-tinto-into/into-wa-jobs"
       },
       {
-        "title": "Into WA jobs",
-        "url": "https://www.riotinto.com/en/news/trending-topics/rio-tinto-into/into-wa-jobs"
+        "title": "Climate position and advocacy",
+        "url": "https://www.riotinto.com/en/sustainability/climate-change/climate-position"
       },
       {
         "title": "Careers",
