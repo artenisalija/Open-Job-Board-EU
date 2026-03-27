@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Doradca_czyni Klienta Biznesowego",
-        "url": "https://careers.ing.com/en/job/katowice/doradca-czyni-klienta-biznesowego/3120/36556357888"
-      },
-      {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       },
@@ -1072,6 +1068,10 @@
       {
         "title": "Software Developer (React / Java)",
         "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
+      },
+      {
+        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Actuarial Associate, Inforce and M&A",
-        "url": "https://www.munichre.com/en/job/new-york/actuarial-associate-inforce-and-m-and-a/3342/34621157056"
+        "title": "Electrical Technician",
+        "url": "https://www.munichre.com/en/job/manchester/electrical-technician/3342/35003991232"
       },
       {
-        "title": "Senior Actuarial Associate, FinRe",
-        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-finre/3342/35316793088"
+        "title": "Munich Re Investment Partners: Investment Operations Associate (m/f/d)",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-investment-partners-investment-operations-associate-m-f-d/3342/36242485952"
       },
       {
-        "title": "Senior Actuarial Associate, IL Pricing",
-        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-il-pricing/3342/35360158016"
+        "title": "Pricing Infrastructure Developer",
+        "url": "https://www.munichre.com/en/job/london/pricing-infrastructure-developer/3342/35341513920"
       },
       {
-        "title": "2nd VP & Marketing Actuary, IL Pricing",
-        "url": "https://www.munichre.com/en/job/new-york/2nd-vp-and-marketing-actuary-il-pricing/3342/35360158144"
+        "title": "Senior Technical Data Specialist (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/senior-technical-data-specialist-m-f-d/3342/36304444864"
       },
       {
         "title": "Find jobs",
@@ -1342,7 +1342,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1724,6 +1724,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
