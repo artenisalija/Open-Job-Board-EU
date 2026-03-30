@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +1038,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Specjalista_tka w obszarze bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/kalisz/specjalista-tka-w-obszarze-bankowosci-detalicznej/3120/35471200640"
+      },
+      {
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+      },
+      {
+        "title": "Starszy_a Analityk_czka Aplikacji Ferryt",
+        "url": "https://careers.ing.com/en/job/katowice/starszy-a-analityk-czka-aplikacji-ferryt/3120/36703565952"
+      },
+      {
         "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
         "url": "https://careers.ing.com/en/job/bydgoszcz/staz-z-lwem-w-centrum-bankowosci-korporacyjnej/3120/36599193920"
       },
@@ -1060,18 +1072,6 @@
       {
         "title": "Expert Developer Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
-      },
-      {
-        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
