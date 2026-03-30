@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,16 +1038,8 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Specjalista_tka w obszarze bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/kalisz/specjalista-tka-w-obszarze-bankowosci-detalicznej/3120/35471200640"
-      },
-      {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
-      },
-      {
-        "title": "Starszy_a Analityk_czka Aplikacji Ferryt",
-        "url": "https://careers.ing.com/en/job/katowice/starszy-a-analityk-czka-aplikacji-ferryt/3120/36703565952"
+        "title": "Senior Kotlin Backend Developer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-kotlin-backend-developer/3120/36708176000"
       },
       {
         "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
@@ -1072,6 +1064,14 @@
       {
         "title": "Expert Developer Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "Expert - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
+      },
+      {
+        "title": "Software Developer (React / Java)",
+        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Loss Control Inspector Trainee - Des Moines, Iowa",
-        "url": "https://www.munichre.com/en/job/des-moines/loss-control-inspector-trainee-des-moines-iowa/3342/32632237376"
+        "title": "Engineer Surveyor - Dublin",
+        "url": "https://www.munichre.com/en/job/dublin/engineer-surveyor-dublin/3342/35365464896"
       },
       {
-        "title": "Data Science & Gen-AI Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
+        "title": "Accounts Payable & Accounts Receivable",
+        "url": "https://www.munichre.com/en/job/madrid/accounts-payable-and-accounts-receivable/3342/36025587456"
       },
       {
-        "title": "Senior Group Underwriter, Group Reinsurance",
-        "url": "https://www.munichre.com/en/job/toronto/senior-group-underwriter-group-reinsurance/3342/35865475456"
+        "title": "Senior FP&A Accountant",
+        "url": "https://www.munichre.com/en/job/birkenhead/senior-fp-and-a-accountant/3342/35823611840"
       },
       {
-        "title": "Senior Actuarial Associate - Global Actuarial Consulting Group",
-        "url": "https://www.munichre.com/en/job/toronto/senior-actuarial-associate-global-actuarial-consulting-group/3342/36599153728"
+        "title": "Solution Architect (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/solution-architect-m-f-d/3342/36699320832"
       },
       {
         "title": "Find jobs",
@@ -1338,14 +1338,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
