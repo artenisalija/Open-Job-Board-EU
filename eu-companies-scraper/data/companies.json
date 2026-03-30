@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Loss Control Inspector Trainee - Des Moines, Iowa",
+        "url": "https://www.munichre.com/en/job/des-moines/loss-control-inspector-trainee-des-moines-iowa/3342/32632237376"
+      },
+      {
+        "title": "Data Science & Gen-AI Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
+      },
+      {
         "title": "Senior Group Underwriter, Group Reinsurance",
         "url": "https://www.munichre.com/en/job/toronto/senior-group-underwriter-group-reinsurance/3342/35865475456"
       },
       {
         "title": "Senior Actuarial Associate - Global Actuarial Consulting Group",
         "url": "https://www.munichre.com/en/job/toronto/senior-actuarial-associate-global-actuarial-consulting-group/3342/36599153728"
-      },
-      {
-        "title": "Life Actuarial Assistant (2026 New Grad Permanent - New York)",
-        "url": "https://www.munichre.com/en/job/new-york/life-actuarial-assistant-2026-new-grad-permanent-new-york/3342/35860808448"
-      },
-      {
-        "title": "North America Campus Practice Lead",
-        "url": "https://www.munichre.com/en/job/hartford/north-america-campus-practice-lead/3342/36613201344"
       },
       {
         "title": "Find jobs",
@@ -1934,15 +1934,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
