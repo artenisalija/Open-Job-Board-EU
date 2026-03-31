@@ -252,11 +252,15 @@
       },
       {
         "title": "FIND OUT MORE",
-        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/reinventing-technology-starts-with-you"
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/santander-future-talent"
       },
       {
         "title": "FIND OUT MORE",
-        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/santander-future-talent"
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/data-and-artificial-intelligence"
+      },
+      {
+        "title": "FIND OUT MORE",
+        "url": "https://www.santander.com/en/careers/where-you-want-to-create-an-impact/reinventing-technology-starts-with-you"
       }
     ]
   },
@@ -455,23 +459,6 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -935,13 +922,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1017,8 +1004,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Kotlin Backend Developer",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-kotlin-backend-developer/3120/36708176000"
+        "title": "Specialist - Sales & Advisory",
+        "url": "https://careers.ing.com/en/job/nowy-sacz/specialist-sales-and-advisory/3120/36745167936"
+      },
+      {
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
       {
         "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
@@ -1047,10 +1038,6 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1806,10 +1793,6 @@
       {
         "title": "Italiano",
         "url": "https://www.ubs.com/global/it/careers.html"
-      },
-      {
-        "title": "Home",
-        "url": "https://www.ubs.com/global/en/careers/home.html"
       },
       {
         "title": "About us",
