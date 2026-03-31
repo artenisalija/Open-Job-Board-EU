@@ -117,6 +117,10 @@
         "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
       },
       {
+        "title": "AGGP 2026 - HR Trainee Mexico City 27 March 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-City-Area/HR-Trainee----Rewards-_JR10349524"
+      },
+      {
         "title": "Apprenticehip Airbus Cybersecurity School 2026 Toulouse, France 27 February 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Cybersecurity-School-2026---formation--Mastre-Expert-en-Cyberscurit--en-alternance-H-F_JR10395108"
       },
@@ -171,31 +175,6 @@
       {
         "title": "More tips and guidance",
         "url": "https://airbus.com/en/careers/recruitment-process-tips"
-      },
-      {
-        "title": "Meet Candice Meet Candice, Service Delivery Manager at Airbus Helicopters in Edinburgh, Australia",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-candice"
-      }
-    ]
-  },
-  {
-    "name": "ArcelorMittal",
-    "website": "http://corporate.arcelormittal.com",
-    "career_page_url": "http://corporate.arcelormittal.com/careers",
-    "country_of_origin": "Luxembourg",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Find out more",
-        "url": "http://corporate.arcelormittal.com/careers/graduates-and-students"
-      },
-      {
-        "title": "Find out more",
-        "url": "http://corporate.arcelormittal.com/careers/experienced-professionals"
-      },
-      {
-        "title": "Find out more",
-        "url": "http://corporate.arcelormittal.com/careers/arcelormittal-university"
       }
     ]
   },
@@ -956,13 +935,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +1017,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Kotlin Backend Developer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-kotlin-backend-developer/3120/36708176000"
+      },
+      {
         "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
         "url": "https://careers.ing.com/en/job/bydgoszcz/staz-z-lwem-w-centrum-bankowosci-korporacyjnej/3120/36599193920"
       },
@@ -1068,10 +1051,6 @@
       {
         "title": "Software Developer (React / Java)",
         "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
-      },
-      {
-        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
@@ -1192,20 +1171,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP Product",
-        "url": "https://www.munichre.com/en/job/amelia/avp-product/3342/36728523072"
+        "title": "Compliance Analyst",
+        "url": "https://www.munichre.com/en/job/london/compliance-analyst/3342/34442941312"
       },
       {
-        "title": "Data Science & Gen-AI Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
+        "title": "Sustainability Manager (m/f/d)* - limited until 09/2027",
+        "url": "https://www.munichre.com/en/job/munich/sustainability-manager-m-f-d-limited-until-09-2027/3342/36734362432"
       },
       {
-        "title": "Product Development Specialist - Regulatory",
-        "url": "https://www.munichre.com/en/job/chicago/product-development-specialist-regulatory/3342/36110935424"
+        "title": "Consultant Geothermal Energy (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/consultant-geothermal-energy-m-f-d/3342/36512812672"
       },
       {
-        "title": "Learning Portfolio Specialist",
-        "url": "https://www.munichre.com/en/job/amelia/learning-portfolio-specialist/3342/36567358592"
+        "title": "Underwriter, Property (Direct and Facultative)",
+        "url": "https://www.munichre.com/en/job/singapore/underwriter-property-direct-and-facultative/3342/36736230208"
       },
       {
         "title": "Find jobs",
