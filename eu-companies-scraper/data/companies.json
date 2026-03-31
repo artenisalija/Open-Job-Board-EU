@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Kotlin Backend Developer",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-kotlin-backend-developer/3120/36708176000"
-      },
-      {
         "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
         "url": "https://careers.ing.com/en/job/bydgoszcz/staz-z-lwem-w-centrum-bankowosci-korporacyjnej/3120/36599193920"
       },
@@ -1072,6 +1068,10 @@
       {
         "title": "Software Developer (React / Java)",
         "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
+      },
+      {
+        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Expense Management Specialist",
-        "url": "https://www.munichre.com/en/job/london/expense-management-specialist/3342/35107527808"
+        "title": "AVP Product",
+        "url": "https://www.munichre.com/en/job/amelia/avp-product/3342/36728523072"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "Data Science & Gen-AI Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
       },
       {
-        "title": "Intern - Data & Analytics",
-        "url": "https://www.munichre.com/en/job/amelia/intern-data-and-analytics/3342/36576651840"
+        "title": "Product Development Specialist - Regulatory",
+        "url": "https://www.munichre.com/en/job/chicago/product-development-specialist-regulatory/3342/36110935424"
       },
       {
-        "title": "Intern for IT governance and legal steering within Munich Re´s internal IT provider (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-for-it-governance-and-legal-steering-within-munich-re-s-internal-it-provider-m-f-d/3342/36512813312"
+        "title": "Learning Portfolio Specialist",
+        "url": "https://www.munichre.com/en/job/amelia/learning-portfolio-specialist/3342/36567358592"
       },
       {
         "title": "Find jobs",
@@ -1338,6 +1338,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
