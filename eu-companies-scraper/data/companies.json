@@ -463,6 +463,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -922,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1004,6 +1021,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Specialist - Sales & Advisory",
+        "url": "https://careers.ing.com/en/job/nowy-sacz/specialist-sales-and-advisory/3120/36745167936"
+      },
+      {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
@@ -1034,10 +1055,6 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1158,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP Product",
-        "url": "https://www.munichre.com/en/job/amelia/avp-product/3342/36728523072"
+        "title": "Underwriter, Property (Direct and Facultative)",
+        "url": "https://www.munichre.com/en/job/singapore/underwriter-property-direct-and-facultative/3342/36736230208"
       },
       {
-        "title": "Data Science & Gen-AI Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
+        "title": "Longevity In-Force Actuary",
+        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/35858716544"
       },
       {
-        "title": "Product Development Specialist - Regulatory",
-        "url": "https://www.munichre.com/en/job/chicago/product-development-specialist-regulatory/3342/36110935424"
+        "title": "Intern Governance & Process Documentation (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-governance-and-process-documentation-m-f-d/3342/36305935872"
       },
       {
-        "title": "Learning Portfolio Specialist",
-        "url": "https://www.munichre.com/en/job/amelia/learning-portfolio-specialist/3342/36567358592"
+        "title": "Business Analyst (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
       },
       {
         "title": "Find jobs",
@@ -1690,19 +1707,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
