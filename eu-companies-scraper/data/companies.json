@@ -1004,10 +1004,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Specialist - Sales & Advisory",
-        "url": "https://careers.ing.com/en/job/nowy-sacz/specialist-sales-and-advisory/3120/36745167936"
-      },
-      {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
@@ -1038,6 +1034,10 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
+      },
+      {
+        "title": "Software Developer (React / Java)",
+        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1158,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Compliance Analyst",
-        "url": "https://www.munichre.com/en/job/london/compliance-analyst/3342/34442941312"
+        "title": "AVP Product",
+        "url": "https://www.munichre.com/en/job/amelia/avp-product/3342/36728523072"
       },
       {
-        "title": "Sustainability Manager (m/f/d)* - limited until 09/2027",
-        "url": "https://www.munichre.com/en/job/munich/sustainability-manager-m-f-d-limited-until-09-2027/3342/36734362432"
+        "title": "Data Science & Gen-AI Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
       },
       {
-        "title": "Consultant Geothermal Energy (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/consultant-geothermal-energy-m-f-d/3342/36512812672"
+        "title": "Product Development Specialist - Regulatory",
+        "url": "https://www.munichre.com/en/job/chicago/product-development-specialist-regulatory/3342/36110935424"
       },
       {
-        "title": "Underwriter, Property (Direct and Facultative)",
-        "url": "https://www.munichre.com/en/job/singapore/underwriter-property-direct-and-facultative/3342/36736230208"
+        "title": "Learning Portfolio Specialist",
+        "url": "https://www.munichre.com/en/job/amelia/learning-portfolio-specialist/3342/36567358592"
       },
       {
         "title": "Find jobs",
@@ -1690,6 +1690,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
