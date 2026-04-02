@@ -288,25 +288,57 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
+    "career_page_url": "http://basf.com/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+        "title": "Discover our values and benefits",
+        "url": "http://basf.com/global/en/careers/why-join-basf"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+        "title": "How do I apply?",
+        "url": "http://basf.com/global/en/careers/application"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+        "title": "Questions and answers",
+        "url": "http://basf.com/global/en/careers/application/faq"
+      },
+      {
+        "title": "Contact",
+        "url": "http://basf.com/global/en/careers/contact"
+      },
+      {
+        "title": "Discover locations in Germany",
+        "url": "http://basf.com/global/en/careers/locations"
+      },
+      {
+        "title": "View all career events",
+        "url": "http://basf.com/global/en/careers/application/career-events"
+      },
+      {
+        "title": "Learn more about professionals at BASF",
+        "url": "http://basf.com/global/en/careers/professionals"
+      },
+      {
+        "title": "Learn more about graduates at BASF",
+        "url": "http://basf.com/global/en/careers/graduates"
+      },
+      {
+        "title": "Learn more about students at BASF",
+        "url": "http://basf.com/global/en/careers/students"
+      },
+      {
+        "title": "Learn more about how we foster diversity",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity"
+      },
+      {
+        "title": "Learn more about women at BASF",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity/women-in-basf"
       },
       {
         "title": "Career",
-        "url": "http://basf.com/us/en/careers"
+        "url": "http://basf.com/global/en/careers"
       }
     ]
   },
@@ -459,6 +491,23 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
+      }
+    ]
+  },
+  {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1004,6 +1053,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze testów w Super Circle Analiz Wniosków Kredytowych",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-testow-w-super-circle-analiz-wnioskow-kredytowych/3120/36774797568"
+      },
+      {
+        "title": "Database & CI/CD Engineer w ING Commercial Finance Polska S.A.",
+        "url": "https://careers.ing.com/en/job/warsaw/database-and-ci-cd-engineer-w-ing-commercial-finance-polska-s-a/3120/36774797504"
+      },
+      {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/poznan/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797440"
+      },
+      {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/minsk-mazowiecki/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797376"
+      },
+      {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
@@ -1022,22 +1087,6 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
-      },
-      {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
