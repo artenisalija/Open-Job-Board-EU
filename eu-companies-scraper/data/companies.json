@@ -463,23 +463,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -549,14 +532,6 @@
     "name": "DHL",
     "website": "https://group.dhl.com/en.html",
     "career_page_url": "https://group.dhl.com/en/careers.html",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Edeka",
-    "website": "http://www.edeka.de",
-    "career_page_url": "http://www.edeka.de/jobs",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
@@ -939,13 +914,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1179,16 +1154,16 @@
         "url": "https://www.munichre.com/en/job/munich/compliance-manager-m-f-d/3342/36806744768"
       },
       {
-        "title": "Project Manager Innovation (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/project-manager-innovation-m-f-d/3342/36813039104"
+        "title": "Longevity Actuary",
+        "url": "https://www.munichre.com/en/job/london/longevity-actuary/3342/35568462144"
       },
       {
-        "title": "Actuarial Data Scientist Intern (Non-Life) (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/actuarial-data-scientist-intern-non-life-m-f-d/3342/36774187840"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297162048"
       },
       {
-        "title": "Category Manager Advertising & Communication",
-        "url": "https://www.munichre.com/en/job/manchester/category-manager-advertising-and-communication/3342/35856290176"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297159680"
       },
       {
         "title": "Find jobs",
@@ -1321,6 +1296,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
