@@ -463,6 +463,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -922,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1004,8 +1021,20 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/olsztyn/program-stazowy-lion-w-bankowosci-detalicznej/3120/36808084800"
+      },
+      {
         "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
         "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
+      },
+      {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/poznan/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797440"
+      },
+      {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/minsk-mazowiecki/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797376"
       },
       {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
@@ -1026,18 +1055,6 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
-      },
-      {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1158,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Compliance Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/compliance-manager-m-f-d/3342/36806744768"
+        "title": "Inspector - Chattanooga, Tennessee",
+        "url": "https://www.munichre.com/en/job/murfreesboro/inspector-chattanooga-tennessee/3342/36829005184"
       },
       {
-        "title": "Project Manager Innovation (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/project-manager-innovation-m-f-d/3342/36813039104"
+        "title": "Risk & Compliance Intern",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
       },
       {
-        "title": "Actuarial Data Scientist Intern (Non-Life) (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/actuarial-data-scientist-intern-non-life-m-f-d/3342/36774187840"
+        "title": "Valuation Internship",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/valuation-internship/3342/36843806912"
       },
       {
-        "title": "Category Manager Advertising & Communication",
-        "url": "https://www.munichre.com/en/job/manchester/category-manager-advertising-and-communication/3342/35856290176"
+        "title": "Head of Sales - Roanoke Insurance Group",
+        "url": "https://www.munichre.com/en/job/houston/head-of-sales-roanoke-insurance-group/3342/36792150592"
       },
       {
         "title": "Find jobs",
