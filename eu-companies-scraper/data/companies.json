@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,20 +1021,8 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Program stażowy LiON w bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/olsztyn/program-stazowy-lion-w-bankowosci-detalicznej/3120/36808084800"
-      },
-      {
         "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
         "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
-      },
-      {
-        "title": "Program stażowy LiON w bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/poznan/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797440"
-      },
-      {
-        "title": "Program stażowy LiON w bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/minsk-mazowiecki/program-stazowy-lion-w-bankowosci-detalicznej/3120/36774797376"
       },
       {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
@@ -1055,6 +1043,18 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
+        "title": "Staż z Lwem - DevOps Enablement IT Team",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
+      },
+      {
+        "title": "Expert Developer Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "Expert - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Risk & Compliance Intern",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
+        "title": "Senior Cargo Underwriter",
+        "url": "https://www.munichre.com/en/job/london/senior-cargo-underwriter/3342/36821662272"
       },
       {
-        "title": "Valuation Internship",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/valuation-internship/3342/36843806912"
+        "title": "Distribution and Sales Partner",
+        "url": "https://www.munichre.com/en/job/chicago/distribution-and-sales-partner/3342/36524848000"
       },
       {
-        "title": "Head of Sales - Roanoke Insurance Group",
-        "url": "https://www.munichre.com/en/job/houston/head-of-sales-roanoke-insurance-group/3342/36792150592"
+        "title": "Office Administrative Assistant in HSB KSA",
+        "url": "https://www.munichre.com/en/job/jubail/office-administrative-assistant-in-hsb-ksa/3342/36864105984"
       },
       {
-        "title": "Loss Control Inspector Trainee - Valparaiso, Indiana",
-        "url": "https://www.munichre.com/en/job/valparaiso/loss-control-inspector-trainee-valparaiso-indiana/3342/36240187712"
+        "title": "Research Scientist",
+        "url": "https://www.munichre.com/en/job/hartford/research-scientist/3342/34813689472"
       },
       {
         "title": "Find jobs",
