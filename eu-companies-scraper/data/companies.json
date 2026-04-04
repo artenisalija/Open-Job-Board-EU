@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,10 +1175,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/murfreesboro/inspector-chattanooga-tennessee/3342/36829005184"
-      },
-      {
         "title": "Risk & Compliance Intern",
         "url": "https://www.munichre.com/en/job/kuala-lumpur/risk-and-compliance-intern/3342/31297154048"
       },
@@ -1189,6 +1185,10 @@
       {
         "title": "Head of Sales - Roanoke Insurance Group",
         "url": "https://www.munichre.com/en/job/houston/head-of-sales-roanoke-insurance-group/3342/36792150592"
+      },
+      {
+        "title": "Loss Control Inspector Trainee - Valparaiso, Indiana",
+        "url": "https://www.munichre.com/en/job/valparaiso/loss-control-inspector-trainee-valparaiso-indiana/3342/36240187712"
       },
       {
         "title": "Find jobs",
@@ -1321,6 +1321,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
