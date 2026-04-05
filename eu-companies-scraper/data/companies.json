@@ -286,6 +286,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1150,10 +1175,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Regional Manager (Central England)",
-        "url": "https://www.munichre.com/en/job/leicester/regional-manager-central-england/3342/36821662784"
-      },
-      {
         "title": "MRSGM NA Associate Account Manager, Surety Bonds",
         "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
       },
@@ -1164,6 +1185,10 @@
       {
         "title": "Distribution and Sales Partner",
         "url": "https://www.munichre.com/en/job/chicago/distribution-and-sales-partner/3342/36524848000"
+      },
+      {
+        "title": "Office Administrative Assistant in HSB KSA",
+        "url": "https://www.munichre.com/en/job/jubail/office-administrative-assistant-in-hsb-ksa/3342/36864105984"
       },
       {
         "title": "Find jobs",
