@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Data Science & Gen-AI Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/36661843264"
+      },
+      {
+        "title": "Senior Actuarial Analyst",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst/3342/36769311040"
+      },
+      {
+        "title": "Inspector - Chattanooga, Tennessee",
+        "url": "https://www.munichre.com/en/job/murfreesboro/inspector-chattanooga-tennessee/3342/36829005184"
+      },
+      {
         "title": "Regional Manager (Central England)",
         "url": "https://www.munichre.com/en/job/leicester/regional-manager-central-england/3342/36821662784"
-      },
-      {
-        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
-        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
-      },
-      {
-        "title": "Senior Cargo Underwriter",
-        "url": "https://www.munichre.com/en/job/london/senior-cargo-underwriter/3342/36821662272"
-      },
-      {
-        "title": "Distribution and Sales Partner",
-        "url": "https://www.munichre.com/en/job/chicago/distribution-and-sales-partner/3342/36524848000"
       },
       {
         "title": "Find jobs",
@@ -1325,7 +1325,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1532,115 +1532,6 @@
     ]
   },
   {
-    "name": "Sanofi",
-    "website": "http://sanofi.com",
-    "career_page_url": "https://jobs.sanofi.com",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://jobs.sanofi.com"
-      },
-      {
-        "title": "Why Sanofi",
-        "url": "https://jobs.sanofi.com/why-join-sanofi"
-      },
-      {
-        "title": "Career Development",
-        "url": "https://jobs.sanofi.com/career-development"
-      },
-      {
-        "title": "Rewards & Benefits",
-        "url": "https://jobs.sanofi.com/rewards-and-benefits"
-      },
-      {
-        "title": "Culture & Values",
-        "url": "https://jobs.sanofi.com/culture-and-values"
-      },
-      {
-        "title": "Early Talent",
-        "url": "https://jobs.sanofi.com/early-talent"
-      },
-      {
-        "title": "Digital",
-        "url": "https://jobs.sanofi.com/digital"
-      },
-      {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Corporate Functions",
-        "url": "https://jobs.sanofi.com/corporate"
-      },
-      {
-        "title": "Hubs",
-        "url": "https://jobs.sanofi.com/hubs"
-      },
-      {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Early Careers",
-        "url": "https://jobs.sanofi.com/early-career-jobs"
-      },
-      {
-        "title": "Marketing & Sales",
-        "url": "https://jobs.sanofi.com/marketing-and-sales"
-      },
-      {
-        "title": "Medical & Market Access",
-        "url": "https://jobs.sanofi.com/medical-market-access"
-      },
-      {
-        "title": "Quality Assurance",
-        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
-      },
-      {
-        "title": "Regulatory Affairs",
-        "url": "https://jobs.sanofi.com/regulatory-affairs"
-      },
-      {
-        "title": "Business Operations",
-        "url": "https://jobs.sanofi.com/business-operations-jobs"
-      },
-      {
-        "title": "Engineering & Maintenance",
-        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
-      },
-      {
-        "title": "Data & Technology",
-        "url": "https://jobs.sanofi.com/data-technology-jobs"
-      },
-      {
-        "title": "Locations",
-        "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
-      },
-      {
-        "title": "Sanofi Stories",
-        "url": "https://jobs.sanofi.com/sanofi-stories"
-      },
-      {
-        "title": "Join Our Talent Community opens in a new tab",
-        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
-      },
-      {
-        "title": "Your Saved Jobs",
-        "url": "https://jobs.sanofi.com/saved-jobs"
-      },
-      {
-        "title": "Search Jobs",
-        "url": "https://jobs.sanofi.com/en/search-jobs"
-      }
-    ]
-  },
-  {
     "name": "Sberbank",
     "website": "http://sberbank.com",
     "career_page_url": "http://sberbank.com/jobs",
@@ -1707,6 +1598,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
@@ -1913,15 +1817,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
