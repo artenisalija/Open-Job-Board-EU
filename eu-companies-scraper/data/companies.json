@@ -70,6 +70,115 @@
     ]
   },
   {
+    "name": "Airbus",
+    "website": "https://airbus.com",
+    "career_page_url": "https://airbus.com/en/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://airbus.com/en/careers"
+      },
+      {
+        "title": "Explore our opportunities",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus"
+      },
+      {
+        "title": "Airbus Cybersecurity School 2026: Apply Now! Apply for the Airbus Cybersecurity School 2026! 🛡️ 100% tuition-free apprenticeship in Toulouse, France.",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeship-training-in-cybersecurity"
+      },
+      {
+        "title": "FIDAE Airshow 2026 Join us at the Educational Day (Apr 10) & Tech Fair (Apr 11). Discover our aircraft, helicopters & more!",
+        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-latin-america"
+      },
+      {
+        "title": "Airbus is recruiting in Belfast To support the ramp-up of the A220 programme, Airbus is recruiting now at its operations in Belfast.",
+        "url": "https://www.airbus.com/en/careers/belfast"
+      },
+      {
+        "title": "Hiring now: Production roles in North Wales To support our growing order book, we're hiring at our Broughton site. Find your future in pioneering aerospace with Airbus.",
+        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/opportunities-in-production-in-broughton"
+      },
+      {
+        "title": "Graduate Programme in Spain: Applications open! Graduating in 2025? Kick-start your career in Engineering, Finance, HR, Digital, Legal & more — this is your moment!",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/graduates/graduates-programmes-in-spain"
+      },
+      {
+        "title": "Make your career your mission We're on a mission to create sustainable aerospace solutions that make a positive impact on people's lives and pave the way for a…",
+        "url": "https://airbus.com/en/careers/make-your-career-your-mission"
+      },
+      {
+        "title": "Manufacturing and Quality Careers Welcome to the Airbus Manufacturing and Quality team, where professionals are the artisans behind our cutting-edge solutions.",
+        "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
+      },
+      {
+        "title": "Aerospace Engineering Virtual Work Experience Working with Springpod, Airbus has developed a programme for you to look behind the scenes at what aerospace engineers at Airbus…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
+      },
+      {
+        "title": "AGGP 2026 - HR Trainee Mexico City 27 March 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-City-Area/HR-Trainee----Rewards-_JR10349524"
+      },
+      {
+        "title": "Apprenticehip Airbus Cybersecurity School 2026 Toulouse, France 27 February 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Cybersecurity-School-2026---formation--Mastre-Expert-en-Cyberscurit--en-alternance-H-F_JR10395108"
+      },
+      {
+        "title": "3DX - Urbanist Work Preparation Toulouse & Bristol 27 February 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/XMLNAME-3DX---Urbanist-Work-Preparation_JR10381061-1"
+      },
+      {
+        "title": "Browse all jobs",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+      },
+      {
+        "title": "Jumpstart your career",
+        "url": "https://airbus.com/en/careers/students-and-graduates"
+      },
+      {
+        "title": "Explore our professions",
+        "url": "https://airbus.com/en/careers/professionals"
+      },
+      {
+        "title": "Explore our locations",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
+      },
+      {
+        "title": "Pride@Airbus Pride@Airbus is committed to contributing to a safer and better workplace, helping people bring their true selves to work and…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/pride-at-airbus"
+      },
+      {
+        "title": "Women's Interactive Network The “WIN” initiatives are a dynamic network of local and global women's networks, dedicated to fostering professional growth and…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/women-networks-at-airbus"
+      },
+      {
+        "title": "ADAPT ADAPT is an employee resource group aiming to change perception, build a caring network and provide support to those who have or…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/adapt"
+      },
+      {
+        "title": "Generation Airbus GenA or Generation Airbus is an internationally empowered community of Airbus people from all locations, sites, functions,…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/generation-airbus"
+      },
+      {
+        "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
+        "url": "https://airbus.com/en/careers/international-women-at-airbus"
+      },
+      {
+        "title": "Discover the Airbus life",
+        "url": "https://airbus.com/en/careers/life-at-airbus"
+      },
+      {
+        "title": "Discover employee benefits",
+        "url": "https://airbus.com/en/careers/life-at-airbus/reward-and-benefits"
+      },
+      {
+        "title": "More tips and guidance",
+        "url": "https://airbus.com/en/careers/recruitment-process-tips"
+      }
+    ]
+  },
+  {
     "name": "Assicurazioni Generali",
     "website": "https://www.generali.com",
     "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
@@ -1066,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Regional Manager (Central England)",
-        "url": "https://www.munichre.com/en/job/leicester/regional-manager-central-england/3342/36821662784"
+        "title": "Technical Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/technical-accountant/3342/35738241344"
       },
       {
-        "title": "MRSGM NA Associate Account Manager, Surety Bonds",
-        "url": "https://www.munichre.com/en/job/mt-pleasant/mrsgm-na-associate-account-manager-surety-bonds/3342/35753316480"
+        "title": "Senior Underwriter",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-underwriter/3342/34588692032"
       },
       {
-        "title": "Senior Cargo Underwriter",
-        "url": "https://www.munichre.com/en/job/london/senior-cargo-underwriter/3342/36821662272"
+        "title": "Claims Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
       },
       {
-        "title": "Distribution and Sales Partner",
-        "url": "https://www.munichre.com/en/job/chicago/distribution-and-sales-partner/3342/36524848000"
+        "title": "Office & Operations Manager",
+        "url": "https://www.munichre.com/en/job/madrid/office-and-operations-manager/3342/36953147648"
       },
       {
         "title": "Find jobs",
