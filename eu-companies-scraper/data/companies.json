@@ -288,27 +288,10 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
+    "career_page_url": "http://basf.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "BBVA",
@@ -939,13 +922,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/technical-accountant/3342/35738241344"
+        "title": "Head of Underwriting Management - U.S.",
+        "url": "https://www.munichre.com/en/job/princeton/head-of-underwriting-management-u-s/3342/33421584000"
       },
       {
-        "title": "Senior Underwriter",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-underwriter/3342/34588692032"
+        "title": "Claims Liability Manager",
+        "url": "https://www.munichre.com/en/job/schaumburg/claims-liability-manager/3342/36972296576"
       },
       {
-        "title": "Claims Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
+        "title": "First Party Claims Manager",
+        "url": "https://www.munichre.com/en/job/schaumburg/first-party-claims-manager/3342/36972296512"
       },
       {
-        "title": "Office & Operations Manager",
-        "url": "https://www.munichre.com/en/job/madrid/office-and-operations-manager/3342/36953147648"
+        "title": "Client Company Underwriter",
+        "url": "https://www.munichre.com/en/job/hartford/client-company-underwriter/3342/36749595904"
       },
       {
         "title": "Find jobs",
