@@ -89,10 +89,6 @@
         "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeship-training-in-cybersecurity"
       },
       {
-        "title": "FIDAE Airshow 2026 Join us at the Educational Day (Apr 10) & Tech Fair (Apr 11). Discover our aircraft, helicopters & more!",
-        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-latin-america"
-      },
-      {
         "title": "Airbus is recruiting in Belfast To support the ramp-up of the A220 programme, Airbus is recruiting now at its operations in Belfast.",
         "url": "https://www.airbus.com/en/careers/belfast"
       },
@@ -175,6 +171,10 @@
       {
         "title": "More tips and guidance",
         "url": "https://airbus.com/en/careers/recruitment-process-tips"
+      },
+      {
+        "title": "Meet Candice Meet Candice, Service Delivery Manager at Airbus Helicopters in Edinburgh, Australia",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-candice"
       }
     ]
   },
@@ -288,10 +288,27 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/careers",
+    "career_page_url": "http://basf.com/us/en/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
   },
   {
     "name": "BBVA",
@@ -922,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1158,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Head of Underwriting Management - U.S.",
-        "url": "https://www.munichre.com/en/job/princeton/head-of-underwriting-management-u-s/3342/33421584000"
+        "title": "Inspector Trainee - Chattanooga, Tennessee",
+        "url": "https://www.munichre.com/en/job/murfreesboro/inspector-trainee-chattanooga-tennessee/3342/36829005184"
       },
       {
-        "title": "Claims Liability Manager",
-        "url": "https://www.munichre.com/en/job/schaumburg/claims-liability-manager/3342/36972296576"
+        "title": "Product Analyst",
+        "url": "https://www.munichre.com/en/job/london/product-analyst/3342/36601051264"
       },
       {
-        "title": "First Party Claims Manager",
-        "url": "https://www.munichre.com/en/job/schaumburg/first-party-claims-manager/3342/36972296512"
+        "title": "Head of Programme Delivery",
+        "url": "https://www.munichre.com/en/job/london/head-of-programme-delivery/3342/35969180416"
       },
       {
-        "title": "Client Company Underwriter",
-        "url": "https://www.munichre.com/en/job/hartford/client-company-underwriter/3342/36749595904"
+        "title": "Bilingual Account Manager, Claims (Montreal)",
+        "url": "https://www.munichre.com/en/job/montreal/bilingual-account-manager-claims-montreal/3342/37002823552"
       },
       {
         "title": "Find jobs",
@@ -1892,39 +1909,6 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Vitol",
-    "website": "http://vitol.com",
-    "career_page_url": "https://www.vitol.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vitol.com/careers"
-      },
-      {
-        "title": "Early Careers in London",
-        "url": "https://www.vitol.com/vitol-early-careers"
-      },
-      {
-        "title": "Apply for role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
-      },
-      {
-        "title": "Find out more here",
-        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
-      }
-    ]
   },
   {
     "name": "Vodafone",
