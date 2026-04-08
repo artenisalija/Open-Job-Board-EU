@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,40 +1021,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
+        "title": "Intern, Corporate Sector Coverage Hong Kong",
+        "url": "https://careers.ing.com/en/job/wan-chai/intern-corporate-sector-coverage-hong-kong/3121/37031371264"
       },
       {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+        "title": "Cost Allocation Expert (FP&A)",
+        "url": "https://careers.ing.com/en/job/makati-city/cost-allocation-expert-fp-and-a/3121/36987179520"
       },
       {
-        "title": "Staż z Lwem w Centrum Bankowości Korporacyjnej",
-        "url": "https://careers.ing.com/en/job/bydgoszcz/staz-z-lwem-w-centrum-bankowosci-korporacyjnej/3120/36599193920"
+        "title": "Azure Platform Engineer (SAS Viya)",
+        "url": "https://careers.ing.com/en/job/katowice/azure-platform-engineer-sas-viya/3121/34832809408"
       },
       {
-        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
+        "title": "Agentic AI Data Scientist (Wholesale Banking)",
+        "url": "https://careers.ing.com/en/job/istanbul/agentic-ai-data-scientist-wholesale-banking/3121/37031371072"
       },
       {
-        "title": "Meet ITP Trainee",
-        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
+        "title": "Voice Customer Care Energic Adviser @ING Bank",
+        "url": "https://careers.ing.com/en/job/bucharest/voice-customer-care-energic-adviser-ing-bank/3121/37010958720"
       },
       {
-        "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+        "title": "Middle Officer (m/f)",
+        "url": "https://careers.ing.com/en/job/luxembourg/middle-officer-m-f/3121/37031370624"
       },
       {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
+        "title": "Squad master / Sr. CJE SEPA & manual payments",
+        "url": "https://careers.ing.com/en/job/brussels/squad-master-sr-cje-sepa-and-manual-payments/3121/37031370496"
       },
       {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+        "title": "Data and AI Engineering Intern",
+        "url": "https://careers.ing.com/en/job/istanbul/data-and-ai-engineering-intern/3121/37031370432"
       },
       {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
+        "title": "Alternant Financial Institutions Coverage H/F",
+        "url": "https://careers.ing.com/en/job/paris/alternant-financial-institutions-coverage-h-f/3121/37031370368"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Lloyds Reporting Accountant",
-        "url": "https://www.munichre.com/en/job/london/lloyds-reporting-accountant/3342/36346504256"
+        "title": "Senior Solution Architect",
+        "url": "https://www.munichre.com/en/job/manchester/senior-solution-architect/3342/31297157888"
       },
       {
-        "title": "Client Operations Manager",
-        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007023040"
+        "title": "Pricing Lead",
+        "url": "https://www.munichre.com/en/job/london/pricing-lead/3342/35378310848"
       },
       {
-        "title": "Client Operations Manager",
-        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007022976"
+        "title": "Financial Data Analyst",
+        "url": "https://www.munichre.com/en/job/mumbai/financial-data-analyst/3342/35496297984"
       },
       {
-        "title": "Client Operations Manager",
-        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007022912"
+        "title": "Technical Architect - ServiceNow Developer (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/technical-architect-servicenow-developer-m-f-d/3342/31997071552"
       },
       {
         "title": "Find jobs",
@@ -1321,6 +1321,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1703,6 +1711,14 @@
     ]
   },
   {
+    "name": "SocGen",
+    "website": "https://www.societegenerale.com/en",
+    "career_page_url": "https://www.societegenerale.com/en/news-and-documentation/news/all-news/alix-and-marc-two-committed-voices-helping-launch-female-talent-moon",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1901,6 +1917,14 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
+  },
+  {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Vodafone",
