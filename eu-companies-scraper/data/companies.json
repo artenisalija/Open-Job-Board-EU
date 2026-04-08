@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/pe/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/pe/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector Trainee - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/murfreesboro/inspector-trainee-chattanooga-tennessee/3342/36829005184"
+        "title": "Lloyds Reporting Accountant",
+        "url": "https://www.munichre.com/en/job/london/lloyds-reporting-accountant/3342/36346504256"
       },
       {
-        "title": "Product Analyst",
-        "url": "https://www.munichre.com/en/job/london/product-analyst/3342/36601051264"
+        "title": "Client Operations Manager",
+        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007023040"
       },
       {
-        "title": "Head of Programme Delivery",
-        "url": "https://www.munichre.com/en/job/london/head-of-programme-delivery/3342/35969180416"
+        "title": "Client Operations Manager",
+        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007022976"
       },
       {
-        "title": "Bilingual Account Manager, Claims (Montreal)",
-        "url": "https://www.munichre.com/en/job/montreal/bilingual-account-manager-claims-montreal/3342/37002823552"
+        "title": "Client Operations Manager",
+        "url": "https://www.munichre.com/en/job/wayne/client-operations-manager/3342/37007022912"
       },
       {
         "title": "Find jobs",
@@ -1321,14 +1321,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1909,14 +1901,6 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
-  },
-  {
-    "name": "Vinci",
-    "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Vodafone",
