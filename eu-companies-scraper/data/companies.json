@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Solution Architect",
-        "url": "https://www.munichre.com/en/job/manchester/senior-solution-architect/3342/31297157888"
+        "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
       },
       {
-        "title": "Pricing Lead",
-        "url": "https://www.munichre.com/en/job/london/pricing-lead/3342/35378310848"
+        "title": "Product Analyst",
+        "url": "https://www.munichre.com/en/job/london/product-analyst/3342/36601051264"
       },
       {
-        "title": "Financial Data Analyst",
-        "url": "https://www.munichre.com/en/job/mumbai/financial-data-analyst/3342/35496297984"
+        "title": "Credit Controller",
+        "url": "https://www.munichre.com/en/job/london/credit-controller/3342/36069161280"
       },
       {
-        "title": "Technical Architect - ServiceNow Developer (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/technical-architect-servicenow-developer-m-f-d/3342/31997071552"
+        "title": "Engineer Surveyor London",
+        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-london/3342/34067967808"
       },
       {
         "title": "Find jobs",
@@ -1321,14 +1321,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -2036,11 +2028,11 @@
     ]
   },
   {
-    "name": "Volkswagen Group",
+    "name": "Volkswagen",
     "website": "http://volkswagen-group.com",
     "career_page_url": "http://volkswagen-group.com/en/career-16057",
     "country_of_origin": "Germany",
-    "source": "wikipedia_global",
+    "source": "wikipedia",
     "jobs": [
       {
         "title": "Careers with the Group",
