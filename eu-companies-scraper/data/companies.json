@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Accounting Clerk Intern",
-        "url": "https://www.munichre.com/en/job/wayne/accounting-clerk-intern/3342/35315273152"
-      },
-      {
-        "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
-      },
-      {
-        "title": "Technical Architect for HR Applications (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/technical-architect-for-hr-applications-m-f-d/3342/37038231424"
-      },
-      {
         "title": "Head of Equipment Breakdown Practice",
         "url": "https://www.munichre.com/en/job/hartford/head-of-equipment-breakdown-practice/3342/37036547712"
+      },
+      {
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
+      },
+      {
+        "title": "Praktikum im Sprachendienst (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-im-sprachendienst-m-w-d/3342/37036547136"
+      },
+      {
+        "title": "Senior Solution Architect",
+        "url": "https://www.munichre.com/en/job/manchester/senior-solution-architect/3342/31297157888"
       },
       {
         "title": "Find jobs",
@@ -1346,17 +1346,21 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers/reknow-university",
+    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
       },
       {
-        "title": "Careers",
+        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
         "url": "https://www.renaultgroup.com/en/careers"
+      },
+      {
+        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
