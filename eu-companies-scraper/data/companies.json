@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Head of Equipment Breakdown Practice",
-        "url": "https://www.munichre.com/en/job/hartford/head-of-equipment-breakdown-practice/3342/37036547712"
-      },
-      {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
-      },
-      {
-        "title": "Praktikum im Sprachendienst (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-im-sprachendienst-m-w-d/3342/37036547136"
-      },
-      {
         "title": "Senior Solution Architect",
         "url": "https://www.munichre.com/en/job/manchester/senior-solution-architect/3342/31297157888"
+      },
+      {
+        "title": "Pricing Lead",
+        "url": "https://www.munichre.com/en/job/london/pricing-lead/3342/35378310848"
+      },
+      {
+        "title": "Financial Data Analyst",
+        "url": "https://www.munichre.com/en/job/mumbai/financial-data-analyst/3342/35496297984"
+      },
+      {
+        "title": "Technical Architect - ServiceNow Developer (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/technical-architect-servicenow-developer-m-f-d/3342/31997071552"
       },
       {
         "title": "Find jobs",
@@ -2036,11 +2036,11 @@
     ]
   },
   {
-    "name": "Volkswagen",
+    "name": "Volkswagen Group",
     "website": "http://volkswagen-group.com",
     "career_page_url": "http://volkswagen-group.com/en/career-16057",
     "country_of_origin": "Germany",
-    "source": "wikipedia",
+    "source": "wikipedia_global",
     "jobs": [
       {
         "title": "Careers with the Group",
