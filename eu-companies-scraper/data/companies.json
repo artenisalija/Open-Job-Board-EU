@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Underwriting & Claims Administrator",
+        "url": "https://www.munichre.com/en/job/london/underwriting-and-claims-administrator/3342/37070347712"
+      },
+      {
+        "title": "Lloyds Reporting Accountant",
+        "url": "https://www.munichre.com/en/job/london/lloyds-reporting-accountant/3342/36346504256"
+      },
+      {
+        "title": "Business Analyst (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
+      },
+      {
         "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
-      },
-      {
-        "title": "Product Analyst",
-        "url": "https://www.munichre.com/en/job/london/product-analyst/3342/36601051264"
-      },
-      {
-        "title": "Credit Controller",
-        "url": "https://www.munichre.com/en/job/london/credit-controller/3342/36069161280"
-      },
-      {
-        "title": "Engineer Surveyor London",
-        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-london/3342/34067967808"
       },
       {
         "title": "Find jobs",
@@ -1321,6 +1321,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1699,6 +1707,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
