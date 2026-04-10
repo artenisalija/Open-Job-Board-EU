@@ -173,8 +173,8 @@
         "url": "https://airbus.com/en/careers/recruitment-process-tips"
       },
       {
-        "title": "Meet Candice Meet Candice, Service Delivery Manager at Airbus Helicopters in Edinburgh, Australia",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-candice"
+        "title": "Meet Alexandra Meet Alexandra, Engineering Strategy & Integration Manager at Airbus Defence and Space in Manching, Germany",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-alexandra-monteiro"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior / GenAI Data Scientist",
-        "url": "https://www.munichre.com/en/job/singapore/senior-genai-data-scientist/3342/37082116672"
+        "title": "Underwriting & Claims Administrator",
+        "url": "https://www.munichre.com/en/job/london/underwriting-and-claims-administrator/3342/37070347712"
       },
       {
-        "title": "Nuclear Inspector - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
+        "title": "Lloyds Reporting Accountant",
+        "url": "https://www.munichre.com/en/job/london/lloyds-reporting-accountant/3342/36346504256"
       },
       {
-        "title": "Underwriter Level 2 (P&C)",
-        "url": "https://www.munichre.com/en/job/london/underwriter-level-2-p-and-c/3342/35606813120"
+        "title": "Business Analyst (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
       },
       {
-        "title": "Engineer Surveyor (customer specific Central London)",
-        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-customer-specific-central-london/3342/36748225024"
+        "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
       },
       {
         "title": "Find jobs",
@@ -1321,14 +1321,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1732,6 +1724,19 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
+      }
+    ]
+  },
+  {
+    "name": "ThyssenKrupp",
+    "website": "http://thyssenkrupp.com",
+    "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Logo",
+        "url": "https://jobs.thyssenkrupp.com/de"
       }
     ]
   },
