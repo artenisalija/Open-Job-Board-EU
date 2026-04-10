@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,10 +1021,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
-      },
-      {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
@@ -1055,6 +1051,10 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
+      },
+      {
+        "title": "Software Developer (React / Java)",
+        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Underwriting & Claims Administrator",
-        "url": "https://www.munichre.com/en/job/london/underwriting-and-claims-administrator/3342/37070347712"
-      },
-      {
-        "title": "Lloyds Reporting Accountant",
-        "url": "https://www.munichre.com/en/job/london/lloyds-reporting-accountant/3342/36346504256"
-      },
-      {
-        "title": "Business Analyst (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
-      },
-      {
         "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
+      },
+      {
+        "title": "Compliance Consultant (m/w/d)* in Teilzeit",
+        "url": "https://www.munichre.com/en/job/munich/compliance-consultant-m-w-d-in-teilzeit/3342/36734362816"
+      },
+      {
+        "title": "Sustainability Manager (m/f/d)* - limited until 09/2027",
+        "url": "https://www.munichre.com/en/job/munich/sustainability-manager-m-f-d-limited-until-09-2027/3342/36734362432"
+      },
+      {
+        "title": "Risk Manager",
+        "url": "https://www.munichre.com/en/job/beijing/risk-manager/3342/34593018304"
       },
       {
         "title": "Find jobs",
