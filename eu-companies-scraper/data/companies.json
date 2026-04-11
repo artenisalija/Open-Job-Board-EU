@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
+        "title": "Investment Manager, Financial Assets Alternatives - Private Debt Investments (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/investment-manager-financial-assets-alternatives-private-debt-investments-m-f-d/3342/37114524608"
       },
       {
-        "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
+        "title": "Cash Management & AP Specialist",
+        "url": "https://www.munichre.com/en/job/london/cash-management-and-ap-specialist/3342/37116366784"
       },
       {
-        "title": "Compliance Consultant (m/w/d)* in Teilzeit",
-        "url": "https://www.munichre.com/en/job/munich/compliance-consultant-m-w-d-in-teilzeit/3342/36734362816"
+        "title": "Underwriting & Claims Administrator- 12 months FTC",
+        "url": "https://www.munichre.com/en/job/london/underwriting-and-claims-administrator-12-months-ftc/3342/37070347712"
       },
       {
-        "title": "Sustainability Manager (m/f/d)* - limited until 09/2027",
-        "url": "https://www.munichre.com/en/job/munich/sustainability-manager-m-f-d-limited-until-09-2027/3342/36734362432"
+        "title": "Authorized Inspector - HSB China (YDR)",
+        "url": "https://www.munichre.com/en/job/shanghai/authorized-inspector-hsb-china-ydr/3342/36692536000"
       },
       {
         "title": "Find jobs",
@@ -1323,6 +1323,14 @@
     ]
   },
   {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1382,6 +1390,10 @@
       {
         "title": "Proud to be energy for everyone",
         "url": "https://www.repsol.com/en/careers/why-repsol/diversity-and-equality/proud-to-be-energy-for-everyone/index.cshtml"
+      },
+      {
+        "title": "Talent with disabilities",
+        "url": "https://www.repsol.com/en/careers/why-repsol/diversity-and-equality/talent-with-disabilities-at-repsol/index.cshtml"
       },
       {
         "title": "Total compensation and benefits",
@@ -1701,14 +1713,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/vacancies",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "SocGen",
