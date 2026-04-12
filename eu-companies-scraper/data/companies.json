@@ -288,25 +288,57 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
+    "career_page_url": "http://basf.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+        "title": "Discover our values and benefits",
+        "url": "http://basf.com/global/en/careers/why-join-basf"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+        "title": "How do I apply?",
+        "url": "http://basf.com/global/en/careers/application"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+        "title": "Questions and answers",
+        "url": "http://basf.com/global/en/careers/application/faq"
+      },
+      {
+        "title": "Contact",
+        "url": "http://basf.com/global/en/careers/contact"
+      },
+      {
+        "title": "Discover locations in Germany",
+        "url": "http://basf.com/global/en/careers/locations"
+      },
+      {
+        "title": "View all career events",
+        "url": "http://basf.com/global/en/careers/application/career-events"
+      },
+      {
+        "title": "Learn more about professionals at BASF",
+        "url": "http://basf.com/global/en/careers/professionals"
+      },
+      {
+        "title": "Learn more about graduates at BASF",
+        "url": "http://basf.com/global/en/careers/graduates"
+      },
+      {
+        "title": "Learn more about opportunities for students at BASF",
+        "url": "http://basf.com/global/en/careers/students"
+      },
+      {
+        "title": "Learn more about how we foster diversity",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity"
+      },
+      {
+        "title": "Learn more about women at BASF",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity/women-in-basf"
       },
       {
         "title": "Career",
-        "url": "http://basf.com/us/en/careers"
+        "url": "http://basf.com/global/en/careers"
       }
     ]
   },
@@ -939,13 +971,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1321,14 +1353,6 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -1713,14 +1737,6 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/join-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "SocGen",
