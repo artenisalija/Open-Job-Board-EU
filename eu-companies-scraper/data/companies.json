@@ -288,57 +288,25 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/careers",
+    "career_page_url": "http://basf.com/us/en/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Discover our values and benefits",
-        "url": "http://basf.com/global/en/careers/why-join-basf"
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
       },
       {
-        "title": "How do I apply?",
-        "url": "http://basf.com/global/en/careers/application"
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
       },
       {
-        "title": "Questions and answers",
-        "url": "http://basf.com/global/en/careers/application/faq"
-      },
-      {
-        "title": "Contact",
-        "url": "http://basf.com/global/en/careers/contact"
-      },
-      {
-        "title": "Discover locations in Germany",
-        "url": "http://basf.com/global/en/careers/locations"
-      },
-      {
-        "title": "View all career events",
-        "url": "http://basf.com/global/en/careers/application/career-events"
-      },
-      {
-        "title": "Learn more about professionals at BASF",
-        "url": "http://basf.com/global/en/careers/professionals"
-      },
-      {
-        "title": "Learn more about graduates at BASF",
-        "url": "http://basf.com/global/en/careers/graduates"
-      },
-      {
-        "title": "Learn more about opportunities for students at BASF",
-        "url": "http://basf.com/global/en/careers/students"
-      },
-      {
-        "title": "Learn more about how we foster diversity",
-        "url": "http://basf.com/global/en/careers/why-join-basf/diversity"
-      },
-      {
-        "title": "Learn more about women at BASF",
-        "url": "http://basf.com/global/en/careers/why-join-basf/diversity/women-in-basf"
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
       },
       {
         "title": "Career",
-        "url": "http://basf.com/global/en/careers"
+        "url": "http://basf.com/us/en/careers"
       }
     ]
   },
