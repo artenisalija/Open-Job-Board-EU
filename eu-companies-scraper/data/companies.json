@@ -1021,6 +1021,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "UX Researcher – Employee Experience (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/ux-researcher-employee-experience-w-m-d/3121/37213278208"
+      },
+      {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
@@ -1051,10 +1055,6 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1321,6 +1321,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
