@@ -1037,6 +1037,14 @@
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
       },
       {
+        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
+        "url": "https://careers.ing.com/en/job/rzeszow/staz-z-lwem-w-centrum-bankowosci-biznesowej/3120/37235859648"
+      },
+      {
+        "title": "Program stażowy LiON w bankowości detalicznej",
+        "url": "https://careers.ing.com/en/job/nowy-targ/program-stazowy-lion-w-bankowosci-detalicznej/3120/37235859200"
+      },
+      {
         "title": "Staż z Lwem - DevOps Enablement IT Team",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       },
@@ -1047,14 +1055,6 @@
       {
         "title": "Expert - Data Analyst",
         "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
-      },
-      {
-        "title": "Software Developer (React / Java)",
-        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
-      },
-      {
-        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Underwriting Assistant (Part‑Time, 1‑Year Contract)",
-        "url": "https://www.munichre.com/en/job/sydney/technical-underwriting-assistant-part-time-1-year-contract/3342/37214781312"
-      },
-      {
-        "title": "Actuarial Analyst, Munich Re Retakaful",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/actuarial-analyst-munich-re-retakaful/3342/37061907520"
-      },
-      {
         "title": "Cyber & Tech Risk Underwriter",
         "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter/3342/36592320512"
       },
       {
         "title": "Cyber & Tech Risk Underwriter II",
         "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter-ii/3342/36593990336"
+      },
+      {
+        "title": "MRSGM NA Account Manager, Logistics Insurance",
+        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-account-manager-logistics-insurance/3342/37133424896"
+      },
+      {
+        "title": "Business Intelligence Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/business-intelligence-analyst/3342/36277190400"
       },
       {
         "title": "Find jobs",
@@ -1321,6 +1321,14 @@
         "url": "https://www.omv.com/en/career/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
