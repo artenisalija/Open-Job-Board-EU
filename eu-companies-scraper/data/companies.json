@@ -463,23 +463,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -939,13 +922,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspection Support Rep II",
-        "url": "https://www.munichre.com/en/job/wayne/inspection-support-rep-ii/3342/36251839552"
+        "title": "Nuclear Inspector - Chattanooga, Tennessee",
+        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
       },
       {
-        "title": "Intern Market Risk Modelling (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-market-risk-modelling-m-f-d/3342/37306284800"
+        "title": "Loss Control Inspector Trainee - Des Moines, Iowa",
+        "url": "https://www.munichre.com/en/job/des-moines/loss-control-inspector-trainee-des-moines-iowa/3342/32632237376"
       },
       {
-        "title": "Rechtsreferendar (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/rechtsreferendar-m-w-d/3342/33908705792"
+        "title": "Cyber Coverage & Language Design Ld AVP",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-coverage-and-language-design-ld-avp/3342/37324097280"
       },
       {
-        "title": "Electrical Technician",
-        "url": "https://www.munichre.com/en/job/manchester/electrical-technician/3342/35003991232"
+        "title": "MRSGM NA Logistics Liability Claims Manager- Third Party",
+        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-logistics-liability-claims-manager-third-party/3342/36972296576"
       },
       {
         "title": "Find jobs",
@@ -1567,28 +1550,24 @@
         "url": "https://jobs.sanofi.com/early-talent"
       },
       {
+        "title": "Corporate Functions & Business Operations",
+        "url": "https://jobs.sanofi.com/corporate-functions-business-operations"
+      },
+      {
         "title": "Digital",
         "url": "https://jobs.sanofi.com/digital"
       },
       {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Corporate Functions",
-        "url": "https://jobs.sanofi.com/corporate"
+        "title": "Engineering & Maintenance",
+        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
       },
       {
         "title": "Hubs",
         "url": "https://jobs.sanofi.com/hubs"
       },
       {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Early Careers",
-        "url": "https://jobs.sanofi.com/early-career-jobs"
+        "title": "Manufacturing & Supply",
+        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
       },
       {
         "title": "Marketing & Sales",
@@ -1599,24 +1578,16 @@
         "url": "https://jobs.sanofi.com/medical-market-access"
       },
       {
-        "title": "Quality Assurance",
-        "url": "https://jobs.sanofi.com/quality-assurance-jobs"
+        "title": "Quality",
+        "url": "https://jobs.sanofi.com/quality-jobs"
       },
       {
         "title": "Regulatory Affairs",
         "url": "https://jobs.sanofi.com/regulatory-affairs"
       },
       {
-        "title": "Business Operations",
-        "url": "https://jobs.sanofi.com/business-operations-jobs"
-      },
-      {
-        "title": "Engineering & Maintenance",
-        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
-      },
-      {
-        "title": "Data & Technology",
-        "url": "https://jobs.sanofi.com/data-technology-jobs"
+        "title": "Research & Development",
+        "url": "https://jobs.sanofi.com/research-and-development"
       },
       {
         "title": "Locations",
@@ -1641,6 +1612,18 @@
       {
         "title": "Search Jobs",
         "url": "https://jobs.sanofi.com/en/search-jobs"
+      },
+      {
+        "title": "English",
+        "url": "https://jobs.sanofi.com/en"
+      },
+      {
+        "title": "Français",
+        "url": "https://jobs.sanofi.com/fr"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://jobs.sanofi.com/de"
       }
     ]
   },
