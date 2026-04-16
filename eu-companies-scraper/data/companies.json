@@ -286,31 +286,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1312,12 +1287,16 @@
   {
     "name": "OMV",
     "website": "https://www.omv.com/en",
-    "career_page_url": "https://www.omv.com/en/career",
+    "career_page_url": "https://www.omv.com/en/career/grow-with-us",
     "country_of_origin": "Austria",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Read more",
+        "title": "Jobboard",
+        "url": "https://www.omv.com/en/career/grow-with-us/jobboard"
+      },
+      {
+        "title": "Job stories",
         "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
@@ -1325,7 +1304,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/jobs",
+    "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
