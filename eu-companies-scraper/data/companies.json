@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "MRSGM NA Logistics Liability Claims Manager- Third Party",
-        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-logistics-liability-claims-manager-third-party/3342/36972296576"
+        "title": "HR Graduate Learner",
+        "url": "https://www.munichre.com/en/job/johannesburg/hr-graduate-learner/3342/37341481024"
       },
       {
-        "title": "MRSGM NA Logistics Claims Manager - First Party",
-        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-logistics-claims-manager-first-party/3342/36972296512"
+        "title": "Financial Risk Manager",
+        "url": "https://www.munichre.com/en/job/london/financial-risk-manager/3342/31471120320"
       },
       {
-        "title": "MRSGM NA Associate Recovery Specialist - Marine",
-        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-associate-recovery-specialist-marine/3342/37241087808"
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
       },
       {
-        "title": "MRSGM NA Associate Account Manager Commercial Insurance",
-        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
+        "title": "Life Claims Graduate Learner",
+        "url": "https://www.munichre.com/en/job/johannesburg/life-claims-graduate-learner/3342/37338592448"
       },
       {
         "title": "Find jobs",
@@ -1318,14 +1318,14 @@
     "jobs": [
       {
         "title": "Read more",
-        "url": "https://www.omv.com/en/career/job-stories"
+        "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
   },
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/jobs",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1996,7 +1996,7 @@
       },
       {
         "title": "Our Teams",
-        "url": "https://jobs.vodafone.com/careers?start=0&pid=563018696405938&sort_by=timestamp"
+        "url": "https://jobs.vodafone.com/careers"
       },
       {
         "title": "Early careers",
@@ -2013,10 +2013,6 @@
       {
         "title": "Industrial placements",
         "url": "https://careers.vodafone.com/students-graduates/industrial-placements"
-      },
-      {
-        "title": "Applying to Vodafone",
-        "url": "https://careers.vodafone.com/applying-to-vodafone"
       },
       {
         "title": "Our hiring process",
@@ -2049,6 +2045,10 @@
       {
         "title": "Ireland",
         "url": "https://careers.vodafone.com/ireland"
+      },
+      {
+        "title": "Italy",
+        "url": "https://careers.vodafone.com/italy"
       }
     ]
   },
