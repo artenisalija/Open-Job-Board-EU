@@ -286,6 +286,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -434,23 +459,6 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1150,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "HR Graduate Learner",
-        "url": "https://www.munichre.com/en/job/johannesburg/hr-graduate-learner/3342/37341481024"
+        "title": "Nuclear Inspector - Chattanooga, Tennessee",
+        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
       },
       {
-        "title": "Financial Risk Manager",
-        "url": "https://www.munichre.com/en/job/london/financial-risk-manager/3342/31471120320"
+        "title": "Single Risk Technical Analyst",
+        "url": "https://www.munichre.com/en/job/princeton/single-risk-technical-analyst/3342/37319643136"
       },
       {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
+        "title": "Broker",
+        "url": "https://www.munichre.com/en/job/london/broker/3342/33201213568"
       },
       {
-        "title": "Life Claims Graduate Learner",
-        "url": "https://www.munichre.com/en/job/johannesburg/life-claims-graduate-learner/3342/37338592448"
+        "title": "Senior Actuarial Associate, IL Pricing",
+        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-il-pricing/3342/37354227200"
       },
       {
         "title": "Find jobs",
@@ -1692,6 +1700,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/career",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "SocGen",
