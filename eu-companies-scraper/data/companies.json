@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/kr/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/kr/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1025,24 +1025,20 @@
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
       {
+        "title": "Staż z Lwem w Pionie Private Banking (obszar Business Intelligence)",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-private-banking-obszar-business-intelligence/3120/37390289280"
+      },
+      {
+        "title": "Starszy_a Doradca_czyni Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-doradca-czyni-klienta-korporacyjnego/3120/37390289216"
+      },
+      {
         "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
       },
       {
-        "title": "Program stażowy LiON w bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/skoczow/program-stazowy-lion-w-bankowosci-detalicznej/3120/37260596224"
-      },
-      {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
-      },
-      {
-        "title": "Staż z lwem z obszarze Wholsale Banking",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-z-obszarze-wholsale-banking/3120/37257454592"
-      },
-      {
-        "title": "Staż z Lwem w Pionie Operacji i Finansów",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-operacji-i-finansow/3120/37374175616"
+        "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
+        "url": "https://careers.ing.com/en/job/czestochowa/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
       },
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
@@ -1055,6 +1051,10 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
+        "title": "Staż z Lwem w obszarze Analizy Biznesowej IT",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-analizy-biznesowej-it/3120/37374174656"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Chief Strategy & Market Intell Officer",
-        "url": "https://www.munichre.com/en/job/hartford/chief-strategy-and-market-intell-officer/3342/37366471040"
+        "title": "Engineer Surveyor - Bolton",
+        "url": "https://www.munichre.com/en/job/bolton/engineer-surveyor-bolton/3342/35471108864"
       },
       {
-        "title": "Project Manager Sr",
-        "url": "https://www.munichre.com/en/job/hartford/project-manager-sr/3342/37366470976"
+        "title": "Engineer Surveyor - Chester",
+        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-chester/3342/34406986688"
       },
       {
-        "title": "Nuclear Inspector - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297159680"
       },
       {
-        "title": "Loss Control Inspector Trainee - Morristown, NJ",
-        "url": "https://www.munichre.com/en/job/newark/loss-control-inspector-trainee-morristown-nj/3342/37319643072"
+        "title": "Internship Data Analytics - Focus: Benchmark Risk & Performance Analysis (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-data-analytics-focus-benchmark-risk-and-performance-analysis-m-f-d/3342/37264348352"
       },
       {
         "title": "Find jobs",
@@ -1329,7 +1329,7 @@
   {
     "name": "Orange S.A.",
     "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
+    "career_page_url": "https://orange.com/career",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1999,8 +1999,48 @@
         "url": "https://careers.vodafone.com/life-at-vodafone/benefits"
       },
       {
-        "title": "Our Teams",
-        "url": "https://jobs.vodafone.com/careers"
+        "title": "Our teams",
+        "url": "https://careers.vodafone.com/our-teams"
+      },
+      {
+        "title": "Technology",
+        "url": "https://careers.vodafone.com/our-teams/technology"
+      },
+      {
+        "title": "Cyber Security",
+        "url": "https://careers.vodafone.com/our-teams/technology/cyber-security"
+      },
+      {
+        "title": "Data",
+        "url": "https://careers.vodafone.com/our-teams/technology/data"
+      },
+      {
+        "title": "Network Engineering",
+        "url": "https://careers.vodafone.com/our-teams/technology/network-engineering"
+      },
+      {
+        "title": "Software Engineering",
+        "url": "https://careers.vodafone.com/our-teams/technology/software-engineering"
+      },
+      {
+        "title": "Commercial",
+        "url": "https://careers.vodafone.com/our-teams/commercial"
+      },
+      {
+        "title": "Corporate Functions",
+        "url": "https://careers.vodafone.com/our-teams/corporate-functions"
+      },
+      {
+        "title": "Customer Service",
+        "url": "https://careers.vodafone.com/our-teams/customer-service"
+      },
+      {
+        "title": "Internet of Things (IoT)",
+        "url": "https://careers.vodafone.com/our-teams/iot"
+      },
+      {
+        "title": "Sales",
+        "url": "https://careers.vodafone.com/our-teams/sales"
       },
       {
         "title": "Early careers",
@@ -2013,46 +2053,6 @@
       {
         "title": "Apprenticeships",
         "url": "https://careers.vodafone.com/early-careers/apprenticeships"
-      },
-      {
-        "title": "Industrial placements",
-        "url": "https://careers.vodafone.com/students-graduates/industrial-placements"
-      },
-      {
-        "title": "Our hiring process",
-        "url": "https://careers.vodafone.com/applying-to-vodafone/our-hiring-process"
-      },
-      {
-        "title": "Application and interview top tips",
-        "url": "https://careers.vodafone.com/applying-to-vodafone/application-and-interview-top-tips"
-      },
-      {
-        "title": "Application adjustments",
-        "url": "https://careers.vodafone.com/applying-to-vodafone/application-adjustments"
-      },
-      {
-        "title": "Albania",
-        "url": "https://careers.vodafone.com/albania"
-      },
-      {
-        "title": "Czech Republic",
-        "url": "https://careers.vodafone.com/czech-republic"
-      },
-      {
-        "title": "Deutschland",
-        "url": "https://careers.vodafone.com/de"
-      },
-      {
-        "title": "Greece",
-        "url": "https://careers.vodafone.com/greece"
-      },
-      {
-        "title": "Ireland",
-        "url": "https://careers.vodafone.com/ireland"
-      },
-      {
-        "title": "Italy",
-        "url": "https://careers.vodafone.com/italy"
       }
     ]
   },
