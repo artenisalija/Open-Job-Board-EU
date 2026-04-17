@@ -354,17 +354,17 @@
   {
     "name": "Bosch",
     "website": "https://www.bosch.com",
-    "career_page_url": "https://www.bosch.com/careers/why-bosch",
+    "career_page_url": "https://www.bosch.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.bosch.com/careers/why-bosch"
+        "url": "https://www.bosch.com/careers"
       },
       {
-        "title": "Work LikeABosch",
-        "url": "https://www.bosch.com/careers"
+        "title": "Overview",
+        "url": "https://www.bosch.com/careers/why-bosch"
       },
       {
         "title": "Benefits",
@@ -1041,6 +1041,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-z-obszarze-wholsale-banking/3120/37257454592"
       },
       {
+        "title": "Staż z Lwem w Pionie Operacji i Finansów",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-operacji-i-finansow/3120/37374175616"
+      },
+      {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       },
@@ -1051,10 +1055,6 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       }
     ]
   },
@@ -1715,19 +1715,6 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
-      }
-    ]
-  },
-  {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Aller au menu",
-        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
