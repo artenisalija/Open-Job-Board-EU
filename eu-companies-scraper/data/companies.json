@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1025,20 +1025,8 @@
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
       {
-        "title": "Staż z Lwem w Pionie Private Banking (obszar Business Intelligence)",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-private-banking-obszar-business-intelligence/3120/37390289280"
-      },
-      {
-        "title": "Starszy_a Doradca_czyni Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-doradca-czyni-klienta-korporacyjnego/3120/37390289216"
-      },
-      {
         "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
-      },
-      {
-        "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
-        "url": "https://careers.ing.com/en/job/czestochowa/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
       },
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
@@ -1055,6 +1043,18 @@
       {
         "title": "Staż z Lwem w obszarze Analizy Biznesowej IT",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-analizy-biznesowej-it/3120/37374174656"
+      },
+      {
+        "title": "Staż z Lwem - DevOps Enablement IT Team",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
+      },
+      {
+        "title": "Expert Developer Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "Expert - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1325,14 +1325,6 @@
         "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
