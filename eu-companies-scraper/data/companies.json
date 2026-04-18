@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1025,8 +1025,20 @@
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
       {
+        "title": "Staż z Lwem w Pionie Private Banking (obszar Business Intelligence)",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-pionie-private-banking-obszar-business-intelligence/3120/37390289280"
+      },
+      {
+        "title": "Starszy_a Doradca_czyni Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-doradca-czyni-klienta-korporacyjnego/3120/37390289216"
+      },
+      {
         "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
+      },
+      {
+        "title": "Staż z Lwem w Obszarze Bankowości Korporacyjnej",
+        "url": "https://careers.ing.com/en/job/czestochowa/staz-z-lwem-w-obszarze-bankowosci-korporacyjnej/3120/36814645952"
       },
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
@@ -1043,18 +1055,6 @@
       {
         "title": "Staż z Lwem w obszarze Analizy Biznesowej IT",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-analizy-biznesowej-it/3120/37374174656"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
-      },
-      {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Internship in Data and AI Strategy and Portfolio (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-in-data-and-ai-strategy-and-portfolio-m-f-d/3342/37038231552"
+        "title": "Cyber Coverage & Language Design Ld AVP",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-coverage-and-language-design-ld-avp/3342/37324097280"
       },
       {
-        "title": "Nuclear Inspector - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
+        "title": "Sr Production Underwriter",
+        "url": "https://www.munichre.com/en/job/hartford/sr-production-underwriter/3342/37400301504"
       },
       {
-        "title": "Portfolio Manager",
-        "url": "https://www.munichre.com/en/job/birkenhead/portfolio-manager/3342/37388000192"
+        "title": "Single Risk Technical Analyst",
+        "url": "https://www.munichre.com/en/job/princeton/single-risk-technical-analyst/3342/37319643136"
       },
       {
-        "title": "Property Field Adjuster",
-        "url": "https://www.munichre.com/en/job/berea/property-field-adjuster/3342/37384709888"
+        "title": "Corporate Accountant",
+        "url": "https://www.munichre.com/en/job/toronto/corporate-accountant/3342/37394115200"
       },
       {
         "title": "Find jobs",
