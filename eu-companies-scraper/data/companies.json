@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,6 +1175,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Engineer Surveyor (customer specific Central London)",
+        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-customer-specific-central-london/3342/36748225024"
+      },
+      {
         "title": "Cyber Coverage & Language Design Ld AVP",
         "url": "https://www.munichre.com/en/job/hartford/cyber-coverage-and-language-design-ld-avp/3342/37324097280"
       },
@@ -1185,10 +1189,6 @@
       {
         "title": "Single Risk Technical Analyst",
         "url": "https://www.munichre.com/en/job/princeton/single-risk-technical-analyst/3342/37319643136"
-      },
-      {
-        "title": "Corporate Accountant",
-        "url": "https://www.munichre.com/en/job/toronto/corporate-accountant/3342/37394115200"
       },
       {
         "title": "Find jobs",
@@ -1325,6 +1325,14 @@
         "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
