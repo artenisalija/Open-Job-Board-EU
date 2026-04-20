@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T13:17:07.770489+00:00",
+  "generated_at_utc": "2026-04-20T18:58:33.790748+00:00",
   "candidates": {
     "wikipedia": 99,
     "wikipedia_global": 10,
@@ -9,10 +9,10 @@
     "total_raw": 109,
     "total_deduped": 103
   },
-  "enriched_with_careers": 62,
-  "final_merged": 61,
+  "enriched_with_careers": 63,
+  "final_merged": 62,
   "final_by_source": {
-    "wikipedia": 60,
+    "wikipedia": 61,
     "wikipedia_global": 1
   }
 }
