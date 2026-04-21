@@ -939,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ca/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,22 +1021,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Financial Expert I",
-        "url": "https://careers.ing.com/en/job/aalst/financial-expert-i/3121/37317576512"
-      },
-      {
-        "title": "Big Data Engineer (junior/mid)",
-        "url": "https://careers.ing.com/en/job/warsaw/big-data-engineer-junior-mid/3121/36204964608"
-      },
-      {
-        "title": "ORM Specialist @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/orm-specialist-ing-hubs-romania/3121/37489452288"
-      },
-      {
-        "title": "Senior Customer Journey Expert – Transaction Accounts",
-        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-transaction-accounts/3121/37489452224"
-      },
-      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
@@ -1055,6 +1039,22 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
+        "title": "Staż z Lwem w obszarze Analizy Biznesowej IT",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-analizy-biznesowej-it/3120/37374174656"
+      },
+      {
+        "title": "Staż z Lwem - DevOps Enablement IT Team",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
+      },
+      {
+        "title": "Expert Developer Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "Expert - Data Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1175,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Nuclear Inspector - Chattanooga, Tennessee",
-        "url": "https://www.munichre.com/en/job/chattanooga/nuclear-inspector-chattanooga-tennessee/3342/36829005184"
+        "title": "Head of Client Partnerships",
+        "url": "https://www.munichre.com/en/job/london/head-of-client-partnerships/3342/37125235200"
       },
       {
-        "title": "Engineer Surveyor (customer specific Central London)",
-        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-customer-specific-central-london/3342/36748225024"
+        "title": "Valuation Intern",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/valuation-intern/3342/37489030720"
       },
       {
-        "title": "Cyber Coverage & Language Design Ld AVP",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-coverage-and-language-design-ld-avp/3342/37324097280"
+        "title": "Actuarial Manager",
+        "url": "https://www.munichre.com/en/job/princeton/actuarial-manager/3342/37281166272"
       },
       {
-        "title": "Sr Production Underwriter",
-        "url": "https://www.munichre.com/en/job/hartford/sr-production-underwriter/3342/37400301504"
+        "title": "Actuarial Intern, Central Life Reserving (Valuation)",
+        "url": "https://www.munichre.com/en/job/singapore/actuarial-intern-central-life-reserving-valuation/3342/35915534016"
       },
       {
         "title": "Find jobs",
