@@ -1021,6 +1021,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze KYC",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-kyc/3120/37537540032"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
+      },
+      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
@@ -1047,14 +1055,6 @@
       {
         "title": "Staż z Lwem - DevOps Enablement IT Team",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
-      },
-      {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -2007,6 +2007,10 @@
         "url": "https://careers.vodafone.com/life-at-vodafone/benefits"
       },
       {
+        "title": "Hear from our people",
+        "url": "https://careers.vodafone.com/life-at-vodafone/hear-from-our-people"
+      },
+      {
         "title": "Our teams",
         "url": "https://careers.vodafone.com/our-teams"
       },
@@ -2057,10 +2061,6 @@
       {
         "title": "Graduates",
         "url": "https://careers.vodafone.com/students-graduates/graduates"
-      },
-      {
-        "title": "Apprenticeships",
-        "url": "https://careers.vodafone.com/early-careers/apprenticeships"
       }
     ]
   },
