@@ -463,23 +463,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -939,13 +922,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1175,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Property Field Adjuster",
-        "url": "https://www.munichre.com/en/job/richmond/property-field-adjuster/3342/37384709888"
+        "title": "Data & AI Generalist (50% part-time) - Insurance (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/data-and-ai-generalist-50-part-time-insurance-m-f-d/3342/37602932352"
       },
       {
-        "title": "Senior Claims Examiner",
-        "url": "https://www.munichre.com/en/job/toronto/senior-claims-examiner/3342/37583560000"
+        "title": "Financial Accountant",
+        "url": "https://www.munichre.com/en/job/johannesburg/financial-accountant/3342/37602932224"
       },
       {
-        "title": "Territory Manager",
-        "url": "https://www.munichre.com/en/job/schaumburg/territory-manager/3342/35044536896"
+        "title": "Senior Actuarial Analyst, Munich Re Retakaful",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst-munich-re-retakaful/3342/36769311040"
       },
       {
-        "title": "Loss Control Inspector Trainee - Lafayette, Louisiana",
-        "url": "https://www.munichre.com/en/job/lafayette/loss-control-inspector-trainee-lafayette-louisiana/3342/37313341248"
+        "title": "Managing Director - MRS-GM Italy (m/f/d*)",
+        "url": "https://www.munichre.com/en/job/milan/managing-director-mrs-gm-italy-m-f-d/3342/37599372672"
       },
       {
         "title": "Find jobs",
