@@ -463,23 +463,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -939,13 +922,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,6 +1004,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
       },
@@ -1051,10 +1038,6 @@
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
-      },
-      {
-        "title": "Meet ITP Trainee",
-        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       }
     ]
   },
@@ -1175,20 +1158,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Underwriting Assistant",
-        "url": "https://www.munichre.com/en/job/manchester/underwriting-assistant/3342/37237508800"
+        "title": "Category Manager-Fleet Management",
+        "url": "https://www.munichre.com/en/job/hartford/category-manager-fleet-management/3342/37589845312"
       },
       {
-        "title": "Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/34139238400"
+        "title": "Senior Accountant - Financial Accounting & Regulatory Reporting",
+        "url": "https://www.munichre.com/en/job/beijing/senior-accountant-financial-accounting-and-regulatory-reporting/3342/37634886272"
       },
       {
-        "title": "Intern Cash Management (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-cash-management-m-f-d/3342/37644700736"
+        "title": "Chief Claims Officer",
+        "url": "https://www.munichre.com/en/job/amelia/chief-claims-officer/3342/37634330560"
       },
       {
-        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297159680"
+        "title": "Intern - Business Data Analytics",
+        "url": "https://www.munichre.com/en/job/san-francisco/intern-business-data-analytics/3342/36449247680"
       },
       {
         "title": "Find jobs",
@@ -1325,6 +1308,14 @@
         "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
+  },
+  {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/jobs",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
@@ -2049,11 +2040,11 @@
     ]
   },
   {
-    "name": "Volkswagen",
+    "name": "Volkswagen Group",
     "website": "http://volkswagen-group.com",
     "career_page_url": "http://volkswagen-group.com/en/career-16057",
     "country_of_origin": "Germany",
-    "source": "wikipedia",
+    "source": "wikipedia_global",
     "jobs": [
       {
         "title": "Careers with the Group",
