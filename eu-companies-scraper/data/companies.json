@@ -463,6 +463,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1158,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Data & AI Generalist (50% part-time) - Insurance (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/data-and-ai-generalist-50-part-time-insurance-m-f-d/3342/37602932352"
-      },
-      {
-        "title": "Financial Accountant",
-        "url": "https://www.munichre.com/en/job/johannesburg/financial-accountant/3342/37602932224"
-      },
-      {
-        "title": "Senior Actuarial Analyst, Munich Re Retakaful",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst-munich-re-retakaful/3342/36769311040"
-      },
-      {
         "title": "Managing Director - MRS-GM Italy (m/f/d*)",
         "url": "https://www.munichre.com/en/job/milan/managing-director-mrs-gm-italy-m-f-d/3342/37599372672"
+      },
+      {
+        "title": "Underwriting Manager - Residential Products",
+        "url": "https://www.munichre.com/en/job/amelia/underwriting-manager-residential-products/3342/36005282048"
+      },
+      {
+        "title": "Senior Solution Architect",
+        "url": "https://www.munichre.com/en/job/london/senior-solution-architect/3342/37569028864"
+      },
+      {
+        "title": "Cash Manager (m/f/d)* - Limited to 2 years",
+        "url": "https://www.munichre.com/en/job/munich/cash-manager-m-f-d-limited-to-2-years/3342/37540988544"
       },
       {
         "title": "Find jobs",
@@ -1690,6 +1707,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/careers"
       }
     ]
   },
