@@ -1,54 +1,5 @@
 [
   {
-    "name": "Accenture",
-    "website": "http://accenture.com",
-    "career_page_url": "http://accenture.com/us-en/careers",
-    "country_of_origin": "Ireland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "http://accenture.com/us-en/careers"
-      },
-      {
-        "title": "Search for jobs",
-        "url": "http://accenture.com/us-en/careers/jobsearch"
-      },
-      {
-        "title": "Career areas",
-        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
-      },
-      {
-        "title": "Working here",
-        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
-      },
-      {
-        "title": "Benefits",
-        "url": "http://accenture.com/us-en/careers/local/benefits"
-      },
-      {
-        "title": "Work environment",
-        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
-      },
-      {
-        "title": "Careers blog",
-        "url": "http://accenture.com/us-en/blogs/blogs-careers"
-      },
-      {
-        "title": "Using AI",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
-      },
-      {
-        "title": "Hiring journey",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
-      },
-      {
-        "title": "Pro tips",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
-      }
-    ]
-  },
-  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -1528,6 +1479,115 @@
       {
         "title": "Skip to content",
         "url": "http://about.sainsburys.co.uk/careers"
+      }
+    ]
+  },
+  {
+    "name": "Sanofi",
+    "website": "http://sanofi.com",
+    "career_page_url": "https://jobs.sanofi.com",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.sanofi.com"
+      },
+      {
+        "title": "Why Sanofi",
+        "url": "https://jobs.sanofi.com/why-join-sanofi"
+      },
+      {
+        "title": "Career Development",
+        "url": "https://jobs.sanofi.com/career-development"
+      },
+      {
+        "title": "Rewards & Benefits",
+        "url": "https://jobs.sanofi.com/rewards-and-benefits"
+      },
+      {
+        "title": "Culture & Values",
+        "url": "https://jobs.sanofi.com/culture-and-values"
+      },
+      {
+        "title": "Early Talent",
+        "url": "https://jobs.sanofi.com/early-talent"
+      },
+      {
+        "title": "Corporate Functions & Business Operations",
+        "url": "https://jobs.sanofi.com/corporate-functions-business-operations"
+      },
+      {
+        "title": "Digital",
+        "url": "https://jobs.sanofi.com/digital"
+      },
+      {
+        "title": "Engineering & Maintenance",
+        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
+      },
+      {
+        "title": "Hubs",
+        "url": "https://jobs.sanofi.com/hubs"
+      },
+      {
+        "title": "Manufacturing & Supply",
+        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
+      },
+      {
+        "title": "Marketing & Sales",
+        "url": "https://jobs.sanofi.com/marketing-and-sales"
+      },
+      {
+        "title": "Medical & Market Access",
+        "url": "https://jobs.sanofi.com/medical-market-access"
+      },
+      {
+        "title": "Quality",
+        "url": "https://jobs.sanofi.com/quality-jobs"
+      },
+      {
+        "title": "Regulatory Affairs",
+        "url": "https://jobs.sanofi.com/regulatory-affairs"
+      },
+      {
+        "title": "Research & Development",
+        "url": "https://jobs.sanofi.com/research-and-development"
+      },
+      {
+        "title": "Locations",
+        "url": "https://jobs.sanofi.com/locations"
+      },
+      {
+        "title": "Sanofi Feeling",
+        "url": "https://jobs.sanofi.com/sanofi-feeling"
+      },
+      {
+        "title": "Sanofi Stories",
+        "url": "https://jobs.sanofi.com/sanofi-stories"
+      },
+      {
+        "title": "Join Our Talent Community opens in a new tab",
+        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
+      },
+      {
+        "title": "Your Saved Jobs",
+        "url": "https://jobs.sanofi.com/saved-jobs"
+      },
+      {
+        "title": "Search Jobs",
+        "url": "https://jobs.sanofi.com/en/search-jobs"
+      },
+      {
+        "title": "English",
+        "url": "https://jobs.sanofi.com/en"
+      },
+      {
+        "title": "Français",
+        "url": "https://jobs.sanofi.com/fr"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://jobs.sanofi.com/de"
       }
     ]
   },
