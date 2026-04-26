@@ -1,5 +1,54 @@
 [
   {
+    "name": "Accenture",
+    "website": "http://accenture.com",
+    "career_page_url": "http://accenture.com/us-en/services/talent-organization",
+    "country_of_origin": "Ireland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers homepage",
+        "url": "http://accenture.com/us-en/careers"
+      },
+      {
+        "title": "Search for jobs",
+        "url": "http://accenture.com/us-en/careers/jobsearch"
+      },
+      {
+        "title": "Career areas",
+        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
+      },
+      {
+        "title": "Working here",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
+      },
+      {
+        "title": "Benefits",
+        "url": "http://accenture.com/us-en/careers/local/benefits"
+      },
+      {
+        "title": "Work environment",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
+      },
+      {
+        "title": "Careers blog",
+        "url": "http://accenture.com/us-en/blogs/blogs-careers"
+      },
+      {
+        "title": "Using AI",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
+      },
+      {
+        "title": "Hiring journey",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
+      },
+      {
+        "title": "Pro tips",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
+      }
+    ]
+  },
+  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -882,13 +931,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1268,14 +1317,6 @@
         "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
-  },
-  {
-    "name": "Orange S.A.",
-    "website": "https://orange.com",
-    "career_page_url": "https://orange.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Phoenix Pharmahandel",
