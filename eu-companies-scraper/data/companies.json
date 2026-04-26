@@ -931,13 +931,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1319,6 +1319,14 @@
     ]
   },
   {
+    "name": "Orange S.A.",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Phoenix Pharmahandel",
     "website": "https://www.phoenixgroup.eu/en",
     "career_page_url": "https://www.phoenixgroup.eu/en/career",
@@ -1520,115 +1528,6 @@
       {
         "title": "Skip to content",
         "url": "http://about.sainsburys.co.uk/careers"
-      }
-    ]
-  },
-  {
-    "name": "Sanofi",
-    "website": "http://sanofi.com",
-    "career_page_url": "https://jobs.sanofi.com",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://jobs.sanofi.com"
-      },
-      {
-        "title": "Why Sanofi",
-        "url": "https://jobs.sanofi.com/why-join-sanofi"
-      },
-      {
-        "title": "Career Development",
-        "url": "https://jobs.sanofi.com/career-development"
-      },
-      {
-        "title": "Rewards & Benefits",
-        "url": "https://jobs.sanofi.com/rewards-and-benefits"
-      },
-      {
-        "title": "Culture & Values",
-        "url": "https://jobs.sanofi.com/culture-and-values"
-      },
-      {
-        "title": "Early Talent",
-        "url": "https://jobs.sanofi.com/early-talent"
-      },
-      {
-        "title": "Corporate Functions & Business Operations",
-        "url": "https://jobs.sanofi.com/corporate-functions-business-operations"
-      },
-      {
-        "title": "Digital",
-        "url": "https://jobs.sanofi.com/digital"
-      },
-      {
-        "title": "Engineering & Maintenance",
-        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
-      },
-      {
-        "title": "Hubs",
-        "url": "https://jobs.sanofi.com/hubs"
-      },
-      {
-        "title": "Manufacturing & Supply",
-        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
-      },
-      {
-        "title": "Marketing & Sales",
-        "url": "https://jobs.sanofi.com/marketing-and-sales"
-      },
-      {
-        "title": "Medical & Market Access",
-        "url": "https://jobs.sanofi.com/medical-market-access"
-      },
-      {
-        "title": "Quality",
-        "url": "https://jobs.sanofi.com/quality-jobs"
-      },
-      {
-        "title": "Regulatory Affairs",
-        "url": "https://jobs.sanofi.com/regulatory-affairs"
-      },
-      {
-        "title": "Research & Development",
-        "url": "https://jobs.sanofi.com/research-and-development"
-      },
-      {
-        "title": "Locations",
-        "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
-      },
-      {
-        "title": "Sanofi Stories",
-        "url": "https://jobs.sanofi.com/sanofi-stories"
-      },
-      {
-        "title": "Join Our Talent Community opens in a new tab",
-        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
-      },
-      {
-        "title": "Your Saved Jobs",
-        "url": "https://jobs.sanofi.com/saved-jobs"
-      },
-      {
-        "title": "Search Jobs",
-        "url": "https://jobs.sanofi.com/en/search-jobs"
-      },
-      {
-        "title": "English",
-        "url": "https://jobs.sanofi.com/en"
-      },
-      {
-        "title": "Français",
-        "url": "https://jobs.sanofi.com/fr"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://jobs.sanofi.com/de"
       }
     ]
   },
