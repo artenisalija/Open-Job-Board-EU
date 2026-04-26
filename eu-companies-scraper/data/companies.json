@@ -45,6 +45,14 @@
       {
         "title": "Pro tips",
         "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
+      },
+      {
+        "title": "Careers",
+        "url": "http://accenture.com/us-en/services/talent-organization"
+      },
+      {
+        "title": "Search open roles",
+        "url": "http://accenture.com/us-en/careers/jobsearch?jk=talent&sb=0"
       }
     ]
   },
@@ -753,21 +761,21 @@
   {
     "name": "Glencore",
     "website": "https://glencore.com",
-    "career_page_url": "https://glencore.com/careers",
+    "career_page_url": "https://glencore.com/careers/life-at-glencore",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "SKIP NAVIGATION",
+        "url": "https://glencore.com/careers/life-at-glencore"
+      },
+      {
+        "title": "Careers",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Jobs",
         "url": "https://glencore.com/careers/jobs"
-      },
-      {
-        "title": "Life at Glencore",
-        "url": "https://glencore.com/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
@@ -931,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1167,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Actuarial Associate, Finance Strategy & Policy",
-        "url": "https://www.munichre.com/en/job/new-york/senior-actuarial-associate-finance-strategy-and-policy/3342/37674924608"
+        "title": "Engineer Surveyor - Portsmouth/Hampshire",
+        "url": "https://www.munichre.com/en/job/portsmouth/engineer-surveyor-portsmouth-hampshire/3342/37625284032"
       },
       {
-        "title": "Manager & Actuary, Finance Strategy & Policy",
-        "url": "https://www.munichre.com/en/job/new-york/manager-and-actuary-finance-strategy-and-policy/3342/37672477056"
+        "title": "Engineer Surveyor Lancashire",
+        "url": "https://www.munichre.com/en/job/lancaster/engineer-surveyor-lancashire/3342/32714695296"
       },
       {
-        "title": "Actuarial Associate, US Stat Reporting & ALM",
-        "url": "https://www.munichre.com/en/job/new-york/actuarial-associate-us-stat-reporting-and-alm/3342/37672476864"
+        "title": "Building Control Project Manager",
+        "url": "https://www.munichre.com/en/job/london/building-control-project-manager/3342/34067967744"
       },
       {
-        "title": "Director & Actuary, Longevity, Annuities & Group Valuation",
-        "url": "https://www.munichre.com/en/job/new-york/director-and-actuary-longevity-annuities-and-group-valuation/3342/37672476672"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
         "title": "Find jobs",
@@ -1528,6 +1536,115 @@
       {
         "title": "Skip to content",
         "url": "http://about.sainsburys.co.uk/careers"
+      }
+    ]
+  },
+  {
+    "name": "Sanofi",
+    "website": "http://sanofi.com",
+    "career_page_url": "https://jobs.sanofi.com",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.sanofi.com"
+      },
+      {
+        "title": "Why Sanofi",
+        "url": "https://jobs.sanofi.com/why-join-sanofi"
+      },
+      {
+        "title": "Career Development",
+        "url": "https://jobs.sanofi.com/career-development"
+      },
+      {
+        "title": "Rewards & Benefits",
+        "url": "https://jobs.sanofi.com/rewards-and-benefits"
+      },
+      {
+        "title": "Culture & Values",
+        "url": "https://jobs.sanofi.com/culture-and-values"
+      },
+      {
+        "title": "Early Talent",
+        "url": "https://jobs.sanofi.com/early-talent"
+      },
+      {
+        "title": "Corporate Functions & Business Operations",
+        "url": "https://jobs.sanofi.com/corporate-functions-business-operations"
+      },
+      {
+        "title": "Digital",
+        "url": "https://jobs.sanofi.com/digital"
+      },
+      {
+        "title": "Engineering & Maintenance",
+        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
+      },
+      {
+        "title": "Hubs",
+        "url": "https://jobs.sanofi.com/hubs"
+      },
+      {
+        "title": "Manufacturing & Supply",
+        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
+      },
+      {
+        "title": "Marketing & Sales",
+        "url": "https://jobs.sanofi.com/marketing-and-sales"
+      },
+      {
+        "title": "Medical & Market Access",
+        "url": "https://jobs.sanofi.com/medical-market-access"
+      },
+      {
+        "title": "Quality",
+        "url": "https://jobs.sanofi.com/quality-jobs"
+      },
+      {
+        "title": "Regulatory Affairs",
+        "url": "https://jobs.sanofi.com/regulatory-affairs"
+      },
+      {
+        "title": "Research & Development",
+        "url": "https://jobs.sanofi.com/research-and-development"
+      },
+      {
+        "title": "Locations",
+        "url": "https://jobs.sanofi.com/locations"
+      },
+      {
+        "title": "Sanofi Feeling",
+        "url": "https://jobs.sanofi.com/sanofi-feeling"
+      },
+      {
+        "title": "Sanofi Stories",
+        "url": "https://jobs.sanofi.com/sanofi-stories"
+      },
+      {
+        "title": "Join Our Talent Community opens in a new tab",
+        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
+      },
+      {
+        "title": "Your Saved Jobs",
+        "url": "https://jobs.sanofi.com/saved-jobs"
+      },
+      {
+        "title": "Search Jobs",
+        "url": "https://jobs.sanofi.com/en/search-jobs"
+      },
+      {
+        "title": "English",
+        "url": "https://jobs.sanofi.com/en"
+      },
+      {
+        "title": "Français",
+        "url": "https://jobs.sanofi.com/fr"
+      },
+      {
+        "title": "Deutsch",
+        "url": "https://jobs.sanofi.com/de"
       }
     ]
   },
