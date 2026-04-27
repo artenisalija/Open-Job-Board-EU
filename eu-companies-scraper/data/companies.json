@@ -480,59 +480,6 @@
     ]
   },
   {
-    "name": "Deutsche Bank",
-    "website": "http://db.com",
-    "career_page_url": "https://www.db.com/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://careers.db.com?language_id=1"
-      },
-      {
-        "title": "Play",
-        "url": "https://www.db.com/careers"
-      },
-      {
-        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
-        "url": "https://careers.db.com/this-is-db"
-      },
-      {
-        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
-        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
-      },
-      {
-        "title": "to careers in technology Discover careers in technology",
-        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
-      },
-      {
-        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
-        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
-      },
-      {
-        "title": "Professionals Professionals",
-        "url": "https://careers.db.com/professionals/index?language_id=1"
-      },
-      {
-        "title": "Students and Graduates Students and Graduates",
-        "url": "https://careers.db.com/students-graduates/index?language_id=1"
-      },
-      {
-        "title": "Apprentices School leavers",
-        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
-      },
-      {
-        "title": "Sitemap",
-        "url": "https://careers.db.com/tools/sitemap?language_id=1"
-      },
-      {
-        "title": "Contact",
-        "url": "https://careers.db.com/tools/contact?language_id=1"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Telekom",
     "website": "https://www.telekom.com",
     "career_page_url": "https://www.telekom.com/en/careers",
@@ -939,13 +886,122 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+      }
+    ]
+  },
+  {
+    "name": "ING",
+    "website": "http://ing.com",
+    "career_page_url": "https://careers.ing.com/en/search-jobs",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://careers.ing.com/en/search-jobs"
+      },
+      {
+        "title": "About ING",
+        "url": "https://careers.ing.com/en/about-ing"
+      },
+      {
+        "title": "Working at ING",
+        "url": "https://careers.ing.com/en/working-at-ing"
+      },
+      {
+        "title": "Diversity, Inclusion & Belonging",
+        "url": "https://careers.ing.com/en/diversity-inclusion-belonging"
+      },
+      {
+        "title": "Expertise & Teams",
+        "url": "https://careers.ing.com/en/expertise-teams"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://careers.ing.com/en/early-careers"
+      },
+      {
+        "title": "Locations",
+        "url": "https://careers.ing.com/en/locations"
+      },
+      {
+        "title": "Events",
+        "url": "https://careers.ing.com/en/events"
+      },
+      {
+        "title": "Saved",
+        "url": "https://careers.ing.com/en/saved-jobs"
+      },
+      {
+        "title": "Nederlands Dutch",
+        "url": "https://careers.ing.com/nl/vacatures-zoeken"
+      },
+      {
+        "title": "Deutsch German",
+        "url": "https://careers.ing.com/de/jobsuche"
+      },
+      {
+        "title": "Français French",
+        "url": "https://careers.ing.com/fr/recherche-d'offres"
+      },
+      {
+        "title": "Español Spanish",
+        "url": "https://careers.ing.com/es/buscar-trabajo"
+      },
+      {
+        "title": "Italiano Italian",
+        "url": "https://careers.ing.com/it/lavori-di-ricerca"
+      },
+      {
+        "title": "Română Romanian",
+        "url": "https://careers.ing.com/ro"
+      },
+      {
+        "title": "Polski Polish",
+        "url": "https://careers.ing.com/pl/szukanie-pracy"
+      },
+      {
+        "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
+      },
+      {
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
+      },
+      {
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
+      },
+      {
+        "title": "Meet ITP Trainee",
+        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       }
     ]
   },
