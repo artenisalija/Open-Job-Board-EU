@@ -480,6 +480,59 @@
     ]
   },
   {
+    "name": "Deutsche Bank",
+    "website": "http://db.com",
+    "career_page_url": "https://www.db.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://careers.db.com?language_id=1"
+      },
+      {
+        "title": "Play",
+        "url": "https://www.db.com/careers"
+      },
+      {
+        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
+        "url": "https://careers.db.com/this-is-db"
+      },
+      {
+        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
+        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
+      },
+      {
+        "title": "to careers in technology Discover careers in technology",
+        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
+      },
+      {
+        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
+        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
+      },
+      {
+        "title": "Professionals Professionals",
+        "url": "https://careers.db.com/professionals/index?language_id=1"
+      },
+      {
+        "title": "Students and Graduates Students and Graduates",
+        "url": "https://careers.db.com/students-graduates/index?language_id=1"
+      },
+      {
+        "title": "Apprentices School leavers",
+        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://careers.db.com/tools/sitemap?language_id=1"
+      },
+      {
+        "title": "Contact",
+        "url": "https://careers.db.com/tools/contact?language_id=1"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Telekom",
     "website": "https://www.telekom.com",
     "career_page_url": "https://www.telekom.com/en/careers",
@@ -1036,14 +1089,6 @@
     ]
   },
   {
-    "name": "Landesbank Baden-Württemberg",
-    "website": "http://lbbw.de",
-    "career_page_url": "http://lbbw.de/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Lloyds Banking Group",
     "website": "https://lloydsbankinggroup.com",
     "career_page_url": "https://lloydsbankinggroup.com/careers",
@@ -1122,20 +1167,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Actuarial Intern - 2027",
-        "url": "https://www.munichre.com/en/job/hong-kong/actuarial-intern-2027/3342/37753914688"
+        "title": "Process Manager Physical Security - General",
+        "url": "https://www.munichre.com/en/job/singapore/process-manager-physical-security-general/3342/37556385088"
       },
       {
-        "title": "Senior Client Manager SEA - Non-Life (Indonesia Focus)",
-        "url": "https://www.munichre.com/en/job/singapore/senior-client-manager-sea-non-life-indonesia-focus/3342/37524024960"
+        "title": "Senior ML Engineer",
+        "url": "https://www.munichre.com/en/job/toronto/senior-ml-engineer/3342/36833131840"
       },
       {
-        "title": "Munich Re Markets GmbH - Quantitative Structurer (m/f/d)",
-        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-quantitative-structurer-m-f-d/3342/36785063296"
+        "title": "Security Analyst",
+        "url": "https://www.munichre.com/en/job/toronto/security-analyst/3342/36599154240"
       },
       {
-        "title": "Engineer Surveyor - Portsmouth/Hampshire",
-        "url": "https://www.munichre.com/en/job/portsmouth/engineer-surveyor-portsmouth-hampshire/3342/37625284032"
+        "title": "Financial Analyst",
+        "url": "https://www.munichre.com/en/job/toronto/financial-analyst/3342/36286394368"
       },
       {
         "title": "Find jobs",
