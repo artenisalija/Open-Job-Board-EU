@@ -57,6 +57,19 @@
     ]
   },
   {
+    "name": "ACS Group",
+    "website": "http://www.grupoacs.com",
+    "career_page_url": "http://www.grupoacs.com/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "http://www.grupoacs.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -939,13 +952,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1021,6 +1034,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Manager_ka ds. Rozwoju Biznesu",
+        "url": "https://careers.ing.com/en/job/warsaw/manager-ka-ds-rozwoju-biznesu/3120/37114638208"
+      },
+      {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
       },
@@ -1051,10 +1068,6 @@
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
-      },
-      {
-        "title": "Meet ITP Trainee",
-        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       }
     ]
   },
