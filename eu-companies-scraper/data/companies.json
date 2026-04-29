@@ -126,10 +126,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-City-Area/HR-Trainee----Rewards-_JR10349524"
       },
       {
-        "title": "SAP System Management and Governance Tool Specialist Manching, Germany 17 December 2024",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/IT24-SAP-System-Management-and-Governance-Tool-Specialist--f-d-m-_JR10292432"
-      },
-      {
         "title": "Technicien Essai H/F Toulouse 10 October 2025",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Technicien-Essai-H-F_JR10194245"
       },
@@ -188,6 +184,10 @@
       {
         "title": "Systems Engineer Portsmouth 08 April 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Portsmouth/Systems-Engineer_JR10329773-1?q=f0682a678faf"
+      },
+      {
+        "title": "Information Technology Security Officer Ulm, Berlin 08 April 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Ulm/Information-Technology-Security-Officer--m-w-d-_JR10374010?q=f0682a678faf"
       }
     ]
   },
@@ -225,6 +225,10 @@
       {
         "title": "Greenhouse gas emissions from Group operations",
         "url": "https://www.generali.com/sustainability/responsible-employer/greenhouse-gas-emissions-from-group-operations"
+      },
+      {
+        "title": "Greenhouse gas emissions",
+        "url": "https://www.generali.com/sustainability/our-commitment-to-the-environment-and-climate/greenhouse-gas-emissions"
       },
       {
         "title": "Five reasons to apply",
@@ -952,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1034,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w zespole Daily Banking",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-zespole-daily-banking/3120/37845945600"
+      },
+      {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
       },
@@ -1064,10 +1072,6 @@
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
-      },
-      {
-        "title": "Meet ITP Trainee",
-        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       }
     ]
   },
@@ -1188,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Originator / Senior Originator",
-        "url": "https://www.munichre.com/en/job/beijing/originator-senior-originator/3342/37830918336"
+        "title": "Bilingual Account Manager, Claims (Montreal)",
+        "url": "https://www.munichre.com/en/job/montreal/bilingual-account-manager-claims-montreal/3342/37002823552"
       },
       {
-        "title": "Accounting Analyst, Reporting and Liquidity",
-        "url": "https://www.munichre.com/en/job/toronto/accounting-analyst-reporting-and-liquidity/3342/37549744320"
+        "title": "Senior Actuarial Analyst, Munich Re Retakaful",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst-munich-re-retakaful/3342/37061907520"
       },
       {
-        "title": "Property Claims Adjuster",
-        "url": "https://www.munichre.com/en/job/bossier-city/property-claims-adjuster/3342/36449234304"
+        "title": "Executive Assistant (m/f/d*) - MR Mexico",
+        "url": "https://www.munichre.com/en/job/mexico-city/executive-assistant-m-f-d-mr-mexico/3342/37847656448"
       },
       {
-        "title": "Authorized Nuclear Inspector - Northeast US",
-        "url": "https://www.munichre.com/en/job/boston/authorized-nuclear-inspector-northeast-us/3342/31297150592"
+        "title": "Principal Account Engineer",
+        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/33949390208"
       },
       {
         "title": "Find jobs",
@@ -1959,6 +1963,39 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "http://vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
+      },
+      {
+        "title": "Find out more here",
+        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
+      }
+    ]
   },
   {
     "name": "Vodafone",
