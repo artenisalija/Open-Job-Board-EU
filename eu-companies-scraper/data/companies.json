@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,40 +1038,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w zespole Daily Banking",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-zespole-daily-banking/3120/37845945600"
+        "title": "NBP Core Banking Stream - E2E Test Lead",
+        "url": "https://careers.ing.com/en/job/brussels/nbp-core-banking-stream-e2e-test-lead/3121/37849989632"
       },
       {
-        "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+        "title": "International Talent Programme – Wholesale Banking Track",
+        "url": "https://careers.ing.com/en/job/madrid/international-talent-programme-wholesale-banking-track/3121/37849989568"
       },
       {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+        "title": "Intern Corporate Finance Mid-Market",
+        "url": "https://careers.ing.com/en/job/amsterdam/intern-corporate-finance-mid-market/3121/37849989504"
       },
       {
-        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
+        "title": "Customer Journey Expert - Wholesale Trade Financial Services - Data & Finance",
+        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-wholesale-trade-financial-services-data-and-finance/3121/37849989440"
       },
       {
-        "title": "Staż z Lwem w Departamencie Podatków",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
+        "title": "Senior Product Manager – Collections (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/senior-product-manager-collections-w-m-d/3121/37849989376"
       },
       {
-        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
+        "title": "Junior DevOps Engineer @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/junior-devops-engineer-ing-hubs-romania/3121/37849989312"
       },
       {
-        "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
+        "title": "International Talent Programme – IT Track",
+        "url": "https://careers.ing.com/en/job/madrid/international-talent-programme-it-track/3121/37849989248"
       },
       {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+        "title": "Intern Corporate Finance Mid-Market",
+        "url": "https://careers.ing.com/en/job/amsterdam/intern-corporate-finance-mid-market/3121/37849989184"
       },
       {
-        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
+        "title": "Product Marketing Manager Payments (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/product-marketing-manager-payments-w-m-d/3121/37849989120"
       }
     ]
   },
@@ -1085,23 +1085,6 @@
       {
         "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
         "url": "https://www.ingka.com/projects/skills-for-employment"
-      }
-    ]
-  },
-  {
-    "name": "L'Oréal",
-    "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Go to Content",
-        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
-      },
-      {
-        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
-        "url": "https://www.loreal.com/en/careers"
       }
     ]
   },
@@ -1192,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Bilingual Account Manager, Claims (Montreal)",
-        "url": "https://www.munichre.com/en/job/montreal/bilingual-account-manager-claims-montreal/3342/37002823552"
+        "title": "Customer Success Manager",
+        "url": "https://www.munichre.com/en/job/new-york/customer-success-manager/3342/37815980288"
       },
       {
-        "title": "Senior Actuarial Analyst, Munich Re Retakaful",
-        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst-munich-re-retakaful/3342/37061907520"
+        "title": "Junior Claims Administrator",
+        "url": "https://www.munichre.com/en/job/london/junior-claims-administrator/3342/37769198016"
       },
       {
-        "title": "Executive Assistant (m/f/d*) - MR Mexico",
-        "url": "https://www.munichre.com/en/job/mexico-city/executive-assistant-m-f-d-mr-mexico/3342/37847656448"
+        "title": "Global HR Reporting and Analytics Specialist FTC",
+        "url": "https://www.munichre.com/en/job/london/global-hr-reporting-and-analytics-specialist-ftc/3342/35967073408"
       },
       {
-        "title": "Principal Account Engineer",
-        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/33949390208"
+        "title": "Operations Manager",
+        "url": "https://www.munichre.com/en/job/madrid/operations-manager/3342/35139019776"
       },
       {
         "title": "Find jobs",
@@ -1361,27 +1344,6 @@
       {
         "title": "Join the Team",
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
-      }
-    ]
-  },
-  {
-    "name": "Renault",
-    "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
-        "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
