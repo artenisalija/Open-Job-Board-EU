@@ -1034,10 +1034,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Manager_ka ds. Rozwoju Biznesu",
-        "url": "https://careers.ing.com/en/job/warsaw/manager-ka-ds-rozwoju-biznesu/3120/37114638208"
-      },
-      {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
       },
@@ -1068,6 +1064,10 @@
       {
         "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
+      },
+      {
+        "title": "Meet ITP Trainee",
+        "url": "https://careers.ing.com/en/job/warsaw/meet-itp-trainee/3120/36486805888"
       }
     ]
   },
@@ -1132,6 +1132,39 @@
       {
         "title": "Vacancies",
         "url": "https://www.lukoil.com/Company/Career/Vacancies"
+      }
+    ]
+  },
+  {
+    "name": "LyondellBasell",
+    "website": "https://lyondellbasell.com",
+    "career_page_url": "https://lyondellbasell.com/careers",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://lyondellbasell.com/careers"
+      },
+      {
+        "title": "Explore our openings",
+        "url": "https://careers.lyondellbasell.com/search/?searchby=location&createNewAlert=false&q=&locationsearch=&geolocation="
+      },
+      {
+        "title": "Students & graduates",
+        "url": "https://lyondellbasell.com/en/careers/students-graduates"
+      },
+      {
+        "title": "Career pathways At LYB, we offer a range of career paths. Find what fuels your passion.",
+        "url": "https://lyondellbasell.com/en/careers/career-pathways"
+      },
+      {
+        "title": "LYB locations We’re in 32 countries with headquarters in North America and Europe.",
+        "url": "https://careers.lyondellbasell.com/content/Locations/?locale=en_US"
+      },
+      {
+        "title": "Career FAQs Get answers to commonly asked questions from LYB job seekers.",
+        "url": "https://lyondellbasell.com/en/careers/faqs"
       }
     ]
   },
