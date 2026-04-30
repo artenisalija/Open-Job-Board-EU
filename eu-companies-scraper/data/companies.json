@@ -1038,8 +1038,8 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Menedżer_ka Zespołu - Zewnętrzna Sieć Sprzedaży Leasingu (VENDOR)",
-        "url": "https://careers.ing.com/en/job/poznan/menedzer-ka-zespo%c5%82u-zewnetrzna-siec-sprzedazy-leasingu-vendor/3120/37850820288"
+        "title": "SEO Specialist",
+        "url": "https://careers.ing.com/en/job/warsaw/seo-specialist/3120/37231671296"
       },
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
@@ -1058,6 +1058,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
       },
       {
+        "title": "Junior Dealer Trading",
+        "url": "https://careers.ing.com/en/job/warsaw/junior-dealer-trading/3120/37264575168"
+      },
+      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
@@ -1068,10 +1072,6 @@
       {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
-      },
-      {
-        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       }
     ]
   },
@@ -1740,6 +1740,59 @@
     ]
   },
   {
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com",
+    "career_page_url": "https://www.swissre.com/en/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content",
+        "url": "https://www.swissre.com/en/careers"
+      },
+      {
+        "title": "Policies and statements",
+        "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.swissre.com/careers.html"
+      },
+      {
+        "title": "Search Swiss Re Careers",
+        "url": "https://www.swissre.com/careers/jobSearch.html"
+      },
+      {
+        "title": "Europe, Middle East and Africa",
+        "url": "https://www.swissre.com/careers/emea-careers.html"
+      },
+      {
+        "title": "Asia Pacific",
+        "url": "https://www.swissre.com/careers/apac-careers.html"
+      },
+      {
+        "title": "Americas",
+        "url": "https://www.swissre.com/careers/americas-careers.html"
+      },
+      {
+        "title": "Early Talent Opportunities",
+        "url": "https://www.swissre.com/careers/early-talent.html"
+      },
+      {
+        "title": "Career Returnees at Swiss Re",
+        "url": "https://www.swissre.com/careers/career-returnees.html"
+      },
+      {
+        "title": "Working at Swiss Re",
+        "url": "https://www.swissre.com/careers/working-at-swissre.html"
+      },
+      {
+        "title": "Data and Technology",
+        "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
     "name": "ThyssenKrupp",
     "website": "http://thyssenkrupp.com",
     "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
@@ -2080,10 +2133,6 @@
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
-      {
-        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
-        "url": "https://www.zf.com/mobile/en/technologies/electric_mobility/electric_mobility.html"
-      },
       {
         "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
         "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
