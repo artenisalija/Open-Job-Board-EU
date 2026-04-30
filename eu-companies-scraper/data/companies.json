@@ -480,23 +480,6 @@
     ]
   },
   {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -956,13 +939,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,8 +1021,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "SEO Specialist",
-        "url": "https://careers.ing.com/en/job/warsaw/seo-specialist/3120/37231671296"
+        "title": "Staż z Lwem w Biurze Faktoringu",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-biurze-faktoringu/3120/37883638144"
+      },
+      {
+        "title": "Ekspert_ka - Administrator_ka Sieci",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
@@ -1056,10 +1043,6 @@
       {
         "title": "Staż z Lwem w Departamencie Podatków",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
-      },
-      {
-        "title": "Junior Dealer Trading",
-        "url": "https://careers.ing.com/en/job/warsaw/junior-dealer-trading/3120/37264575168"
       },
       {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
@@ -1192,20 +1175,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Customer Success Manager",
-        "url": "https://www.munichre.com/en/job/new-york/customer-success-manager/3342/37815980288"
+        "title": "Engineer Surveyor - Swindon",
+        "url": "https://www.munichre.com/en/job/swindon/engineer-surveyor-swindon/3342/36039364672"
       },
       {
-        "title": "Junior Claims Administrator",
-        "url": "https://www.munichre.com/en/job/london/junior-claims-administrator/3342/37769198016"
+        "title": "Senior Litigation Counsel, Montreal",
+        "url": "https://www.munichre.com/en/job/montreal/senior-litigation-counsel-montreal/3342/37592253632"
       },
       {
-        "title": "Global HR Reporting and Analytics Specialist FTC",
-        "url": "https://www.munichre.com/en/job/london/global-hr-reporting-and-analytics-specialist-ftc/3342/35967073408"
+        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297162048"
       },
       {
-        "title": "Operations Manager",
-        "url": "https://www.munichre.com/en/job/madrid/operations-manager/3342/35139019776"
+        "title": "Complaints Manager (m/f/d*) - Great Lakes Italy",
+        "url": "https://www.munichre.com/en/job/milan/complaints-manager-m-f-d-great-lakes-italy/3342/37847656192"
       },
       {
         "title": "Find jobs",
@@ -1361,6 +1344,27 @@
       {
         "title": "Join the Team",
         "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
+      }
+    ]
+  },
+  {
+    "name": "Renault",
+    "website": "https://www.renaultgroup.com/en",
+    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
+      },
+      {
+        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
+        "url": "https://www.renaultgroup.com/en/careers"
+      },
+      {
+        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
@@ -2133,6 +2137,10 @@
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
+      {
+        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
+        "url": "https://www.zf.com/mobile/en/technologies/decarbonization/decarbonization.html"
+      },
       {
         "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
         "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
