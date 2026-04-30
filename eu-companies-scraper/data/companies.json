@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1089,6 +1089,23 @@
     ]
   },
   {
+    "name": "L'Oréal",
+    "website": "https://www.loreal.com/en",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Go to Content",
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+      },
+      {
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
+        "url": "https://www.loreal.com/en/careers"
+      }
+    ]
+  },
+  {
     "name": "Landesbank Baden-Württemberg",
     "website": "http://lbbw.de",
     "career_page_url": "http://lbbw.de/career",
@@ -1106,19 +1123,6 @@
       {
         "title": "page",
         "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
-      }
-    ]
-  },
-  {
-    "name": "Lukoil",
-    "website": "https://www.lukoil.com",
-    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
-    "country_of_origin": "Russia",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Vacancies",
-        "url": "https://www.lukoil.com/Company/Career/Vacancies"
       }
     ]
   },
