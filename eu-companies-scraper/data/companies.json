@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,40 +1038,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "NBP Core Banking Stream - E2E Test Lead",
-        "url": "https://careers.ing.com/en/job/brussels/nbp-core-banking-stream-e2e-test-lead/3121/37849989632"
+        "title": "Menedżer_ka Zespołu - Zewnętrzna Sieć Sprzedaży Leasingu (VENDOR)",
+        "url": "https://careers.ing.com/en/job/poznan/menedzer-ka-zespo%c5%82u-zewnetrzna-siec-sprzedazy-leasingu-vendor/3120/37850820288"
       },
       {
-        "title": "International Talent Programme – Wholesale Banking Track",
-        "url": "https://careers.ing.com/en/job/madrid/international-talent-programme-wholesale-banking-track/3121/37849989568"
+        "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
       },
       {
-        "title": "Intern Corporate Finance Mid-Market",
-        "url": "https://careers.ing.com/en/job/amsterdam/intern-corporate-finance-mid-market/3121/37849989504"
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       },
       {
-        "title": "Customer Journey Expert - Wholesale Trade Financial Services - Data & Finance",
-        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-wholesale-trade-financial-services-data-and-finance/3121/37849989440"
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       },
       {
-        "title": "Senior Product Manager – Collections (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/senior-product-manager-collections-w-m-d/3121/37849989376"
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
       },
       {
-        "title": "Junior DevOps Engineer @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/junior-devops-engineer-ing-hubs-romania/3121/37849989312"
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       },
       {
-        "title": "International Talent Programme – IT Track",
-        "url": "https://careers.ing.com/en/job/madrid/international-talent-programme-it-track/3121/37849989248"
+        "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
       },
       {
-        "title": "Intern Corporate Finance Mid-Market",
-        "url": "https://careers.ing.com/en/job/amsterdam/intern-corporate-finance-mid-market/3121/37849989184"
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
       {
-        "title": "Product Marketing Manager Payments (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/product-marketing-manager-payments-w-m-d/3121/37849989120"
+        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       }
     ]
   },
@@ -1123,6 +1123,19 @@
       {
         "title": "page",
         "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com",
+    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Vacancies",
+        "url": "https://www.lukoil.com/Company/Career/Vacancies"
       }
     ]
   },
@@ -1929,39 +1942,6 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Vitol",
-    "website": "http://vitol.com",
-    "career_page_url": "https://www.vitol.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vitol.com/careers"
-      },
-      {
-        "title": "Early Careers in London",
-        "url": "https://www.vitol.com/vitol-early-careers"
-      },
-      {
-        "title": "Apply for role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
-      },
-      {
-        "title": "Find out more here",
-        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
-      }
-    ]
   },
   {
     "name": "Vodafone",
