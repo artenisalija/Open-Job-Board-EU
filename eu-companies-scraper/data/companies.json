@@ -1076,19 +1076,6 @@
     ]
   },
   {
-    "name": "INGKA Holding",
-    "website": "https://www.ingka.com",
-    "career_page_url": "https://www.ingka.com/join-us",
-    "country_of_origin": "Netherlands",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
-        "url": "https://www.ingka.com/projects/skills-for-employment"
-      }
-    ]
-  },
-  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1192,20 +1179,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Actuarial Associate, US Stat Reporting & ALM",
-        "url": "https://www.munichre.com/en/job/new-york/actuarial-associate-us-stat-reporting-and-alm/3342/37672476864"
+        "title": "Data Engineer - Life & Health Reinsurance",
+        "url": "https://www.munichre.com/en/job/madrid/data-engineer-life-and-health-reinsurance/3342/37775979072"
       },
       {
-        "title": "Senior Project Manager - Hartford, CT Office (Hybrid)",
-        "url": "https://www.munichre.com/en/job/hartford/senior-project-manager-hartford-ct-office-hybrid/3342/37891965312"
+        "title": "Cyber & Tech Risk Underwriter",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter/3342/36592320512"
       },
       {
-        "title": "Delegated Underwriting Administrator",
-        "url": "https://www.munichre.com/en/job/london/delegated-underwriting-administrator/3342/37891965760"
+        "title": "Head of Sales",
+        "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
       },
       {
-        "title": "Engineer Surveyor - London",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
+        "title": "Cyber & Technical Risk UW Associate",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-and-technical-risk-uw-associate/3342/36595683008"
       },
       {
         "title": "Find jobs",
@@ -1584,6 +1571,10 @@
         "url": "https://jobs.sanofi.com/culture-and-values"
       },
       {
+        "title": "Workplace Experience",
+        "url": "https://jobs.sanofi.com/workplace-experience"
+      },
+      {
         "title": "Early Talent",
         "url": "https://jobs.sanofi.com/early-talent"
       },
@@ -1630,10 +1621,6 @@
       {
         "title": "Locations",
         "url": "https://jobs.sanofi.com/locations"
-      },
-      {
-        "title": "Sanofi Feeling",
-        "url": "https://jobs.sanofi.com/sanofi-feeling"
       },
       {
         "title": "Sanofi Stories",
@@ -2023,7 +2010,108 @@
     "career_page_url": "https://careers.vodafone.com",
     "country_of_origin": "United Kingdom",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://careers.vodafone.com"
+      },
+      {
+        "title": "Life at Vodafone",
+        "url": "https://careers.vodafone.com/life-at-vodafone"
+      },
+      {
+        "title": "Belong",
+        "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone"
+      },
+      {
+        "title": "Gender Equality",
+        "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/gender-equality"
+      },
+      {
+        "title": "LGBT+",
+        "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/lgbt"
+      },
+      {
+        "title": "Disability",
+        "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/disability"
+      },
+      {
+        "title": "REACH",
+        "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/reach"
+      },
+      {
+        "title": "Grow with us",
+        "url": "https://careers.vodafone.com/life-at-vodafone/grow-with-us"
+      },
+      {
+        "title": "Make an impact",
+        "url": "https://careers.vodafone.com/life-at-vodafone/impact"
+      },
+      {
+        "title": "Leadership at Vodafone",
+        "url": "https://careers.vodafone.com/life-at-vodafone/leadership"
+      },
+      {
+        "title": "Our benefits",
+        "url": "https://careers.vodafone.com/life-at-vodafone/benefits"
+      },
+      {
+        "title": "Hear from our people",
+        "url": "https://careers.vodafone.com/life-at-vodafone/hear-from-our-people"
+      },
+      {
+        "title": "Our teams",
+        "url": "https://careers.vodafone.com/our-teams"
+      },
+      {
+        "title": "Technology",
+        "url": "https://careers.vodafone.com/our-teams/technology"
+      },
+      {
+        "title": "Cyber Security",
+        "url": "https://careers.vodafone.com/our-teams/technology/cyber-security"
+      },
+      {
+        "title": "Data",
+        "url": "https://careers.vodafone.com/our-teams/technology/data"
+      },
+      {
+        "title": "Network Engineering",
+        "url": "https://careers.vodafone.com/our-teams/technology/network-engineering"
+      },
+      {
+        "title": "Software Engineering",
+        "url": "https://careers.vodafone.com/our-teams/technology/software-engineering"
+      },
+      {
+        "title": "Commercial",
+        "url": "https://careers.vodafone.com/our-teams/commercial"
+      },
+      {
+        "title": "Corporate Functions",
+        "url": "https://careers.vodafone.com/our-teams/corporate-functions"
+      },
+      {
+        "title": "Customer Service",
+        "url": "https://careers.vodafone.com/our-teams/customer-service"
+      },
+      {
+        "title": "Internet of Things (IoT)",
+        "url": "https://careers.vodafone.com/our-teams/iot"
+      },
+      {
+        "title": "Sales",
+        "url": "https://careers.vodafone.com/our-teams/sales"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://careers.vodafone.com/early-careers"
+      },
+      {
+        "title": "Graduates",
+        "url": "https://careers.vodafone.com/students-graduates/graduates"
+      }
+    ]
   },
   {
     "name": "Volkswagen",
