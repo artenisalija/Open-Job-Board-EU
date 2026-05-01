@@ -480,6 +480,23 @@
     ]
   },
   {
+    "name": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+      },
+      {
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Bank",
     "website": "http://db.com",
     "career_page_url": "https://www.db.com/careers",
@@ -1021,8 +1038,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w Biurze Faktoringu",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-biurze-faktoringu/3120/37883638144"
+        "title": "Senior QA Engineer",
+        "url": "https://careers.ing.com/en/job/katowice/senior-qa-engineer/3120/37888418048"
+      },
+      {
+        "title": "Menedżer_ka ds. Klientów Strategicznych w obszarze Nieruchomości Komercyjnych",
+        "url": "https://careers.ing.com/en/job/warsaw/menedzer-ka-ds-klientow-strategicznych-w-obszarze-nieruchomosci-komercyjnych/3120/37888417984"
       },
       {
         "title": "Ekspert_ka - Administrator_ka Sieci",
@@ -1051,10 +1072,6 @@
       {
         "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
-      },
-      {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       }
     ]
   },
@@ -1175,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - Swindon",
-        "url": "https://www.munichre.com/en/job/swindon/engineer-surveyor-swindon/3342/36039364672"
+        "title": "Primary Insurance Claims Consultant (m/f/d*) - Munich RE Italy",
+        "url": "https://www.munichre.com/en/job/milan/primary-insurance-claims-consultant-m-f-d-munich-re-italy/3342/37866873920"
       },
       {
-        "title": "Senior Litigation Counsel, Montreal",
-        "url": "https://www.munichre.com/en/job/montreal/senior-litigation-counsel-montreal/3342/37592253632"
+        "title": "Property Field Adjuster",
+        "url": "https://www.munichre.com/en/job/milwaukee/property-field-adjuster/3342/36079130048"
       },
       {
-        "title": "Accountant & Claims Handler in Voll- oder Teilzeit (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/accountant-and-claims-handler-in-voll-oder-teilzeit-m-w-d/3342/31297162048"
+        "title": "Advisor Senior, Offshore",
+        "url": "https://www.munichre.com/en/job/houston/advisor-senior-offshore/3342/35012359808"
       },
       {
-        "title": "Complaints Manager (m/f/d*) - Great Lakes Italy",
-        "url": "https://www.munichre.com/en/job/milan/complaints-manager-m-f-d-great-lakes-italy/3342/37847656192"
+        "title": "Actuarial Associate, Group Reporting",
+        "url": "https://www.munichre.com/en/job/new-york/actuarial-associate-group-reporting/3342/33037164032"
       },
       {
         "title": "Find jobs",
