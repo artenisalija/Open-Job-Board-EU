@@ -402,6 +402,14 @@
     ]
   },
   {
+    "name": "Chubb",
+    "website": "https://chubb.com",
+    "career_page_url": "https://chubb.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Continental",
     "website": "https://continental.com",
     "career_page_url": "https://continental.com/en/career",
@@ -1184,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Head of Sales",
-        "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
+        "title": "Authorized Nuclear Inspector, Knoxville TN",
+        "url": "https://www.munichre.com/en/job/lebanon/authorized-nuclear-inspector-knoxville-tn/3342/37925684864"
       },
       {
-        "title": "Cyber & Technical Risk UW Associate",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-technical-risk-uw-associate/3342/36595683008"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager/3342/33913479296"
       },
       {
-        "title": "Cyber & Tech Risk Underwriter II",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter-ii/3342/36593990336"
+        "title": "Regional Manager (Central England)",
+        "url": "https://www.munichre.com/en/job/leicester/regional-manager-central-england/3342/36821662784"
       },
       {
-        "title": "Cyber & Tech Risk Underwriter",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter/3342/36592320512"
+        "title": "Casualty Treaty Underwriter, Non-Life",
+        "url": "https://www.munichre.com/en/job/sydney/casualty-treaty-underwriter-non-life/3342/37907654720"
       },
       {
         "title": "Find jobs",
@@ -1724,6 +1732,19 @@
       {
         "title": "Siemens Graduate Program In an international 2-year entry-level program with three assignments you build up in-depth knowledge and experience.",
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
+      }
+    ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/jobs",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Aller au menu",
+        "url": "https://www.groupe-sncf.com/jobs"
       }
     ]
   },
