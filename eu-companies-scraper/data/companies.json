@@ -402,14 +402,6 @@
     ]
   },
   {
-    "name": "Chubb",
-    "website": "https://chubb.com",
-    "career_page_url": "https://chubb.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Continental",
     "website": "https://continental.com",
     "career_page_url": "https://continental.com/en/career",
@@ -1076,6 +1068,19 @@
     ]
   },
   {
+    "name": "INGKA Holding",
+    "website": "https://www.ingka.com",
+    "career_page_url": "https://www.ingka.com/join-us",
+    "country_of_origin": "Netherlands",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
+        "url": "https://www.ingka.com/projects/skills-for-employment"
+      }
+    ]
+  },
+  {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
     "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
@@ -1179,20 +1184,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Data Engineer - Life & Health Reinsurance",
-        "url": "https://www.munichre.com/en/job/madrid/data-engineer-life-and-health-reinsurance/3342/37775979072"
-      },
-      {
-        "title": "Cyber & Tech Risk Underwriter",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter/3342/36592320512"
-      },
-      {
         "title": "Head of Sales",
         "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
       },
       {
         "title": "Cyber & Technical Risk UW Associate",
         "url": "https://www.munichre.com/en/job/hartford/cyber-and-technical-risk-uw-associate/3342/36595683008"
+      },
+      {
+        "title": "Cyber & Tech Risk Underwriter II",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter-ii/3342/36593990336"
+      },
+      {
+        "title": "Cyber & Tech Risk Underwriter",
+        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-underwriter/3342/36592320512"
       },
       {
         "title": "Find jobs",
