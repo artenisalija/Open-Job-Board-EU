@@ -1736,6 +1736,14 @@
     ]
   },
   {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/career",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "SocGen",
     "website": "https://www.societegenerale.com/en",
     "career_page_url": "https://www.societegenerale.com/en/news-and-documentation/news/all-news/alix-and-marc-two-committed-voices-helping-launch-female-talent-moon",
@@ -1828,62 +1836,14 @@
   },
   {
     "name": "TotalEnergies",
-    "website": "https://totalenergies.com",
-    "career_page_url": "https://totalenergies.com/careers",
+    "website": "https://www.totalenergies.com",
+    "career_page_url": "https://www.totalenergies.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Main menu",
-        "url": "https://totalenergies.com/careers"
-      },
-      {
-        "title": "Join us",
-        "url": "https://careers.totalenergies.com/en"
-      },
-      {
-        "title": "Our opportunities for young people",
-        "url": "https://careers.totalenergies.com/en/who-are-we/company-supporting-new-graduates"
-      },
-      {
-        "title": "Find out about our jobs",
-        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs"
-      },
-      {
-        "title": "Find your own path",
-        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs/find-your-own-path"
-      },
-      {
-        "title": "Support our transformation",
-        "url": "https://careers.totalenergies.com/en/make-progress-us/support-energy-transition"
-      },
-      {
-        "title": "Come and work with us",
-        "url": "https://careers.totalenergies.com/en/come-and-work-us"
-      },
-      {
-        "title": "Get ahead in your career",
-        "url": "https://careers.totalenergies.com/en/make-progress-us/get-ahead-your-career"
-      },
-      {
-        "title": "Enjoy the benefits of a great place to work",
-        "url": "https://careers.totalenergies.com/en/come-and-work-us/enjoy-benefits-great-place-work"
-      },
-      {
-        "title": "Benefit from an attractive package",
-        "url": "https://careers.totalenergies.com/en/come-and-work-us/benefit-quality-package"
-      },
-      {
-        "title": "Our fixed-term and regular positions Discover our offers",
-        "url": "https://jobs.totalenergies.com/en_US/careers/SearchJobs/?707=%5B42257%2C42253%5D&707_format=1393&listFilterMode=1&jobRecordsPerPage=6?707=%5B42257%2C42253%5D&707_format=1393&listFilterMode=1&jobRecordsPerPage=6"
-      },
-      {
-        "title": "Discover our DNA TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas and green gases, renewables and electricity. Our more than 100,000 employees are committed to provide as many people as possible with energy that is more reliable, more affordable and more sustainable. Active in about 120 countries, TotalEnergies places sustainability at the heart of its strategy, its projects and its operations. Find out more",
-        "url": "https://careers.totalenergies.com/en/who-are-we"
-      },
-      {
-        "title": "Find your own path Our jobs in videos Watch the testimonials",
-        "url": "https://careers.totalenergies.com/en/find-out-about-our-jobs/discover-job-your-dreams"
+        "url": "https://www.totalenergies.com/careers"
       }
     ]
   },
