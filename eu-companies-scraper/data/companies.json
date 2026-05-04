@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Claims Specialist",
-        "url": "https://www.munichre.com/en/job/philadelphia/senior-claims-specialist/3342/37943580992"
+        "title": "Ausbildungsintegriertes Studium Wirtschaftsmathematik 2026 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-wirtschaftsmathematik-2026-m-w-d/3342/31297148800"
       },
       {
-        "title": "Principal Account Engineer",
-        "url": "https://www.munichre.com/en/job/atlanta/principal-account-engineer/3342/33949390208"
+        "title": "Ausbildungsintegriertes Studium International Business Computer Science (IBCS) 2026 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-computer-science-ibcs-2026-m-w-d/3342/31297158528"
       },
       {
-        "title": "Underwriter",
-        "url": "https://www.munichre.com/en/job/atlanta/underwriter/3342/36353349824"
+        "title": "Ausbildungsintegriertes Studium International Business Studies (IBS) 2026 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-studies-ibs-2026-m-w-d/3342/31297159808"
       },
       {
-        "title": "Chief Strategy & Market Intell Officer",
-        "url": "https://www.munichre.com/en/job/hartford/chief-strategy-and-market-intell-officer/3342/37366471040"
+        "title": "Ausbildung zum Kaufmann/ zur Kauffrau für Versicherung und Finanzen 2026 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildung-zum-kaufmann-zur-kauffrau-fur-versicherung-und-finanzen-2026-m-w-d/3342/31297158464"
       },
       {
         "title": "Find jobs",
@@ -1795,6 +1795,14 @@
         "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
+  },
+  {
+    "name": "Telefónica",
+    "website": "http://telefonica.com",
+    "career_page_url": "https://www.telefonica.com/es/tag/talento",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "ThyssenKrupp",
