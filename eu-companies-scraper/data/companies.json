@@ -126,18 +126,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-City-Area/HR-Trainee----Rewards-_JR10349524"
       },
       {
-        "title": "Technicien Essai H/F Toulouse 10 October 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Technicien-Essai-H-F_JR10194245"
-      },
-      {
-        "title": "Mécaniciens(nes) Structure Toulouse 10 October 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Mcaniciens-nes--Structure--H-F-_JR10346468"
-      },
-      {
-        "title": "Intégrateur(trice) Cabine Toulouse 10 October 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Intgrateur-trice--Cabine--H-F-_JR10346466"
-      },
-      {
         "title": "Lead Fatigue and Damage Tolerance Engineer Bristol 17 February 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Lead-Fatigue---Damage-Tolerance-Engineer_JR10341710?locationCountry=29247e57dbaf46fb855b224e03170bc7"
       },
@@ -188,6 +176,18 @@
       {
         "title": "Information Technology Security Officer Ulm, Berlin 08 April 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Ulm/Information-Technology-Security-Officer--m-w-d-_JR10374010?q=f0682a678faf"
+      },
+      {
+        "title": "Architecte système réseaux Paris 08 April 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Paris-Area/Architecte-systme-rseaux_JR10378611-1?q=f0682a678faf"
+      },
+      {
+        "title": "Browse all jobs",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+      },
+      {
+        "title": "Jumpstart your career",
+        "url": "https://airbus.com/en/careers/students-and-graduates"
       }
     ]
   },
@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,40 +1038,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Internship ING Corporate Investments",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-corporate-investments/3121/38039009216"
-      },
-      {
-        "title": "Technical Business Analyst - Data Management @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/technical-business-analyst-data-management-ing-hubs-romania/3121/38039009152"
-      },
-      {
-        "title": "Product Manager – Open Banking",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-manager-open-banking/3121/38039009088"
-      },
-      {
-        "title": "Personal & Physical Security Specialist @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/personal-and-physical-security-specialist-ing-bank/3121/38039009024"
-      },
-      {
-        "title": "Chapter Lead AI/LLM Data Scientist in Agentic AI",
-        "url": "https://careers.ing.com/en/job/istanbul/chapter-lead-ai-llm-data-scientist-in-agentic-ai/3121/37010958912"
-      },
-      {
-        "title": "Product Manager – Customer Insights",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-manager-customer-insights/3121/38039008704"
-      },
-      {
-        "title": "Senior AI Engineer - Agentic AI",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-ai-engineer-agentic-ai/3121/37927478464"
-      },
-      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
+      },
+      {
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka - Wsparcie Procesów Rozwojowych",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-wsparcie-procesow-rozwojowych/3120/37260596608"
+      },
+      {
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Systemów Ryzyka",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-systemow-ryzyka/3120/36519130048"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Ausbildungsintegriertes Studium Wirtschaftsmathematik 2026 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-wirtschaftsmathematik-2026-m-w-d/3342/31297148800"
+        "title": "Fleet Management-Category Manager",
+        "url": "https://www.munichre.com/en/job/hartford/fleet-management-category-manager/3342/37589845312"
       },
       {
-        "title": "Ausbildungsintegriertes Studium International Business Computer Science (IBCS) 2026 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-computer-science-ibcs-2026-m-w-d/3342/31297158528"
+        "title": "Munich Re Service GmbH - Risk Analytics Consultant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-service-gmbh-risk-analytics-consultant-m-f-d/3342/34825747776"
       },
       {
-        "title": "Ausbildungsintegriertes Studium International Business Studies (IBS) 2026 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-studies-ibs-2026-m-w-d/3342/31297159808"
+        "title": "Werkstudent Change & Projekt Management Support - New Work (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/werkstudent-change-and-projekt-management-support-new-work-m-w-d/3342/38072437056"
       },
       {
-        "title": "Ausbildung zum Kaufmann/ zur Kauffrau für Versicherung und Finanzen 2026 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildung-zum-kaufmann-zur-kauffrau-fur-versicherung-und-finanzen-2026-m-w-d/3342/31297158464"
+        "title": "Compliance Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/compliance-manager-m-f-d/3342/36806744768"
       },
       {
         "title": "Find jobs",
@@ -1976,6 +1976,39 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "http://vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
+      },
+      {
+        "title": "Find out more here",
+        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
+      }
+    ]
   },
   {
     "name": "Vodafone",
