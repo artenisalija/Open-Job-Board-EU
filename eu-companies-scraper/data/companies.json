@@ -1127,6 +1127,19 @@
     ]
   },
   {
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com",
+    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Vacancies",
+        "url": "https://www.lukoil.com/Company/Career/Vacancies"
+      }
+    ]
+  },
+  {
     "name": "LyondellBasell",
     "website": "https://lyondellbasell.com",
     "career_page_url": "https://lyondellbasell.com/careers",
@@ -1179,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Claims Team Leader (m/f/d*)",
-        "url": "https://www.munichre.com/en/job/birkenhead/claims-team-leader-m-f-d/3342/37299339136"
+        "title": "Inspector Trainee - Marshalltown, IA",
+        "url": "https://www.munichre.com/en/job/marshalltown/inspector-trainee-marshalltown-ia/3342/35616688704"
       },
       {
-        "title": "Associate Wordings & DA Product Manager",
-        "url": "https://www.munichre.com/en/job/london/associate-wordings-and-da-product-manager/3342/38083670720"
+        "title": "Data Actuary - Life & Health",
+        "url": "https://www.munichre.com/en/job/madrid/data-actuary-life-and-health/3342/38110728512"
       },
       {
-        "title": "Policy Services Assistant",
-        "url": "https://www.munichre.com/en/job/wayne/policy-services-assistant/3342/37551542720"
+        "title": "Data Engineer - Life & Health Reinsurance",
+        "url": "https://www.munichre.com/en/job/madrid/data-engineer-life-and-health-reinsurance/3342/37775979072"
       },
       {
-        "title": "Underwriter Crisis Management (m/f/d)*, Spain",
-        "url": "https://www.munichre.com/en/job/madrid/underwriter-crisis-management-m-f-d-spain/3342/38083669760"
+        "title": "Head of Claims & Run-Off Management (m/f/d)",
+        "url": "https://www.munichre.com/en/job/zurich/head-of-claims-and-run-off-management-m-f-d/3342/38052446272"
       },
       {
         "title": "Find jobs",
