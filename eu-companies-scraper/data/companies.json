@@ -1,62 +1,5 @@
 [
   {
-    "name": "Accenture",
-    "website": "http://accenture.com",
-    "career_page_url": "http://accenture.com/us-en/services/talent-organization",
-    "country_of_origin": "Ireland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers homepage",
-        "url": "http://accenture.com/us-en/careers"
-      },
-      {
-        "title": "Search for jobs",
-        "url": "http://accenture.com/us-en/careers/jobsearch"
-      },
-      {
-        "title": "Career areas",
-        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
-      },
-      {
-        "title": "Working here",
-        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
-      },
-      {
-        "title": "Benefits",
-        "url": "http://accenture.com/us-en/careers/local/benefits"
-      },
-      {
-        "title": "Work environment",
-        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
-      },
-      {
-        "title": "Careers blog",
-        "url": "http://accenture.com/us-en/blogs/blogs-careers"
-      },
-      {
-        "title": "Using AI",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
-      },
-      {
-        "title": "Hiring journey",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
-      },
-      {
-        "title": "Pro tips",
-        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
-      },
-      {
-        "title": "Careers",
-        "url": "http://accenture.com/us-en/services/talent-organization"
-      },
-      {
-        "title": "Search open roles",
-        "url": "http://accenture.com/us-en/careers/jobsearch?jk=talent&sb=0"
-      }
-    ]
-  },
-  {
     "name": "ACS Group",
     "website": "http://www.grupoacs.com",
     "career_page_url": "http://www.grupoacs.com/careers",
@@ -1050,6 +993,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-financial-crime-compliance/3120/38088355264"
       },
       {
+        "title": "Analityk_czka biznesowy_a w obszarze kredytów hipotecznych",
+        "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-biznesowy-a-w-obszarze-kredytow-hipotecznych/3120/38149886528"
+      },
+      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
@@ -1068,10 +1015,6 @@
       {
         "title": "Staż z Lwem w Departamencie Podatków",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
-      },
-      {
-        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       }
     ]
   },
@@ -1192,20 +1135,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Strategic Partnerships Account Executive",
-        "url": "https://www.munichre.com/en/job/liverpool/strategic-partnerships-account-executive/3342/36821662336"
+        "title": "Head of Sales",
+        "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
       },
       {
-        "title": "Project Manager for Organization (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/project-manager-for-organization-m-f-d/3342/37879154752"
+        "title": "Business Development Manager - Midlands",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager-midlands/3342/33913479296"
       },
       {
-        "title": "Change Lead",
-        "url": "https://www.munichre.com/en/job/london/change-lead/3342/35548399936"
+        "title": "Claims Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
       },
       {
-        "title": "Underwriter Crisis Management (m/f/d)*, Spain",
-        "url": "https://www.munichre.com/en/job/madrid/underwriter-crisis-management-m-f-d-spain/3342/38083669760"
+        "title": "Head of Claims & Run-Off Management (m/f/d)",
+        "url": "https://www.munichre.com/en/job/zurich/head-of-claims-and-run-off-management-m-f-d/3342/38052446272"
       },
       {
         "title": "Find jobs",
@@ -1753,59 +1696,6 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
-      }
-    ]
-  },
-  {
-    "name": "Swiss Re",
-    "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/en/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Content",
-        "url": "https://www.swissre.com/en/careers"
-      },
-      {
-        "title": "Policies and statements",
-        "url": "https://www.swissre.com/sustainability/position-statements.html"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.swissre.com/careers.html"
-      },
-      {
-        "title": "Search Swiss Re Careers",
-        "url": "https://www.swissre.com/careers/jobSearch.html"
-      },
-      {
-        "title": "Europe, Middle East and Africa",
-        "url": "https://www.swissre.com/careers/emea-careers.html"
-      },
-      {
-        "title": "Asia Pacific",
-        "url": "https://www.swissre.com/careers/apac-careers.html"
-      },
-      {
-        "title": "Americas",
-        "url": "https://www.swissre.com/careers/americas-careers.html"
-      },
-      {
-        "title": "Early Talent Opportunities",
-        "url": "https://www.swissre.com/careers/early-talent.html"
-      },
-      {
-        "title": "Career Returnees at Swiss Re",
-        "url": "https://www.swissre.com/careers/career-returnees.html"
-      },
-      {
-        "title": "Working at Swiss Re",
-        "url": "https://www.swissre.com/careers/working-at-swissre.html"
-      },
-      {
-        "title": "Data and Technology",
-        "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
   },
