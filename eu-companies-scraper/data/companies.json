@@ -1,5 +1,62 @@
 [
   {
+    "name": "Accenture",
+    "website": "http://accenture.com",
+    "career_page_url": "http://accenture.com/us-en/services/talent-organization",
+    "country_of_origin": "Ireland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers homepage",
+        "url": "http://accenture.com/us-en/careers"
+      },
+      {
+        "title": "Search for jobs",
+        "url": "http://accenture.com/us-en/careers/jobsearch"
+      },
+      {
+        "title": "Career areas",
+        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
+      },
+      {
+        "title": "Working here",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
+      },
+      {
+        "title": "Benefits",
+        "url": "http://accenture.com/us-en/careers/local/benefits"
+      },
+      {
+        "title": "Work environment",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
+      },
+      {
+        "title": "Careers blog",
+        "url": "http://accenture.com/us-en/blogs/blogs-careers"
+      },
+      {
+        "title": "Using AI",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
+      },
+      {
+        "title": "Hiring journey",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
+      },
+      {
+        "title": "Pro tips",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
+      },
+      {
+        "title": "Careers",
+        "url": "http://accenture.com/us-en/services/talent-organization"
+      },
+      {
+        "title": "Search open roles",
+        "url": "http://accenture.com/us-en/careers/jobsearch?jk=talent&sb=0"
+      }
+    ]
+  },
+  {
     "name": "ACS Group",
     "website": "http://www.grupoacs.com",
     "career_page_url": "http://www.grupoacs.com/careers",
@@ -899,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -981,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Product Owner w obszarze kredytów hipotecznych",
+        "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
+      },
+      {
         "title": "Expert DevOps Engineer - Cloud Data Platform",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
@@ -1011,10 +1072,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
-      },
-      {
-        "title": "Staż z Lwem w Departamencie Podatków",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
       }
     ]
   },
@@ -1135,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Head of Sales",
-        "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
+        "title": "Finance Data Lead 12 Month FTC",
+        "url": "https://www.munichre.com/en/job/manchester/finance-data-lead-12-month-ftc/3342/37572102592"
       },
       {
-        "title": "Business Development Manager - Midlands",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager-midlands/3342/33913479296"
+        "title": "Cyber Pricing Lead",
+        "url": "https://www.munichre.com/en/job/london/cyber-pricing-lead/3342/38161703104"
       },
       {
-        "title": "Claims Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
+        "title": "Casualty Treaty Underwriter",
+        "url": "https://www.munichre.com/en/job/johannesburg/casualty-treaty-underwriter/3342/38161702784"
       },
       {
-        "title": "Head of Claims & Run-Off Management (m/f/d)",
-        "url": "https://www.munichre.com/en/job/zurich/head-of-claims-and-run-off-management-m-f-d/3342/38052446272"
+        "title": "Intern",
+        "url": "https://www.munichre.com/en/job/hartford/intern/3342/33925765056"
       },
       {
         "title": "Find jobs",
