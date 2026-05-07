@@ -1038,8 +1038,8 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Specjalista_ka w obszarze bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/zielona-gora/specjalista-ka-w-obszarze-bankowosci-detalicznej/3120/37768054272"
+        "title": "Expert DevOps Engineer - Cloud Data Platform",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
         "title": "Expert - IT Reliability & Resilience",
@@ -1048,14 +1048,6 @@
       {
         "title": "Senior Specialist - Financial Crime Compliance",
         "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-financial-crime-compliance/3120/38088355264"
-      },
-      {
-        "title": "Expert - Data Analyst (Digital Acquisition & Customer Activation)",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst-digital-acquisition-and-customer-activation/3120/38088355136"
-      },
-      {
-        "title": "Staż z Lwem w obszarze wycen nieruchomości",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-wycen-nieruchomosci/3120/37537539968"
       },
       {
         "title": "Ekspert_ka - Administrator_ka Sieci",
@@ -1072,6 +1064,14 @@
       {
         "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
+      },
+      {
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/37260596992"
       }
     ]
   },
@@ -1367,21 +1367,17 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers/our-international-vacancies",
+    "career_page_url": "https://www.renaultgroup.com/en/magazine/our-group-news/graduate-programs-fast-track-your-career-with-renault-group",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
+        "title": "here",
+        "url": "https://www.renaultgroup.com/en/careers/graduate-programs"
       },
       {
-        "title": "Working at Renault Group Join Renault Group and get involved in an exciting human and technological adventure. Become a key player in automotive innovation! Find out more",
+        "title": "Careers",
         "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "ReKnow University Through our coporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
