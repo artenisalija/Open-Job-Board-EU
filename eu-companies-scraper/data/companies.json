@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,20 +1038,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Program stażowy LiON w bankowości detalicznej",
-        "url": "https://careers.ing.com/en/job/warsaw/program-stazowy-lion-w-bankowosci-detalicznej/3120/38193972864"
-      },
-      {
         "title": "Product Owner w obszarze kredytów hipotecznych",
         "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
       },
       {
         "title": "Expert DevOps Engineer - Cloud Data Platform",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
-      },
-      {
-        "title": "Starszy_a Ekspert_tka / Menedżer_ka ds. Finansowania Klientów Strategicznych",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-tka-menedzer-ka-ds-finansowania-klientow-strategicznych/3120/38193972160"
       },
       {
         "title": "Expert - IT Reliability & Resilience",
@@ -1072,6 +1064,14 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
