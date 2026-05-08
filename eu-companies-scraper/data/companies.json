@@ -1038,24 +1038,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Starszy_a Specjalista_ka w zespole komunikacji marketingowej z Gen Z & Alfa",
-        "url": "https://careers.ing.com/en/job/katowice/starszy-a-specjalista-ka-w-zespole-komunikacji-marketingowej-z-gen-z-and-alfa/3120/36856445760"
-      },
-      {
-        "title": "Product Owner w obszarze kredytów hipotecznych",
-        "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
-      },
-      {
         "title": "Expert DevOps Engineer - Cloud Data Platform",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
         "title": "Expert - IT Reliability & Resilience",
         "url": "https://careers.ing.com/en/job/warsaw/expert-it-reliability-and-resilience/3120/38105919616"
-      },
-      {
-        "title": "Principal Expert - Regulatory Compliance (Inspektor_ka Nadzoru)",
-        "url": "https://careers.ing.com/en/job/warsaw/principal-expert-regulatory-compliance-inspektor-ka-nadzoru/3120/38159633856"
       },
       {
         "title": "Senior Specialist - Financial Crime Compliance",
@@ -1072,6 +1060,18 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
+      },
+      {
+        "title": "Staż z Lwem w Departamencie Podatków",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
       }
     ]
   },
@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Junior Claims Administrator",
+        "url": "https://www.munichre.com/en/job/london/junior-claims-administrator/3342/38146827008"
+      },
+      {
+        "title": "Senior Project Manager",
+        "url": "https://www.munichre.com/en/job/london/senior-project-manager/3342/38146826944"
+      },
+      {
+        "title": "Senior Business Analyst",
+        "url": "https://www.munichre.com/en/job/london/senior-business-analyst/3342/38146826816"
+      },
+      {
         "title": "Head of Sales",
         "url": "https://www.munichre.com/en/job/birkenhead/head-of-sales/3342/34801891776"
-      },
-      {
-        "title": "Business Development Manager - Midlands",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager-midlands/3342/33913479296"
-      },
-      {
-        "title": "Claims Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
-      },
-      {
-        "title": "Head of Claims & Run-Off Management (m/f/d)",
-        "url": "https://www.munichre.com/en/job/zurich/head-of-claims-and-run-off-management-m-f-d/3342/38052446272"
       },
       {
         "title": "Find jobs",
@@ -1757,6 +1757,59 @@
     ]
   },
   {
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com",
+    "career_page_url": "https://www.swissre.com/en/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content",
+        "url": "https://www.swissre.com/en/careers"
+      },
+      {
+        "title": "Policies and statements",
+        "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.swissre.com/careers.html"
+      },
+      {
+        "title": "Search Swiss Re Careers",
+        "url": "https://www.swissre.com/careers/jobSearch.html"
+      },
+      {
+        "title": "Europe, Middle East and Africa",
+        "url": "https://www.swissre.com/careers/emea-careers.html"
+      },
+      {
+        "title": "Asia Pacific",
+        "url": "https://www.swissre.com/careers/apac-careers.html"
+      },
+      {
+        "title": "Americas",
+        "url": "https://www.swissre.com/careers/americas-careers.html"
+      },
+      {
+        "title": "Early Talent Opportunities",
+        "url": "https://www.swissre.com/careers/early-talent.html"
+      },
+      {
+        "title": "Career Returnees at Swiss Re",
+        "url": "https://www.swissre.com/careers/career-returnees.html"
+      },
+      {
+        "title": "Working at Swiss Re",
+        "url": "https://www.swissre.com/careers/working-at-swissre.html"
+      },
+      {
+        "title": "Data and Technology",
+        "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
     "name": "ThyssenKrupp",
     "website": "http://thyssenkrupp.com",
     "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
@@ -1907,10 +1960,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
