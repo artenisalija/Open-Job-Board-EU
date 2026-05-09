@@ -1192,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Product Manager",
-        "url": "https://www.munichre.com/en/job/london/product-manager/3342/37231589504"
+        "title": "Business Analyst / Implementation Coordinator (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-implementation-coordinator-m-f-d/3342/38162830464"
       },
       {
-        "title": "Finance Transformation Accountant",
-        "url": "https://www.munichre.com/en/job/manchester/finance-transformation-accountant/3342/38199325824"
+        "title": "Nuclear Inspector",
+        "url": "https://www.munichre.com/en/job/marshalltown/nuclear-inspector/3342/35616688704"
       },
       {
-        "title": "Senior Internal Auditor",
-        "url": "https://www.munichre.com/en/job/hartford/senior-internal-auditor/3342/33954465600"
+        "title": "E&S Property Underwriter",
+        "url": "https://www.munichre.com/en/job/chicago/e-and-s-property-underwriter/3342/35978871424"
       },
       {
-        "title": "Principal Engineer - Turbomachinery",
-        "url": "https://www.munichre.com/en/job/hartford/principal-engineer-turbomachinery/3342/32218242688"
+        "title": "Data Product Manager",
+        "url": "https://www.munichre.com/en/job/new-york/data-product-manager/3342/38215683392"
       },
       {
         "title": "Find jobs",
@@ -1960,10 +1960,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
