@@ -956,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w obszarze Operacji Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-operacji-klienta-korporacyjnego/3120/38199367808"
-      },
-      {
         "title": "Product Owner w obszarze kredytów hipotecznych",
         "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
       },
@@ -1072,6 +1068,10 @@
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
@@ -1192,6 +1192,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Digital Solutions & Automation Intern",
+        "url": "https://www.munichre.com/en/job/singapore/digital-solutions-and-automation-intern/3342/38241939072"
+      },
+      {
         "title": "Business Analyst / Implementation Coordinator (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/business-analyst-implementation-coordinator-m-f-d/3342/38162830464"
       },
@@ -1202,10 +1206,6 @@
       {
         "title": "E&S Property Underwriter",
         "url": "https://www.munichre.com/en/job/chicago/e-and-s-property-underwriter/3342/35978871424"
-      },
-      {
-        "title": "Data Product Manager",
-        "url": "https://www.munichre.com/en/job/new-york/data-product-manager/3342/38215683392"
       },
       {
         "title": "Find jobs",
@@ -1732,14 +1732,6 @@
     ]
   },
   {
-    "name": "SocGen",
-    "website": "https://www.societegenerale.com/en",
-    "career_page_url": "https://www.societegenerale.com/en/news-and-documentation/news/all-news/alix-and-marc-two-committed-voices-helping-launch-female-talent-moon",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1960,15 +1952,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vitol",
