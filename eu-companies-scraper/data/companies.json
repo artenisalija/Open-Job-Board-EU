@@ -305,25 +305,57 @@
   {
     "name": "BASF",
     "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
+    "career_page_url": "http://basf.com/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+        "title": "Discover our values and benefits",
+        "url": "http://basf.com/global/en/careers/why-join-basf"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+        "title": "How do I apply?",
+        "url": "http://basf.com/global/en/careers/application"
       },
       {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+        "title": "Questions and answers",
+        "url": "http://basf.com/global/en/careers/application/faq"
+      },
+      {
+        "title": "Contact",
+        "url": "http://basf.com/global/en/careers/contact"
+      },
+      {
+        "title": "Discover locations in Germany",
+        "url": "http://basf.com/global/en/careers/locations"
+      },
+      {
+        "title": "View all career events",
+        "url": "http://basf.com/global/en/careers/application/career-events"
+      },
+      {
+        "title": "Learn more about professionals at BASF",
+        "url": "http://basf.com/global/en/careers/professionals"
+      },
+      {
+        "title": "Learn more about graduates at BASF",
+        "url": "http://basf.com/global/en/careers/graduates"
+      },
+      {
+        "title": "Learn more about opportunities for students at BASF",
+        "url": "http://basf.com/global/en/careers/students"
+      },
+      {
+        "title": "Learn more about how we foster diversity",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity"
+      },
+      {
+        "title": "Learn more about women at BASF",
+        "url": "http://basf.com/global/en/careers/why-join-basf/diversity/women-in-basf"
       },
       {
         "title": "Career",
-        "url": "http://basf.com/us/en/careers"
+        "url": "http://basf.com/global/en/careers"
       }
     ]
   },
@@ -956,13 +988,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +1070,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze Operacji Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-operacji-klienta-korporacyjnego/3120/38199367808"
+      },
+      {
         "title": "Product Owner w obszarze kredytów hipotecznych",
         "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
       },
@@ -1068,10 +1104,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
@@ -1192,20 +1224,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Mechanical Systems Engineer- Equipment Technology Lab",
-        "url": "https://www.munichre.com/en/job/hartford/senior-mechanical-systems-engineer-equipment-technology-lab/3342/32886071616"
+        "title": "Product Manager",
+        "url": "https://www.munichre.com/en/job/london/product-manager/3342/37231589504"
       },
       {
-        "title": "Green Solutions Underwriter",
-        "url": "https://www.munichre.com/en/job/london/green-solutions-underwriter/3342/38162830720"
+        "title": "Finance Transformation Accountant",
+        "url": "https://www.munichre.com/en/job/manchester/finance-transformation-accountant/3342/38199325824"
       },
       {
-        "title": "Internal Auditor",
-        "url": "https://www.munichre.com/en/job/amelia/internal-auditor/3342/38195029696"
+        "title": "Senior Internal Auditor",
+        "url": "https://www.munichre.com/en/job/hartford/senior-internal-auditor/3342/33954465600"
       },
       {
-        "title": "Praktikant im Bereich HR Learning & Talent Development (w/m/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-learning-and-talent-development-w-m-d/3342/38193886144"
+        "title": "Principal Engineer - Turbomachinery",
+        "url": "https://www.munichre.com/en/job/hartford/principal-engineer-turbomachinery/3342/32218242688"
       },
       {
         "title": "Find jobs",
