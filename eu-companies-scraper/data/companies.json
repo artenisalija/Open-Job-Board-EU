@@ -303,31 +303,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -476,23 +451,6 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -956,13 +914,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1038,6 +996,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "ETL Developer - Wholesale Banking Data Lake @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/etl-developer-wholesale-banking-data-lake-ing-hubs-romania/3121/36439946688"
+      },
+      {
         "title": "Product Owner w obszarze kredytów hipotecznych",
         "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
       },
@@ -1068,10 +1030,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
@@ -1192,6 +1150,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Senior Actuarial Associate",
+        "url": "https://www.munichre.com/en/job/toronto/senior-actuarial-associate/3342/38201408064"
+      },
+      {
         "title": "Digital Solutions & Automation Intern",
         "url": "https://www.munichre.com/en/job/singapore/digital-solutions-and-automation-intern/3342/38241939072"
       },
@@ -1202,10 +1164,6 @@
       {
         "title": "Nuclear Inspector",
         "url": "https://www.munichre.com/en/job/marshalltown/nuclear-inspector/3342/35616688704"
-      },
-      {
-        "title": "E&S Property Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/e-and-s-property-underwriter/3342/35978871424"
       },
       {
         "title": "Find jobs",
