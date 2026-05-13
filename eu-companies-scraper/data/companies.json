@@ -303,6 +303,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -931,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1013,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze Projektowania Komunikacji dla Pracownika",
+        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-projektowania-komunikacji-dla-pracownika/3120/38393523520"
+      },
+      {
         "title": "Ekspert_ka ds. rozwoju oferty i doświadczeń klienta w Biurze Maklerskim",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-ds-rozwoju-oferty-i-doswiadczen-klienta-w-biurze-maklerskim/3120/34833495808"
       },
@@ -1043,10 +1072,6 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       }
     ]
   },
@@ -1167,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Summer Student - Reinsurance Accounting Operations",
-        "url": "https://www.munichre.com/en/job/toronto/summer-student-reinsurance-accounting-operations/3342/38356777344"
+        "title": "Underwriting Co-op, Property & Casualty",
+        "url": "https://www.munichre.com/en/job/toronto/underwriting-co-op-property-and-casualty/3342/38392575808"
       },
       {
-        "title": "AVP & Assistant Controller",
-        "url": "https://www.munichre.com/en/job/hartford/avp-and-assistant-controller/3342/38162831808"
+        "title": "Underwriting Co-op",
+        "url": "https://www.munichre.com/en/job/toronto/underwriting-co-op/3342/38392575616"
       },
       {
-        "title": "Cyber & Tech Risk UW Associate",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-uw-associate/3342/36595683008"
+        "title": "Sr. Actuarial Analyst - Pricing",
+        "url": "https://www.munichre.com/en/job/amelia/sr-actuarial-analyst-pricing/3342/36800363072"
       },
       {
-        "title": "Customer Success Manager",
-        "url": "https://www.munichre.com/en/job/new-york/customer-success-manager/3342/37815980288"
+        "title": "Underwriting Consultant- Operations",
+        "url": "https://www.munichre.com/en/job/amelia/underwriting-consultant-operations/3342/33957841664"
       },
       {
         "title": "Find jobs",
