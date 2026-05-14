@@ -58,14 +58,14 @@
   },
   {
     "name": "ACS Group",
-    "website": "http://www.grupoacs.com",
-    "career_page_url": "http://www.grupoacs.com/careers",
+    "website": "http://grupoacs.com",
+    "career_page_url": "http://grupoacs.com/careers",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "http://www.grupoacs.com/careers"
+        "url": "http://grupoacs.com/careers"
       }
     ]
   },
@@ -1038,10 +1038,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w obszarze Projektowania Komunikacji dla Pracownika",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-obszarze-projektowania-komunikacji-dla-pracownika/3120/38393523520"
-      },
-      {
         "title": "Ekspert_ka ds. rozwoju oferty i doświadczeń klienta w Biurze Maklerskim",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-ds-rozwoju-oferty-i-doswiadczen-klienta-w-biurze-maklerskim/3120/34833495808"
       },
@@ -1072,6 +1068,10 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       }
     ]
   },
