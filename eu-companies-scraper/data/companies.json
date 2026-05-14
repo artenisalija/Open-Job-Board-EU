@@ -303,6 +303,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -931,13 +956,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1167,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Digital Product Owner",
-        "url": "https://www.munichre.com/en/job/london/digital-product-owner/3342/37302220480"
+        "title": "Chief Commercial Officer",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/chief-commercial-officer/3342/38340072192"
       },
       {
-        "title": "Data Engineer - Life & Health Reinsurance",
-        "url": "https://www.munichre.com/en/job/madrid/data-engineer-life-and-health-reinsurance/3342/37775979072"
+        "title": "Corporate Underwriting Expert - Casualty Lead",
+        "url": "https://www.munichre.com/en/job/new-york/corporate-underwriting-expert-casualty-lead/3342/38410440064"
       },
       {
-        "title": "Data Actuary - Life & Health",
-        "url": "https://www.munichre.com/en/job/madrid/data-actuary-life-and-health/3342/38110728512"
+        "title": "Underwriting Co-op (2026 Fall - Toronto, 8 or 12 months)",
+        "url": "https://www.munichre.com/en/job/toronto/underwriting-co-op-2026-fall-toronto-8-or-12-months/3342/38392575616"
       },
       {
-        "title": "Authorized Nuclear Inspector",
-        "url": "https://www.munichre.com/en/job/munich/authorized-nuclear-inspector/3342/31297144704"
+        "title": "Underwriting Co-op, Property & Casualty (2026 Fall - Toronto, 8 or 12 months)",
+        "url": "https://www.munichre.com/en/job/toronto/underwriting-co-op-property-and-casualty-2026-fall-toronto-8-or-12-months/3342/38392575808"
       },
       {
         "title": "Find jobs",
@@ -1923,6 +1948,14 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
+  },
+  {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Vitol",
