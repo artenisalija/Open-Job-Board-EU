@@ -1038,6 +1038,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "ETL Developer - Wholesale Banking Data Lake @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/etl-developer-wholesale-banking-data-lake-ing-hubs-romania/3121/36439946688"
+      },
+      {
         "title": "Specialist - Customer Journey - Product Management",
         "url": "https://careers.ing.com/en/job/warsaw/specialist-customer-journey-product-management/3120/38420177024"
       },
@@ -1068,10 +1072,6 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       }
     ]
   },
@@ -2096,6 +2096,19 @@
       {
         "title": "Graduates",
         "url": "https://careers.vodafone.com/students-graduates/graduates"
+      }
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "website": "http://volkswagen-group.com",
+    "career_page_url": "http://volkswagen-group.com/en/career-16057",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers with the Group",
+        "url": "http://volkswagen-group.com/en/careers-with-the-group-16105"
       }
     ]
   },
