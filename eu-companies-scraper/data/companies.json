@@ -122,22 +122,6 @@
         "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
       },
       {
-        "title": "Lead Fatigue and Damage Tolerance Engineer Bristol 17 February 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Lead-Fatigue---Damage-Tolerance-Engineer_JR10341710?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
-        "title": "System Design Engineer Bristol 13 February 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Fluid-and-Mechanical-Systems-Installation-Design-Engineer_JR10387760-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
-        "title": "Satellite AIT Delivery Manager Stevenage 12 February 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stevenage/Satellite-AIT-delivery-Manager_JR10387432-1?locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
-        "title": "Support Solution Architect Stevenage, Portsmouth, or Chippenham, UK 18 February 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stevenage/Support-Solution-Architect_JR10392665?hiringCompany=f5811cef9cb501c830905d134e0a375f&workerSubType=f5811cef9cb501a69768a71d470a6d15"
-      },
-      {
         "title": "Composite Technician Mobile Area, AL 12 March 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Composite-Technician-I_JR10381830"
       },
@@ -188,6 +172,22 @@
       {
         "title": "International Women at Airbus Join us in celebrating women's achievements every day. Together, we champion gender equality at Airbus and beyond.",
         "url": "https://airbus.com/en/careers/international-women-at-airbus"
+      },
+      {
+        "title": "Discover the Airbus life",
+        "url": "https://airbus.com/en/careers/life-at-airbus"
+      },
+      {
+        "title": "Discover employee benefits",
+        "url": "https://airbus.com/en/careers/life-at-airbus/reward-and-benefits"
+      },
+      {
+        "title": "More tips and guidance",
+        "url": "https://airbus.com/en/careers/recruitment-process-tips"
+      },
+      {
+        "title": "Meet Daniele Meet Daniele, Team Leader Engineering at Airbus Defence and Space in The Netherlands",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniele"
       }
     ]
   },
@@ -299,6 +299,31 @@
       {
         "title": "Careers hub",
         "url": "http://home.barclays/careers"
+      }
+    ]
+  },
+  {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
       }
     ]
   },
@@ -1167,20 +1192,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector - Phoenix, Arizona",
-        "url": "https://www.munichre.com/en/job/phoenix/inspector-phoenix-arizona/3342/37618942720"
+        "title": "International Graduate Trainee - focus on specialty risk underwriting (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-specialty-risk-underwriting-m-f-d/3342/31297161408"
       },
       {
-        "title": "Business Analyst",
-        "url": "https://www.munichre.com/en/job/new-york/business-analyst/3342/38480479744"
+        "title": "Engineer Surveyor - London",
+        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
       },
       {
-        "title": "Executive Assistant (m/f/d*) - MR Mexico",
-        "url": "https://www.munichre.com/en/job/mexico-city/executive-assistant-m-f-d-mr-mexico/3342/37847656448"
+        "title": "Cyber Pricing Lead",
+        "url": "https://www.munichre.com/en/job/london/cyber-pricing-lead/3342/38161703104"
       },
       {
-        "title": "Engineering Surveyor",
-        "url": "https://www.munichre.com/en/job/enfield/engineering-surveyor/3342/38475580352"
+        "title": "Financial Systems Accountant",
+        "url": "https://www.munichre.com/en/job/manchester/financial-systems-accountant/3342/38577295104"
       },
       {
         "title": "Find jobs",
