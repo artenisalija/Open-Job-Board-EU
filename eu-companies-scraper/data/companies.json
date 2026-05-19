@@ -328,47 +328,6 @@
     ]
   },
   {
-    "name": "BBVA",
-    "website": "http://www.bbva.com",
-    "career_page_url": "https://www.bbva.com/en/careers",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://www.bbva.com/en/careers"
-      },
-      {
-        "title": "Life at BBVA",
-        "url": "https://www.bbva.com/en/careers/life-at-bbva"
-      },
-      {
-        "title": "Tech & Data",
-        "url": "https://www.bbva.com/en/careers/tech-data"
-      },
-      {
-        "title": "Corporate & Investment Banking",
-        "url": "https://www.bbva.com/en/careers/cib"
-      },
-      {
-        "title": "Branch Network",
-        "url": "https://www.bbva.com/en/careers/branch-network"
-      },
-      {
-        "title": "Other areas",
-        "url": "https://www.bbva.com/en/careers/other-areas"
-      },
-      {
-        "title": "Revolutionizing global banking: BBVA's global vision",
-        "url": "https://www.bbva.com/en/careers/revolutionizing-global-banking-bbvas-global-vision"
-      },
-      {
-        "title": "See vacancies",
-        "url": "https://bbva.wd3.myworkdayjobs.com/es/BBVA"
-      }
-    ]
-  },
-  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -623,10 +582,62 @@
   {
     "name": "Engie",
     "website": "http://engie.com/en",
-    "career_page_url": "http://engie.com/en/why-join-engie",
+    "career_page_url": "https://jobs.engie.com",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.engie.com"
+      },
+      {
+        "title": "Deutsch ‎(German)‎",
+        "url": "https://jobs.engie.com/?locale=de_DE"
+      },
+      {
+        "title": "English US ‎(English US)‎",
+        "url": "https://jobs.engie.com/?locale=en_US"
+      },
+      {
+        "title": "Español ‎(Spanish)‎",
+        "url": "https://jobs.engie.com/?locale=es_ES"
+      },
+      {
+        "title": "Español ‎(Mexico)‎",
+        "url": "https://jobs.engie.com/?locale=es_MX"
+      },
+      {
+        "title": "Français ‎(French)‎",
+        "url": "https://jobs.engie.com/?locale=fr_FR"
+      },
+      {
+        "title": "Italiano ‎(Italian)‎",
+        "url": "https://jobs.engie.com/?locale=it_IT"
+      },
+      {
+        "title": "Nederlands ‎(Dutch)‎",
+        "url": "https://jobs.engie.com/?locale=nl_NL"
+      },
+      {
+        "title": "Polski ‎(Polish)‎",
+        "url": "https://jobs.engie.com/?locale=pl_PL"
+      },
+      {
+        "title": "Português do Brasil ‎(Brazilian Portuguese)‎",
+        "url": "https://jobs.engie.com/?locale=pt_BR"
+      },
+      {
+        "title": "Română ‎(Romanian)‎",
+        "url": "https://jobs.engie.com/?locale=ro_RO"
+      },
+      {
+        "title": "Slovenčina ‎(Slovak)‎",
+        "url": "https://jobs.engie.com/?locale=sk_SK"
+      },
+      {
+        "title": "Open jobs",
+        "url": "https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch="
+      },
       {
         "title": "Students",
         "url": "https://jobs.engie.com/go/students-us/9419755"
@@ -640,24 +651,40 @@
         "url": "https://jobs.engie.com/go/experts-us/9414455"
       },
       {
-        "title": "Find the job that suits you",
-        "url": "https://jobs.engie.com/search/?q=&locationsearch=&searchResultView=LIST"
+        "title": "Technicians",
+        "url": "https://jobs.engie.com/go/technicians-us/9420455"
       },
       {
-        "title": "See our positions",
-        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*rhqo0c*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+        "title": "Engineers",
+        "url": "https://jobs.engie.com/go/engineers-us/9413255"
       },
       {
-        "title": "See our positions",
-        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*d1e2jv*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+        "title": "Data / Digital & IT",
+        "url": "https://jobs.engie.com/go/data-digital-&-it-us/9412455"
       },
       {
-        "title": "See our positions",
-        "url": "https://jobs.engie.com/?locale=en_US&_gl=1*19cq6q1*_gcl_au*MTgxNzgyMzY1MS4xNzQ1NTA2MTUw"
+        "title": "Support functions",
+        "url": "https://jobs.engie.com/go/support-functions-us/9420055"
       },
       {
-        "title": "Join-us",
-        "url": "https://www.engie.com/en/jobs"
+        "title": "R&D / Innovation",
+        "url": "https://jobs.engie.com/go/r&d-innovation-us/9418855"
+      },
+      {
+        "title": "Management & Consulting",
+        "url": "https://jobs.engie.com/go/management-&-consulting-us/9417655"
+      },
+      {
+        "title": "Spontaneous application",
+        "url": "https://jobs.engie.com/lp/Data%20Capture%20Economist/e166a269a52500d0/?locale=en_US"
+      },
+      {
+        "title": "Job alerts",
+        "url": "https://jobs.engie.com/content/Job-Alerts/?locale=en_US"
+      },
+      {
+        "title": "Follow this link to reach our Job Search page to search for available jobs in a more accessible format.",
+        "url": "https://jobs.engie.com/search"
       }
     ]
   },
@@ -956,13 +983,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/mx/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/mx/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1192,20 +1219,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "International Graduate Trainee - focus on specialty risk underwriting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-specialty-risk-underwriting-m-f-d/3342/31297161408"
+        "title": "Data & Cloud Intern (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/data-and-cloud-intern-m-f-d/3342/38612211968"
       },
       {
-        "title": "Engineer Surveyor - London",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
+        "title": "Intern Governance & Process Documentation (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-governance-and-process-documentation-m-f-d/3342/36305935872"
       },
       {
-        "title": "Cyber Pricing Lead",
-        "url": "https://www.munichre.com/en/job/london/cyber-pricing-lead/3342/38161703104"
+        "title": "Claims Accountant",
+        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
       },
       {
-        "title": "Financial Systems Accountant",
-        "url": "https://www.munichre.com/en/job/manchester/financial-systems-accountant/3342/38577295104"
+        "title": "Senior / GenAI Data Scientist",
+        "url": "https://www.munichre.com/en/job/singapore/senior-genai-data-scientist/3342/37082116672"
       },
       {
         "title": "Find jobs",
@@ -1745,59 +1772,6 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
-      }
-    ]
-  },
-  {
-    "name": "Swiss Re",
-    "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/en/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Content",
-        "url": "https://www.swissre.com/en/careers"
-      },
-      {
-        "title": "Policies and statements",
-        "url": "https://www.swissre.com/sustainability/position-statements.html"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.swissre.com/careers.html"
-      },
-      {
-        "title": "Search Swiss Re Careers",
-        "url": "https://www.swissre.com/careers/jobSearch.html"
-      },
-      {
-        "title": "Europe, Middle East and Africa",
-        "url": "https://www.swissre.com/careers/emea-careers.html"
-      },
-      {
-        "title": "Asia Pacific",
-        "url": "https://www.swissre.com/careers/apac-careers.html"
-      },
-      {
-        "title": "Americas",
-        "url": "https://www.swissre.com/careers/americas-careers.html"
-      },
-      {
-        "title": "Early Talent Opportunities",
-        "url": "https://www.swissre.com/careers/early-talent.html"
-      },
-      {
-        "title": "Career Returnees at Swiss Re",
-        "url": "https://www.swissre.com/careers/career-returnees.html"
-      },
-      {
-        "title": "Working at Swiss Re",
-        "url": "https://www.swissre.com/careers/working-at-swissre.html"
-      },
-      {
-        "title": "Data and Technology",
-        "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
   },
