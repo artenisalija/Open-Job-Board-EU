@@ -328,6 +328,47 @@
     ]
   },
   {
+    "name": "BBVA",
+    "website": "http://www.bbva.com",
+    "career_page_url": "https://www.bbva.com/en/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.bbva.com/en/careers"
+      },
+      {
+        "title": "Life at BBVA",
+        "url": "https://www.bbva.com/en/careers/life-at-bbva"
+      },
+      {
+        "title": "Tech & Data",
+        "url": "https://www.bbva.com/en/careers/tech-data"
+      },
+      {
+        "title": "Corporate & Investment Banking",
+        "url": "https://www.bbva.com/en/careers/cib"
+      },
+      {
+        "title": "Branch Network",
+        "url": "https://www.bbva.com/en/careers/branch-network"
+      },
+      {
+        "title": "Other areas",
+        "url": "https://www.bbva.com/en/careers/other-areas"
+      },
+      {
+        "title": "Revolutionizing global banking: BBVA's global vision",
+        "url": "https://www.bbva.com/en/careers/revolutionizing-global-banking-bbvas-global-vision"
+      },
+      {
+        "title": "See vacancies",
+        "url": "https://bbva.wd3.myworkdayjobs.com/es/BBVA"
+      }
+    ]
+  },
+  {
     "name": "Bosch",
     "website": "https://www.bosch.com",
     "career_page_url": "https://www.bosch.com/careers",
@@ -772,10 +813,6 @@
         "url": "https://www.eni.com/en-IT/careers/training/master/gems.html"
       },
       {
-        "title": "MEDEA Master: Applications are open Apply by 30 April 2026 (international candidates) or by 15 May 2026 (Italian candidates). APPLY NOW FOR THE MASTER'S",
-        "url": "https://www.eni.com/en-IT/careers/training/master/medea.html"
-      },
-      {
         "title": "Guidelines for Spontaneous Applications",
         "url": "https://www.eni.com/content/dam/enicom/documents/eng/careers/orc/ENG-ORC_15_Manuale_Candidati_Voluntary-external-application-(Join-us)_V01.pdf"
       },
@@ -983,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1219,20 +1256,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Praktikant im Bereich HR Learning & Talent Development (w/m/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-learning-and-talent-development-w-m-d/3342/38193886144"
+      },
+      {
+        "title": "Engineering Surveyor",
+        "url": "https://www.munichre.com/en/job/glasgow/engineering-surveyor/3342/38616844160"
+      },
+      {
         "title": "Data & Cloud Intern (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/data-and-cloud-intern-m-f-d/3342/38612211968"
       },
       {
         "title": "Intern Governance & Process Documentation (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/intern-governance-and-process-documentation-m-f-d/3342/36305935872"
-      },
-      {
-        "title": "Claims Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/35738241152"
-      },
-      {
-        "title": "Senior / GenAI Data Scientist",
-        "url": "https://www.munichre.com/en/job/singapore/senior-genai-data-scientist/3342/37082116672"
       },
       {
         "title": "Find jobs",
