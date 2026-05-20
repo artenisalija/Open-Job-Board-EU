@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/vn/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/vn/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1256,20 +1256,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Praktikant im Bereich HR Learning & Talent Development (w/m/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-learning-and-talent-development-w-m-d/3342/38193886144"
+        "title": "Reserving Actuary Non-life - IFRS17 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-ifrs17-m-w-d/3342/37031721664"
       },
       {
-        "title": "Engineering Surveyor",
-        "url": "https://www.munichre.com/en/job/glasgow/engineering-surveyor/3342/38616844160"
+        "title": "Reserving Actuary (Non-Life) - Solvency II & IFRS17 Plan (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-solvency-ii-and-ifrs17-plan-m-f-d/3342/36990079104"
       },
       {
-        "title": "Data & Cloud Intern (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/data-and-cloud-intern-m-f-d/3342/38612211968"
+        "title": "Casualty Treaty Underwriter, Non-Life",
+        "url": "https://www.munichre.com/en/job/sydney/casualty-treaty-underwriter-non-life/3342/37907654720"
       },
       {
-        "title": "Intern Governance & Process Documentation (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-governance-and-process-documentation-m-f-d/3342/36305935872"
+        "title": "Data Product Owner",
+        "url": "https://www.munichre.com/en/job/london/data-product-owner/3342/38385312384"
       },
       {
         "title": "Find jobs",
@@ -2097,6 +2097,39 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "ZF Friedrichshafen",
+    "website": "https://www.zf.com",
+    "career_page_url": "https://www.zf.com/mobile/en/careers/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
+        "url": "https://www.zf.com/mobile/en/technologies/decarbonization/decarbonization.html"
+      },
+      {
+        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
+        "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
+      },
+      {
+        "title": "Find Your Job",
+        "url": "https://www.zf.com/mobile/en/careers/students/students.html"
+      },
+      {
+        "title": "Read the full Story",
+        "url": "https://www.zf.com/mobile/en/careers/employee_stories/stories/stories.html"
+      },
+      {
+        "title": "Read more",
+        "url": "https://www.zf.com/mobile/en/careers/employee_stories/employee_stories.html"
+      },
+      {
+        "title": "Career@ZF",
+        "url": "https://www.zf.com/mobile/en/careers/careers.html"
+      }
+    ]
   },
   {
     "name": "Zurich Insurance Group",
