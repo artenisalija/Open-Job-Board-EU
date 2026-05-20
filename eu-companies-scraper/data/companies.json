@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/vn/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/vn/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1431,21 +1431,17 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers",
+    "career_page_url": "https://www.renaultgroup.com/en/magazine/our-group-news/graduate-programs-fast-track-your-career-with-renault-group",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to main content",
+        "title": "here",
+        "url": "https://www.renaultgroup.com/en/careers/graduate-programs"
+      },
+      {
+        "title": "Careers",
         "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "View our offers",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
@@ -2101,39 +2097,6 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "ZF Friedrichshafen",
-    "website": "https://www.zf.com",
-    "career_page_url": "https://www.zf.com/mobile/en/careers/careers.html",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
-        "url": "https://www.zf.com/mobile/en/technologies/decarbonization/decarbonization.html"
-      },
-      {
-        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
-        "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
-      },
-      {
-        "title": "Find Your Job",
-        "url": "https://www.zf.com/mobile/en/careers/students/students.html"
-      },
-      {
-        "title": "Read the full Story",
-        "url": "https://www.zf.com/mobile/en/careers/employee_stories/stories/stories.html"
-      },
-      {
-        "title": "Read more",
-        "url": "https://www.zf.com/mobile/en/careers/employee_stories/employee_stories.html"
-      },
-      {
-        "title": "Career@ZF",
-        "url": "https://www.zf.com/mobile/en/careers/careers.html"
-      }
-    ]
   },
   {
     "name": "Zurich Insurance Group",
