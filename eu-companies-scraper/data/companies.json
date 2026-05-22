@@ -186,8 +186,8 @@
         "url": "https://airbus.com/en/careers/recruitment-process-tips"
       },
       {
-        "title": "Meet Daniele Meet Daniele, Team Leader Engineering at Airbus Defence and Space in The Netherlands",
-        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-daniele"
+        "title": "Meet Henrik Meet Henrik, A320 Equipment Installation First Line Manager at Airbus in Hamburg, Germany",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-henrik"
       }
     ]
   },
@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1118,10 +1118,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
-        "title": "Senior Specialist - Financial Crime Compliance",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-specialist-financial-crime-compliance/3120/38088355264"
-      },
-      {
         "title": "Analityk_czka biznesowy_a w obszarze kredytów hipotecznych",
         "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-biznesowy-a-w-obszarze-kredytow-hipotecznych/3120/38149886528"
       },
@@ -1136,6 +1132,10 @@
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
@@ -1256,20 +1256,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Medical Claims Analyst",
-        "url": "https://www.munichre.com/en/job/dubai/medical-claims-analyst/3342/37283133376"
+        "title": "Physical Security Technology Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/38724257216"
       },
       {
-        "title": "Senior Surety Underwriter Germany (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/frankfurt-am-main/senior-surety-underwriter-germany-m-f-d/3342/35225872256"
+        "title": "Business Analyst (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
       },
       {
-        "title": "Senior Underwriting Portfolio Account Manager",
-        "url": "https://www.munichre.com/en/job/princeton/senior-underwriting-portfolio-account-manager/3342/38428992448"
+        "title": "Praktikum in der internationalen Stiftungsarbeit (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-in-der-internationalen-stiftungsarbeit-m-f-d/3342/38345396032"
       },
       {
-        "title": "Manager & Actuary, Long Term Care (LTC) Valuation",
-        "url": "https://www.munichre.com/en/job/atlanta/manager-and-actuary-long-term-care-ltc-valuation/3342/35729819328"
+        "title": "Assistant Underwriter, Political Violence and Terrorism",
+        "url": "https://www.munichre.com/en/job/singapore/assistant-underwriter-political-violence-and-terrorism/3342/38719976896"
       },
       {
         "title": "Find jobs",
