@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/tw/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/tw/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1219,6 +1219,10 @@
         "url": "https://careers.lyondellbasell.com/search/?searchby=location&createNewAlert=false&q=&locationsearch=&geolocation="
       },
       {
+        "title": "Learn more",
+        "url": "https://lyondellbasell.com/en/careers/benefits"
+      },
+      {
         "title": "Students & graduates",
         "url": "https://lyondellbasell.com/en/careers/students-graduates"
       },
@@ -1256,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Physical Security Technology Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/38724257216"
+        "title": "Senior Property Treaty Underwriter (m/f/d)",
+        "url": "https://www.munichre.com/en/job/zurich/senior-property-treaty-underwriter-m-f-d/3342/38649213056"
       },
       {
-        "title": "Business Analyst (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
+        "title": "Senior Claims Specialist - Financial & Professional",
+        "url": "https://www.munichre.com/en/job/atlanta/senior-claims-specialist-financial-and-professional/3342/38594270336"
       },
       {
-        "title": "Praktikum in der internationalen Stiftungsarbeit (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-in-der-internationalen-stiftungsarbeit-m-f-d/3342/38345396032"
+        "title": "Consultant Corporate Learning (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/consultant-corporate-learning-m-f-d/3342/38710135616"
       },
       {
-        "title": "Assistant Underwriter, Political Violence and Terrorism",
-        "url": "https://www.munichre.com/en/job/singapore/assistant-underwriter-political-violence-and-terrorism/3342/38719976896"
+        "title": "Reserving Actuary Non-life - IFRS17 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-ifrs17-m-w-d/3342/37031721664"
       },
       {
         "title": "Find jobs",
@@ -1794,6 +1798,14 @@
         "url": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program"
       }
     ]
+  },
+  {
+    "name": "SNCF",
+    "website": "https://www.groupe-sncf.com",
+    "career_page_url": "https://www.groupe-sncf.com/career",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Stellantis",
