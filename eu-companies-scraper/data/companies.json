@@ -482,70 +482,17 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to Content",
-        "url": "https://www.deutschebahn.com/careers"
+        "title": "Zum Inhalt springen",
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Job board",
-        "url": "https://www.deutschebahn.com/service/search/en-en/5379744?qli=true&query=&location=&targetGroup=&sort=pubExternalDate_tdt&country=&pageNum=0"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bank",
-    "website": "http://db.com",
-    "career_page_url": "https://www.db.com/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://careers.db.com?language_id=1"
-      },
-      {
-        "title": "Play",
-        "url": "https://www.db.com/careers"
-      },
-      {
-        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
-        "url": "https://careers.db.com/this-is-db"
-      },
-      {
-        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
-        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
-      },
-      {
-        "title": "to careers in technology Discover careers in technology",
-        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
-      },
-      {
-        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
-        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
-      },
-      {
-        "title": "Professionals Professionals",
-        "url": "https://careers.db.com/professionals/index?language_id=1"
-      },
-      {
-        "title": "Students and Graduates Students and Graduates",
-        "url": "https://careers.db.com/students-graduates/index?language_id=1"
-      },
-      {
-        "title": "Apprentices School leavers",
-        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
-      },
-      {
-        "title": "Sitemap",
-        "url": "https://careers.db.com/tools/sitemap?language_id=1"
-      },
-      {
-        "title": "Contact",
-        "url": "https://careers.db.com/tools/contact?language_id=1"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1191,20 +1138,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Property Treaty Underwriter (m/f/d)",
-        "url": "https://www.munichre.com/en/job/zurich/senior-property-treaty-underwriter-m-f-d/3342/38649213056"
-      },
-      {
-        "title": "Senior Claims Specialist - Financial & Professional",
-        "url": "https://www.munichre.com/en/job/atlanta/senior-claims-specialist-financial-and-professional/3342/38594270336"
-      },
-      {
-        "title": "Consultant Corporate Learning (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/consultant-corporate-learning-m-f-d/3342/38710135616"
-      },
-      {
         "title": "Reserving Actuary Non-life - IFRS17 (m/w/d)*",
         "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-ifrs17-m-w-d/3342/37031721664"
+      },
+      {
+        "title": "Global Specialist Employee and Travel Security (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/global-specialist-employee-and-travel-security-m-f-d/3342/38724782720"
+      },
+      {
+        "title": "Physical Security Technology Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/38724257216"
+      },
+      {
+        "title": "Business Analyst (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/business-analyst-m-f-d/3342/36736229568"
       },
       {
         "title": "Find jobs",
