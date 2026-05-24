@@ -1012,13 +1012,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1106,6 +1106,14 @@
         "url": "https://careers.ing.com/en/job/warsaw/product-owner-w-obszarze-kredytow-hipotecznych/3120/38159634432"
       },
       {
+        "title": "Expert DevOps Engineer - Cloud Data Platform",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
+      },
+      {
+        "title": "Analityk_czka biznesowy_a w obszarze kredytów hipotecznych",
+        "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-biznesowy-a-w-obszarze-kredytow-hipotecznych/3120/38149886528"
+      },
+      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
@@ -1120,14 +1128,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
-      },
-      {
-        "title": "Staż z Lwem w Departamencie Podatków",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
-      },
-      {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       }
     ]
   },
@@ -1959,15 +1959,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
