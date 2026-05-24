@@ -482,61 +482,17 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/careers"
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Zur Seite: Jobs für Student:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
-      },
-      {
-        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
-      },
-      {
-        "title": "Zur Seite: Jobs für Fachkräfte",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
-      },
-      {
-        "title": "Verkehrs- und Logistik-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
-      },
-      {
-        "title": "Gewerblich-technische Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
-      },
-      {
-        "title": "Dienstleistungs- und Service-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
-      },
-      {
-        "title": "Zur Seite: Jobs für Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
-      },
-      {
-        "title": "Jobs für IT Professionals",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
-      },
-      {
-        "title": "Jobs für kaufmännische Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
-      },
-      {
-        "title": "Jobs für Ingenieur:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
-      },
-      {
-        "title": "Jobs für Führungskräfte in Management-Positionen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
-      },
-      {
-        "title": "Passenden Job finden",
-        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1844,14 +1800,6 @@
     ]
   },
   {
-    "name": "SNCF",
-    "website": "https://www.groupe-sncf.com",
-    "career_page_url": "https://www.groupe-sncf.com/career",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -2072,10 +2020,48 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
+  },
+  {
+    "name": "Vitol",
+    "website": "http://vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
+      },
+      {
+        "title": "Find out more here",
+        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
+      }
+    ]
   },
   {
     "name": "Vodafone",
