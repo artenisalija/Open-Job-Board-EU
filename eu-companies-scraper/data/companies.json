@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1102,6 +1102,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Procurement Expert (Sourcing ＆ Category Management)",
+        "url": "https://careers.ing.com/en/job/istanbul/procurement-expert-sourcing-category-management/3121/38744006080"
+      },
+      {
+        "title": "Business Development Manager- New Business Development",
+        "url": "https://careers.ing.com/en/job/madrid/business-development-manager-new-business-development/3121/35341857088"
+      },
+      {
         "title": "Specialist - Customer Journey - Product Management",
         "url": "https://careers.ing.com/en/job/warsaw/specialist-customer-journey-product-management/3120/38420177024"
       },
@@ -1128,14 +1136,6 @@
       {
         "title": "Starszy_a Ekspert_ka- Finansowanie Projektów Inwestycyjnych",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-finansowanie-projektow-inwestycyjnych/3120/37604222464"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. Wsparcia Rachunkowości",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-wsparcia-rachunkowosci/3120/37611593152"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Projektmanager Elektrotechnik (m/w/d)* - Schwerpunkt Gefahrenmeldeanlagen - befristet bis 06/2029",
-        "url": "https://www.munichre.com/en/job/munich/projektmanager-elektrotechnik-m-w-d-schwerpunkt-gefahrenmeldeanlagen-befristet-bis-06-2029/3342/38803052096"
-      },
-      {
-        "title": "Projektmanager Technische Gebäudeausrüstung (m/w/d)* befristet bis 07/2029",
-        "url": "https://www.munichre.com/en/job/munich/projektmanager-technische-gebaudeausrustung-m-w-d-befristet-bis-07-2029/3342/38803052032"
-      },
-      {
         "title": "Senior Property Treaty Underwriter (m/f/d)",
         "url": "https://www.munichre.com/en/job/zurich/senior-property-treaty-underwriter-m-f-d/3342/38649213056"
       },
       {
         "title": "Data Product Owner",
         "url": "https://www.munichre.com/en/job/london/data-product-owner/3342/38385312384"
+      },
+      {
+        "title": "Underwriting Manager - Residential Products",
+        "url": "https://www.munichre.com/en/job/amelia/underwriting-manager-residential-products/3342/36005282048"
+      },
+      {
+        "title": "Senior Solution Architect",
+        "url": "https://www.munichre.com/en/job/london/senior-solution-architect/3342/37569028864"
       },
       {
         "title": "Find jobs",
