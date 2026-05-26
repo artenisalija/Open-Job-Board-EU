@@ -303,31 +303,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -851,60 +826,72 @@
         "url": "https://glencore.com/careers"
       },
       {
+        "title": "Careers",
+        "url": "https://glencore.com/en/careers"
+      },
+      {
+        "title": "FR",
+        "url": "https://glencore.com/fr/careers"
+      },
+      {
+        "title": "ES",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
         "title": "Jobs",
-        "url": "https://glencore.com/careers/jobs"
+        "url": "https://glencore.com/en/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/careers/life-at-glencore"
+        "url": "https://glencore.com/en/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/careers/career-areas"
+        "url": "https://glencore.com/en/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/careers/how-we-hire"
+        "url": "https://glencore.com/en/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/careers/early-careers"
+        "url": "https://glencore.com/en/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/careers/early-careers/baar"
+        "url": "https://glencore.com/en/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/careers/early-careers/london"
+        "url": "https://glencore.com/en/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/careers/early-careers/usa"
+        "url": "https://glencore.com/en/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/careers/early-careers/singapore"
+        "url": "https://glencore.com/en/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/careers/early-careers/china"
+        "url": "https://glencore.com/en/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/careers/early-careers/south-africa"
+        "url": "https://glencore.com/en/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1260,20 +1247,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Underwriter, National Underwriting",
-        "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-national-underwriting/3342/38860315968"
+        "title": "Claims Handler",
+        "url": "https://www.munichre.com/en/job/birkenhead/claims-handler/3342/38654383296"
       },
       {
-        "title": "Platform Integration - Senior Trading Technology Specialist (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/platform-integration-senior-trading-technology-specialist-m-f-d/3342/38649212928"
+        "title": "Claims Handler (m/f/d*)",
+        "url": "https://www.munichre.com/en/job/birkenhead/claims-handler-m-f-d/3342/37299338752"
       },
       {
-        "title": "Business Analyst Intern, Treaty Underwriting (2026 Winter - Toronto, 8 months)",
-        "url": "https://www.munichre.com/en/job/toronto/business-analyst-intern-treaty-underwriting-2026-winter-toronto-8-months/3342/38439960000"
+        "title": "Credit Analyst Fund Finance / Risk Underwriter (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/credit-analyst-fund-finance-risk-underwriter-m-f-d/3342/38192110912"
       },
       {
-        "title": "Financial Accountant (One Year Fixed Term Contract)",
-        "url": "https://www.munichre.com/en/job/johannesburg/financial-accountant-one-year-fixed-term-contract/3342/38841628800"
+        "title": "Junior Claims Administrator",
+        "url": "https://www.munichre.com/en/job/london/junior-claims-administrator/3342/38146827008"
       },
       {
         "title": "Find jobs",
@@ -2024,6 +2011,39 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "http://vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
+      },
+      {
+        "title": "Find out more here",
+        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
+      }
+    ]
   },
   {
     "name": "Vodafone",
