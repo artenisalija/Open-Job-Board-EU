@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Projektmanager Elektrotechnik (m/w/d)* - Schwerpunkt Gefahrenmeldeanlagen - befristet bis 06/2029",
-        "url": "https://www.munichre.com/en/job/munich/projektmanager-elektrotechnik-m-w-d-schwerpunkt-gefahrenmeldeanlagen-befristet-bis-06-2029/3342/38803052096"
+        "title": "Senior Underwriter, National Underwriting",
+        "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-national-underwriting/3342/38860315968"
       },
       {
-        "title": "Projektmanager Technische Gebäudeausrüstung (m/w/d)* befristet bis 07/2029",
-        "url": "https://www.munichre.com/en/job/munich/projektmanager-technische-gebaudeausrustung-m-w-d-befristet-bis-07-2029/3342/38803052032"
+        "title": "Platform Integration - Senior Trading Technology Specialist (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/platform-integration-senior-trading-technology-specialist-m-f-d/3342/38649212928"
       },
       {
-        "title": "Senior Property Treaty Underwriter (m/f/d)",
-        "url": "https://www.munichre.com/en/job/zurich/senior-property-treaty-underwriter-m-f-d/3342/38649213056"
+        "title": "Business Analyst Intern, Treaty Underwriting (2026 Winter - Toronto, 8 months)",
+        "url": "https://www.munichre.com/en/job/toronto/business-analyst-intern-treaty-underwriting-2026-winter-toronto-8-months/3342/38439960000"
       },
       {
-        "title": "Data Product Owner",
-        "url": "https://www.munichre.com/en/job/london/data-product-owner/3342/38385312384"
+        "title": "Financial Accountant (One Year Fixed Term Contract)",
+        "url": "https://www.munichre.com/en/job/johannesburg/financial-accountant-one-year-fixed-term-contract/3342/38841628800"
       },
       {
         "title": "Find jobs",
@@ -2020,15 +2020,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
