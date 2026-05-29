@@ -410,55 +410,6 @@
     "jobs": []
   },
   {
-    "name": "Continental",
-    "website": "https://continental.com",
-    "career_page_url": "https://continental.com/en/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://continental.com/en/career"
-      },
-      {
-        "title": "Job Portal",
-        "url": "https://jobs.continental.com/en"
-      },
-      {
-        "title": "Our Range of Jobs",
-        "url": "https://continental.com/en/career/our-range-of-jobs"
-      },
-      {
-        "title": "Software Engineering and System Engineering",
-        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
-      },
-      {
-        "title": "Operating",
-        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
-      },
-      {
-        "title": "Quality",
-        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
-      },
-      {
-        "title": "IT and Cybersecurity",
-        "url": "https://continental.com/en/career/our-range-of-jobs/it"
-      },
-      {
-        "title": "Sales",
-        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
-      },
-      {
-        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
-        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
-      },
-      {
-        "title": "Jobs & Careers",
-        "url": "https://continental.com/en/career/contact-faqs/contact"
-      }
-    ]
-  },
-  {
     "name": "Daimler Truck",
     "website": "https://www.daimlertruck.com/en",
     "career_page_url": "https://www.daimlertruck.com/en/career",
@@ -1032,13 +983,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1272,20 +1223,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "AVP & Assistant Controller",
-        "url": "https://www.munichre.com/en/job/hartford/avp-and-assistant-controller/3342/38162831808"
+        "title": "Political Risk & Credit Underwriter",
+        "url": "https://www.munichre.com/en/job/london/political-risk-and-credit-underwriter/3342/38697791488"
       },
       {
-        "title": "Sales Account Manager",
-        "url": "https://www.munichre.com/en/job/amelia/sales-account-manager/3342/38979698944"
+        "title": "Actuarial Consultant, Experience Studies & Structured Solutions",
+        "url": "https://www.munichre.com/en/job/south-korea/actuarial-consultant-experience-studies-and-structured-solutions/3342/38994653248"
       },
       {
-        "title": "Parametric Structuring Analyst",
-        "url": "https://www.munichre.com/en/job/new-york/parametric-structuring-analyst/3342/38977145024"
+        "title": "Marine Pricing Lead",
+        "url": "https://www.munichre.com/en/job/london/marine-pricing-lead/3342/38625035328"
       },
       {
-        "title": "Senior Internal Auditor",
-        "url": "https://www.munichre.com/en/job/hartford/senior-internal-auditor/3342/33954465600"
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/36235982272"
       },
       {
         "title": "Find jobs",
