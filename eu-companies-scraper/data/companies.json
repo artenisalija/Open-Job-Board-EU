@@ -1032,13 +1032,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/do/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/do/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1272,6 +1272,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Senior Actuarial Associate",
+        "url": "https://www.munichre.com/en/job/toronto/senior-actuarial-associate/3342/38201408064"
+      },
+      {
         "title": "Operations Team Lead",
         "url": "https://www.munichre.com/en/job/wayne/operations-team-lead/3342/38586514368"
       },
@@ -1282,10 +1286,6 @@
       {
         "title": "Senior Valuation Actuary (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/senior-valuation-actuary-m-f-d/3342/38876485376"
-      },
-      {
-        "title": "Engineer Surveyor - Northern Island",
-        "url": "https://www.munichre.com/en/job/belfast/engineer-surveyor-northern-island/3342/38619782656"
       },
       {
         "title": "Find jobs",
@@ -2032,10 +2032,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
