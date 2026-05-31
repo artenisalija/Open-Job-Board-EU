@@ -847,16 +847,16 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SAUTER LA NAVIGATION",
+        "title": "SKIP NAVIGATION",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
-        "url": "https://glencore.com/fr/careers"
+        "url": "https://glencore.com/en/careers"
       },
       {
-        "title": "EN",
-        "url": "https://glencore.com/en/careers"
+        "title": "FR",
+        "url": "https://glencore.com/fr/careers"
       },
       {
         "title": "ES",
@@ -864,59 +864,59 @@
       },
       {
         "title": "Jobs",
-        "url": "https://glencore.com/fr/careers/jobs"
+        "url": "https://glencore.com/en/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/fr/careers/life-at-glencore"
+        "url": "https://glencore.com/en/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/fr/careers/career-areas"
+        "url": "https://glencore.com/en/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/fr/careers/how-we-hire"
+        "url": "https://glencore.com/en/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/fr/careers/early-careers"
+        "url": "https://glencore.com/en/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/fr/careers/early-careers/baar"
+        "url": "https://glencore.com/en/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/fr/careers/early-careers/london"
+        "url": "https://glencore.com/en/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/fr/careers/early-careers/usa"
+        "url": "https://glencore.com/en/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/fr/careers/early-careers/singapore"
+        "url": "https://glencore.com/en/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/fr/careers/early-careers/china"
+        "url": "https://glencore.com/en/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/fr/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/fr/careers/early-careers/south-africa"
+        "url": "https://glencore.com/en/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/fr/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/fr/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1032,13 +1032,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1272,20 +1272,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Engineer Surveyor - Aberdeen",
+        "url": "https://www.munichre.com/en/job/aberdeen/engineer-surveyor-aberdeen/3342/38973296128"
+      },
+      {
+        "title": "Engineer Surveyor - Manchester",
+        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-manchester/3342/38973296512"
+      },
+      {
         "title": "MRSGM NA Associate Account Manager Commercial Insurance",
         "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
       },
       {
         "title": "Contract Claims Examiner",
         "url": "https://www.munichre.com/en/job/toronto/contract-claims-examiner/3342/38968126848"
-      },
-      {
-        "title": "Inspector Trainee - Bloomington, IL",
-        "url": "https://www.munichre.com/en/job/bloomington/inspector-trainee-bloomington-il/3342/37384693696"
-      },
-      {
-        "title": "Business Analyst",
-        "url": "https://www.munichre.com/en/job/new-york/business-analyst/3342/38480479744"
       },
       {
         "title": "Find jobs",
