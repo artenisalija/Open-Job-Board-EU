@@ -1032,13 +1032,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1118,16 +1118,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
-        "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/kielce/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/38032051840"
-      },
-      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+      },
+      {
+        "title": "Starszy_a Specjalista_tka w obszarze bankowości hipotecznej",
+        "url": "https://careers.ing.com/en/job/lodz/starszy-a-specjalista-tka-w-obszarze-bankowosci-hipotecznej/3120/39111581696"
       },
       {
         "title": "Staż z Lwem w Departamencie Podatków",
@@ -1146,23 +1146,18 @@
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       },
       {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+        "title": "Staż z Lwem w IT w Tribe Aplikacji Biznesowych i Strategicznych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-it-w-tribe-aplikacji-biznesowych-i-strategicznych/3120/32883476544"
       }
     ]
   },
   {
     "name": "INGKA Holding",
     "website": "https://www.ingka.com",
-    "career_page_url": "https://www.ingka.com/join-us",
+    "career_page_url": "https://www.ingka.com/this-is-ingka-group/work-with-us",
     "country_of_origin": "Netherlands",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "“Skills for Employment Toolkit: A how-to guide for opening pathways to decent work for refugees”",
-        "url": "https://www.ingka.com/projects/skills-for-employment"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1272,20 +1267,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - Aberdeen",
-        "url": "https://www.munichre.com/en/job/aberdeen/engineer-surveyor-aberdeen/3342/38973296128"
+        "title": "Engineer Surveyor - London",
+        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
       },
       {
-        "title": "Engineer Surveyor - Manchester",
-        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-manchester/3342/38973296512"
+        "title": "Valuation Actuary (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/39110794880"
       },
       {
-        "title": "MRSGM NA Associate Account Manager Commercial Insurance",
-        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
+        "title": "Category Manager - Mobility & ESG Reporting (m/f/d)* in part-time (22-30 h/w)",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-mobility-and-esg-reporting-m-f-d-in-part-time-22-30-h-w/3342/39110794752"
       },
       {
-        "title": "Contract Claims Examiner",
-        "url": "https://www.munichre.com/en/job/toronto/contract-claims-examiner/3342/38968126848"
+        "title": "Senior Actuarial Analyst",
+        "url": "https://www.munichre.com/en/job/johannesburg/senior-actuarial-analyst/3342/39108940736"
       },
       {
         "title": "Find jobs",
@@ -1676,6 +1671,10 @@
         "url": "https://jobs.sanofi.com/digital"
       },
       {
+        "title": "Digital Accelerator",
+        "url": "https://jobs.sanofi.com/en/digital-accelerator"
+      },
+      {
         "title": "Engineering & Maintenance",
         "url": "https://jobs.sanofi.com/engineering-and-maintenance"
       },
@@ -1697,7 +1696,7 @@
       },
       {
         "title": "Quality",
-        "url": "https://jobs.sanofi.com/quality-jobs"
+        "url": "https://jobs.sanofi.com/quality"
       },
       {
         "title": "Regulatory Affairs",
@@ -1734,10 +1733,6 @@
       {
         "title": "Français",
         "url": "https://jobs.sanofi.com/fr"
-      },
-      {
-        "title": "Deutsch",
-        "url": "https://jobs.sanofi.com/de"
       }
     ]
   },
@@ -1831,21 +1826,17 @@
   {
     "name": "Swiss Re",
     "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/en/careers",
+    "career_page_url": "https://www.swissre.com/careers.html",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Content",
-        "url": "https://www.swissre.com/en/careers"
+        "url": "https://www.swissre.com/careers.html"
       },
       {
         "title": "Policies and statements",
         "url": "https://www.swissre.com/sustainability/position-statements.html"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.swissre.com/careers.html"
       },
       {
         "title": "Search Swiss Re Careers",
