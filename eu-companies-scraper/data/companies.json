@@ -1032,13 +1032,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/br/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1118,6 +1118,10 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
+        "title": "Doradca_czyni Analityk_czka Klienta Korporacyjnego",
+        "url": "https://careers.ing.com/en/job/kielce/doradca-czyni-analityk-czka-klienta-korporacyjnego/3120/38032051840"
+      },
+      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
@@ -1144,10 +1148,6 @@
       {
         "title": "Expert Developer Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
