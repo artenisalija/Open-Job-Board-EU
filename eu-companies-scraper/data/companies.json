@@ -1110,6 +1110,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
+        "url": "https://careers.ing.com/en/job/bielsko-biala/staz-z-lwem-w-centrum-bankowosci-biznesowej/3120/39158756864"
+      },
+      {
         "title": "Expert DevOps Engineer - Cloud Data Platform",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
@@ -1120,10 +1124,6 @@
       {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
-      },
-      {
-        "title": "Staż z Lwem w Departamencie Podatków",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-departamencie-podatkow/3120/37537539840"
       },
       {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
@@ -1438,17 +1438,21 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/magazine/our-group-news/graduate-programs-fast-track-your-career-with-renault-group",
+    "career_page_url": "https://www.renaultgroup.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "here",
-        "url": "https://www.renaultgroup.com/en/careers/graduate-programs"
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/careers"
       },
       {
-        "title": "Careers",
-        "url": "https://www.renaultgroup.com/en/careers"
+        "title": "View our offers",
+        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
+      },
+      {
+        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
+        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
