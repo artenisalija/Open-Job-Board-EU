@@ -843,11 +843,15 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SKIP NAVIGATION",
+        "title": "SALTAR NAVEGACIÓN",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
+        "title": "EN",
         "url": "https://glencore.com/en/careers"
       },
       {
@@ -855,64 +859,60 @@
         "url": "https://glencore.com/fr/careers"
       },
       {
-        "title": "ES",
-        "url": "https://glencore.com/es/careers"
-      },
-      {
         "title": "Jobs",
-        "url": "https://glencore.com/en/careers/jobs"
+        "url": "https://glencore.com/es/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/en/careers/life-at-glencore"
+        "url": "https://glencore.com/es/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/en/careers/career-areas"
+        "url": "https://glencore.com/es/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/en/careers/how-we-hire"
+        "url": "https://glencore.com/es/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/en/careers/early-careers"
+        "url": "https://glencore.com/es/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/en/careers/early-careers/baar"
+        "url": "https://glencore.com/es/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/en/careers/early-careers/london"
+        "url": "https://glencore.com/es/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/en/careers/early-careers/usa"
+        "url": "https://glencore.com/es/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/en/careers/early-careers/singapore"
+        "url": "https://glencore.com/es/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/en/careers/early-careers/china"
+        "url": "https://glencore.com/es/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/es/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/en/careers/early-careers/south-africa"
+        "url": "https://glencore.com/es/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/es/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/es/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1263,20 +1263,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Technical Accountant & Claims Handler NL",
-        "url": "https://www.munichre.com/en/job/mumbai/technical-accountant-and-claims-handler-nl/3342/37612638016"
-      },
-      {
-        "title": "Authorized Inspector - Pueblo, CO",
-        "url": "https://www.munichre.com/en/job/pueblo/authorized-inspector-pueblo-co/3342/38897504576"
-      },
-      {
         "title": "Senior Risk Manager",
         "url": "https://www.munichre.com/en/job/london/senior-risk-manager/3342/39113533568"
       },
       {
         "title": "Engineer Surveyor - London",
         "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
+      },
+      {
+        "title": "Valuation Actuary (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/39110794880"
+      },
+      {
+        "title": "Category Manager - Mobility & ESG Reporting (m/f/d)* in part-time (22-30 h/w)",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-mobility-and-esg-reporting-m-f-d-in-part-time-22-30-h-w/3342/39110794752"
       },
       {
         "title": "Find jobs",
