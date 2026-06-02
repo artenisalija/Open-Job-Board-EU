@@ -917,124 +917,15 @@
     ]
   },
   {
-    "name": "HSBC",
-    "website": "https://hsbc.com",
-    "career_page_url": "https://hsbc.com/careers",
-    "country_of_origin": "United Kingdom",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to Primary navigation",
-        "url": "https://hsbc.com/careers"
-      },
-      {
-        "title": "OUR STRATEGY AND VALUES Opening up a world of opportunity",
-        "url": "https://hsbc.com/who-we-are/our-strategy-and-values"
-      },
-      {
-        "title": "Students and graduates",
-        "url": "https://hsbc.com/careers/students-and-graduates"
-      },
-      {
-        "title": "University students and graduates",
-        "url": "https://hsbc.com/careers/students-and-graduates/university-students-and-graduates"
-      },
-      {
-        "title": "Schools and apprenticeships",
-        "url": "https://hsbc.com/careers/students-and-graduates/schools-and-apprenticeships"
-      },
-      {
-        "title": "Events",
-        "url": "https://hsbc.com/careers/students-and-graduates/events"
-      },
-      {
-        "title": "Application guide",
-        "url": "https://hsbc.com/careers/students-and-graduates/application-guide"
-      },
-      {
-        "title": "FAQs",
-        "url": "https://hsbc.com/careers/students-and-graduates/faqs"
-      },
-      {
-        "title": "Find a programme",
-        "url": "https://hsbc.com/careers/students-and-graduates/find-a-programme"
-      },
-      {
-        "title": "Life at HSBC",
-        "url": "https://hsbc.com/careers/life-at-hsbc"
-      },
-      {
-        "title": "Meet our people",
-        "url": "https://hsbc.com/careers/life-at-hsbc/meet-our-people"
-      },
-      {
-        "title": "Career development",
-        "url": "https://hsbc.com/careers/life-at-hsbc/career-development"
-      },
-      {
-        "title": "Welcoming diversity",
-        "url": "https://hsbc.com/careers/life-at-hsbc/welcoming-diversity"
-      },
-      {
-        "title": "Pay and benefits",
-        "url": "https://hsbc.com/careers/life-at-hsbc/pay-and-benefits"
-      },
-      {
-        "title": "Alumni",
-        "url": "https://hsbc.com/careers/life-at-hsbc/alumni"
-      },
-      {
-        "title": "Our business areas and teams",
-        "url": "https://hsbc.com/careers/our-business-areas-and-teams"
-      },
-      {
-        "title": "Corporate and Institutional Banking",
-        "url": "https://hsbc.com/careers/our-business-areas-and-teams/corporate-and-institutional-banking"
-      },
-      {
-        "title": "International Wealth and Premier Banking",
-        "url": "https://hsbc.com/careers/our-business-areas-and-teams/international-wealth-and-premier-banking"
-      },
-      {
-        "title": "Group Infrastructure",
-        "url": "https://hsbc.com/careers/our-business-areas-and-teams/group-infrastructure"
-      },
-      {
-        "title": "Find a job",
-        "url": "https://hsbc.com/careers/find-a-job"
-      },
-      {
-        "title": "Where we hire",
-        "url": "https://hsbc.com/careers/where-we-hire"
-      },
-      {
-        "title": "Key hiring areas",
-        "url": "https://hsbc.com/careers/where-we-hire/key-hiring-areas"
-      },
-      {
-        "title": "Careers in India",
-        "url": "https://hsbc.com/careers/where-we-hire/india"
-      },
-      {
-        "title": "Application hints and tips",
-        "url": "https://hsbc.com/careers/application-hints-and-tips"
-      },
-      {
-        "title": "Careers contacts",
-        "url": "https://hsbc.com/careers/careers-contacts"
-      }
-    ]
-  },
-  {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1110,12 +1001,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
-        "url": "https://careers.ing.com/en/job/bielsko-biala/staz-z-lwem-w-centrum-bankowosci-biznesowej/3120/39158756864"
-      },
-      {
         "title": "Expert DevOps Engineer - Cloud Data Platform",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
+      },
+      {
+        "title": "Doradca_czyni Klienta Biznesowego",
+        "url": "https://careers.ing.com/en/job/gdansk/doradca-czyni-klienta-biznesowego/3120/39154835520"
       },
       {
         "title": "Ekspert_ka - Administrator_ka Sieci",
@@ -1263,20 +1154,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Authorized Nuclear Inspector",
-        "url": "https://www.munichre.com/en/job/munich/authorized-nuclear-inspector/3342/31297144704"
+        "title": "Category Manager - Mobility & ESG Reporting (m/f/d)* in part-time (22-30 h/w)",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-mobility-and-esg-reporting-m-f-d-in-part-time-22-30-h-w/3342/39110794752"
       },
       {
-        "title": "Engineer Surveyor - London",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
+        "title": "Property Field Adjuster",
+        "url": "https://www.munichre.com/en/job/princeton/property-field-adjuster/3342/39165152192"
       },
       {
-        "title": "Reserving Actuary (Non-Life) - Solvency II & IFRS17 Plan (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/reserving-actuary-non-life-solvency-ii-and-ifrs17-plan-m-f-d/3342/36990079104"
+        "title": "MRSGM NA Associate Account Manager Commercial Insurance",
+        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
       },
       {
-        "title": "Senior Director / Client Relationship & Risk Manager - Commercial Real Estate (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/senior-director-client-relationship-and-risk-manager-commercial-real-estate-m-f-d/3342/38954243264"
+        "title": "Regional Manager - London",
+        "url": "https://www.munichre.com/en/job/london/regional-manager-london/3342/39158652992"
       },
       {
         "title": "Find jobs",
@@ -1438,21 +1329,17 @@
   {
     "name": "Renault",
     "website": "https://www.renaultgroup.com/en",
-    "career_page_url": "https://www.renaultgroup.com/en/careers",
+    "career_page_url": "https://www.renaultgroup.com/en/magazine/our-group-news/graduate-programs-fast-track-your-career-with-renault-group",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to main content",
+        "title": "here",
+        "url": "https://www.renaultgroup.com/en/careers/graduate-programs"
+      },
+      {
+        "title": "Careers",
         "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "View our offers",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
       }
     ]
   },
