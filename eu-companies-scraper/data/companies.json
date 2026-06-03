@@ -406,6 +406,55 @@
     "jobs": []
   },
   {
+    "name": "Continental",
+    "website": "https://continental.com",
+    "career_page_url": "https://continental.com/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://continental.com/en/career"
+      },
+      {
+        "title": "Job Portal",
+        "url": "https://jobs.continental.com/en"
+      },
+      {
+        "title": "Our Range of Jobs",
+        "url": "https://continental.com/en/career/our-range-of-jobs"
+      },
+      {
+        "title": "Software Engineering and System Engineering",
+        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
+      },
+      {
+        "title": "Operating",
+        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
+      },
+      {
+        "title": "Quality",
+        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
+      },
+      {
+        "title": "IT and Cybersecurity",
+        "url": "https://continental.com/en/career/our-range-of-jobs/it"
+      },
+      {
+        "title": "Sales",
+        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
+      },
+      {
+        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
+        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
+      },
+      {
+        "title": "Jobs & Careers",
+        "url": "https://continental.com/en/career/contact-faqs/contact"
+      }
+    ]
+  },
+  {
     "name": "Daimler Truck",
     "website": "https://www.daimlertruck.com/en",
     "career_page_url": "https://www.daimlertruck.com/en/career",
@@ -979,13 +1028,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1214,20 +1263,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "MRSGM NA Associate Account Manager Commercial Insurance",
-        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
+        "title": "Corporate Underwriting Expert - Casualty Lead",
+        "url": "https://www.munichre.com/en/job/new-york/corporate-underwriting-expert-casualty-lead/3342/38410440064"
       },
       {
-        "title": "Regional Manager - London",
-        "url": "https://www.munichre.com/en/job/london/regional-manager-london/3342/39158652992"
+        "title": "Authorized Inspector",
+        "url": "https://www.munichre.com/en/job/pueblo/authorized-inspector/3342/38897504576"
       },
       {
-        "title": "Senior Project Manager - Hartford, CT Office (Hybrid)",
-        "url": "https://www.munichre.com/en/job/hartford/senior-project-manager-hartford-ct-office-hybrid/3342/37891965312"
+        "title": "Project Manager",
+        "url": "https://www.munichre.com/en/job/amelia/project-manager/3342/37615625408"
       },
       {
-        "title": "Broking Assistant",
-        "url": "https://www.munichre.com/en/job/london/broking-assistant/3342/38112583616"
+        "title": "Property Field Adjuster",
+        "url": "https://www.munichre.com/en/job/hartford/property-field-adjuster/3342/36520274368"
       },
       {
         "title": "Find jobs",
@@ -1345,6 +1394,23 @@
       {
         "title": "Join our community",
         "url": "https://novartis.wd3.myworkdayjobs.com/Internal_Careers_for_Acquired_Entities/job/Basel-City/Novartis-Talent-Community_REQ-10067767"
+      }
+    ]
+  },
+  {
+    "name": "OMV",
+    "website": "https://www.omv.com/en",
+    "career_page_url": "https://www.omv.com/en/career/grow-with-us",
+    "country_of_origin": "Austria",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Jobboard",
+        "url": "https://www.omv.com/en/career/grow-with-us/jobboard"
+      },
+      {
+        "title": "Job stories",
+        "url": "https://www.omv.com/en/career/work-with-us/job-stories"
       }
     ]
   },
