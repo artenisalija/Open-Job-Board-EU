@@ -917,6 +917,115 @@
     ]
   },
   {
+    "name": "HSBC",
+    "website": "https://hsbc.com",
+    "career_page_url": "https://hsbc.com/careers",
+    "country_of_origin": "United Kingdom",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to Primary navigation",
+        "url": "https://hsbc.com/careers"
+      },
+      {
+        "title": "OUR STRATEGY AND VALUES Opening up a world of opportunity",
+        "url": "https://hsbc.com/who-we-are/our-strategy-and-values"
+      },
+      {
+        "title": "Students and graduates",
+        "url": "https://hsbc.com/careers/students-and-graduates"
+      },
+      {
+        "title": "University students and graduates",
+        "url": "https://hsbc.com/careers/students-and-graduates/university-students-and-graduates"
+      },
+      {
+        "title": "Schools and apprenticeships",
+        "url": "https://hsbc.com/careers/students-and-graduates/schools-and-apprenticeships"
+      },
+      {
+        "title": "Events",
+        "url": "https://hsbc.com/careers/students-and-graduates/events"
+      },
+      {
+        "title": "Application guide",
+        "url": "https://hsbc.com/careers/students-and-graduates/application-guide"
+      },
+      {
+        "title": "FAQs",
+        "url": "https://hsbc.com/careers/students-and-graduates/faqs"
+      },
+      {
+        "title": "Find a programme",
+        "url": "https://hsbc.com/careers/students-and-graduates/find-a-programme"
+      },
+      {
+        "title": "Life at HSBC",
+        "url": "https://hsbc.com/careers/life-at-hsbc"
+      },
+      {
+        "title": "Meet our people",
+        "url": "https://hsbc.com/careers/life-at-hsbc/meet-our-people"
+      },
+      {
+        "title": "Career development",
+        "url": "https://hsbc.com/careers/life-at-hsbc/career-development"
+      },
+      {
+        "title": "Welcoming diversity",
+        "url": "https://hsbc.com/careers/life-at-hsbc/welcoming-diversity"
+      },
+      {
+        "title": "Pay and benefits",
+        "url": "https://hsbc.com/careers/life-at-hsbc/pay-and-benefits"
+      },
+      {
+        "title": "Alumni",
+        "url": "https://hsbc.com/careers/life-at-hsbc/alumni"
+      },
+      {
+        "title": "Our business areas and teams",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams"
+      },
+      {
+        "title": "Corporate and Institutional Banking",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/corporate-and-institutional-banking"
+      },
+      {
+        "title": "International Wealth and Premier Banking",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/international-wealth-and-premier-banking"
+      },
+      {
+        "title": "Group Infrastructure",
+        "url": "https://hsbc.com/careers/our-business-areas-and-teams/group-infrastructure"
+      },
+      {
+        "title": "Find a job",
+        "url": "https://hsbc.com/careers/find-a-job"
+      },
+      {
+        "title": "Where we hire",
+        "url": "https://hsbc.com/careers/where-we-hire"
+      },
+      {
+        "title": "Key hiring areas",
+        "url": "https://hsbc.com/careers/where-we-hire/key-hiring-areas"
+      },
+      {
+        "title": "Careers in India",
+        "url": "https://hsbc.com/careers/where-we-hire/india"
+      },
+      {
+        "title": "Application hints and tips",
+        "url": "https://hsbc.com/careers/application-hints-and-tips"
+      },
+      {
+        "title": "Careers contacts",
+        "url": "https://hsbc.com/careers/careers-contacts"
+      }
+    ]
+  },
+  {
     "name": "Inditex",
     "website": "http://www.inditex.com",
     "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
