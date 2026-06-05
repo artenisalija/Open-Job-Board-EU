@@ -1,5 +1,62 @@
 [
   {
+    "name": "Accenture",
+    "website": "http://accenture.com",
+    "career_page_url": "http://accenture.com/us-en/services/talent-organization",
+    "country_of_origin": "Ireland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers homepage",
+        "url": "http://accenture.com/us-en/careers"
+      },
+      {
+        "title": "Search for jobs",
+        "url": "http://accenture.com/us-en/careers/jobsearch"
+      },
+      {
+        "title": "Career areas",
+        "url": "http://accenture.com/us-en/careers/explore-careers/career-areas"
+      },
+      {
+        "title": "Working here",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/working-here"
+      },
+      {
+        "title": "Benefits",
+        "url": "http://accenture.com/us-en/careers/local/benefits"
+      },
+      {
+        "title": "Work environment",
+        "url": "http://accenture.com/us-en/careers/life-at-accenture/work-environment"
+      },
+      {
+        "title": "Careers blog",
+        "url": "http://accenture.com/us-en/blogs/blogs-careers"
+      },
+      {
+        "title": "Using AI",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/ai-usage-job-search"
+      },
+      {
+        "title": "Hiring journey",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/journey-to-accenture"
+      },
+      {
+        "title": "Pro tips",
+        "url": "http://accenture.com/us-en/careers/explore-careers/area-of-interest/pro-tips"
+      },
+      {
+        "title": "Careers",
+        "url": "http://accenture.com/us-en/services/talent-organization"
+      },
+      {
+        "title": "Search open roles",
+        "url": "http://accenture.com/us-en/careers/jobsearch?jk=talent&sb=0"
+      }
+    ]
+  },
+  {
     "name": "ACS Group",
     "website": "http://grupoacs.com",
     "career_page_url": "http://grupoacs.com/careers",
@@ -242,6 +299,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -322,6 +404,55 @@
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Continental",
+    "website": "https://continental.com",
+    "career_page_url": "https://continental.com/en/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://continental.com/en/career"
+      },
+      {
+        "title": "Job Portal",
+        "url": "https://jobs.continental.com/en"
+      },
+      {
+        "title": "Our Range of Jobs",
+        "url": "https://continental.com/en/career/our-range-of-jobs"
+      },
+      {
+        "title": "Software Engineering and System Engineering",
+        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
+      },
+      {
+        "title": "Operating",
+        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
+      },
+      {
+        "title": "Quality",
+        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
+      },
+      {
+        "title": "IT and Cybersecurity",
+        "url": "https://continental.com/en/career/our-range-of-jobs/it"
+      },
+      {
+        "title": "Sales",
+        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
+      },
+      {
+        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
+        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
+      },
+      {
+        "title": "Jobs & Careers",
+        "url": "https://continental.com/en/career/contact-faqs/contact"
+      }
+    ]
   },
   {
     "name": "Daimler Truck",
@@ -415,21 +546,25 @@
     ]
   },
   {
-    "name": "DHL",
-    "website": "https://group.dhl.com/en.html",
-    "career_page_url": "https://group.dhl.com/en.html/careers",
+    "name": "Deutsche Telekom",
+    "website": "https://www.telekom.com",
+    "career_page_url": "https://www.telekom.com/en/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Skip to main content",
-        "url": "https://group.dhl.com/en.html/careers"
-      },
-      {
-        "title": "Careers",
-        "url": "https://group.dhl.com/en/careers.html"
+        "title": "active: Careers",
+        "url": "https://www.telekom.com/en/careers"
       }
     ]
+  },
+  {
+    "name": "DHL",
+    "website": "https://group.dhl.com/en.html",
+    "career_page_url": "https://group.dhl.com/en/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Edeka",
@@ -478,6 +613,115 @@
       {
         "title": "Teams",
         "url": "https://www.enel.com/careers/teams"
+      }
+    ]
+  },
+  {
+    "name": "Engie",
+    "website": "http://engie.com/en",
+    "career_page_url": "https://jobs.engie.com",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.engie.com"
+      },
+      {
+        "title": "Deutsch ‎(German)‎",
+        "url": "https://jobs.engie.com/?locale=de_DE"
+      },
+      {
+        "title": "English US ‎(English US)‎",
+        "url": "https://jobs.engie.com/?locale=en_US"
+      },
+      {
+        "title": "Español ‎(Spanish)‎",
+        "url": "https://jobs.engie.com/?locale=es_ES"
+      },
+      {
+        "title": "Español ‎(Mexico)‎",
+        "url": "https://jobs.engie.com/?locale=es_MX"
+      },
+      {
+        "title": "Français ‎(French)‎",
+        "url": "https://jobs.engie.com/?locale=fr_FR"
+      },
+      {
+        "title": "Italiano ‎(Italian)‎",
+        "url": "https://jobs.engie.com/?locale=it_IT"
+      },
+      {
+        "title": "Nederlands ‎(Dutch)‎",
+        "url": "https://jobs.engie.com/?locale=nl_NL"
+      },
+      {
+        "title": "Polski ‎(Polish)‎",
+        "url": "https://jobs.engie.com/?locale=pl_PL"
+      },
+      {
+        "title": "Português do Brasil ‎(Brazilian Portuguese)‎",
+        "url": "https://jobs.engie.com/?locale=pt_BR"
+      },
+      {
+        "title": "Română ‎(Romanian)‎",
+        "url": "https://jobs.engie.com/?locale=ro_RO"
+      },
+      {
+        "title": "Slovenčina ‎(Slovak)‎",
+        "url": "https://jobs.engie.com/?locale=sk_SK"
+      },
+      {
+        "title": "Open jobs",
+        "url": "https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch="
+      },
+      {
+        "title": "Students",
+        "url": "https://jobs.engie.com/go/students-us/9419755"
+      },
+      {
+        "title": "Young professionals",
+        "url": "https://jobs.engie.com/go/young-professionals-us/9421555"
+      },
+      {
+        "title": "Experts",
+        "url": "https://jobs.engie.com/go/experts-us/9414455"
+      },
+      {
+        "title": "Technicians",
+        "url": "https://jobs.engie.com/go/technicians-us/9420455"
+      },
+      {
+        "title": "Engineers",
+        "url": "https://jobs.engie.com/go/engineers-us/9413255"
+      },
+      {
+        "title": "Data / Digital & IT",
+        "url": "https://jobs.engie.com/go/data-digital-&-it-us/9412455"
+      },
+      {
+        "title": "Support functions",
+        "url": "https://jobs.engie.com/go/support-functions-us/9420055"
+      },
+      {
+        "title": "R&D / Innovation",
+        "url": "https://jobs.engie.com/go/r&d-innovation-us/9418855"
+      },
+      {
+        "title": "Management & Consulting",
+        "url": "https://jobs.engie.com/go/management-&-consulting-us/9417655"
+      },
+      {
+        "title": "Spontaneous application",
+        "url": "https://jobs.engie.com/lp/Data%20Capture%20Economist/e166a269a52500d0/?locale=en_US"
+      },
+      {
+        "title": "Job alerts",
+        "url": "https://jobs.engie.com/content/Job-Alerts/?locale=en_US"
+      },
+      {
+        "title": "Follow this link to reach our Job Search page to search for available jobs in a more accessible format.",
+        "url": "https://jobs.engie.com/search"
       }
     ]
   },
@@ -588,6 +832,87 @@
       {
         "title": "Skip to main content",
         "url": "https://www.exor.com/pages/careers"
+      }
+    ]
+  },
+  {
+    "name": "Glencore",
+    "website": "https://glencore.com",
+    "career_page_url": "https://glencore.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "SKIP NAVIGATION",
+        "url": "https://glencore.com/careers"
+      },
+      {
+        "title": "Careers",
+        "url": "https://glencore.com/en/careers"
+      },
+      {
+        "title": "FR",
+        "url": "https://glencore.com/fr/careers"
+      },
+      {
+        "title": "ES",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://glencore.com/en/careers/jobs"
+      },
+      {
+        "title": "Life at Glencore",
+        "url": "https://glencore.com/en/careers/life-at-glencore"
+      },
+      {
+        "title": "Career areas",
+        "url": "https://glencore.com/en/careers/career-areas"
+      },
+      {
+        "title": "How we hire",
+        "url": "https://glencore.com/en/careers/how-we-hire"
+      },
+      {
+        "title": "Early careers",
+        "url": "https://glencore.com/en/careers/early-careers"
+      },
+      {
+        "title": "Baar, Switzerland - Headquarters",
+        "url": "https://glencore.com/en/careers/early-careers/baar"
+      },
+      {
+        "title": "London, UK",
+        "url": "https://glencore.com/en/careers/early-careers/london"
+      },
+      {
+        "title": "USA",
+        "url": "https://glencore.com/en/careers/early-careers/usa"
+      },
+      {
+        "title": "Singapore",
+        "url": "https://glencore.com/en/careers/early-careers/singapore"
+      },
+      {
+        "title": "China",
+        "url": "https://glencore.com/en/careers/early-careers/china"
+      },
+      {
+        "title": "Africa copper",
+        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
+      },
+      {
+        "title": "South Africa",
+        "url": "https://glencore.com/en/careers/early-careers/south-africa"
+      },
+      {
+        "title": "Base metals north America",
+        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
+      },
+      {
+        "title": "Kazakhstan",
+        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -703,13 +1028,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -938,6 +1263,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Account Executive - Risk Managed EB (TRusT)",
+        "url": "https://www.munichre.com/en/job/toronto/account-executive-risk-managed-eb-trust/3342/39238510528"
+      },
+      {
         "title": "Compliance Manager",
         "url": "https://www.munichre.com/en/job/london/compliance-manager/3342/39233366976"
       },
@@ -948,10 +1277,6 @@
       {
         "title": "Regional Manager - London",
         "url": "https://www.munichre.com/en/job/london/regional-manager-london/3342/39158652992"
-      },
-      {
-        "title": "Green Solutions Underwriter",
-        "url": "https://www.munichre.com/en/job/london/green-solutions-underwriter/3342/38162830720"
       },
       {
         "title": "Find jobs",
@@ -1299,6 +1624,115 @@
     ]
   },
   {
+    "name": "Sanofi",
+    "website": "http://sanofi.com",
+    "career_page_url": "https://jobs.sanofi.com",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.sanofi.com"
+      },
+      {
+        "title": "Why Sanofi",
+        "url": "https://jobs.sanofi.com/why-join-sanofi"
+      },
+      {
+        "title": "Career Development",
+        "url": "https://jobs.sanofi.com/career-development"
+      },
+      {
+        "title": "Rewards & Benefits",
+        "url": "https://jobs.sanofi.com/rewards-and-benefits"
+      },
+      {
+        "title": "Culture & Values",
+        "url": "https://jobs.sanofi.com/culture-and-values"
+      },
+      {
+        "title": "Workplace Experience",
+        "url": "https://jobs.sanofi.com/workplace-experience"
+      },
+      {
+        "title": "Early Talent",
+        "url": "https://jobs.sanofi.com/early-talent"
+      },
+      {
+        "title": "Corporate Functions & Business Operations",
+        "url": "https://jobs.sanofi.com/corporate-functions-business-operations"
+      },
+      {
+        "title": "Digital",
+        "url": "https://jobs.sanofi.com/digital"
+      },
+      {
+        "title": "Digital Accelerator",
+        "url": "https://jobs.sanofi.com/en/digital-accelerator"
+      },
+      {
+        "title": "Engineering & Maintenance",
+        "url": "https://jobs.sanofi.com/engineering-and-maintenance"
+      },
+      {
+        "title": "Hubs",
+        "url": "https://jobs.sanofi.com/hubs"
+      },
+      {
+        "title": "Manufacturing & Supply",
+        "url": "https://jobs.sanofi.com/manufacturing-and-supply"
+      },
+      {
+        "title": "Marketing & Sales",
+        "url": "https://jobs.sanofi.com/marketing-and-sales"
+      },
+      {
+        "title": "Medical & Market Access",
+        "url": "https://jobs.sanofi.com/medical-market-access"
+      },
+      {
+        "title": "Quality",
+        "url": "https://jobs.sanofi.com/quality"
+      },
+      {
+        "title": "Regulatory Affairs",
+        "url": "https://jobs.sanofi.com/regulatory-affairs"
+      },
+      {
+        "title": "Research & Development",
+        "url": "https://jobs.sanofi.com/research-and-development"
+      },
+      {
+        "title": "Locations",
+        "url": "https://jobs.sanofi.com/locations"
+      },
+      {
+        "title": "Sanofi Stories",
+        "url": "https://jobs.sanofi.com/sanofi-stories"
+      },
+      {
+        "title": "Join Our Talent Community opens in a new tab",
+        "url": "https://talentcareers.sanofi.com/flows/candidateportal"
+      },
+      {
+        "title": "Your Saved Jobs",
+        "url": "https://jobs.sanofi.com/saved-jobs"
+      },
+      {
+        "title": "Search Jobs",
+        "url": "https://jobs.sanofi.com/en/search-jobs"
+      },
+      {
+        "title": "English",
+        "url": "https://jobs.sanofi.com/en"
+      },
+      {
+        "title": "Français",
+        "url": "https://jobs.sanofi.com/fr"
+      }
+    ]
+  },
+  {
     "name": "Sberbank",
     "website": "http://sberbank.com",
     "career_page_url": "http://sberbank.com/jobs",
@@ -1431,6 +1865,19 @@
       {
         "title": "Data and Technology",
         "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
+    "name": "ThyssenKrupp",
+    "website": "http://thyssenkrupp.com",
+    "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Logo",
+        "url": "https://jobs.thyssenkrupp.com/de"
       }
     ]
   },
