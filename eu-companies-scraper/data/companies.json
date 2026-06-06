@@ -1110,6 +1110,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
+      },
+      {
+        "title": "Growth & Digital Sales Expert",
+        "url": "https://careers.ing.com/en/job/warsaw/growth-and-digital-sales-expert/3120/39280840256"
+      },
+      {
         "title": "Devops Engineer (Rynki Finansowe / Treasury)",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
       },
@@ -1136,14 +1144,6 @@
       {
         "title": "Staż z Lwem - DevOps Enablement IT Team",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
-      },
-      {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
-        "title": "Expert - Data Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-data-analyst/3120/36302622784"
       }
     ]
   },
@@ -1263,20 +1263,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "P&C Product Manager (Auto & Marine)",
-        "url": "https://www.munichre.com/en/job/amelia/p-and-c-product-manager-auto-and-marine/3342/39213537024"
+        "title": "Actuarial Associate, Life & Health (2026 Permanent - Toronto)",
+        "url": "https://www.munichre.com/en/job/toronto/actuarial-associate-life-and-health-2026-permanent-toronto/3342/31297149504"
       },
       {
-        "title": "Engineer Surveyor - Portsmouth/Hampshire",
-        "url": "https://www.munichre.com/en/job/portsmouth/engineer-surveyor-portsmouth-hampshire/3342/37625284032"
+        "title": "Actuarial Associate, Biometric Research",
+        "url": "https://www.munichre.com/en/job/toronto/actuarial-associate-biometric-research/3342/36074167104"
       },
       {
-        "title": "Engineer Surveyor - London",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london/3342/37891960448"
+        "title": "Reinsurance Accounting & Claims Handling Analyst",
+        "url": "https://www.munichre.com/en/job/princeton/reinsurance-accounting-and-claims-handling-analyst/3342/38600127360"
       },
       {
-        "title": "Regional Manager - London",
-        "url": "https://www.munichre.com/en/job/london/regional-manager-london/3342/39158652992"
+        "title": "Corporate Finance Accountant Sr",
+        "url": "https://www.munichre.com/en/job/hartford/corporate-finance-accountant-sr/3342/38965864512"
       },
       {
         "title": "Find jobs",
@@ -2019,10 +2019,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
