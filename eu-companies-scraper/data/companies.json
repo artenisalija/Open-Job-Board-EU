@@ -478,61 +478,17 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/careers"
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Zur Seite: Jobs für Student:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
-      },
-      {
-        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
-      },
-      {
-        "title": "Zur Seite: Jobs für Fachkräfte",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
-      },
-      {
-        "title": "Verkehrs- und Logistik-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
-      },
-      {
-        "title": "Gewerblich-technische Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
-      },
-      {
-        "title": "Dienstleistungs- und Service-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
-      },
-      {
-        "title": "Zur Seite: Jobs für Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
-      },
-      {
-        "title": "Jobs für IT Professionals",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
-      },
-      {
-        "title": "Jobs für kaufmännische Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
-      },
-      {
-        "title": "Jobs für Ingenieur:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
-      },
-      {
-        "title": "Jobs für Führungskräfte in Management-Positionen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
-      },
-      {
-        "title": "Passenden Job finden",
-        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -887,15 +843,11 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SALTAR NAVEGACIÓN",
+        "title": "SKIP NAVIGATION",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
-        "url": "https://glencore.com/es/careers"
-      },
-      {
-        "title": "EN",
         "url": "https://glencore.com/en/careers"
       },
       {
@@ -903,60 +855,64 @@
         "url": "https://glencore.com/fr/careers"
       },
       {
+        "title": "ES",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
         "title": "Jobs",
-        "url": "https://glencore.com/es/careers/jobs"
+        "url": "https://glencore.com/en/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/es/careers/life-at-glencore"
+        "url": "https://glencore.com/en/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/es/careers/career-areas"
+        "url": "https://glencore.com/en/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/es/careers/how-we-hire"
+        "url": "https://glencore.com/en/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/es/careers/early-careers"
+        "url": "https://glencore.com/en/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/es/careers/early-careers/baar"
+        "url": "https://glencore.com/en/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/es/careers/early-careers/london"
+        "url": "https://glencore.com/en/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/es/careers/early-careers/usa"
+        "url": "https://glencore.com/en/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/es/careers/early-careers/singapore"
+        "url": "https://glencore.com/en/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/es/careers/early-careers/china"
+        "url": "https://glencore.com/en/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/es/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/es/careers/early-careers/south-africa"
+        "url": "https://glencore.com/en/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/es/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/es/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1072,13 +1028,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1307,10 +1263,6 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector Trainee - Bloomington, IL",
-        "url": "https://www.munichre.com/en/job/bloomington/inspector-trainee-bloomington-il/3342/37384693696"
-      },
-      {
         "title": "Actuarial Associate, Life & Health (2026 Permanent - Toronto)",
         "url": "https://www.munichre.com/en/job/toronto/actuarial-associate-life-and-health-2026-permanent-toronto/3342/31297149504"
       },
@@ -1321,6 +1273,10 @@
       {
         "title": "Reinsurance Accounting & Claims Handling Analyst",
         "url": "https://www.munichre.com/en/job/princeton/reinsurance-accounting-and-claims-handling-analyst/3342/38600127360"
+      },
+      {
+        "title": "Corporate Finance Accountant Sr",
+        "url": "https://www.munichre.com/en/job/hartford/corporate-finance-accountant-sr/3342/38965864512"
       },
       {
         "title": "Find jobs",
