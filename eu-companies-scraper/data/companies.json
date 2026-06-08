@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1102,6 +1102,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Specialist - Sales & Advisory",
+        "url": "https://careers.ing.com/en/job/olsztyn/specialist-sales-and-advisory/3120/39385385600"
+      },
+      {
+        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
+      },
+      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       },
@@ -1128,14 +1136,6 @@
       {
         "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
-      },
-      {
-        "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       }
     ]
   },
