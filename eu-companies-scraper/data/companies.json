@@ -478,17 +478,61 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "career_page_url": "https://www.deutschebahn.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+        "url": "https://www.deutschebahn.com/careers"
       },
       {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+        "title": "Zur Seite: Jobs für Student:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
+      },
+      {
+        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
+      },
+      {
+        "title": "Zur Seite: Jobs für Fachkräfte",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
+      },
+      {
+        "title": "Verkehrs- und Logistik-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
+      },
+      {
+        "title": "Gewerblich-technische Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
+      },
+      {
+        "title": "Dienstleistungs- und Service-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
+      },
+      {
+        "title": "Zur Seite: Jobs für Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
+      },
+      {
+        "title": "Jobs für IT Professionals",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
+      },
+      {
+        "title": "Jobs für kaufmännische Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
+      },
+      {
+        "title": "Jobs für Ingenieur:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
+      },
+      {
+        "title": "Jobs für Führungskräfte in Management-Positionen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
+      },
+      {
+        "title": "Passenden Job finden",
+        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
       }
     ]
   },
@@ -1020,13 +1064,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ve/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ve/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1102,6 +1146,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
+      },
+      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       },
@@ -1132,10 +1180,6 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
-        "title": "Staż z Lwem - DevOps Enablement IT Team",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       }
     ]
   },
@@ -1255,20 +1299,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Business Intelligence Requirements Engineer (m/f/d)* Pricing & ESG",
-        "url": "https://www.munichre.com/en/job/munich/business-intelligence-requirements-engineer-m-f-d-pricing-and-esg/3342/39155910016"
+        "title": "Project Manager - Business Strategy & Operations (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-business-strategy-and-operations-m-f-d/3342/39416305984"
       },
       {
-        "title": "Business Development Manager - Midlands",
-        "url": "https://www.munichre.com/en/job/coventry/business-development-manager-midlands/3342/33913479296"
+        "title": "Senior Director / Client Relationship & Risk Manager - Commercial Real Estate (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/senior-director-client-relationship-and-risk-manager-commercial-real-estate-m-f-d/3342/38954243264"
       },
       {
-        "title": "Consultant Procurement Financial Performance (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/consultant-procurement-financial-performance-m-f-d/3342/39147347840"
+        "title": "Actuarial Intern - Valuation, Life and Health",
+        "url": "https://www.munichre.com/en/job/beijing/actuarial-intern-valuation-life-and-health/3342/39334321024"
       },
       {
-        "title": "P&C Product Manager (Auto & Marine)",
-        "url": "https://www.munichre.com/en/job/amelia/p-and-c-product-manager-auto-and-marine/3342/39213537024"
+        "title": "Senior Actuarial Analyst, Munich Re Retakaful",
+        "url": "https://www.munichre.com/en/job/kuala-lumpur/senior-actuarial-analyst-munich-re-retakaful/3342/37061907520"
       },
       {
         "title": "Find jobs",
@@ -1808,59 +1852,6 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
-      }
-    ]
-  },
-  {
-    "name": "Swiss Re",
-    "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/en/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Content",
-        "url": "https://www.swissre.com/en/careers"
-      },
-      {
-        "title": "Policies and statements",
-        "url": "https://www.swissre.com/sustainability/position-statements.html"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.swissre.com/careers.html"
-      },
-      {
-        "title": "Search Swiss Re Careers",
-        "url": "https://www.swissre.com/careers/jobSearch.html"
-      },
-      {
-        "title": "Europe, Middle East and Africa",
-        "url": "https://www.swissre.com/careers/emea-careers.html"
-      },
-      {
-        "title": "Asia Pacific",
-        "url": "https://www.swissre.com/careers/apac-careers.html"
-      },
-      {
-        "title": "Americas",
-        "url": "https://www.swissre.com/careers/americas-careers.html"
-      },
-      {
-        "title": "Early Talent Opportunities",
-        "url": "https://www.swissre.com/careers/early-talent.html"
-      },
-      {
-        "title": "Career Returnees at Swiss Re",
-        "url": "https://www.swissre.com/careers/career-returnees.html"
-      },
-      {
-        "title": "Working at Swiss Re",
-        "url": "https://www.swissre.com/careers/working-at-swissre.html"
-      },
-      {
-        "title": "Data and Technology",
-        "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
   },
