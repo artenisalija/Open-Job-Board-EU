@@ -478,61 +478,17 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/careers"
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Zur Seite: Jobs für Student:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
-      },
-      {
-        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
-      },
-      {
-        "title": "Zur Seite: Jobs für Fachkräfte",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
-      },
-      {
-        "title": "Verkehrs- und Logistik-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
-      },
-      {
-        "title": "Gewerblich-technische Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
-      },
-      {
-        "title": "Dienstleistungs- und Service-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
-      },
-      {
-        "title": "Zur Seite: Jobs für Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
-      },
-      {
-        "title": "Jobs für IT Professionals",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
-      },
-      {
-        "title": "Jobs für kaufmännische Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
-      },
-      {
-        "title": "Jobs für Ingenieur:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
-      },
-      {
-        "title": "Jobs für Führungskräfte in Management-Positionen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
-      },
-      {
-        "title": "Passenden Job finden",
-        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1064,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1852,6 +1808,59 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
+      }
+    ]
+  },
+  {
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com",
+    "career_page_url": "https://www.swissre.com/en/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content",
+        "url": "https://www.swissre.com/en/careers"
+      },
+      {
+        "title": "Policies and statements",
+        "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.swissre.com/careers.html"
+      },
+      {
+        "title": "Search Swiss Re Careers",
+        "url": "https://www.swissre.com/careers/jobSearch.html"
+      },
+      {
+        "title": "Europe, Middle East and Africa",
+        "url": "https://www.swissre.com/careers/emea-careers.html"
+      },
+      {
+        "title": "Asia Pacific",
+        "url": "https://www.swissre.com/careers/apac-careers.html"
+      },
+      {
+        "title": "Americas",
+        "url": "https://www.swissre.com/careers/americas-careers.html"
+      },
+      {
+        "title": "Early Talent Opportunities",
+        "url": "https://www.swissre.com/careers/early-talent.html"
+      },
+      {
+        "title": "Career Returnees at Swiss Re",
+        "url": "https://www.swissre.com/careers/career-returnees.html"
+      },
+      {
+        "title": "Working at Swiss Re",
+        "url": "https://www.swissre.com/careers/working-at-swissre.html"
+      },
+      {
+        "title": "Data and Technology",
+        "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
   },
