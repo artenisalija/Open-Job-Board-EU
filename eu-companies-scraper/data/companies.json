@@ -1020,13 +1020,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ve/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ve/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1102,10 +1102,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w obszarze testów w Tribe Platform Bankowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-testow-w-tribe-platform-bankowych/3120/36244492736"
-      },
-      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       },
@@ -1136,6 +1132,10 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
+        "title": "Staż z Lwem - DevOps Enablement IT Team",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-devops-enablement-it-team/3120/36491312704"
       }
     ]
   },
@@ -1255,20 +1255,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Business Intelligence Requirements Engineer (m/f/d)* Pricing & ESG",
+        "url": "https://www.munichre.com/en/job/munich/business-intelligence-requirements-engineer-m-f-d-pricing-and-esg/3342/39155910016"
+      },
+      {
+        "title": "Business Development Manager - Midlands",
+        "url": "https://www.munichre.com/en/job/coventry/business-development-manager-midlands/3342/33913479296"
+      },
+      {
+        "title": "Consultant Procurement Financial Performance (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/consultant-procurement-financial-performance-m-f-d/3342/39147347840"
+      },
+      {
         "title": "P&C Product Manager (Auto & Marine)",
         "url": "https://www.munichre.com/en/job/amelia/p-and-c-product-manager-auto-and-marine/3342/39213537024"
-      },
-      {
-        "title": "Engineer Surveyor - Aberdeen",
-        "url": "https://www.munichre.com/en/job/aberdeen/engineer-surveyor-aberdeen/3342/38973296128"
-      },
-      {
-        "title": "Underwriting intern - Underwriting & Claims, Life and Health",
-        "url": "https://www.munichre.com/en/job/beijing/underwriting-intern-underwriting-and-claims-life-and-health/3342/39334321280"
-      },
-      {
-        "title": "Life SoA intern - Experience Study, Life and Health",
-        "url": "https://www.munichre.com/en/job/beijing/life-soa-intern-experience-study-life-and-health/3342/39334321216"
       },
       {
         "title": "Find jobs",
@@ -1814,17 +1814,21 @@
   {
     "name": "Swiss Re",
     "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/careers.html",
+    "career_page_url": "https://www.swissre.com/en/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Content",
-        "url": "https://www.swissre.com/careers.html"
+        "url": "https://www.swissre.com/en/careers"
       },
       {
         "title": "Policies and statements",
         "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.swissre.com/careers.html"
       },
       {
         "title": "Search Swiss Re Careers",
