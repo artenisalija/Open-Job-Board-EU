@@ -1024,13 +1024,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1263,16 +1263,16 @@
         "url": "https://www.munichre.com/en/job/london/project-manager-strategic-delivery/3342/39487360256"
       },
       {
-        "title": "Territory Sales Manager",
-        "url": "https://www.munichre.com/en/job/amelia/territory-sales-manager/3342/39485091776"
+        "title": "Werkstudent Change & Projekt Management Support - New Work (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/werkstudent-change-and-projekt-management-support-new-work-m-w-d/3342/38072437056"
       },
       {
-        "title": "Specialist: Technical Actuarial Support",
-        "url": "https://www.munichre.com/en/job/toronto/specialist-technical-actuarial-support/3342/39484342912"
+        "title": "Intern - Cyber Actuarial Services and Data Analytics (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-cyber-actuarial-services-and-data-analytics-m-f-d/3342/37612638208"
       },
       {
-        "title": "Head of Portfolio Underwriting",
-        "url": "https://www.munichre.com/en/job/hartford/head-of-portfolio-underwriting/3342/39478196544"
+        "title": "Actuarial Analyst",
+        "url": "https://www.munichre.com/en/job/mumbai/actuarial-analyst/3342/39494309312"
       },
       {
         "title": "Find jobs",
@@ -2023,10 +2023,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
