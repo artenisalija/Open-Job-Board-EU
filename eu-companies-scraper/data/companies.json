@@ -122,10 +122,6 @@
         "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
       },
       {
-        "title": "Composite Technician Mobile Area, AL 12 March 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Composite-Technician-I_JR10381830"
-      },
-      {
         "title": "Integration and ITCOMs Engineer Immenstaad am Bodensee 08 April 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Immenstaad-am-Bodensee/Integration-and-ITCOMs-Engineer--d-f-m-_JR10348910?q=f0682a678faf"
       },
@@ -184,6 +180,10 @@
       {
         "title": "Meet Immanuel Meet Immanuel, Wing Structures Design Engineer at Airbus in Filton, United Kingdom",
         "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-immanuel"
+      },
+      {
+        "title": "Meet Henrik Meet Henrik, A320 Equipment Installation First Line Manager at Airbus in Hamburg, Germany",
+        "url": "https://airbus.com/en/careers/life-at-airbus/airbus-faces/meet-henrik"
       }
     ]
   },
@@ -1088,13 +1088,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1323,20 +1323,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - London - Cat 3",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london-cat-3/3342/37891960448"
-      },
-      {
-        "title": "Engineer Surveyor - London - Cat 2",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london-cat-2/3342/38475580352"
-      },
-      {
-        "title": "Customer Success Manager - REALYTIX ZERO (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/customer-success-manager-realytix-zero-m-f-d/3342/39185503744"
-      },
-      {
         "title": "Head of Transportation (Underwriting)",
         "url": "https://www.munichre.com/en/job/london/head-of-transportation-underwriting/3342/38331028032"
+      },
+      {
+        "title": "Program Business Development Manager",
+        "url": "https://www.munichre.com/en/job/hartford/program-business-development-manager/3342/39542400128"
+      },
+      {
+        "title": "Claims Governance Manager",
+        "url": "https://www.munichre.com/en/job/london/claims-governance-manager/3342/39370043904"
+      },
+      {
+        "title": "CTI-Authorized Inspector for Sweden",
+        "url": "https://www.munichre.com/en/job/manchester/cti-authorized-inspector-for-sweden/3342/38354647616"
       },
       {
         "title": "Find jobs",
