@@ -297,14 +297,6 @@
     ]
   },
   {
-    "name": "Axa",
-    "website": "https://www.axa.com",
-    "career_page_url": "https://www.axa.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Banco Santander",
     "website": "https://santander.com",
     "career_page_url": "https://www.santander.com/en/careers",
@@ -1323,20 +1315,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Head of Portfolio Underwriting",
+        "url": "https://www.munichre.com/en/job/hartford/head-of-portfolio-underwriting/3342/39478196544"
+      },
+      {
+        "title": "Inspector - Lacrosse, WI",
+        "url": "https://www.munichre.com/en/job/la-crosse/inspector-lacrosse-wi/3342/39427668032"
+      },
+      {
+        "title": "Specialist: Technical Actuarial Support",
+        "url": "https://www.munichre.com/en/job/toronto/specialist-technical-actuarial-support/3342/39484342912"
+      },
+      {
         "title": "Strategic HR Business Partner (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/strategic-hr-business-partner-m-f-d/3342/39509761920"
-      },
-      {
-        "title": "Inspector - Phoenix, Arizona",
-        "url": "https://www.munichre.com/en/job/phoenix/inspector-phoenix-arizona/3342/37618942720"
-      },
-      {
-        "title": "Specialty Claims Associate",
-        "url": "https://www.munichre.com/en/job/princeton/specialty-claims-associate/3342/39547644352"
-      },
-      {
-        "title": "Senior IT Risk Officer",
-        "url": "https://www.munichre.com/en/job/hartford/senior-it-risk-officer/3342/39205882176"
       },
       {
         "title": "Find jobs",
@@ -1501,20 +1493,7 @@
     "career_page_url": "https://www.renaultgroup.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "View our offers",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Repsol",
