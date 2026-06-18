@@ -421,6 +421,39 @@
     ]
   },
   {
+    "name": "Bosch",
+    "website": "https://www.bosch.com",
+    "career_page_url": "https://www.bosch.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.bosch.com/careers"
+      },
+      {
+        "title": "Overview",
+        "url": "https://www.bosch.com/careers/why-bosch"
+      },
+      {
+        "title": "Benefits",
+        "url": "https://www.bosch.com/careers/why-bosch/benefits"
+      },
+      {
+        "title": "Associate stories",
+        "url": "https://www.bosch.com/careers/why-bosch/associate-stories"
+      },
+      {
+        "title": "Career opportunities",
+        "url": "https://www.bosch.com/careers/career-opportunities"
+      },
+      {
+        "title": "Fields of work",
+        "url": "https://www.bosch.com/careers/fields-of-work"
+      }
+    ]
+  },
+  {
     "name": "Chubb",
     "website": "https://chubb.com",
     "career_page_url": "https://chubb.com/careers",
@@ -1430,7 +1463,16 @@
     "career_page_url": "https://www.omv.com/en/career/grow-with-us",
     "country_of_origin": "Austria",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Jobboard",
+        "url": "https://www.omv.com/en/career/grow-with-us/jobboard"
+      },
+      {
+        "title": "Job stories",
+        "url": "https://www.omv.com/en/career/work-with-us/job-stories"
+      }
+    ]
   },
   {
     "name": "Orange S.A.",
