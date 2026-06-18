@@ -421,39 +421,6 @@
     ]
   },
   {
-    "name": "Bosch",
-    "website": "https://www.bosch.com",
-    "career_page_url": "https://www.bosch.com/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.bosch.com/careers"
-      },
-      {
-        "title": "Overview",
-        "url": "https://www.bosch.com/careers/why-bosch"
-      },
-      {
-        "title": "Benefits",
-        "url": "https://www.bosch.com/careers/why-bosch/benefits"
-      },
-      {
-        "title": "Associate stories",
-        "url": "https://www.bosch.com/careers/why-bosch/associate-stories"
-      },
-      {
-        "title": "Career opportunities",
-        "url": "https://www.bosch.com/careers/career-opportunities"
-      },
-      {
-        "title": "Fields of work",
-        "url": "https://www.bosch.com/careers/fields-of-work"
-      }
-    ]
-  },
-  {
     "name": "Chubb",
     "website": "https://chubb.com",
     "career_page_url": "https://chubb.com/careers",
@@ -1186,10 +1153,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
       },
       {
-        "title": "Ekspert_ka - Administrator_ka Sieci",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
-      },
-      {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       },
@@ -1200,6 +1163,10 @@
       {
         "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
+      },
+      {
+        "title": "Ekspert_ka - Administrator_ka Sieci",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
         "title": "Expert Developer Engineer",
@@ -1323,20 +1290,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - London - Cat 2",
-        "url": "https://www.munichre.com/en/job/enfield/engineer-surveyor-london-cat-2/3342/38475580352"
+        "title": "Operational Resilience & Vendor Management Specialist",
+        "url": "https://www.munichre.com/en/job/manchester/operational-resilience-and-vendor-management-specialist/3342/38434077632"
       },
       {
-        "title": "Financial Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/financial-analyst/3342/39743010688"
+        "title": "Data Engineer",
+        "url": "https://www.munichre.com/en/job/birkenhead/data-engineer/3342/39551102464"
       },
       {
-        "title": "Marketing Business Partner",
-        "url": "https://www.munichre.com/en/job/london/marketing-business-partner/3342/39743010624"
+        "title": "EU/LA Regional Physical Security Manager (m/f/d*)",
+        "url": "https://www.munichre.com/en/job/bogota/eu-la-regional-physical-security-manager-m-f-d/3342/39717130048"
       },
       {
-        "title": "Financial Systems Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/financial-systems-analyst/3342/39743009984"
+        "title": "Bordereaux Analyst",
+        "url": "https://www.munichre.com/en/job/london/bordereaux-analyst/3342/39697017856"
       },
       {
         "title": "Find jobs",
@@ -1463,16 +1430,7 @@
     "career_page_url": "https://www.omv.com/en/career/grow-with-us",
     "country_of_origin": "Austria",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Jobboard",
-        "url": "https://www.omv.com/en/career/grow-with-us/jobboard"
-      },
-      {
-        "title": "Job stories",
-        "url": "https://www.omv.com/en/career/work-with-us/job-stories"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Orange S.A.",
