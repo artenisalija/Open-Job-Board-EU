@@ -1088,13 +1088,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1170,10 +1170,6 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Menadżer / Menadżerka Zespołu Doradców Klienta Biznesowego",
-        "url": "https://careers.ing.com/en/job/bielsko-biala/menadzer-menadzerka-zespo%c5%82u-doradcow-klienta-biznesowego/3120/39821286336"
-      },
-      {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       },
@@ -1204,6 +1200,10 @@
       {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
+      },
+      {
+        "title": "Expert Developer Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
       }
     ]
   },
