@@ -102,8 +102,8 @@
         "url": "https://www.airbus.com/en/careers/belfast"
       },
       {
-        "title": "Hiring now: Production roles in North Wales To support our growing order book, we're hiring at our Broughton site. Find your future in pioneering aerospace with Airbus.",
-        "url": "https://www.airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/opportunities-in-production-in-broughton"
+        "title": "Register your interest: UK Apprenticeships To support our growing business, we're hiring apprentices to join us in September 2027. Find out more and sign up for alerts.",
+        "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom"
       },
       {
         "title": "Graduate Programme in Spain: Applications open! Graduating in 2025? Kick-start your career in Engineering, Finance, HR, Digital, Legal & more — this is your moment!",
@@ -1080,13 +1080,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1174,10 +1174,6 @@
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
       },
       {
-        "title": "Expert DevOps Engineer - Cloud Data Platform",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer-cloud-data-platform/3120/38117057088"
-      },
-      {
         "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       },
@@ -1186,16 +1182,20 @@
         "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       },
       {
-        "title": "Starszy_a Ekspert_ka w Departamencie Skarbu",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-ekspert-ka-w-departamencie-skarbu/3120/36531664448"
-      },
-      {
         "title": "Ekspert_ka - Administrator_ka Sieci",
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
         "title": "Expert Developer Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
+      },
+      {
+        "title": "HR Business Partner",
+        "url": "https://careers.ing.com/en/job/warsaw/hr-business-partner/3120/38953760960"
+      },
+      {
+        "title": "Software Developer (React / Java)",
+        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
       }
     ]
   },
@@ -1315,20 +1315,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Cyber and Tech Risk UW SR",
-        "url": "https://www.munichre.com/en/job/hartford/cyber-and-tech-risk-uw-sr/3342/36593990336"
+        "title": "International Graduate Trainee - focus on AI Implementation (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-ai-implementation-m-f-d/3342/39926588800"
       },
       {
-        "title": "MRSGM NA Account Manager, Commercial Insurance",
-        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-account-manager-commercial-insurance/3342/39393081600"
+        "title": "Internship Quantitative Investment Strategies (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-quantitative-investment-strategies-m-f-d/3342/39809299328"
       },
       {
-        "title": "MRSGM NA Associate Account Manager Commercial Insurance",
-        "url": "https://www.munichre.com/en/job/long-beach/mrsgm-na-associate-account-manager-commercial-insurance/3342/37133424640"
+        "title": "Praktikum Governance & Prozess Dokumentation (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-governance-and-prozess-dokumentation-m-f-d/3342/36305935872"
       },
       {
-        "title": "Legal Claims Manager (m/f/d*) - Munich RE do Brasil",
-        "url": "https://www.munichre.com/en/job/sao-paulo/legal-claims-manager-m-f-d-munich-re-do-brasil/3342/39832936384"
+        "title": "HR Services Administrator EU/LA",
+        "url": "https://www.munichre.com/en/job/manchester/hr-services-administrator-eu-la/3342/39672085440"
       },
       {
         "title": "Find jobs",
