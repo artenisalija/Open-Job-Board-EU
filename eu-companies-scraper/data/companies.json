@@ -627,31 +627,6 @@
     "jobs": []
   },
   {
-    "name": "EnBW",
-    "website": "https://www.enbw.com",
-    "career_page_url": "https://www.enbw.com/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Entry-level and specialist positions",
-        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
-      },
-      {
-        "title": "Vacancies for university students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
-      },
-      {
-        "title": "Vacancies for high school and vocational students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
-      },
-      {
-        "title": "Onboarding",
-        "url": "https://www.enbw.com/career/apply/onboarding"
-      }
-    ]
-  },
-  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/company/join-us",
@@ -1166,16 +1141,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Staż z Lwem w zespole komunikacji marketingowej z Gen Z & Alfa",
-        "url": "https://careers.ing.com/en/job/katowice/staz-z-lwem-w-zespole-komunikacji-marketingowej-z-gen-z-and-alfa/3120/39962526400"
+        "title": "Expert DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
       },
       {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
-      },
-      {
-        "title": "Growth & Digital Sales Expert",
-        "url": "https://careers.ing.com/en/job/warsaw/growth-and-digital-sales-expert/3120/39280840256"
       },
       {
         "title": "Devops Engineer (Rynki Finansowe / Treasury)",
@@ -1194,12 +1165,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
       },
       {
-        "title": "Expert Developer Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-developer-engineer/3120/36302622912"
-      },
-      {
         "title": "HR Business Partner",
         "url": "https://careers.ing.com/en/job/warsaw/hr-business-partner/3120/38953760960"
+      },
+      {
+        "title": "Software Developer (React / Java)",
+        "url": "https://careers.ing.com/en/job/warsaw/software-developer-react-java/3120/35816534656"
+      },
+      {
+        "title": "International Talent Programme (ITP) – Retail Banking",
+        "url": "https://careers.ing.com/en/job/warsaw/international-talent-programme-itp-retail-banking/3120/38846886720"
       }
     ]
   },
@@ -1319,20 +1294,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Bordereaux Analyst",
-        "url": "https://www.munichre.com/en/job/london/bordereaux-analyst/3342/39697017856"
+        "title": "Intern Operations & Process Automation - Credit Underwriting (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-operations-and-process-automation-credit-underwriting-m-f-d/3342/40009441920"
       },
       {
-        "title": "HR Services Administrator EU/LA",
-        "url": "https://www.munichre.com/en/job/manchester/hr-services-administrator-eu-la/3342/39672085440"
+        "title": "Studentischer Mitarbeiter im Bereich Life Underwriting Risikoprüfung (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/studentischer-mitarbeiter-im-bereich-life-underwriting-risikoprufung-m-f-d/3342/40009441216"
       },
       {
-        "title": "Client Relation Risk Manager (m/f/d)* in Structured Portfolio Solutions",
-        "url": "https://www.munichre.com/en/job/munich/client-relation-risk-manager-m-f-d-in-structured-portfolio-solutions/3342/39818500096"
+        "title": "Specialty Claims Associate",
+        "url": "https://www.munichre.com/en/job/princeton/specialty-claims-associate/3342/39547644352"
       },
       {
-        "title": "Faculative & Corporate Analytics and Reporting - Intern (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/faculative-and-corporate-analytics-and-reporting-intern-m-f-d/3342/39152319232"
+        "title": "Project Manager, Strategic Delivery",
+        "url": "https://www.munichre.com/en/job/london/project-manager-strategic-delivery/3342/40009440000"
       },
       {
         "title": "Find jobs",
@@ -1876,59 +1851,6 @@
       {
         "title": "IT",
         "url": "https://www.stellantis.com/it/careers"
-      }
-    ]
-  },
-  {
-    "name": "Swiss Re",
-    "website": "https://www.swissre.com",
-    "career_page_url": "https://www.swissre.com/en/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Content",
-        "url": "https://www.swissre.com/en/careers"
-      },
-      {
-        "title": "Policies and statements",
-        "url": "https://www.swissre.com/sustainability/position-statements.html"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.swissre.com/careers.html"
-      },
-      {
-        "title": "Search Swiss Re Careers",
-        "url": "https://www.swissre.com/careers/jobSearch.html"
-      },
-      {
-        "title": "Europe, Middle East and Africa",
-        "url": "https://www.swissre.com/careers/emea-careers.html"
-      },
-      {
-        "title": "Asia Pacific",
-        "url": "https://www.swissre.com/careers/apac-careers.html"
-      },
-      {
-        "title": "Americas",
-        "url": "https://www.swissre.com/careers/americas-careers.html"
-      },
-      {
-        "title": "Early Talent Opportunities",
-        "url": "https://www.swissre.com/careers/early-talent.html"
-      },
-      {
-        "title": "Career Returnees at Swiss Re",
-        "url": "https://www.swissre.com/careers/career-returnees.html"
-      },
-      {
-        "title": "Working at Swiss Re",
-        "url": "https://www.swissre.com/careers/working-at-swissre.html"
-      },
-      {
-        "title": "Data and Technology",
-        "url": "https://www.swissre.com/careers/it-careers.html"
       }
     ]
   },
