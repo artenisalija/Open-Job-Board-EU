@@ -463,48 +463,7 @@
     "career_page_url": "https://continental.com/en/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://continental.com/en/career"
-      },
-      {
-        "title": "Job Portal",
-        "url": "https://jobs.continental.com/en"
-      },
-      {
-        "title": "Our Range of Jobs",
-        "url": "https://continental.com/en/career/our-range-of-jobs"
-      },
-      {
-        "title": "Software Engineering and System Engineering",
-        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
-      },
-      {
-        "title": "Operating",
-        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
-      },
-      {
-        "title": "Quality",
-        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
-      },
-      {
-        "title": "IT and Cybersecurity",
-        "url": "https://continental.com/en/career/our-range-of-jobs/it"
-      },
-      {
-        "title": "Sales",
-        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
-      },
-      {
-        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
-        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
-      },
-      {
-        "title": "Jobs & Careers",
-        "url": "https://continental.com/en/career/contact-faqs/contact"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Daimler Truck",
@@ -899,16 +858,16 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SAUTER LA NAVIGATION",
+        "title": "SKIP NAVIGATION",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
-        "url": "https://glencore.com/fr/careers"
+        "url": "https://glencore.com/en/careers"
       },
       {
-        "title": "EN",
-        "url": "https://glencore.com/en/careers"
+        "title": "FR",
+        "url": "https://glencore.com/fr/careers"
       },
       {
         "title": "ES",
@@ -916,59 +875,59 @@
       },
       {
         "title": "Jobs",
-        "url": "https://glencore.com/fr/careers/jobs"
+        "url": "https://glencore.com/en/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/fr/careers/life-at-glencore"
+        "url": "https://glencore.com/en/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/fr/careers/career-areas"
+        "url": "https://glencore.com/en/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/fr/careers/how-we-hire"
+        "url": "https://glencore.com/en/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/fr/careers/early-careers"
+        "url": "https://glencore.com/en/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/fr/careers/early-careers/baar"
+        "url": "https://glencore.com/en/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/fr/careers/early-careers/london"
+        "url": "https://glencore.com/en/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/fr/careers/early-careers/usa"
+        "url": "https://glencore.com/en/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/fr/careers/early-careers/singapore"
+        "url": "https://glencore.com/en/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/fr/careers/early-careers/china"
+        "url": "https://glencore.com/en/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/fr/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/fr/careers/early-careers/south-africa"
+        "url": "https://glencore.com/en/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/fr/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/fr/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1319,20 +1278,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - Glasgow",
-        "url": "https://www.munichre.com/en/job/glasgow/engineer-surveyor-glasgow/3342/38973296000"
+        "title": "Global Safety Specialist",
+        "url": "https://www.munichre.com/en/job/jubail/global-safety-specialist/3342/39962445120"
       },
       {
-        "title": "Engineer Surveyor - Preston",
-        "url": "https://www.munichre.com/en/job/preston/engineer-surveyor-preston/3342/38973296512"
+        "title": "Working Student IT Project Management in Business Solutions - Public Markets Back (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/working-student-it-project-management-in-business-solutions-public-markets-back-m-f-d/3342/39736968832"
       },
       {
-        "title": "Engineer Surveyor Leicester",
-        "url": "https://www.munichre.com/en/job/leicester/engineer-surveyor-leicester/3342/38973296448"
+        "title": "Intern for Governance / Reporting, Compliance in Group Technology (IT) Munich Re (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-for-governance-reporting-compliance-in-group-technology-it-munich-re-m-f-d/3342/39740283840"
       },
       {
-        "title": "Engineer Surveyor - Aberdeen",
-        "url": "https://www.munichre.com/en/job/aberdeen/engineer-surveyor-aberdeen/3342/38973296128"
+        "title": "Accounts Receivable Administrator",
+        "url": "https://www.munichre.com/en/job/manchester/accounts-receivable-administrator/3342/39195125184"
       },
       {
         "title": "Find jobs",
@@ -2087,39 +2046,6 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Vitol",
-    "website": "http://vitol.com",
-    "career_page_url": "https://www.vitol.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vitol.com/careers"
-      },
-      {
-        "title": "Early Careers in London",
-        "url": "https://www.vitol.com/vitol-early-careers"
-      },
-      {
-        "title": "Apply for role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063486309-full-stack-net-react-developer-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000063024819-commercial-analyst-entry-level-position-"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000062381235-software-engineer-in-data-science"
-      },
-      {
-        "title": "Find out more here",
-        "url": "https://www.vitol.com/vitol-early-careers/?utm_source=vitol.com&utm_medium=Website&utm_id=Early+Careers+hiring+initiative_VitolCareersPage"
-      }
-    ]
   },
   {
     "name": "Vodafone",
