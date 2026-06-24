@@ -627,6 +627,31 @@
     "jobs": []
   },
   {
+    "name": "EnBW",
+    "website": "https://www.enbw.com",
+    "career_page_url": "https://www.enbw.com/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Entry-level and specialist positions",
+        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
+      },
+      {
+        "title": "Vacancies for university students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
+      },
+      {
+        "title": "Vacancies for high school and vocational students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
+      },
+      {
+        "title": "Onboarding",
+        "url": "https://www.enbw.com/career/apply/onboarding"
+      }
+    ]
+  },
+  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/company/join-us",
@@ -874,11 +899,15 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SKIP NAVIGATION",
+        "title": "SALTAR NAVEGACIÓN",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
+        "title": "EN",
         "url": "https://glencore.com/en/careers"
       },
       {
@@ -886,64 +915,60 @@
         "url": "https://glencore.com/fr/careers"
       },
       {
-        "title": "ES",
-        "url": "https://glencore.com/es/careers"
-      },
-      {
         "title": "Jobs",
-        "url": "https://glencore.com/en/careers/jobs"
+        "url": "https://glencore.com/es/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/en/careers/life-at-glencore"
+        "url": "https://glencore.com/es/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/en/careers/career-areas"
+        "url": "https://glencore.com/es/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/en/careers/how-we-hire"
+        "url": "https://glencore.com/es/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/en/careers/early-careers"
+        "url": "https://glencore.com/es/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/en/careers/early-careers/baar"
+        "url": "https://glencore.com/es/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/en/careers/early-careers/london"
+        "url": "https://glencore.com/es/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/en/careers/early-careers/usa"
+        "url": "https://glencore.com/es/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/en/careers/early-careers/singapore"
+        "url": "https://glencore.com/es/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/en/careers/early-careers/china"
+        "url": "https://glencore.com/es/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/es/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/en/careers/early-careers/south-africa"
+        "url": "https://glencore.com/es/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/es/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/es/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1059,13 +1084,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1294,20 +1319,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Intern Operations & Process Automation - Credit Underwriting (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-operations-and-process-automation-credit-underwriting-m-f-d/3342/40009441920"
+        "title": "HR Services Administrator EU/LA",
+        "url": "https://www.munichre.com/en/job/manchester/hr-services-administrator-eu-la/3342/39672085440"
       },
       {
-        "title": "Studentischer Mitarbeiter im Bereich Life Underwriting Risikoprüfung (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/studentischer-mitarbeiter-im-bereich-life-underwriting-risikoprufung-m-f-d/3342/40009441216"
+        "title": "Authorized Nuclear Inspector",
+        "url": "https://www.munichre.com/en/job/boston/authorized-nuclear-inspector/3342/31297150592"
       },
       {
-        "title": "Specialty Claims Associate",
-        "url": "https://www.munichre.com/en/job/princeton/specialty-claims-associate/3342/39547644352"
+        "title": "Project Manager - Business Strategy & Operations (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/project-manager-business-strategy-and-operations-m-f-d/3342/39416305984"
       },
       {
-        "title": "Project Manager, Strategic Delivery",
-        "url": "https://www.munichre.com/en/job/london/project-manager-strategic-delivery/3342/40009440000"
+        "title": "Senior Client Accounts Technician",
+        "url": "https://www.munichre.com/en/job/london/senior-client-accounts-technician/3342/39010648064"
       },
       {
         "title": "Find jobs",
