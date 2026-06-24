@@ -174,8 +174,8 @@
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Ulm/Information-Technology-Security-Officer--m-w-d-_JR10374010?q=f0682a678faf"
       },
       {
-        "title": "Security Performance and Improvement Getafe, Madrid 16 June 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/Security-Performance-and-Improvement_JR10421060?locationCountry=bd34c524a6a04ae6915f5d96fa086199"
+        "title": "Senior Buyer Belfast 24 June 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Belfast/Senior-Buyer_JR10410142?locations=cc150e06c3a6100142d3387e29290000"
       },
       {
         "title": "Dev Ops Engineer Bucharest 10 June 2026",
@@ -463,7 +463,48 @@
     "career_page_url": "https://continental.com/en/career",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://continental.com/en/career"
+      },
+      {
+        "title": "Job Portal",
+        "url": "https://jobs.continental.com/en"
+      },
+      {
+        "title": "Our Range of Jobs",
+        "url": "https://continental.com/en/career/our-range-of-jobs"
+      },
+      {
+        "title": "Software Engineering and System Engineering",
+        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
+      },
+      {
+        "title": "Operating",
+        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
+      },
+      {
+        "title": "Quality",
+        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
+      },
+      {
+        "title": "IT and Cybersecurity",
+        "url": "https://continental.com/en/career/our-range-of-jobs/it"
+      },
+      {
+        "title": "Sales",
+        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
+      },
+      {
+        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
+        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
+      },
+      {
+        "title": "Jobs & Careers",
+        "url": "https://continental.com/en/career/contact-faqs/contact"
+      }
+    ]
   },
   {
     "name": "Daimler Truck",
@@ -1278,20 +1319,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Global Safety Specialist",
-        "url": "https://www.munichre.com/en/job/jubail/global-safety-specialist/3342/39962445120"
+        "title": "Bordereaux Analyst",
+        "url": "https://www.munichre.com/en/job/london/bordereaux-analyst/3342/39697017856"
       },
       {
-        "title": "Working Student IT Project Management in Business Solutions - Public Markets Back (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/working-student-it-project-management-in-business-solutions-public-markets-back-m-f-d/3342/39736968832"
+        "title": "HR Services Administrator EU/LA",
+        "url": "https://www.munichre.com/en/job/manchester/hr-services-administrator-eu-la/3342/39672085440"
       },
       {
-        "title": "Intern for Governance / Reporting, Compliance in Group Technology (IT) Munich Re (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-for-governance-reporting-compliance-in-group-technology-it-munich-re-m-f-d/3342/39740283840"
+        "title": "Client Relation Risk Manager (m/f/d)* in Structured Portfolio Solutions",
+        "url": "https://www.munichre.com/en/job/munich/client-relation-risk-manager-m-f-d-in-structured-portfolio-solutions/3342/39818500096"
       },
       {
-        "title": "Accounts Receivable Administrator",
-        "url": "https://www.munichre.com/en/job/manchester/accounts-receivable-administrator/3342/39195125184"
+        "title": "Faculative & Corporate Analytics and Reporting - Intern (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/faculative-and-corporate-analytics-and-reporting-intern-m-f-d/3342/39152319232"
       },
       {
         "title": "Find jobs",
@@ -1888,6 +1929,19 @@
       {
         "title": "Data and Technology",
         "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
+    "name": "Talanx",
+    "website": "https://www.talanx.com/en",
+    "career_page_url": "https://www.talanx.com/en/talanx-group/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.talanx.com/en/talanx-group/careers"
       }
     ]
   },
