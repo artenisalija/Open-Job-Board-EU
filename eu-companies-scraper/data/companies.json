@@ -1084,13 +1084,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1319,20 +1319,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Global Safety Specialist",
-        "url": "https://www.munichre.com/en/job/jubail/global-safety-specialist/3342/39962445120"
+        "title": "HR Services Administrator EU/LA",
+        "url": "https://www.munichre.com/en/job/manchester/hr-services-administrator-eu-la/3342/39672085440"
       },
       {
-        "title": "Global Safety Specialist",
-        "url": "https://www.munichre.com/en/job/manchester/global-safety-specialist/3342/40018060416"
+        "title": "Praktikant/in in Organizational Design and HR IT Operations (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-in-in-organizational-design-and-hr-it-operations-m-f-d/3342/40110645888"
       },
       {
-        "title": "Projektmanager Technische Gebäudeausrüstung (m/w/d)* befristet bis 07/2029",
-        "url": "https://www.munichre.com/en/job/munich/projektmanager-technische-gebaudeausrustung-m-w-d-befristet-bis-07-2029/3342/39954009728"
+        "title": "HR Payroll & Services Specialist (4.5 Months Maternity Cover)",
+        "url": "https://www.munichre.com/en/job/south-korea/hr-payroll-and-services-specialist-4-5-months-maternity-cover/3342/39107708928"
       },
       {
-        "title": "Senior Surety Underwriter (m/f/d*) - Munich RE Italia",
-        "url": "https://www.munichre.com/en/job/milan/senior-surety-underwriter-m-f-d-munich-re-italia/3342/39971206272"
+        "title": "Internship Quantitative Investment Strategies (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-quantitative-investment-strategies-m-f-d/3342/39809299328"
       },
       {
         "title": "Find jobs",
@@ -2043,15 +2043,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
