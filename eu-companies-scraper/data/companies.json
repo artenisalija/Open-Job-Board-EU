@@ -545,59 +545,6 @@
     ]
   },
   {
-    "name": "Deutsche Bank",
-    "website": "http://db.com",
-    "career_page_url": "https://www.db.com/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://careers.db.com?language_id=1"
-      },
-      {
-        "title": "Play",
-        "url": "https://www.db.com/careers"
-      },
-      {
-        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
-        "url": "https://careers.db.com/this-is-db"
-      },
-      {
-        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
-        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
-      },
-      {
-        "title": "to careers in technology Discover careers in technology",
-        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
-      },
-      {
-        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
-        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
-      },
-      {
-        "title": "Professionals Professionals",
-        "url": "https://careers.db.com/professionals/index?language_id=1"
-      },
-      {
-        "title": "Students and Graduates Students and Graduates",
-        "url": "https://careers.db.com/students-graduates/index?language_id=1"
-      },
-      {
-        "title": "Apprentices School leavers",
-        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
-      },
-      {
-        "title": "Sitemap",
-        "url": "https://careers.db.com/tools/sitemap?language_id=1"
-      },
-      {
-        "title": "Contact",
-        "url": "https://careers.db.com/tools/contact?language_id=1"
-      }
-    ]
-  },
-  {
     "name": "Deutsche Telekom",
     "website": "https://www.telekom.com",
     "career_page_url": "https://www.telekom.com/en/careers",
@@ -899,11 +846,15 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "SKIP NAVIGATION",
+        "title": "SALTAR NAVEGACIÓN",
         "url": "https://glencore.com/careers"
       },
       {
         "title": "Careers",
+        "url": "https://glencore.com/es/careers"
+      },
+      {
+        "title": "EN",
         "url": "https://glencore.com/en/careers"
       },
       {
@@ -911,64 +862,60 @@
         "url": "https://glencore.com/fr/careers"
       },
       {
-        "title": "ES",
-        "url": "https://glencore.com/es/careers"
-      },
-      {
         "title": "Jobs",
-        "url": "https://glencore.com/en/careers/jobs"
+        "url": "https://glencore.com/es/careers/jobs"
       },
       {
         "title": "Life at Glencore",
-        "url": "https://glencore.com/en/careers/life-at-glencore"
+        "url": "https://glencore.com/es/careers/life-at-glencore"
       },
       {
         "title": "Career areas",
-        "url": "https://glencore.com/en/careers/career-areas"
+        "url": "https://glencore.com/es/careers/career-areas"
       },
       {
         "title": "How we hire",
-        "url": "https://glencore.com/en/careers/how-we-hire"
+        "url": "https://glencore.com/es/careers/how-we-hire"
       },
       {
         "title": "Early careers",
-        "url": "https://glencore.com/en/careers/early-careers"
+        "url": "https://glencore.com/es/careers/early-careers"
       },
       {
         "title": "Baar, Switzerland - Headquarters",
-        "url": "https://glencore.com/en/careers/early-careers/baar"
+        "url": "https://glencore.com/es/careers/early-careers/baar"
       },
       {
         "title": "London, UK",
-        "url": "https://glencore.com/en/careers/early-careers/london"
+        "url": "https://glencore.com/es/careers/early-careers/london"
       },
       {
         "title": "USA",
-        "url": "https://glencore.com/en/careers/early-careers/usa"
+        "url": "https://glencore.com/es/careers/early-careers/usa"
       },
       {
         "title": "Singapore",
-        "url": "https://glencore.com/en/careers/early-careers/singapore"
+        "url": "https://glencore.com/es/careers/early-careers/singapore"
       },
       {
         "title": "China",
-        "url": "https://glencore.com/en/careers/early-careers/china"
+        "url": "https://glencore.com/es/careers/early-careers/china"
       },
       {
         "title": "Africa copper",
-        "url": "https://glencore.com/en/careers/early-careers/africa-copper"
+        "url": "https://glencore.com/es/careers/early-careers/africa-copper"
       },
       {
         "title": "South Africa",
-        "url": "https://glencore.com/en/careers/early-careers/south-africa"
+        "url": "https://glencore.com/es/careers/early-careers/south-africa"
       },
       {
         "title": "Base metals north America",
-        "url": "https://glencore.com/en/careers/early-careers/base-metals-north-america"
+        "url": "https://glencore.com/es/careers/early-careers/base-metals-north-america"
       },
       {
         "title": "Kazakhstan",
-        "url": "https://glencore.com/en/careers/early-careers/kazakhstan"
+        "url": "https://glencore.com/es/careers/early-careers/kazakhstan"
       }
     ]
   },
@@ -1084,13 +1031,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1319,6 +1266,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Risk Manager (Enterprise & P&C Reinsurance)",
+        "url": "https://www.munichre.com/en/job/sydney/risk-manager-enterprise-and-p-and-c-reinsurance/3342/40188220480"
+      },
+      {
         "title": "Production Underwriter",
         "url": "https://www.munichre.com/en/job/hartford/production-underwriter/3342/40147277824"
       },
@@ -1329,10 +1280,6 @@
       {
         "title": "Category Manager - Professional Services & BPO",
         "url": "https://www.munichre.com/en/job/toronto/category-manager-professional-services-and-bpo/3342/40018059968"
-      },
-      {
-        "title": "Internal Auditor",
-        "url": "https://www.munichre.com/en/job/amelia/internal-auditor/3342/38195029696"
       },
       {
         "title": "Find jobs",
@@ -1497,20 +1444,7 @@
     "career_page_url": "https://www.renaultgroup.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/careers"
-      },
-      {
-        "title": "View our offers",
-        "url": "https://www.renaultgroup.com/en/careers/our-international-vacancies"
-      },
-      {
-        "title": "ReKnow University Through our corporate university, our ambition is to provide training in the mobility skills of the future and to attract the best to our ranks. Find out more",
-        "url": "https://www.renaultgroup.com/en/careers/reknow-university"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Repsol",
