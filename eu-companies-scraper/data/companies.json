@@ -530,71 +530,72 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/careers"
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Zur Seite: Jobs für Student:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
-      },
-      {
-        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
-      },
-      {
-        "title": "Zur Seite: Jobs für Fachkräfte",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
-      },
-      {
-        "title": "Verkehrs- und Logistik-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
-      },
-      {
-        "title": "Gewerblich-technische Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
-      },
-      {
-        "title": "Dienstleistungs- und Service-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
-      },
-      {
-        "title": "Zur Seite: Jobs für Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
-      },
-      {
-        "title": "Jobs für IT Professionals",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
-      },
-      {
-        "title": "Jobs für kaufmännische Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
-      },
-      {
-        "title": "Jobs für Ingenieur:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
-      },
-      {
-        "title": "Jobs für Führungskräfte in Management-Positionen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
-      },
-      {
-        "title": "Passenden Job finden",
-        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
   {
     "name": "Deutsche Bank",
     "website": "http://db.com",
-    "career_page_url": "https://careers.db.com/index?language_id=1",
+    "career_page_url": "https://www.db.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://careers.db.com?language_id=1"
+      },
+      {
+        "title": "Play",
+        "url": "https://www.db.com/careers"
+      },
+      {
+        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
+        "url": "https://careers.db.com/this-is-db"
+      },
+      {
+        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
+        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
+      },
+      {
+        "title": "to careers in technology Discover careers in technology",
+        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
+      },
+      {
+        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
+        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
+      },
+      {
+        "title": "Professionals Professionals",
+        "url": "https://careers.db.com/professionals/index?language_id=1"
+      },
+      {
+        "title": "Students and Graduates Students and Graduates",
+        "url": "https://careers.db.com/students-graduates/index?language_id=1"
+      },
+      {
+        "title": "Apprentices School leavers",
+        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://careers.db.com/tools/sitemap?language_id=1"
+      },
+      {
+        "title": "Contact",
+        "url": "https://careers.db.com/tools/contact?language_id=1"
+      }
+    ]
   },
   {
     "name": "Deutsche Telekom",
@@ -1083,13 +1084,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1213,17 +1214,17 @@
   {
     "name": "L'Oréal",
     "website": "https://www.loreal.com/en",
-    "career_page_url": "https://www.loreal.com/en/careers",
+    "career_page_url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Go to Content",
-        "url": "https://www.loreal.com/en/careers"
+        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
       },
       {
-        "title": "Careers",
-        "url": "https://www.loreal.com/en/careers/limitless-opportunities-for-you"
+        "title": "Freedom to Go beyond, That’s the Beauty of L’Oréal",
+        "url": "https://www.loreal.com/en/careers"
       }
     ]
   },
@@ -1245,6 +1246,19 @@
       {
         "title": "page",
         "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com",
+    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Vacancies",
+        "url": "https://www.lukoil.com/Company/Career/Vacancies"
       }
     ]
   },
@@ -2029,15 +2043,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
