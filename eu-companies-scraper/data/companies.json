@@ -458,55 +458,6 @@
     "jobs": []
   },
   {
-    "name": "Continental",
-    "website": "https://continental.com",
-    "career_page_url": "https://continental.com/en/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://continental.com/en/career"
-      },
-      {
-        "title": "Job Portal",
-        "url": "https://jobs.continental.com/en"
-      },
-      {
-        "title": "Our Range of Jobs",
-        "url": "https://continental.com/en/career/our-range-of-jobs"
-      },
-      {
-        "title": "Software Engineering and System Engineering",
-        "url": "https://continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
-      },
-      {
-        "title": "Operating",
-        "url": "https://continental.com/en/career/our-range-of-jobs/operating"
-      },
-      {
-        "title": "Quality",
-        "url": "https://continental.com/en/career/our-range-of-jobs/quality"
-      },
-      {
-        "title": "IT and Cybersecurity",
-        "url": "https://continental.com/en/career/our-range-of-jobs/it"
-      },
-      {
-        "title": "Sales",
-        "url": "https://continental.com/en/career/our-range-of-jobs/sales"
-      },
-      {
-        "title": "My Career Metamorphosis: From Production to HR TMOD November 25, 2024 Zhang Haiqin, an environmental engineering graduate, began her journey with Continental as a production supervisor in 2019. After joining the eXplore program, she transitioned to HR TMOD, where she now leverages her technical expertise to drive innovative human resources strategies and foster a culture of collaboration and growth. Read the blog article",
-        "url": "https://continental.com/en/career/working-at-continental/people-blog/zhang-haiqin"
-      },
-      {
-        "title": "Jobs & Careers",
-        "url": "https://continental.com/en/career/contact-faqs/contact"
-      }
-    ]
-  },
-  {
     "name": "Daimler Truck",
     "website": "https://www.daimlertruck.com/en",
     "career_page_url": "https://www.daimlertruck.com/en/career",
@@ -2186,11 +2137,11 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
+        "title": "> Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
         "url": "https://www.zf.com/mobile/en/technologies/decarbonization/decarbonization.html"
       },
       {
-        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
+        "title": "> Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
         "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
       },
       {
