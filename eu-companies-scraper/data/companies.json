@@ -545,6 +545,59 @@
     ]
   },
   {
+    "name": "Deutsche Bank",
+    "website": "http://db.com",
+    "career_page_url": "https://www.db.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://careers.db.com?language_id=1"
+      },
+      {
+        "title": "Play",
+        "url": "https://www.db.com/careers"
+      },
+      {
+        "title": "Explore how we create an environment that allows everyone to unleash their full potential. Explore how we create an environment that allows everyone to unleash their full potential.",
+        "url": "https://careers.db.com/this-is-db"
+      },
+      {
+        "title": "to inclusive culture Discover how we are placing inclusion at the heart of our culture",
+        "url": "https://careers.db.com/explore-the-bank/working-environment/inclusive-culture/index?language_id=1"
+      },
+      {
+        "title": "to careers in technology Discover careers in technology",
+        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/index?language_id=1"
+      },
+      {
+        "title": "More about Women in Technology Discover how we’re challenging the gender imbalance in technology",
+        "url": "https://www.db.com/explore-the-bank/careers-in-technology/women-in-technology"
+      },
+      {
+        "title": "Professionals Professionals",
+        "url": "https://careers.db.com/professionals/index?language_id=1"
+      },
+      {
+        "title": "Students and Graduates Students and Graduates",
+        "url": "https://careers.db.com/students-graduates/index?language_id=1"
+      },
+      {
+        "title": "Apprentices School leavers",
+        "url": "https://careers.db.com/School-leavers-uk/index?language_id=1"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://careers.db.com/tools/sitemap?language_id=1"
+      },
+      {
+        "title": "Contact",
+        "url": "https://careers.db.com/tools/contact?language_id=1"
+      }
+    ]
+  },
+  {
     "name": "Deutsche Telekom",
     "website": "https://www.telekom.com",
     "career_page_url": "https://www.telekom.com/en/careers",
@@ -1990,15 +2043,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
