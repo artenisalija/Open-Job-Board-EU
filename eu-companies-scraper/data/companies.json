@@ -355,31 +355,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1080,13 +1055,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/mx/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/mx/en/talent/life-at-inditex"
       }
     ]
   },
@@ -2039,10 +2014,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
@@ -2182,11 +2162,11 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "> Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
+        "title": "Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization. Electrification With e-mobility to lower CO₂: Electrification of vehicles on and off the road is a key lever for future decarbonization.",
         "url": "https://www.zf.com/mobile/en/technologies/decarbonization/decarbonization.html"
       },
       {
-        "title": "> Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
+        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
         "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
       },
       {
