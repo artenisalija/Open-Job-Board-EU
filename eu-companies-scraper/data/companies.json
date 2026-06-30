@@ -1315,20 +1315,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "International Graduate Trainee - focus on business administration / economics (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-business-administration-economics-m-f-d/3342/39929260544"
+      },
+      {
+        "title": "Data Engineer",
+        "url": "https://www.munichre.com/en/job/birkenhead/data-engineer/3342/39551102464"
+      },
+      {
+        "title": "Praktikant Digitalisierung & KI-Lösungen (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-digitalisierung-and-ki-losungen-m-w-d/3342/39963836608"
+      },
+      {
         "title": "Corporate Finance Accountant Sr",
         "url": "https://www.munichre.com/en/job/hartford/corporate-finance-accountant-sr/3342/38965864512"
-      },
-      {
-        "title": "Solution Architect",
-        "url": "https://www.munichre.com/en/job/princeton/solution-architect/3342/40315251520"
-      },
-      {
-        "title": "Manager & Actuary, Chief Pricing Office",
-        "url": "https://www.munichre.com/en/job/new-york/manager-and-actuary-chief-pricing-office/3342/37018991936"
-      },
-      {
-        "title": "2nd VP, Structured Reinsurance",
-        "url": "https://www.munichre.com/en/job/new-york/2nd-vp-structured-reinsurance/3342/34378042240"
       },
       {
         "title": "Find jobs",
@@ -2039,15 +2039,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
