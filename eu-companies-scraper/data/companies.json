@@ -355,6 +355,31 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -501,17 +526,61 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "career_page_url": "https://www.deutschebahn.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+        "url": "https://www.deutschebahn.com/careers"
       },
       {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+        "title": "Zur Seite: Jobs für Student:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
+      },
+      {
+        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
+      },
+      {
+        "title": "Zur Seite: Jobs für Fachkräfte",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
+      },
+      {
+        "title": "Verkehrs- und Logistik-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
+      },
+      {
+        "title": "Gewerblich-technische Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
+      },
+      {
+        "title": "Dienstleistungs- und Service-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
+      },
+      {
+        "title": "Zur Seite: Jobs für Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
+      },
+      {
+        "title": "Jobs für IT Professionals",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
+      },
+      {
+        "title": "Jobs für kaufmännische Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
+      },
+      {
+        "title": "Jobs für Ingenieur:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
+      },
+      {
+        "title": "Jobs für Führungskräfte in Management-Positionen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
+      },
+      {
+        "title": "Passenden Job finden",
+        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
       }
     ]
   },
@@ -1055,13 +1124,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1137,40 +1206,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior IT Business Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/senior-it-business-analyst/3120/39738894144"
+        "title": "(Bank) KYC Outreach Intern 2026 2H",
+        "url": "https://careers.ing.com/en/job/seoul/bank-kyc-outreach-intern-2026-2h/3121/40401501568"
       },
       {
-        "title": "Specjalista_tka ds. regulacji i audytu",
-        "url": "https://careers.ing.com/en/job/warsaw/specjalista-tka-ds-regulacji-i-audytu/3120/40065304320"
+        "title": "Analyst, Trade Finance Operations",
+        "url": "https://careers.ing.com/en/job/seoul/analyst-trade-finance-operations/3121/40401501504"
       },
       {
-        "title": "Specjalista_ka Produktowo – Procesowy_a",
-        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
+        "title": "Intern, Global Cash Management Japan",
+        "url": "https://careers.ing.com/en/job/tokyo/intern-global-cash-management-japan/3121/40401501440"
       },
       {
-        "title": "Expert DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
+        "title": "Content Marketing Specialist",
+        "url": "https://careers.ing.com/en/job/milan/content-marketing-specialist/3121/40383605120"
       },
       {
-        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
+        "title": "BE Customer Care Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/be-customer-care-analyst/3121/40398157184"
       },
       {
-        "title": "Devops Engineer (Rynki Finansowe / Treasury)",
-        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
+        "title": "Associates, Counterparty Credit Risk",
+        "url": "https://careers.ing.com/en/job/new-york/associates-counterparty-credit-risk/3121/40383604864"
       },
       {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
+        "title": "Owned Media Expert",
+        "url": "https://careers.ing.com/en/job/milan/owned-media-expert/3121/40383604608"
       },
       {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
+        "title": "Lead Technology Risk Management - NFR (2LOD)",
+        "url": "https://careers.ing.com/en/job/sydney/lead-technology-risk-management-nfr-2lod/3121/39451630656"
       },
       {
-        "title": "Ekspert_ka - Administrator_ka Sieci",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-administrator-ka-sieci/3120/34296297536"
+        "title": "Senior Customer Journey Expert – Transaction Accounts",
+        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-transaction-accounts/3121/37489452224"
       }
     ]
   },
@@ -1290,20 +1359,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "International Graduate Trainee - focus on business administration / economics (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/international-graduate-trainee-focus-on-business-administration-economics-m-f-d/3342/39929260544"
+        "title": "Bordereaux Analyst",
+        "url": "https://www.munichre.com/en/job/london/bordereaux-analyst/3342/39697017856"
       },
       {
-        "title": "Data Engineer",
-        "url": "https://www.munichre.com/en/job/birkenhead/data-engineer/3342/39551102464"
+        "title": "Intern Financial and Strategic Advisory (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-financial-and-strategic-advisory-m-f-d/3342/40402819904"
       },
       {
-        "title": "Praktikant Digitalisierung & KI-Lösungen (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-digitalisierung-and-ki-losungen-m-w-d/3342/39963836608"
+        "title": "Senior Data Analytics Architect (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/senior-data-analytics-architect-m-f-d/3342/40292911296"
       },
       {
-        "title": "Corporate Finance Accountant Sr",
-        "url": "https://www.munichre.com/en/job/hartford/corporate-finance-accountant-sr/3342/38965864512"
+        "title": "Underwriting Assistant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/underwriting-assistant-m-f-d/3342/40400624896"
       },
       {
         "title": "Find jobs",
