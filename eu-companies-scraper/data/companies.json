@@ -154,10 +154,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Licensed-Aircraft-Maintenance-Engineer-EASA-B1-WORKING-PARTY-MANAGER--F-M-_JR10310213"
       },
       {
-        "title": "Structural Fitter Hamburg 19 November 2025",
-        "url": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Hamburg-Area/Strukturmechaniker--d-m-w--fr-die-Strukturmontage-in-Hamburg_JR10241638"
-      },
-      {
         "title": "Material Handler Grapevine, TX, USA 16 June 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Grapevine-TX/Material-Handler_JR10420524?locationCountry=bc33aa3152ec42d4995f4791a106ed09"
       },
@@ -184,6 +180,10 @@
       {
         "title": "Intégrateur(trice) Cabine Toulouse 06 April 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Intgrateur-trice--Cabine--H-F-_JR10346466"
+      },
+      {
+        "title": "Completions Integration Manager Mobile, AL, USA 17 June 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Completions-Integration-Manager_JR10418952?locationCountry=bc33aa3152ec42d4995f4791a106ed09"
       }
     ]
   },
@@ -355,31 +355,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -526,61 +501,17 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/careers",
+    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/careers"
+        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
       },
       {
-        "title": "Zur Seite: Jobs für Student:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
-      },
-      {
-        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
-      },
-      {
-        "title": "Zur Seite: Jobs für Fachkräfte",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
-      },
-      {
-        "title": "Verkehrs- und Logistik-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
-      },
-      {
-        "title": "Gewerblich-technische Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
-      },
-      {
-        "title": "Dienstleistungs- und Service-Jobs",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
-      },
-      {
-        "title": "Zur Seite: Jobs für Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
-      },
-      {
-        "title": "Jobs für IT Professionals",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
-      },
-      {
-        "title": "Jobs für kaufmännische Akademiker:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
-      },
-      {
-        "title": "Jobs für Ingenieur:innen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
-      },
-      {
-        "title": "Jobs für Führungskräfte in Management-Positionen",
-        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
-      },
-      {
-        "title": "Passenden Job finden",
-        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
+        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
+        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -1359,20 +1290,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Program Business Development Manager",
+        "url": "https://www.munichre.com/en/job/hartford/program-business-development-manager/3342/39542400128"
+      },
+      {
         "title": "Bordereaux Analyst",
         "url": "https://www.munichre.com/en/job/london/bordereaux-analyst/3342/39697017856"
       },
       {
-        "title": "Intern Financial and Strategic Advisory (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-financial-and-strategic-advisory-m-f-d/3342/40402819904"
+        "title": "Assistant Controller/Chief Accounting Officer",
+        "url": "https://www.munichre.com/en/job/princeton/assistant-controller-chief-accounting-officer/3342/36711698688"
       },
       {
-        "title": "Senior Data Analytics Architect (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/senior-data-analytics-architect-m-f-d/3342/40292911296"
-      },
-      {
-        "title": "Underwriting Assistant (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/frankfurt-am-main/underwriting-assistant-m-f-d/3342/40400624896"
+        "title": "Inspector - Indianapolis, IN",
+        "url": "https://www.munichre.com/en/job/indianapolis/inspector-indianapolis-in/3342/39664097984"
       },
       {
         "title": "Find jobs",
