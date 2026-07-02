@@ -355,31 +355,6 @@
     ]
   },
   {
-    "name": "BASF",
-    "website": "http://basf.com",
-    "career_page_url": "http://basf.com/us/en/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
-      },
-      {
-        "title": "More",
-        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
-      },
-      {
-        "title": "Career",
-        "url": "http://basf.com/us/en/careers"
-      }
-    ]
-  },
-  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1080,13 +1055,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1162,40 +1137,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "(Bank) KYC Outreach Intern 2026 2H",
-        "url": "https://careers.ing.com/en/job/seoul/bank-kyc-outreach-intern-2026-2h/3121/40401501568"
+        "title": "IT Business Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/it-business-analyst/3120/39738894144"
       },
       {
-        "title": "Analyst, Trade Finance Operations",
-        "url": "https://careers.ing.com/en/job/seoul/analyst-trade-finance-operations/3121/40401501504"
+        "title": "Devops Engineer (Rynki Finansowe / Treasury)",
+        "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
       },
       {
-        "title": "Intern, Global Cash Management Japan",
-        "url": "https://careers.ing.com/en/job/tokyo/intern-global-cash-management-japan/3121/40401501440"
+        "title": "Senior IT Business Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-it-business-analyst/3120/39458044032"
       },
       {
-        "title": "Content Marketing Specialist",
-        "url": "https://careers.ing.com/en/job/milan/content-marketing-specialist/3121/40383605120"
+        "title": "Specjalista_tka ds. regulacji i audytu",
+        "url": "https://careers.ing.com/en/job/warsaw/specjalista-tka-ds-regulacji-i-audytu/3120/40065304320"
       },
       {
-        "title": "BE Customer Care Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/be-customer-care-analyst/3121/40398157184"
+        "title": "Specjalista_ka Produktowo – Procesowy_a",
+        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
       },
       {
-        "title": "Associates, Counterparty Credit Risk",
-        "url": "https://careers.ing.com/en/job/new-york/associates-counterparty-credit-risk/3121/40383604864"
+        "title": "Expert DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
       },
       {
-        "title": "Owned Media Expert",
-        "url": "https://careers.ing.com/en/job/milan/owned-media-expert/3121/40383604608"
+        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       },
       {
-        "title": "Lead Technology Risk Management - NFR (2LOD)",
-        "url": "https://careers.ing.com/en/job/sydney/lead-technology-risk-management-nfr-2lod/3121/39451630656"
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       },
       {
-        "title": "Senior Customer Journey Expert – Transaction Accounts",
-        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-transaction-accounts/3121/37489452224"
+        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       }
     ]
   },
@@ -1223,14 +1198,6 @@
         "url": "https://www.loreal.com/en/careers"
       }
     ]
-  },
-  {
-    "name": "Landesbank Baden-Württemberg",
-    "website": "http://lbbw.de",
-    "career_page_url": "http://lbbw.de/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Lloyds Banking Group",
@@ -1315,6 +1282,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Physical Security Technology Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/38724257216"
+      },
+      {
         "title": "Underwriting Assistant (m/f/d)*",
         "url": "https://www.munichre.com/en/job/frankfurt-am-main/underwriting-assistant-m-f-d/3342/40400624896"
       },
@@ -1325,10 +1296,6 @@
       {
         "title": "Claims Accountant",
         "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/38660278336"
-      },
-      {
-        "title": "Program Business Development Manager",
-        "url": "https://www.munichre.com/en/job/hartford/program-business-development-manager/3342/39542400128"
       },
       {
         "title": "Find jobs",
@@ -1889,6 +1856,14 @@
     ]
   },
   {
+    "name": "Telefónica",
+    "website": "http://telefonica.com",
+    "career_page_url": "https://www.telefonica.com/es/sala-comunicacion/blog/inteligencia-artificial-reinventando-experiencia-empleado-nuevo-motor-productividad-talento-innovacion-empresas",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "ThyssenKrupp",
     "website": "http://thyssenkrupp.com",
     "career_page_url": "https://jobs.thyssenkrupp.com/de?filter=company%3Athyssenkrupp+nucera+AG+%26+Co.+KGaA",
@@ -2039,10 +2014,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
