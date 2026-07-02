@@ -98,6 +98,10 @@
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus"
       },
       {
+        "title": "Airbus Defence and Space Recruiting Day | July 23rd – Ottobrunn (Munich) Get hired in one day! Apply to our open opportunities to secure your spot and a signed contract.",
+        "url": "https://www.airbus.com/de/careers/life-at-airbus/working-here/working-at-airbus-in-germany"
+      },
+      {
         "title": "Make your career your mission We're on a mission to create sustainable aerospace solutions that make a positive impact on people's lives and pave the way for a…",
         "url": "https://airbus.com/en/careers/make-your-career-your-mission"
       },
@@ -116,10 +120,6 @@
       {
         "title": "Manufacturing and Quality Careers Welcome to the Airbus Manufacturing and Quality team, where professionals are the artisans behind our cutting-edge solutions.",
         "url": "https://airbus.com/en/careers/professionals/manufacturing-quality-careers"
-      },
-      {
-        "title": "Aerospace Engineering Virtual Work Experience Working with Springpod, Airbus has developed a programme for you to look behind the scenes at what aerospace engineers at Airbus…",
-        "url": "https://airbus.com/en/careers/life-at-airbus/working-here/working-at-airbus-in-the-uk/aerospace-engineering-virtual-work-experience"
       },
       {
         "title": "C295 Test Pilot Vadodara 11 March 2026",
@@ -351,6 +351,31 @@
       {
         "title": "Careers hub",
         "url": "http://home.barclays/careers"
+      }
+    ]
+  },
+  {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
       }
     ]
   },
@@ -1055,13 +1080,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1200,6 +1225,14 @@
     ]
   },
   {
+    "name": "Landesbank Baden-Württemberg",
+    "website": "http://lbbw.de",
+    "career_page_url": "http://lbbw.de/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Lloyds Banking Group",
     "website": "https://lloydsbankinggroup.com",
     "career_page_url": "https://lloydsbankinggroup.com/careers",
@@ -1282,20 +1315,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Physical Security Technology Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/38724257216"
+        "title": "Intern Artificial Intelligence (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-artificial-intelligence-m-f-d/3342/35537000064"
+      },
+      {
+        "title": "Life Underwriting Consultant, Facultative Reinsurance",
+        "url": "https://www.munichre.com/en/job/atlanta/life-underwriting-consultant-facultative-reinsurance/3342/38625039488"
       },
       {
         "title": "Underwriting Assistant (m/f/d)*",
         "url": "https://www.munichre.com/en/job/frankfurt-am-main/underwriting-assistant-m-f-d/3342/40400624896"
       },
       {
-        "title": "Reinsurance Accounting & Claims Handling Analyst",
-        "url": "https://www.munichre.com/en/job/princeton/reinsurance-accounting-and-claims-handling-analyst/3342/39936824000"
-      },
-      {
-        "title": "Claims Accountant",
-        "url": "https://www.munichre.com/en/job/madrid/claims-accountant/3342/38660278336"
+        "title": "Marketing & Communication Consultant (m/f/d)* - MR do Brasil",
+        "url": "https://www.munichre.com/en/job/sao-paulo/marketing-and-communication-consultant-m-f-d-mr-do-brasil/3342/40477879488"
       },
       {
         "title": "Find jobs",
@@ -2014,15 +2047,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
