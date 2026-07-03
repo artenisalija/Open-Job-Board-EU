@@ -598,6 +598,31 @@
     "jobs": []
   },
   {
+    "name": "EnBW",
+    "website": "https://www.enbw.com",
+    "career_page_url": "https://www.enbw.com/career",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Entry-level and specialist positions",
+        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
+      },
+      {
+        "title": "Vacancies for university students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
+      },
+      {
+        "title": "Vacancies for high school and vocational students",
+        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
+      },
+      {
+        "title": "Onboarding",
+        "url": "https://www.enbw.com/career/apply/onboarding"
+      }
+    ]
+  },
+  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/company/join-us",
@@ -1030,13 +1055,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1112,6 +1137,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Business Manager",
+        "url": "https://careers.ing.com/en/job/katowice/business-manager/3120/40542119680"
+      },
+      {
+        "title": "Senior IT Business Analyst (Cash Management Foreign Area)",
+        "url": "https://careers.ing.com/en/job/katowice/senior-it-business-analyst-cash-management-foreign-area/3120/39652808128"
+      },
+      {
         "title": "Devops Engineer (Rynki Finansowe / Treasury)",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
       },
@@ -1136,16 +1169,8 @@
         "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
       },
       {
-        "title": "Główny_a Księgowy_a - Finance Accounting & Reporting w ING Faktoring",
-        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-a-ksiegowy-a-finance-accounting-and-reporting-w-ing-faktoring/3120/39545356864"
-      },
-      {
         "title": "Expert DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
-      },
-      {
-        "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
       }
     ]
   },
@@ -1265,20 +1290,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Intern Central Reserving - IFRS17 & SII Processes (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-central-reserving-ifrs17-and-sii-processes-m-f-d/3342/40533658176"
+      },
+      {
+        "title": "Munich Re Service GmbH - Marketing Intern - Campaigns, Events & Product Marketing (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-service-gmbh-marketing-intern-campaigns-events-and-product-marketing-m-f-d/3342/39418712384"
+      },
+      {
+        "title": "Praktikum Governance & Prozess Dokumentation (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-governance-and-prozess-dokumentation-m-f-d/3342/40533657728"
+      },
+      {
         "title": "Loss Control Inspector Trainee - Rock Hill, SC",
         "url": "https://www.munichre.com/en/job/rock-hill/loss-control-inspector-trainee-rock-hill-sc/3342/40531298176"
-      },
-      {
-        "title": "Senior Cyber and Tech Risk",
-        "url": "https://www.munichre.com/en/job/phoenix/senior-cyber-and-tech-risk/3342/39443027136"
-      },
-      {
-        "title": "Data Engineer",
-        "url": "https://www.munichre.com/en/job/birkenhead/data-engineer/3342/39551102464"
-      },
-      {
-        "title": "Data Actuary - Life & Health",
-        "url": "https://www.munichre.com/en/job/madrid/data-actuary-life-and-health/3342/38110728512"
       },
       {
         "title": "Find jobs",
@@ -1753,19 +1778,6 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Schwarz Gruppe",
-    "website": "https://gruppe.schwarz/en",
-    "career_page_url": "https://gruppe.schwarz/en/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Career People, professions and careers in the companies of Schwarz Group",
-        "url": "https://gruppe.schwarz/en"
-      }
-    ]
   },
   {
     "name": "Shell",
