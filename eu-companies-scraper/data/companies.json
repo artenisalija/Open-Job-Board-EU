@@ -598,31 +598,6 @@
     "jobs": []
   },
   {
-    "name": "EnBW",
-    "website": "https://www.enbw.com",
-    "career_page_url": "https://www.enbw.com/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Entry-level and specialist positions",
-        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
-      },
-      {
-        "title": "Vacancies for university students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
-      },
-      {
-        "title": "Vacancies for high school and vocational students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
-      },
-      {
-        "title": "Onboarding",
-        "url": "https://www.enbw.com/career/apply/onboarding"
-      }
-    ]
-  },
-  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/company/join-us",
@@ -1137,12 +1112,16 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "IT Business Analyst",
-        "url": "https://careers.ing.com/en/job/warsaw/it-business-analyst/3120/39738894144"
-      },
-      {
         "title": "Devops Engineer (Rynki Finansowe / Treasury)",
         "url": "https://careers.ing.com/en/job/warsaw/devops-engineer-rynki-finansowe-treasury/3120/39189507712"
+      },
+      {
+        "title": "Principal Dev Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/principal-dev-engineer/3120/40529642752"
+      },
+      {
+        "title": "IT Business Analyst",
+        "url": "https://careers.ing.com/en/job/warsaw/it-business-analyst/3120/39738894144"
       },
       {
         "title": "Senior IT Business Analyst",
@@ -1157,20 +1136,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
       },
       {
+        "title": "Główny_a Księgowy_a - Finance Accounting & Reporting w ING Faktoring",
+        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-a-ksiegowy-a-finance-accounting-and-reporting-w-ing-faktoring/3120/39545356864"
+      },
+      {
         "title": "Expert DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
       },
       {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
-      },
-      {
-        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
-      },
-      {
-        "title": "Staż z Lwem w obszarze QA w Tribe Aplikacji Biznesowych",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-obszarze-qa-w-tribe-aplikacji-biznesowych/3120/36703566080"
       }
     ]
   },
@@ -1290,20 +1265,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Global Safety Specialist",
-        "url": "https://www.munichre.com/en/job/manchester/global-safety-specialist/3342/40018060416"
+        "title": "Loss Control Inspector Trainee - Rock Hill, SC",
+        "url": "https://www.munichre.com/en/job/rock-hill/loss-control-inspector-trainee-rock-hill-sc/3342/40531298176"
       },
       {
-        "title": "Automation Lead",
-        "url": "https://www.munichre.com/en/job/hartford/automation-lead/3342/39968618560"
+        "title": "Senior Cyber and Tech Risk",
+        "url": "https://www.munichre.com/en/job/phoenix/senior-cyber-and-tech-risk/3342/39443027136"
       },
       {
-        "title": "Marine Pricing Lead",
-        "url": "https://www.munichre.com/en/job/london/marine-pricing-lead/3342/38625035328"
+        "title": "Data Engineer",
+        "url": "https://www.munichre.com/en/job/birkenhead/data-engineer/3342/39551102464"
       },
       {
-        "title": "Intern Artificial Intelligence (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-artificial-intelligence-m-f-d/3342/35537000064"
+        "title": "Data Actuary - Life & Health",
+        "url": "https://www.munichre.com/en/job/madrid/data-actuary-life-and-health/3342/38110728512"
       },
       {
         "title": "Find jobs",
@@ -1862,14 +1837,6 @@
         "url": "https://www.talanx.com/en/talanx-group/careers"
       }
     ]
-  },
-  {
-    "name": "Telefónica",
-    "website": "http://telefonica.com",
-    "career_page_url": "https://www.telefonica.com/es/sala-comunicacion/blog/inteligencia-artificial-reinventando-experiencia-empleado-nuevo-motor-productividad-talento-innovacion-empresas",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "ThyssenKrupp",
