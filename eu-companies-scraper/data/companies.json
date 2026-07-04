@@ -501,17 +501,61 @@
   {
     "name": "Deutsche Bahn",
     "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
+    "career_page_url": "https://www.deutschebahn.com/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
+        "url": "https://www.deutschebahn.com/careers"
       },
       {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
+        "title": "Zur Seite: Jobs für Student:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/studierende"
+      },
+      {
+        "title": "Zur Seite: Jobs für Hochschulabsolvent:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/absolventen"
+      },
+      {
+        "title": "Zur Seite: Jobs für Fachkräfte",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte"
+      },
+      {
+        "title": "Verkehrs- und Logistik-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/verkehr-und-logistik"
+      },
+      {
+        "title": "Gewerblich-technische Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/gewerblich-technisch"
+      },
+      {
+        "title": "Dienstleistungs- und Service-Jobs",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/fachkraefte/handels-serviceorientiert"
+      },
+      {
+        "title": "Zur Seite: Jobs für Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals"
+      },
+      {
+        "title": "Jobs für IT Professionals",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/it"
+      },
+      {
+        "title": "Jobs für kaufmännische Akademiker:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/kaufmaennische-akademiker"
+      },
+      {
+        "title": "Jobs für Ingenieur:innen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/ingenieure"
+      },
+      {
+        "title": "Jobs für Führungskräfte in Management-Positionen",
+        "url": "https://www.deutschebahn.com/de-de/dein-einstieg/akademische-professionals/executive-hub"
+      },
+      {
+        "title": "Passenden Job finden",
+        "url": "https://www.deutschebahn.com/de-de/bewerbungstipps/job-finden"
       }
     ]
   },
@@ -1055,13 +1099,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1161,16 +1205,16 @@
         "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
       },
       {
-        "title": "Główny_a Księgowy_a - Finance Accounting & Reporting w ING Faktoring",
-        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-a-ksiegowy-a-finance-accounting-and-reporting-w-ing-faktoring/3120/39545356864"
-      },
-      {
         "title": "Expert DevOps Engineer",
         "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
       },
       {
         "title": "Starszy_a Specjalista_tka - Rozwój i Zarządzanie Talentami",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-tka-rozwoj-i-zarzadzanie-talentami/3120/39280840704"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka ds. zarządzania kontraktami",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-a-specjalista-ka-ds-zarzadzania-kontraktami/3120/37654131136"
       }
     ]
   },
@@ -1290,20 +1334,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - Glasgow",
-        "url": "https://www.munichre.com/en/job/glasgow/engineer-surveyor-glasgow/3342/38973296000"
+        "title": "Munich Re Markets - Valuation & Reporting Actuary (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-valuation-and-reporting-actuary-m-f-d/3342/40537740800"
       },
       {
-        "title": "Munich Re Service GmbH - Marketing Intern - Campaigns, Events & Product Marketing (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/munich-re-service-gmbh-marketing-intern-campaigns-events-and-product-marketing-m-f-d/3342/39418712384"
+        "title": "AVP, Financial and Professional Lines Underwriter",
+        "url": "https://www.munichre.com/en/job/new-york/avp-financial-and-professional-lines-underwriter/3342/38941602944"
       },
       {
-        "title": "Global Safety Specialist",
-        "url": "https://www.munichre.com/en/job/jubail/global-safety-specialist/3342/39962445120"
+        "title": "Legal Claims Manager (m/f/d*) - Munich RE do Brasil",
+        "url": "https://www.munichre.com/en/job/sao-paulo/legal-claims-manager-m-f-d-munich-re-do-brasil/3342/39832936384"
       },
       {
-        "title": "Intern Central Reserving - IFRS17 & SII Processes (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-central-reserving-ifrs17-and-sii-processes-m-f-d/3342/40533658176"
+        "title": "Category Manager - Professional Services & BPO",
+        "url": "https://www.munichre.com/en/job/toronto/category-manager-professional-services-and-bpo/3342/40018059968"
       },
       {
         "title": "Find jobs",
