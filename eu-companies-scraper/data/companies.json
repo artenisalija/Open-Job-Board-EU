@@ -355,6 +355,35 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Apply now",
+        "url": "https://www.basf.com/us/en/careers/jobs"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1318,12 +1347,16 @@
   {
     "name": "Novartis",
     "website": "https://novartis.com",
-    "career_page_url": "https://novartis.com/careers",
+    "career_page_url": "https://novartis.com/index%2Ephp/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Skip to main content",
+        "url": "https://novartis.com/index%2Ephp/careers"
+      },
+      {
+        "title": "Careers",
         "url": "https://novartis.com/careers"
       },
       {
@@ -1417,10 +1450,6 @@
       {
         "title": "Every number has a story – my journey to Novartis as a Refugee The current refugee crisis is one of the world's greatest humanitarian challenges. Svitlana shares her story of her journey to Novartis and how her work as part of the Giving and Volunteering team is opening the doors to refugees and other marginalized groups and allowing our people to make a difference by helping those who are most vulnerable.",
         "url": "https://novartis.com/stories/every-number-has-story-my-journey-novartis-refugee"
-      },
-      {
-        "title": "Join our community",
-        "url": "https://novartis.wd3.myworkdayjobs.com/Internal_Careers_for_Acquired_Entities/job/Basel-City/Novartis-Talent-Community_REQ-10067767"
       }
     ]
   },
@@ -2001,10 +2030,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
