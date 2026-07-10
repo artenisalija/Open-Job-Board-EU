@@ -1055,13 +1055,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1137,8 +1137,16 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Project Manager_ka w Obszarze Płatności",
-        "url": "https://careers.ing.com/en/job/warsaw/project-manager-ka-w-obszarze-p%c5%82atnosci/3120/40885946304"
+        "title": "Internship Data Management – Safe Data Team",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-data-management-safe-data-team/3121/40884100032"
+      },
+      {
+        "title": "Senior SAS Viya DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/amsterdam/senior-sas-viya-devops-engineer/3121/37536888896"
+      },
+      {
+        "title": "IT Operations Engineer",
+        "url": "https://careers.ing.com/en/job/city-of-taguig/it-operations-engineer/3121/40757102528"
       },
       {
         "title": "Junior IT Reliability & Resilience Specialist",
@@ -1163,14 +1171,6 @@
       {
         "title": "Specjalista_tka ds. regulacji i audytu",
         "url": "https://careers.ing.com/en/job/warsaw/specjalista-tka-ds-regulacji-i-audytu/3120/40065304320"
-      },
-      {
-        "title": "Specjalista_ka Produktowo – Procesowy_a",
-        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ka-produktowo-procesowy-a/3120/40065304192"
-      },
-      {
-        "title": "Expert DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-devops-engineer/3120/39972940800"
       }
     ]
   },
@@ -2001,10 +2001,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
