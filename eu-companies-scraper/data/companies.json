@@ -355,6 +355,35 @@
     ]
   },
   {
+    "name": "BASF",
+    "website": "http://basf.com",
+    "career_page_url": "http://basf.com/us/en/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Apply now",
+        "url": "https://www.basf.com/us/en/careers/jobs"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/why-join-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/grow-at-basf.html"
+      },
+      {
+        "title": "More",
+        "url": "https://www.basf.com/us/en/careers/hiring-process.html"
+      },
+      {
+        "title": "Career",
+        "url": "http://basf.com/us/en/careers"
+      }
+    ]
+  },
+  {
     "name": "BBVA",
     "website": "http://www.bbva.com",
     "career_page_url": "https://www.bbva.com/en/careers",
@@ -1055,13 +1084,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1290,20 +1319,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Actuarial Analyst",
-        "url": "https://www.munichre.com/en/job/sydney/actuarial-analyst/3342/41111015936"
+        "title": "Sr. Product Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/40801679488"
       },
       {
-        "title": "Actuarial Auditor (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/actuarial-auditor-m-f-d/3342/39534035712"
+        "title": "Vice President Finance",
+        "url": "https://www.munichre.com/en/job/new-york/vice-president-finance/3342/41142322304"
       },
       {
-        "title": "Legal Counsel",
-        "url": "https://www.munichre.com/en/job/madrid/legal-counsel/3342/39188755200"
+        "title": "Claims Manager - Delegated Authority",
+        "url": "https://www.munichre.com/en/job/london/claims-manager-delegated-authority/3342/39370043968"
       },
       {
-        "title": "Inspector - Indianapolis, IN",
-        "url": "https://www.munichre.com/en/job/indianapolis/inspector-indianapolis-in/3342/39664097984"
+        "title": "Claims Governance Manager",
+        "url": "https://www.munichre.com/en/job/london/claims-governance-manager/3342/40893761536"
       },
       {
         "title": "Find jobs",
