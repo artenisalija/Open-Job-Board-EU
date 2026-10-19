@@ -36,7 +36,7 @@ class BaseScraper(ABC):
         self.source_name = source_name
         self.user_agent = user_agent or os.getenv(
             "SCRAPER_USER_AGENT",
-            "OpenJobBoardEU/1.0 (https://github.com/Artenis/Open-Job-Board-EU; contact: openjobboardeu@example.com)",
+            "OpenJobBoardEU/1.1 (+https://github.com/artenisalija/Open-Job-Board-EU)",
         )
         self.rate_limit_seconds = rate_limit_seconds
 

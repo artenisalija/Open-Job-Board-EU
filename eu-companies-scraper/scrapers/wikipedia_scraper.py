@@ -144,7 +144,8 @@ class WikipediaScraper(BaseScraper):
                     continue
 
                 name = self._read_text_cell(cells, name_idx)
-                if not name:
+                # Summary tables (e.g. companies per country) put counts in the name column.
+                if not name or re.fullmatch(r"[\d.,\s]+", name):
                     continue
 
                 company_wiki_url = self._extract_company_wiki_url(cells, name_idx)
@@ -187,10 +188,13 @@ class WikipediaScraper(BaseScraper):
             return ""
         for link in cells[idx].select("a[href]"):
             href = (link.get("href") or "").strip()
-            if href.startswith("/wiki/") and ":" not in href:
-                return self.to_absolute_url("https://en.wikipedia.org", href)
-            if href.startswith("https://en.wikipedia.org/wiki/") and ":" not in href:
-                return self.normalize_url(href)
+            # Wikipedia now emits absolute hrefs. Test for ":" on the title only —
+            # it marks namespace pages (File:, Help:), but "https:" contains one too,
+            # which silently discarded every company link.
+            if href.startswith("https://en.wikipedia.org/wiki/"):
+                href = href[len("https://en.wikipedia.org"):]
+            if href.startswith("/wiki/") and ":" not in href[len("/wiki/"):]:
+                return self.to_absolute_url("https://en.wikipedia.org", href.split("#")[0])
         return ""
 
     @staticmethod

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -42,6 +43,15 @@ def _dedupe_candidates(companies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
+def _load_previous_count() -> int:
+    try:
+        with COMPANIES_PATH.open(encoding="utf-8") as f:
+            data = json.load(f)
+        return len(data) if isinstance(data, list) else 0
+    except (OSError, ValueError):
+        return 0
+
+
 def _save_source_health(payload: dict[str, Any]) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     with SOURCE_HEALTH_PATH.open("w", encoding="utf-8") as f:
@@ -78,7 +88,14 @@ async def run_pipeline() -> dict[str, Any]:
         enriched = await finder.enrich_companies(deduped_candidates)
 
     merged = merge_company_lists(enriched)
-    save_companies_json(COMPANIES_PATH, merged)
+
+    # Never replace a good dataset with an empty or collapsed one. A broken
+    # source used to publish "[]" and the live board went blank while every
+    # run still reported success.
+    previous = _load_previous_count()
+    degraded = len(merged) == 0 or (previous >= 20 and len(merged) < previous * 0.5)
+    if not degraded:
+        save_companies_json(COMPANIES_PATH, merged)
 
     health = {
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
@@ -94,6 +111,8 @@ async def run_pipeline() -> dict[str, Any]:
         "enriched_with_careers": len(enriched),
         "final_merged": len(merged),
         "final_by_source": _source_counts(merged),
+        "previous_published": previous,
+        "status": "degraded_kept_previous" if degraded else "ok",
     }
     _save_source_health(health)
     return health
@@ -102,6 +121,9 @@ async def run_pipeline() -> dict[str, Any]:
 def main() -> None:
     health = asyncio.run(run_pipeline())
     print(json.dumps(health, indent=2))
+    if health["status"] != "ok":
+        print("Scrape degraded: kept the previously published dataset.", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
