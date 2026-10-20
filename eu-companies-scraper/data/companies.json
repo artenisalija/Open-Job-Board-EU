@@ -166,10 +166,6 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Rio-De-Janeiro/Representante-Tcnico---Technical-Representative_JR10411519?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=1a29bb1357b240ab99a2fa755cc87c0e"
       },
       {
-        "title": "Electrical Assembler Montreal, Canada 06 October 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Montreal-Area/Assembleur-lectrique_JR10448586?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=a30a87ed25634629aa6c3958aa2b91ea"
-      },
-      {
         "title": "Product Support Manager Subang 07 October 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Subang/Product-Support-Manager_JR10448324?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=972dc4ba8d454bc0b893ff84b1529077"
       },
@@ -180,6 +176,10 @@
       {
         "title": "Lead AI Solutions Systems Engineer Herndon, VA 20 July 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Herndon-Area-VA/Lead-AI-Solutions-Systems-Engineer_JR10419903?jobFamilyGroup=f5811cef9cb5015323ad7f3f550a1df2"
+      },
+      {
+        "title": "Head of Agentic & Business Innovation Motreal, Canada 27 July 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Montreal-Area/Chef-Innovation-Agentique-et-d-Affaires---Head-of-Agentic---Business-Innovation_JR10423732?jobFamilyGroup=f5811cef9cb5015323ad7f3f550a1df2"
       }
     ]
   },
@@ -466,43 +466,15 @@
     "jobs": []
   },
   {
-    "name": "Continental",
-    "website": "https://www.continental.com",
-    "career_page_url": "https://www.continental.com/en/career",
-    "country_of_origin": "Germany",
+    "name": "Compass Group",
+    "website": "https://www.compass-group.com",
+    "career_page_url": "https://www.compass-group.com/en/working-for-us/career-opportunities.html",
+    "country_of_origin": "United Kingdom",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Careers",
-        "url": "https://www.continental.com/en/career"
-      },
-      {
-        "title": "Our Range of Jobs",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs"
-      },
-      {
-        "title": "Software Engineering and System Engineering",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs/software-engineering-and-system-engineering"
-      },
-      {
-        "title": "Operating",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs/operating"
-      },
-      {
-        "title": "Quality",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs/quality"
-      },
-      {
-        "title": "IT and Cybersecurity",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs/it"
-      },
-      {
-        "title": "Sales",
-        "url": "https://www.continental.com/en/career/our-range-of-jobs/sales"
-      },
-      {
-        "title": "Jobs & Careers",
-        "url": "https://www.continental.com/en/career/contact-faqs/contact"
+        "title": "Visit our locations page for global careers opportunities",
+        "url": "https://www.compass-group.com/en/what-we-do/locations.html"
       }
     ]
   },
@@ -524,23 +496,6 @@
       {
         "title": "Benefits Looking for more than just a job?",
         "url": "https://www.daimlertruck.com/en/career/benefits"
-      }
-    ]
-  },
-  {
-    "name": "Deutsche Bahn",
-    "website": "https://www.deutschebahn.com",
-    "career_page_url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Inhalt springen",
-        "url": "https://www.deutschebahn.com/de/geschaefte/personaldienstleistungen/DB-JobService-GmbH-6894004"
-      },
-      {
-        "title": "PDF: Grundsatzerklärung über Menschenrechtsstrategie der DB JobService GmbH PDF | 207,4 KB",
-        "url": "https://www.deutschebahn.com/resource/blob/13243404/12b740a6f8136bcdbdd6d467c060a411/Grundsatzerklaerung-data.pdf"
       }
     ]
   },
@@ -606,7 +561,7 @@
     "jobs": []
   },
   {
-    "name": "DHL",
+    "name": "DHL Group",
     "website": "https://group.dhl.com/en.html",
     "career_page_url": "https://group.dhl.com/en/careers.html",
     "country_of_origin": "Germany",
@@ -623,31 +578,6 @@
       {
         "title": "Zum Hauptinhalt springen",
         "url": "https://www.edeka.de/jobs"
-      }
-    ]
-  },
-  {
-    "name": "EnBW",
-    "website": "https://www.enbw.com",
-    "career_page_url": "https://www.enbw.com/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Entry-level and specialist positions",
-        "url": "https://www.enbw.com/career/career-entries-advancements/experienced-professionals-and-recent-graduates"
-      },
-      {
-        "title": "Vacancies for university students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/university-students"
-      },
-      {
-        "title": "Vacancies for high school and vocational students",
-        "url": "https://www.enbw.com/career/career-entries-advancements/high-school-and-vocational-students"
-      },
-      {
-        "title": "Onboarding",
-        "url": "https://www.enbw.com/career/apply/onboarding"
       }
     ]
   },
@@ -956,6 +886,87 @@
     ]
   },
   {
+    "name": "Heraeus",
+    "website": "http://heraeus.com",
+    "career_page_url": "https://jobs.heraeus.com/en",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.heraeus.com/en"
+      },
+      {
+        "title": "Go to Heraeus Homepage",
+        "url": "https://jobs.heraeus.com"
+      },
+      {
+        "title": "You & Heraeus",
+        "url": "https://jobs.heraeus.com/en/about-heraeus"
+      },
+      {
+        "title": "Professionals",
+        "url": "https://jobs.heraeus.com/professionals"
+      },
+      {
+        "title": "Early Professionals",
+        "url": "https://jobs.heraeus.com/early-professional"
+      },
+      {
+        "title": "Stories",
+        "url": "https://jobs.heraeus.com/our-stories"
+      },
+      {
+        "title": "Deutsch Deutsch",
+        "url": "https://jobs.heraeus.com/de"
+      },
+      {
+        "title": "Español Español",
+        "url": "https://jobs.heraeus.com/es"
+      },
+      {
+        "title": "Čeština Čeština",
+        "url": "https://jobs.heraeus.com/cs"
+      },
+      {
+        "title": "0 0 Saved Jobs",
+        "url": "https://jobs.heraeus.com/en/saved-jobs"
+      },
+      {
+        "title": "Work experience? Yes! The Heraeus team wants to move forward. So do you. Discover our job opportunities!",
+        "url": "https://jobs.heraeus.com/en/professionals"
+      },
+      {
+        "title": "Career entry? Yes! You’re looking forward to the future. So are we. Start your journey with us!",
+        "url": "https://jobs.heraeus.com/en/early-professional"
+      },
+      {
+        "title": "No Jobs Found - View All of Our Available Opportunities",
+        "url": "https://jobs.heraeus.com/en/search-jobs"
+      },
+      {
+        "title": "Learn more",
+        "url": "https://jobs.heraeus.com/about-heraeus"
+      },
+      {
+        "title": "FAQs & Contact How do I apply for a job at Heraeus? How can I submit my application? Who can I contact if I have questions? Here, we answer your frequently asked questions.",
+        "url": "https://jobs.heraeus.com/en/faq"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://jobs.heraeus.com/sitemap"
+      },
+      {
+        "title": "Imprint",
+        "url": "https://jobs.heraeus.com/imprint"
+      },
+      {
+        "title": "Transparency in Coverage",
+        "url": "https://jobs.heraeus.com/en/Transparency-in-Coverage"
+      }
+    ]
+  },
+  {
     "name": "HSBC",
     "website": "https://hsbc.com",
     "career_page_url": "https://hsbc.com/careers",
@@ -1067,18 +1078,18 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
   {
-    "name": "ING",
+    "name": "ING Group",
     "website": "http://ing.com",
     "career_page_url": "https://careers.ing.com/en/search-jobs",
     "country_of_origin": "Netherlands",
@@ -1149,50 +1160,42 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Assistenz Internal Audit (Corporate Audit Services) (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/assistenz-internal-audit-corporate-audit-services-w-m-d/3121/46155028096"
+        "title": "Cards Manager Operations",
+        "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
       },
       {
-        "title": "Client Tax Services Specialist",
-        "url": "https://careers.ing.com/en/job/madrid/client-tax-services-specialist/3121/46155027904"
+        "title": "REQ-10114022 Senior Business Analyst - Microservices & APIs @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/req-10114022-senior-business-analyst-microservices-and-apis-ing-hubs-romania/3121/46162965824"
       },
       {
-        "title": "Senior Specialist",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-specialist/3121/46155027776"
+        "title": "Customer Journey Expert (w/m/d) Daily Banking Products im Bereich Business Banking",
+        "url": "https://careers.ing.com/en/job/berlin/customer-journey-expert-w-m-d-daily-banking-products-im-bereich-business-banking/3121/46162965760"
       },
       {
-        "title": "Product Expert | Investments Tribe @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/product-expert-investments-tribe-ing-bank/3121/46155027584"
+        "title": "Quality Assurance Engineer",
+        "url": "https://careers.ing.com/en/job/madrid/quality-assurance-engineer/3121/46162965696"
       },
       {
-        "title": "Data Operations Professional",
-        "url": "https://careers.ing.com/en/job/makati-city/data-operations-professional/3121/46155027328"
+        "title": "Intern, HR Operations",
+        "url": "https://careers.ing.com/en/job/singapore/intern-hr-operations/3121/46008155648"
       },
       {
-        "title": "Data Governance Expert",
-        "url": "https://careers.ing.com/en/job/singapore/data-governance-expert/3121/46155027200"
+        "title": "Solution Designer",
+        "url": "https://careers.ing.com/en/job/milan/solution-designer/3121/46162965568"
       },
       {
-        "title": "Credit Risk Analyst - 14 months fixed term contract",
-        "url": "https://careers.ing.com/en/job/sydney/credit-risk-analyst-14-months-fixed-term-contract/3121/45704838400"
+        "title": "Public Affairs Expert (w/m/d)",
+        "url": "https://careers.ing.com/en/job/berlin/public-affairs-expert-w-m-d/3121/46162965440"
       },
       {
-        "title": "Specjalista_tka ds. obsługi kasowej",
-        "url": "https://careers.ing.com/en/job/jaworzno/specjalista-tka-ds-obs%c5%82ugi-kasowej/3121/46155026560"
+        "title": "Intern, Rates Trading",
+        "url": "https://careers.ing.com/en/job/singapore/intern-rates-trading/3121/46162965376"
       },
       {
-        "title": "Java Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/46147536064"
+        "title": "Digital Assets CJE - Business Analyst @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/digital-assets-cje-business-analyst-ing-hubs-romania/3121/46162965312"
       }
     ]
-  },
-  {
-    "name": "INGKA Holding",
-    "website": "https://www.ingka.com",
-    "career_page_url": "https://www.ingka.com/this-is-ingka-group/work-with-us",
-    "country_of_origin": "Netherlands",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1210,14 +1213,6 @@
         "url": "https://www.loreal.com/en/careers"
       }
     ]
-  },
-  {
-    "name": "Landesbank Baden-Württemberg",
-    "website": "http://lbbw.de",
-    "career_page_url": "http://lbbw.de/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Lloyds Banking Group",
@@ -1246,43 +1241,6 @@
     ]
   },
   {
-    "name": "LyondellBasell",
-    "website": "https://lyondellbasell.com",
-    "career_page_url": "https://lyondellbasell.com/careers",
-    "country_of_origin": "Netherlands",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://lyondellbasell.com/careers"
-      },
-      {
-        "title": "Explore our openings",
-        "url": "https://careers.lyondellbasell.com/search/?searchby=location&createNewAlert=false&q=&locationsearch=&geolocation="
-      },
-      {
-        "title": "Learn more",
-        "url": "https://lyondellbasell.com/en/careers/benefits"
-      },
-      {
-        "title": "Students & graduates",
-        "url": "https://lyondellbasell.com/en/careers/students-graduates"
-      },
-      {
-        "title": "Career pathways At LYB, we offer a range of career paths. Find what fuels your passion.",
-        "url": "https://lyondellbasell.com/en/careers/career-pathways"
-      },
-      {
-        "title": "LYB locations We’re in 32 countries with headquarters in North America and Europe.",
-        "url": "https://careers.lyondellbasell.com/content/Locations/?locale=en_US"
-      },
-      {
-        "title": "Career FAQs Get answers to commonly asked questions from LYB job seekers.",
-        "url": "https://lyondellbasell.com/en/careers/faqs"
-      }
-    ]
-  },
-  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1302,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Solution Architect (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/solution-architect-m-f-d/3342/46004145536"
+        "title": "Learning Enablement Specialist",
+        "url": "https://www.munichre.com/en/job/hartford/learning-enablement-specialist/3342/46011895808"
       },
       {
-        "title": "Lead Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/sydney/lead-pricing-actuary/3342/43547626304"
+        "title": "E&S Casualty Underwriter, AVP",
+        "url": "https://www.munichre.com/en/job/new-york/e-and-s-casualty-underwriter-avp/3342/45069185408"
       },
       {
-        "title": "Risk Management Surveyor",
-        "url": "https://www.munichre.com/en/job/durham/risk-management-surveyor/3342/46152969152"
+        "title": "Senior Underwriter, Delegated Property",
+        "url": "https://www.munichre.com/en/job/london/senior-underwriter-delegated-property/3342/46166671040"
       },
       {
-        "title": "CTI-Authorized Inspector for Sweden",
-        "url": "https://www.munichre.com/en/job/sweden/cti-authorized-inspector-for-sweden/3342/44828512640"
+        "title": "E&S Casualty Underwriter, AVP",
+        "url": "https://www.munichre.com/en/job/chicago/e-and-s-casualty-underwriter-avp/3342/45069185152"
       },
       {
         "title": "Find jobs",
@@ -1429,42 +1387,49 @@
     ]
   },
   {
-    "name": "OMV",
-    "website": "https://www.omv.com/en",
-    "career_page_url": "https://www.omv.com/en/career/grow-with-us",
-    "country_of_origin": "Austria",
+    "name": "Novo Nordisk",
+    "website": "https://www.novonordisk.com",
+    "career_page_url": "https://www.novonordisk.com/careers",
+    "country_of_origin": "Denmark",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Jobboard",
-        "url": "https://www.omv.com/en/career/grow-with-us/jobboard"
+        "title": "Careers at Novo",
+        "url": "https://www.novonordisk.com/careers/careers-at-novo.html"
       },
       {
-        "title": "Job stories",
-        "url": "https://www.omv.com/en/career/work-with-us/job-stories"
+        "title": "Find a job",
+        "url": "https://www.novonordisk.com/careers/find-a-job.html"
+      },
+      {
+        "title": "Job Alerts",
+        "url": "https://www.novonordisk.com/careers/job-agent.html"
+      },
+      {
+        "title": "Early Career",
+        "url": "https://www.novonordisk.com/careers/early-career-programmes.html"
+      },
+      {
+        "title": "Career areas",
+        "url": "https://www.novonordisk.com/careers/career-areas.html"
+      },
+      {
+        "title": "Our recruitment process",
+        "url": "https://www.novonordisk.com/careers/our-recruitment-process.html"
+      },
+      {
+        "title": "Notice on Recruitment Fraud",
+        "url": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html"
       }
     ]
   },
   {
-    "name": "Orange S.A.",
+    "name": "Orange",
     "website": "https://orange.com",
     "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Phoenix Pharmahandel",
-    "website": "https://www.phoenixgroup.eu/en",
-    "career_page_url": "https://www.phoenixgroup.eu/en/career",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Join the Team",
-        "url": "https://www.phoenixgroup.eu/en/career/find-jobs"
-      }
-    ]
   },
   {
     "name": "Renault",
@@ -1834,6 +1799,35 @@
     ]
   },
   {
+    "name": "Siemens Energy",
+    "website": "https://www.siemens-energy.com",
+    "career_page_url": "https://www.siemens-energy.com/global/en/home/careers/working-at-siemens-energy-.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Rotating grid stabilizers",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/working-at-siemens-energy-.html"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html"
+      },
+      {
+        "title": "Early career",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html"
+      },
+      {
+        "title": "How we hire",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/how-we-hire.html"
+      },
+      {
+        "title": "Learn more about how we live equality",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/inclusion-diversity.html"
+      }
+    ]
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1860,71 +1854,6 @@
       {
         "title": "Careers",
         "url": "https://www.talanx.com/en/talanx-group/careers"
-      }
-    ]
-  },
-  {
-    "name": "ThyssenKrupp",
-    "website": "http://thyssenkrupp.com",
-    "career_page_url": "https://jobs.thyssenkrupp.com/de",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Logo",
-        "url": "https://jobs.thyssenkrupp.com/de"
-      },
-      {
-        "title": "Account Specialist",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Account-Specialist-Mailand/974230"
-      },
-      {
-        "title": "Order Management Specialist (german speaking)",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Order-Management-Specialist-german-speaking-Budapest/974225"
-      },
-      {
-        "title": "Manager Accounting Principles für IFRS-Grundsatzfragen (m/w/d)",
-        "url": "https://jobs.thyssenkrupp.com/de/job/Manager-Accounting-Principles-fuer-IFRS-Grundsatzfragen-m_w_d-Dortmund/974222"
-      },
-      {
-        "title": "Experte:in Treasury Management & Heding (m/w/d)",
-        "url": "https://jobs.thyssenkrupp.com/de/job/Experte_in-Treasury-Management-Heding-m_w_d-Duisburg/JR0000014033"
-      },
-      {
-        "title": "Receiving Inspection Tech Met Lab",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Receiving-Inspection-Tech-Met-Lab-Lafayette/JR106198"
-      },
-      {
-        "title": "Gauge Lab Technician",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Gauge-Lab-Technician-Lafayette/JR106197"
-      },
-      {
-        "title": "Director of Fabrication Sales",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Director-of-Fabrication-Sales-Oklahoma/JR106193"
-      },
-      {
-        "title": "Shipping/Receiving Supervisor",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Shipping_Receiving-Supervisor-Beaver/JR106181"
-      },
-      {
-        "title": "Warehouse Associate - 2nd Shift",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Warehouse-Associate-2nd-Shift-Middleburg-Heights/JR106191"
-      },
-      {
-        "title": "Metal Plate Saw Operator (Night Shift)",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Metal-Plate-Saw-Operator-Night-Shift-Concord/JR105707"
-      },
-      {
-        "title": "Werkstudent (m/w/d) Business Support & Administration",
-        "url": "https://jobs.thyssenkrupp.com/de/job/Werkstudent-m_w_d-Business-Support-Administration-Ennigerloh/974140"
-      },
-      {
-        "title": "Duales Studium –Wirtschaftsingenieurwesen, B.Eng. (m/w/d) 2027 Schwerpunkt Internationales Technisches Projektmanagement",
-        "url": "https://jobs.thyssenkrupp.com/de/job/Duales-Studium-–Wirtschaftsingenieurwesen-B.Eng.-m_w_d-2027-Schwerpunkt-Internationales-Technisches-Projektmanagement-Heilbronn/974132"
-      },
-      {
-        "title": "Senior gH2 Service Manager (all genders welcome)",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Senior-gH2-Service-Manager-all-genders-welcome-Dortmund/974124"
       }
     ]
   },
@@ -2170,12 +2099,45 @@
     ]
   },
   {
-    "name": "Volvo",
+    "name": "Volvo Group",
     "website": "https://volvogroup.com",
     "career_page_url": "https://volvogroup.com/careers",
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "X5 Group",
+    "website": "http://x5.ru/en",
+    "career_page_url": "http://x5.ru/en/career",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Смотреть все вакансии →",
+        "url": "http://x5.ru/vacancies"
+      },
+      {
+        "title": "Розничная торговля",
+        "url": "http://x5.ru/vacancies?vacancy_categories=магазиныидарксторы"
+      },
+      {
+        "title": "Логистика и РЦ",
+        "url": "http://x5.ru/vacancies?vacancy_categories=логистика,распределительныйцентр"
+      },
+      {
+        "title": "IT и разработка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=it"
+      },
+      {
+        "title": "Офис",
+        "url": "http://x5.ru/vacancies?vacancy_categories=офис"
+      },
+      {
+        "title": "Доставка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",
