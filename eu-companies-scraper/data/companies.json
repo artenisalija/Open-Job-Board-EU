@@ -1067,13 +1067,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1149,40 +1149,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "IT Security Officer - IAM Expert",
-        "url": "https://careers.ing.com/en/job/luxembourg/it-security-officer-iam-expert/3121/46137873920"
+        "title": "Assistenz Internal Audit (Corporate Audit Services) (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/assistenz-internal-audit-corporate-audit-services-w-m-d/3121/46155028096"
       },
       {
-        "title": "Data Scientist Specialist-1",
-        "url": "https://careers.ing.com/en/job/silesia/data-scientist-specialist-1/3121/46131517440"
+        "title": "Client Tax Services Specialist",
+        "url": "https://careers.ing.com/en/job/madrid/client-tax-services-specialist/3121/46155027904"
       },
       {
-        "title": "Back Office Titoli Specialist",
-        "url": "https://careers.ing.com/en/job/milan/back-office-titoli-specialist/3121/45930009024"
+        "title": "Senior Specialist",
+        "url": "https://careers.ing.com/en/job/makati-city/senior-specialist/3121/46155027776"
       },
       {
-        "title": "Expert DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/silesia/expert-devops-engineer/3121/46131517312"
+        "title": "Product Expert | Investments Tribe @ING Bank",
+        "url": "https://careers.ing.com/en/job/bucharest/product-expert-investments-tribe-ing-bank/3121/46155027584"
       },
       {
-        "title": "Risk Model Strategy & Monitoring Specialist",
-        "url": "https://careers.ing.com/en/job/amsterdam/risk-model-strategy-and-monitoring-specialist/3121/37239023872"
+        "title": "Data Operations Professional",
+        "url": "https://careers.ing.com/en/job/makati-city/data-operations-professional/3121/46155027328"
       },
       {
-        "title": "Cards Manager Operations",
-        "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
+        "title": "Data Governance Expert",
+        "url": "https://careers.ing.com/en/job/singapore/data-governance-expert/3121/46155027200"
       },
       {
-        "title": "Staff - AI Experience Designer",
-        "url": "https://careers.ing.com/en/job/amsterdam/staff-ai-experience-designer/3121/45976366080"
+        "title": "Credit Risk Analyst - 14 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/sydney/credit-risk-analyst-14-months-fixed-term-contract/3121/45704838400"
       },
       {
-        "title": "Staż z Lwem w Centrum Bankowości Biznesowej",
-        "url": "https://careers.ing.com/en/job/podlasie/staz-z-lwem-w-centrum-bankowosci-biznesowej/3121/45665873600"
+        "title": "Specjalista_tka ds. obsługi kasowej",
+        "url": "https://careers.ing.com/en/job/jaworzno/specjalista-tka-ds-obs%c5%82ugi-kasowej/3121/46155026560"
       },
       {
-        "title": "Intern",
-        "url": "https://careers.ing.com/en/job/amsterdam/intern/3121/46131516928"
+        "title": "Java Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/46147536064"
       }
     ]
   },
@@ -1302,20 +1302,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Software Engineer, US Life (2027 Permanent)",
-        "url": "https://www.munichre.com/en/job/new-york/software-engineer-us-life-2027-permanent/3342/44485912576"
+        "title": "Solution Architect (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/solution-architect-m-f-d/3342/46004145536"
       },
       {
-        "title": "Loss Control Inspector Trainee",
-        "url": "https://www.munichre.com/en/job/beaumont/loss-control-inspector-trainee/3342/44366344768"
+        "title": "Lead Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/sydney/lead-pricing-actuary/3342/43547626304"
       },
       {
-        "title": "Learning Enablement Specialist",
-        "url": "https://www.munichre.com/en/job/hartford/learning-enablement-specialist/3342/46011895808"
+        "title": "Risk Management Surveyor",
+        "url": "https://www.munichre.com/en/job/durham/risk-management-surveyor/3342/46152969152"
       },
       {
-        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
+        "title": "CTI-Authorized Inspector for Sweden",
+        "url": "https://www.munichre.com/en/job/sweden/cti-authorized-inspector-for-sweden/3342/44828512640"
       },
       {
         "title": "Find jobs",
@@ -1875,8 +1875,16 @@
         "url": "https://jobs.thyssenkrupp.com/de"
       },
       {
-        "title": "Senior Project Management Office Mitarbeiter:in (m/w/d)",
-        "url": "https://jobs.thyssenkrupp.com/de/job/Senior-Project-Management-Office-Mitarbeiter_in-m_w_d-Duisburg/JR0000014146"
+        "title": "Account Specialist",
+        "url": "https://jobs.thyssenkrupp.com/en/job/Account-Specialist-Mailand/974230"
+      },
+      {
+        "title": "Order Management Specialist (german speaking)",
+        "url": "https://jobs.thyssenkrupp.com/en/job/Order-Management-Specialist-german-speaking-Budapest/974225"
+      },
+      {
+        "title": "Manager Accounting Principles für IFRS-Grundsatzfragen (m/w/d)",
+        "url": "https://jobs.thyssenkrupp.com/de/job/Manager-Accounting-Principles-fuer-IFRS-Grundsatzfragen-m_w_d-Dortmund/974222"
       },
       {
         "title": "Experte:in Treasury Management & Heding (m/w/d)",
@@ -1917,22 +1925,6 @@
       {
         "title": "Senior gH2 Service Manager (all genders welcome)",
         "url": "https://jobs.thyssenkrupp.com/en/job/Senior-gH2-Service-Manager-all-genders-welcome-Dortmund/974124"
-      },
-      {
-        "title": "Traveling Team Lead - OH",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Traveling-Team-Lead-OH-Elyria/JR106132"
-      },
-      {
-        "title": "Convocatoria Practicantes | Enero-Junio 2027",
-        "url": "https://jobs.thyssenkrupp.com/es/job/Convocatoria-Practicantes-|-Enero-Junio-2027-Huejotzingo/974010"
-      },
-      {
-        "title": "Maintenance Tech II",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Maintenance-Tech-II-Smithfield/JR106052"
-      },
-      {
-        "title": "Shipping/Receiving Clerk",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Shipping_Receiving-Clerk-Wallingford/JR105988"
       }
     ]
   },
@@ -2046,6 +2038,14 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
+  },
+  {
+    "name": "Vinci",
+    "website": "https://www.vinci.com",
+    "career_page_url": "https://www.vinci.com/join-us",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Vodafone",
