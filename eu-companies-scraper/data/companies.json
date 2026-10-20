@@ -1160,40 +1160,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Digital Campaign Analyst",
+        "url": "https://careers.ing.com/en/job/silesia/digital-campaign-analyst/3121/45574995200"
+      },
+      {
+        "title": "Internships Equity Capital Markets",
+        "url": "https://careers.ing.com/en/job/amsterdam/internships-equity-capital-markets/3121/46169989120"
+      },
+      {
+        "title": "Expert - Regulatory Compliance",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-regulatory-compliance/3121/46169988928"
+      },
+      {
+        "title": "Internship Transaction Services/Trade Finance Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-transaction-services-trade-finance-services/3121/45341212672"
+      },
+      {
+        "title": "Doradca_czyni Klienta Zamożnego - Private Banking",
+        "url": "https://careers.ing.com/en/job/kielce/doradca-czyni-klienta-zamoznego-private-banking/3121/46169988480"
+      },
+      {
+        "title": "Senior Java Engineer OnePAM Integration Layer @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/senior-java-engineer-onepam-integration-layer-ing-hubs-romania/3121/46169988352"
+      },
+      {
+        "title": "Senior Phishing Simulation Specialist",
+        "url": "https://careers.ing.com/en/job/madrid/senior-phishing-simulation-specialist/3121/45704838016"
+      },
+      {
         "title": "Cards Manager Operations",
         "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
       },
       {
         "title": "REQ-10114022 Senior Business Analyst - Microservices & APIs @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/req-10114022-senior-business-analyst-microservices-and-apis-ing-hubs-romania/3121/46162965824"
-      },
-      {
-        "title": "Customer Journey Expert (w/m/d) Daily Banking Products im Bereich Business Banking",
-        "url": "https://careers.ing.com/en/job/berlin/customer-journey-expert-w-m-d-daily-banking-products-im-bereich-business-banking/3121/46162965760"
-      },
-      {
-        "title": "Quality Assurance Engineer",
-        "url": "https://careers.ing.com/en/job/madrid/quality-assurance-engineer/3121/46162965696"
-      },
-      {
-        "title": "Intern, HR Operations",
-        "url": "https://careers.ing.com/en/job/singapore/intern-hr-operations/3121/46008155648"
-      },
-      {
-        "title": "Solution Designer",
-        "url": "https://careers.ing.com/en/job/milan/solution-designer/3121/46162965568"
-      },
-      {
-        "title": "Public Affairs Expert (w/m/d)",
-        "url": "https://careers.ing.com/en/job/berlin/public-affairs-expert-w-m-d/3121/46162965440"
-      },
-      {
-        "title": "Intern, Rates Trading",
-        "url": "https://careers.ing.com/en/job/singapore/intern-rates-trading/3121/46162965376"
-      },
-      {
-        "title": "Digital Assets CJE - Business Analyst @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/digital-assets-cje-business-analyst-ing-hubs-romania/3121/46162965312"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Learning Enablement Specialist",
-        "url": "https://www.munichre.com/en/job/hartford/learning-enablement-specialist/3342/46011895808"
+        "title": "Sr. Product Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/46175179840"
       },
       {
-        "title": "E&S Casualty Underwriter, AVP",
-        "url": "https://www.munichre.com/en/job/new-york/e-and-s-casualty-underwriter-avp/3342/45069185408"
+        "title": "Account Manager, Claims",
+        "url": "https://www.munichre.com/en/job/toronto/account-manager-claims/3342/42377889856"
       },
       {
-        "title": "Senior Underwriter, Delegated Property",
-        "url": "https://www.munichre.com/en/job/london/senior-underwriter-delegated-property/3342/46166671040"
+        "title": "Security Operations Center Coordinator",
+        "url": "https://www.munichre.com/en/job/hartford/security-operations-center-coordinator/3342/44439415168"
       },
       {
-        "title": "E&S Casualty Underwriter, AVP",
-        "url": "https://www.munichre.com/en/job/chicago/e-and-s-casualty-underwriter-avp/3342/45069185152"
+        "title": "Manager & Actuary, Inforce and M&A",
+        "url": "https://www.munichre.com/en/job/new-york/manager-and-actuary-inforce-and-m-and-a/3342/45976659968"
       },
       {
         "title": "Find jobs",
@@ -1971,7 +1971,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
