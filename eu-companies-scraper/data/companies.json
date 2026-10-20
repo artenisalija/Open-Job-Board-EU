@@ -1067,13 +1067,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1149,6 +1149,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "IT Security Officer - IAM Expert",
+        "url": "https://careers.ing.com/en/job/luxembourg/it-security-officer-iam-expert/3121/46137873920"
+      },
+      {
         "title": "Data Scientist Specialist-1",
         "url": "https://careers.ing.com/en/job/silesia/data-scientist-specialist-1/3121/46131517440"
       },
@@ -1179,10 +1183,6 @@
       {
         "title": "Intern",
         "url": "https://careers.ing.com/en/job/amsterdam/intern/3121/46131516928"
-      },
-      {
-        "title": "Functional Business Analyst",
-        "url": "https://careers.ing.com/en/job/amsterdam/functional-business-analyst/3121/46131516864"
       }
     ]
   },
@@ -1302,20 +1302,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspection Services Coordinator",
-        "url": "https://www.munichre.com/en/job/toronto/inspection-services-coordinator/3342/46131831168"
+        "title": "Software Engineer, US Life (2027 Permanent)",
+        "url": "https://www.munichre.com/en/job/new-york/software-engineer-us-life-2027-permanent/3342/44485912576"
       },
       {
-        "title": "Underwriter/ Business Analyst - 12 Month Contract",
-        "url": "https://www.munichre.com/en/job/toronto/underwriter-business-analyst-12-month-contract/3342/46131831040"
+        "title": "Loss Control Inspector Trainee",
+        "url": "https://www.munichre.com/en/job/beaumont/loss-control-inspector-trainee/3342/44366344768"
       },
       {
-        "title": "Customer Service Representative",
-        "url": "https://www.munichre.com/en/job/amelia/customer-service-representative/3342/46115723200"
+        "title": "Learning Enablement Specialist",
+        "url": "https://www.munichre.com/en/job/hartford/learning-enablement-specialist/3342/46011895808"
       },
       {
-        "title": "Senior Casualty Treaty Underwriter",
-        "url": "https://www.munichre.com/en/job/new-york/senior-casualty-treaty-underwriter/3342/46131830144"
+        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
       },
       {
         "title": "Find jobs",
@@ -1883,12 +1883,16 @@
         "url": "https://jobs.thyssenkrupp.com/de/job/Experte_in-Treasury-Management-Heding-m_w_d-Duisburg/JR0000014033"
       },
       {
-        "title": "Director of Fabrication Sales",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Director-of-Fabrication-Sales-Oklahoma/JR106193"
+        "title": "Receiving Inspection Tech Met Lab",
+        "url": "https://jobs.thyssenkrupp.com/en/job/Receiving-Inspection-Tech-Met-Lab-Lafayette/JR106198"
       },
       {
-        "title": "Bilingual Training Specialist",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Bilingual-Training-Specialist-Santa-Teresa/JR105809"
+        "title": "Gauge Lab Technician",
+        "url": "https://jobs.thyssenkrupp.com/en/job/Gauge-Lab-Technician-Lafayette/JR106197"
+      },
+      {
+        "title": "Director of Fabrication Sales",
+        "url": "https://jobs.thyssenkrupp.com/en/job/Director-of-Fabrication-Sales-Oklahoma/JR106193"
       },
       {
         "title": "Shipping/Receiving Supervisor",
@@ -1929,10 +1933,6 @@
       {
         "title": "Shipping/Receiving Clerk",
         "url": "https://jobs.thyssenkrupp.com/en/job/Shipping_Receiving-Clerk-Wallingford/JR105988"
-      },
-      {
-        "title": "Machine Operator I - Slitting Operator 2nd Shift",
-        "url": "https://jobs.thyssenkrupp.com/en/job/Machine-Operator-I-Slitting-Operator-2nd-Shift-Smithfield/JR105942"
       }
     ]
   },
@@ -2046,14 +2046,6 @@
         "url": "https://www.veolia.com/en/careers/internal-mobility"
       }
     ]
-  },
-  {
-    "name": "Vinci",
-    "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "Vodafone",
