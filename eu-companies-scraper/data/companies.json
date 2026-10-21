@@ -576,7 +576,7 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Zum Hauptinhalt springen",
+        "title": "Zum Hauptbereich springen",
         "url": "https://www.edeka.de/jobs"
       }
     ]
@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,6 +1160,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Director, Credit Risk Management",
+        "url": "https://careers.ing.com/en/job/new-york/director-credit-risk-management/3121/46176274496"
+      },
+      {
+        "title": "Data Management Expert",
+        "url": "https://careers.ing.com/en/job/brussels/data-management-expert/3121/46176274432"
+      },
+      {
         "title": "Digital Campaign Analyst",
         "url": "https://careers.ing.com/en/job/silesia/digital-campaign-analyst/3121/45574995200"
       },
@@ -1186,14 +1194,6 @@
       {
         "title": "Senior Phishing Simulation Specialist",
         "url": "https://careers.ing.com/en/job/madrid/senior-phishing-simulation-specialist/3121/45704838016"
-      },
-      {
-        "title": "Cards Manager Operations",
-        "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
-      },
-      {
-        "title": "REQ-10114022 Senior Business Analyst - Microservices & APIs @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/req-10114022-senior-business-analyst-microservices-and-apis-ing-hubs-romania/3121/46162965824"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Sr. Product Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/46175179840"
+        "title": "Senior Underwriter, Property Treaty",
+        "url": "https://www.munichre.com/en/job/hong-kong/senior-underwriter-property-treaty/3342/42885386688"
       },
       {
-        "title": "Account Manager, Claims",
-        "url": "https://www.munichre.com/en/job/toronto/account-manager-claims/3342/42377889856"
+        "title": "Catastrophe Risk Analyst",
+        "url": "https://www.munichre.com/en/job/sydney/catastrophe-risk-analyst/3342/43528343936"
       },
       {
-        "title": "Security Operations Center Coordinator",
-        "url": "https://www.munichre.com/en/job/hartford/security-operations-center-coordinator/3342/44439415168"
+        "title": "Financial Accounts Officer",
+        "url": "https://www.munichre.com/en/job/sydney/financial-accounts-officer/3342/44041682368"
       },
       {
-        "title": "Manager & Actuary, Inforce and M&A",
-        "url": "https://www.munichre.com/en/job/new-york/manager-and-actuary-inforce-and-m-and-a/3342/45976659968"
+        "title": "IABA APPLICATIONS",
+        "url": "https://www.munichre.com/en/job/united-states/iaba-applications/3342/46115694144"
       },
       {
         "title": "Find jobs",
@@ -1974,7 +1974,12 @@
     "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
