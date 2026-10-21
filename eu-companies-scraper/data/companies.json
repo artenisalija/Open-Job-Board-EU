@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,40 +1160,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Financial Crime Prevention Data Analyst/ Steward @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/financial-crime-prevention-data-analyst-steward-ing-hubs-romania/3121/46201154560"
+        "title": "Internship - AI-Software-engineer",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-ai-software-engineer/3121/46208587392"
       },
       {
-        "title": "Customer Journey & (Tech) Governance Expert (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/customer-journey-and-tech-governance-expert-w-m-d/3121/46201154496"
+        "title": "Digital Sales Expert",
+        "url": "https://careers.ing.com/en/job/madrid/digital-sales-expert/3121/46208587264"
       },
       {
-        "title": "INTERNSHIP - HR Communication & Intranet",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-hr-communication-and-intranet/3121/46201154432"
+        "title": "Associate, Information Security Engineer",
+        "url": "https://careers.ing.com/en/job/new-york/associate-information-security-engineer/3121/45898390720"
       },
       {
-        "title": "Back Office Fund Specialist",
-        "url": "https://careers.ing.com/en/job/milan/back-office-fund-specialist/3121/46201154368"
+        "title": "Senior Data Analyst (GenAI)",
+        "url": "https://careers.ing.com/en/job/istanbul/senior-data-analyst-genai/3121/46208587072"
       },
       {
-        "title": "Business Area Lead",
-        "url": "https://careers.ing.com/en/job/warsaw/business-area-lead/3121/46201154304"
+        "title": "Stage Reporting & leadgeneratie Investments",
+        "url": "https://careers.ing.com/en/job/amsterdam/stage-reporting-and-leadgeneratie-investments/3121/46208586944"
       },
       {
-        "title": "Senior DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-devops-engineer/3121/46201154240"
+        "title": "Internship - Content creatie en Employer Branding",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-content-creatie-en-employer-branding/3121/30987734592"
       },
       {
-        "title": "Credit Risk Senior Model Developer",
-        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-senior-model-developer/3121/46201154176"
+        "title": "Adviseur Vermogen in Opleiding",
+        "url": "https://careers.ing.com/en/job/rotterdam/adviseur-vermogen-in-opleiding/3121/45715991168"
       },
       {
-        "title": "Stagiaire Corporate Sector Coverage H/F/X",
-        "url": "https://careers.ing.com/en/job/paris/stagiaire-corporate-sector-coverage-h-f-x/3121/44835282048"
+        "title": "PBWM Training & Communication Stageur",
+        "url": "https://careers.ing.com/en/job/milan/pbwm-training-and-communication-stageur/3121/46193006336"
       },
       {
-        "title": "Client Services Daily Banking Specialist for NL (maternity leave cover)",
-        "url": "https://careers.ing.com/en/job/slovakia/client-services-daily-banking-specialist-for-nl-maternity-leave-cover/3121/46201153920"
+        "title": "Financing Programs & Lending Solutions Product Manager @ING Bank",
+        "url": "https://careers.ing.com/en/job/bucharest/financing-programs-and-lending-solutions-product-manager-ing-bank/3121/46208586304"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Claims Specialist - Surety",
-        "url": "https://www.munichre.com/en/job/princeton/senior-claims-specialist-surety/3342/46021769600"
+        "title": "Customer Service Rep I",
+        "url": "https://www.munichre.com/en/job/amelia/customer-service-rep-i/3342/46207464960"
       },
       {
-        "title": "Inspector - Lacrosse, WI",
-        "url": "https://www.munichre.com/en/job/la-crosse/inspector-lacrosse-wi/3342/46205209216"
+        "title": "Solution Architect Sr",
+        "url": "https://www.munichre.com/en/job/amelia/solution-architect-sr/3342/46212631552"
       },
       {
-        "title": "Category Manager - Real Estate & Office Services (m/f/d)* - befristet für 2 Jahre",
-        "url": "https://www.munichre.com/en/job/munich/category-manager-real-estate-and-office-services-m-f-d-befristet-fur-2-jahre/3342/46205208960"
+        "title": "HVAC Intern",
+        "url": "https://www.munichre.com/en/job/amelia/hvac-intern/3342/46115710976"
       },
       {
-        "title": "Solution Architect",
-        "url": "https://www.munichre.com/en/job/london/solution-architect/3342/46196331072"
+        "title": "Director, Business Analysis",
+        "url": "https://www.munichre.com/en/job/new-york/director-business-analysis/3342/46210724864"
       },
       {
         "title": "Find jobs",
@@ -1430,6 +1430,23 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Renault",
+    "website": "https://www.renaultgroup.com/en",
+    "career_page_url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.renaultgroup.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Repsol",
