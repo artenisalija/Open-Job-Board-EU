@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,40 +1160,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Chief Financial Officer (CFO)",
+        "url": "https://careers.ing.com/en/job/istanbul/chief-financial-officer-cfo/3121/46247741184"
+      },
+      {
+        "title": "Private Banker Family Liège",
+        "url": "https://careers.ing.com/en/job/liege/private-banker-family-liege/3121/46116196928"
+      },
+      {
+        "title": "Customer Journey Expert ING Private Banking",
+        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-ing-private-banking/3121/46247740928"
+      },
+      {
+        "title": "Java Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/46247740864"
+      },
+      {
+        "title": "Praktikant Client Coverage – Financial Institutions (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280"
+      },
+      {
+        "title": "Ekspert_ka ds. Digital Sales i Growth – sprzedaż zdalna dla firm",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-ds-digital-sales-i-growth-sprzedaz-zdalna-dla-firm/3121/46247740416"
+      },
+      {
+        "title": "Werkstudent Sustainable Corporate Mobility & Fuhrparkmanagement (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352"
+      },
+      {
         "title": "IT Integrator for Retail & Banking Technology @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/it-integrator-for-retail-and-banking-technology-ing-hubs-romania/3121/46240514752"
       },
       {
         "title": "Senior E2E Test Engineer",
         "url": "https://careers.ing.com/en/job/istanbul/senior-e2e-test-engineer/3121/46240514688"
-      },
-      {
-        "title": "Product Owner - Secure Service Edge",
-        "url": "https://careers.ing.com/en/job/katowice/product-owner-secure-service-edge/3121/46240514624"
-      },
-      {
-        "title": "BMG Account Manager, Greater China",
-        "url": "https://careers.ing.com/en/job/wan-chai/bmg-account-manager-greater-china/3121/44218275904"
-      },
-      {
-        "title": "Employee Journey Expert",
-        "url": "https://careers.ing.com/en/job/brussels/employee-journey-expert/3121/43062824448"
-      },
-      {
-        "title": "Performance marketing specialist ING Private Banking & Wealth Management",
-        "url": "https://careers.ing.com/en/job/amsterdam/performance-marketing-specialist-ing-private-banking-and-wealth-management/3121/46240514432"
-      },
-      {
-        "title": "Java Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/42776139072"
-      },
-      {
-        "title": "Praktikant Global Capital Markets (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248"
-      },
-      {
-        "title": "Digital Campaign Analyst",
-        "url": "https://careers.ing.com/en/job/silesia/digital-campaign-analyst/3121/45574995200"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Controller - IT Controlling Operations (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/senior-controller-it-controlling-operations-m-f-d/3342/46161110336"
+        "title": "Business Intelligence Intern",
+        "url": "https://www.munichre.com/en/job/hartford/business-intelligence-intern/3342/46247991552"
       },
       {
-        "title": "Liability Underwriter - North America",
-        "url": "https://www.munichre.com/en/job/london/liability-underwriter-north-america/3342/46159158208"
+        "title": "Reserving Actuary",
+        "url": "https://www.munichre.com/en/job/princeton/reserving-actuary/3342/44359176064"
       },
       {
-        "title": "Internship Quantitative Investment Strategies (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-quantitative-investment-strategies-m-f-d/3342/45961520768"
+        "title": "Insurance Risk Management Intern",
+        "url": "https://www.munichre.com/en/job/amelia/insurance-risk-management-intern/3342/44723358336"
       },
       {
-        "title": "Loss Control Inspector Trainee - Florissant, Missouri",
-        "url": "https://www.munichre.com/en/job/florissant/loss-control-inspector-trainee-florissant-missouri/3342/44719801984"
+        "title": "Underwriting Operations Lead",
+        "url": "https://www.munichre.com/en/job/amelia/underwriting-operations-lead/3342/44428393664"
       },
       {
         "title": "Find jobs",
