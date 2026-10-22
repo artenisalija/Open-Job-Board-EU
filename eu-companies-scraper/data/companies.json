@@ -576,7 +576,7 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Zum Hauptinhalt springen",
+        "title": "Zum Hauptbereich springen",
         "url": "https://www.edeka.de/jobs"
       }
     ]
@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Event Talent Pool (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/event-talent-pool-m-f-d/3342/46115694720"
+      },
+      {
+        "title": "IABA APPLICATIONS",
+        "url": "https://www.munichre.com/en/job/united-states/iaba-applications/3342/46115694144"
+      },
+      {
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/princeton/business-development-manager/3342/44491362368"
+      },
+      {
         "title": "Customer Service Rep I",
         "url": "https://www.munichre.com/en/job/amelia/customer-service-rep-i/3342/46207464960"
-      },
-      {
-        "title": "Solution Architect Sr",
-        "url": "https://www.munichre.com/en/job/amelia/solution-architect-sr/3342/46212631552"
-      },
-      {
-        "title": "HVAC Intern",
-        "url": "https://www.munichre.com/en/job/amelia/hvac-intern/3342/46115710976"
-      },
-      {
-        "title": "Director, Business Analysis",
-        "url": "https://www.munichre.com/en/job/new-york/director-business-analysis/3342/46210724864"
       },
       {
         "title": "Find jobs",
