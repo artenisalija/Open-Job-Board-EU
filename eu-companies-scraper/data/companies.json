@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,16 +1160,24 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Contractor, Procurement Travel Associate",
+        "url": "https://careers.ing.com/en/job/new-york/contractor-procurement-travel-associate/3121/41735925760"
+      },
+      {
+        "title": "Senior Engineer – Automation, Platform & Messaging",
+        "url": "https://careers.ing.com/en/job/amsterdam/senior-engineer-automation-platform-and-messaging/3121/46259110784"
+      },
+      {
+        "title": "Internship Model Validation",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-model-validation/3121/46254304000"
+      },
+      {
         "title": "Chief Financial Officer (CFO)",
         "url": "https://careers.ing.com/en/job/istanbul/chief-financial-officer-cfo/3121/46247741184"
       },
       {
         "title": "Private Banker Family Liège",
         "url": "https://careers.ing.com/en/job/liege/private-banker-family-liege/3121/46116196928"
-      },
-      {
-        "title": "Customer Journey Expert ING Private Banking",
-        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-ing-private-banking/3121/46247740928"
       },
       {
         "title": "Java Engineer",
@@ -1186,14 +1194,6 @@
       {
         "title": "Werkstudent Sustainable Corporate Mobility & Fuhrparkmanagement (w/m/d)",
         "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352"
-      },
-      {
-        "title": "IT Integrator for Retail & Banking Technology @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/it-integrator-for-retail-and-banking-technology-ing-hubs-romania/3121/46240514752"
-      },
-      {
-        "title": "Senior E2E Test Engineer",
-        "url": "https://careers.ing.com/en/job/istanbul/senior-e2e-test-engineer/3121/46240514688"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Business Intelligence Intern",
-        "url": "https://www.munichre.com/en/job/hartford/business-intelligence-intern/3342/46247991552"
+        "title": "Product Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/product-analyst/3342/46175179840"
       },
       {
-        "title": "Reserving Actuary",
-        "url": "https://www.munichre.com/en/job/princeton/reserving-actuary/3342/44359176064"
+        "title": "Compliance Officer, Data Protection Expert and Legal Counsel - Munich Re Italy (m/f/d*)",
+        "url": "https://www.munichre.com/en/job/milan/compliance-officer-data-protection-expert-and-legal-counsel-munich-re-italy-m-f-d/3342/45738393536"
       },
       {
-        "title": "Insurance Risk Management Intern",
-        "url": "https://www.munichre.com/en/job/amelia/insurance-risk-management-intern/3342/44723358336"
+        "title": "Sr. Product Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/46163587776"
       },
       {
-        "title": "Underwriting Operations Lead",
-        "url": "https://www.munichre.com/en/job/amelia/underwriting-operations-lead/3342/44428393664"
+        "title": "Customer Service Manager, Growth and Retention",
+        "url": "https://www.munichre.com/en/job/amelia/customer-service-manager-growth-and-retention/3342/46254460160"
       },
       {
         "title": "Find jobs",
