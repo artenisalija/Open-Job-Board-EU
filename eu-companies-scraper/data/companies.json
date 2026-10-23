@@ -1,5 +1,38 @@
 [
   {
+    "name": "AB InBev",
+    "website": "https://ab-inbev.com",
+    "career_page_url": "https://ab-inbev.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Learn More",
+        "url": "https://ab-inbev.com/careers/job-search"
+      },
+      {
+        "title": "See all Stories",
+        "url": "https://ab-inbev.com/careers/meet-our-people"
+      },
+      {
+        "title": "Learn More",
+        "url": "https://ab-inbev.com/careers/meet-our-people/angel-quiroz"
+      },
+      {
+        "title": "Learn More",
+        "url": "https://ab-inbev.com/careers/meet-our-people/caio-mendes"
+      },
+      {
+        "title": "Learn More",
+        "url": "https://ab-inbev.com/careers/meet-our-people/shay-bergman"
+      },
+      {
+        "title": "Careers",
+        "url": "https://ab-inbev.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Accenture",
     "website": "http://accenture.com",
     "career_page_url": "http://accenture.com/en/services/talent-organization",
@@ -1078,13 +1111,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,40 +1193,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Customer Journey Expert",
-        "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert/3121/46281037632"
+        "title": "Internships Equity Capital Markets",
+        "url": "https://careers.ing.com/en/job/amsterdam/internships-equity-capital-markets/3121/46169989120"
       },
       {
-        "title": "Expert DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/silesia/expert-devops-engineer/3121/46131517312"
+        "title": "Sourcing Project Manager Global Technology",
+        "url": "https://careers.ing.com/en/job/amsterdam/sourcing-project-manager-global-technology/3121/34866641152"
       },
       {
-        "title": "Finance Budget Partner",
-        "url": "https://careers.ing.com/en/job/madrid/finance-budget-partner/3121/46281037504"
+        "title": "Stageplaats Brasschaat",
+        "url": "https://careers.ing.com/en/job/flanders/stageplaats-brasschaat/3121/46286546752"
       },
       {
-        "title": "Internal Mobility Intership",
-        "url": "https://careers.ing.com/en/job/brussels/internal-mobility-intership/3121/42482019072"
+        "title": "Staż z Lwem w Zespole Kadrowym",
+        "url": "https://careers.ing.com/en/job/silesia/staz-z-lwem-w-zespole-kadrowym/3121/46286546688"
       },
       {
-        "title": "Private Banker - Dirigeants de PME",
-        "url": "https://careers.ing.com/en/job/liege/private-banker-dirigeants-de-pme/3121/43435291328"
+        "title": "Praktikant Payroll (m/w/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624"
       },
       {
-        "title": "stageplaats Schilde",
-        "url": "https://careers.ing.com/en/job/flanders/stageplaats-schilde/3121/46281037312"
+        "title": "Senior Data Platform Engineer",
+        "url": "https://careers.ing.com/en/job/warsaw/senior-data-platform-engineer/3121/46286546560"
       },
       {
-        "title": "Senior Java Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-java-engineer/3121/46247740864"
+        "title": "Internship Regulatory Data & AI",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-regulatory-data-and-ai/3121/46286546496"
       },
       {
-        "title": "Investment Expert Lead Generation (locatie Brussel, Gent of Louvain-La-Neuve)",
-        "url": "https://careers.ing.com/en/job/brussels/investment-expert-lead-generation-locatie-brussel-gent-of-louvain-la-neuve/3121/40912394880"
+        "title": "stageplaats Turnhout",
+        "url": "https://careers.ing.com/en/job/turnhout/stageplaats-turnhout/3121/46286546432"
       },
       {
-        "title": "Personal Banker Antwerpen",
-        "url": "https://careers.ing.com/en/job/flanders/personal-banker-antwerpen/3121/46281037120"
+        "title": "Business Manager Wholesale Banking Belgium",
+        "url": "https://careers.ing.com/en/job/brussels/business-manager-wholesale-banking-belgium/3121/46286546368"
       }
     ]
   },
@@ -1971,7 +2004,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
