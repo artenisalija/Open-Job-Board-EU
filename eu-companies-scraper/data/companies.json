@@ -1160,40 +1160,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Full-Stack Developer – Customer Data",
+        "url": "https://careers.ing.com/en/job/brussels/senior-full-stack-developer-customer-data/3121/46272469376"
+      },
+      {
+        "title": "INTERNSHIP - Assistant Commercial - Private Banking",
+        "url": "https://careers.ing.com/en/job/luxembourg/internship-assistant-commercial-private-banking/3121/46272469248"
+      },
+      {
+        "title": "Internship Structured Acquisition Finance Mid-Corporates",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-structured-acquisition-finance-mid-corporates/3121/45619387584"
+      },
+      {
+        "title": "Portfolio Credit Risk Manager",
+        "url": "https://careers.ing.com/en/job/brussels/portfolio-credit-risk-manager/3121/43500931264"
+      },
+      {
+        "title": "NL Cards Disputes Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/nl-cards-disputes-analyst/3121/45961167744"
+      },
+      {
+        "title": "Paid Internship - WB CSD Orchestration Team (for students only)",
+        "url": "https://careers.ing.com/en/job/slovakia/paid-internship-wb-csd-orchestration-team-for-students-only/3121/46272468864"
+      },
+      {
+        "title": "Lead Professional Wealth",
+        "url": "https://careers.ing.com/en/job/amsterdam/lead-professional-wealth/3121/45704839040"
+      },
+      {
+        "title": "Lead DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/sydney/lead-devops-engineer/3121/46272468736"
+      },
+      {
         "title": "Contractor, Procurement Travel Associate",
         "url": "https://careers.ing.com/en/job/new-york/contractor-procurement-travel-associate/3121/41735925760"
-      },
-      {
-        "title": "Senior Engineer – Automation, Platform & Messaging",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-engineer-automation-platform-and-messaging/3121/46259110784"
-      },
-      {
-        "title": "Internship Model Validation",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-model-validation/3121/46254304000"
-      },
-      {
-        "title": "Chief Financial Officer (CFO)",
-        "url": "https://careers.ing.com/en/job/istanbul/chief-financial-officer-cfo/3121/46247741184"
-      },
-      {
-        "title": "Private Banker Family Liège",
-        "url": "https://careers.ing.com/en/job/liege/private-banker-family-liege/3121/46116196928"
-      },
-      {
-        "title": "Java Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/46247740864"
-      },
-      {
-        "title": "Praktikant Client Coverage – Financial Institutions (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280"
-      },
-      {
-        "title": "Ekspert_ka ds. Digital Sales i Growth – sprzedaż zdalna dla firm",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ka-ds-digital-sales-i-growth-sprzedaz-zdalna-dla-firm/3121/46247740416"
-      },
-      {
-        "title": "Werkstudent Sustainable Corporate Mobility & Fuhrparkmanagement (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352"
       }
     ]
   },
@@ -1260,20 +1260,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Product Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/product-analyst/3342/46175179840"
+        "title": "Sustainability Intern, Group Sustainability ESG Integration (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/sustainability-intern-group-sustainability-esg-integration-m-f-d/3342/46269279616"
       },
       {
-        "title": "Compliance Officer, Data Protection Expert and Legal Counsel - Munich Re Italy (m/f/d*)",
-        "url": "https://www.munichre.com/en/job/milan/compliance-officer-data-protection-expert-and-legal-counsel-munich-re-italy-m-f-d/3342/45738393536"
+        "title": "Business Development Manager",
+        "url": "https://www.munichre.com/en/job/london/business-development-manager/3342/46008771520"
       },
       {
-        "title": "Sr. Product Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/46163587776"
+        "title": "Engineer Surveyor - Cat 2 - Blackburn",
+        "url": "https://www.munichre.com/en/job/blackburn/engineer-surveyor-cat-2-blackburn/3342/45622318720"
       },
       {
-        "title": "Customer Service Manager, Growth and Retention",
-        "url": "https://www.munichre.com/en/job/amelia/customer-service-manager-growth-and-retention/3342/46254460160"
+        "title": "Engineer Surveyor Cat 2 - Manchester",
+        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-cat-2-manchester/3342/45622317120"
       },
       {
         "title": "Find jobs",
@@ -1971,10 +1971,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
