@@ -1078,13 +1078,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1160,40 +1160,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Full-Stack Developer – Customer Data",
-        "url": "https://careers.ing.com/en/job/brussels/senior-full-stack-developer-customer-data/3121/46272469376"
+        "title": "Customer Journey Expert",
+        "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert/3121/46281037632"
       },
       {
-        "title": "INTERNSHIP - Assistant Commercial - Private Banking",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-assistant-commercial-private-banking/3121/46272469248"
+        "title": "Expert DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/silesia/expert-devops-engineer/3121/46131517312"
       },
       {
-        "title": "Internship Structured Acquisition Finance Mid-Corporates",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-structured-acquisition-finance-mid-corporates/3121/45619387584"
+        "title": "Finance Budget Partner",
+        "url": "https://careers.ing.com/en/job/madrid/finance-budget-partner/3121/46281037504"
       },
       {
-        "title": "Portfolio Credit Risk Manager",
-        "url": "https://careers.ing.com/en/job/brussels/portfolio-credit-risk-manager/3121/43500931264"
+        "title": "Internal Mobility Intership",
+        "url": "https://careers.ing.com/en/job/brussels/internal-mobility-intership/3121/42482019072"
       },
       {
-        "title": "NL Cards Disputes Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/nl-cards-disputes-analyst/3121/45961167744"
+        "title": "Private Banker - Dirigeants de PME",
+        "url": "https://careers.ing.com/en/job/liege/private-banker-dirigeants-de-pme/3121/43435291328"
       },
       {
-        "title": "Paid Internship - WB CSD Orchestration Team (for students only)",
-        "url": "https://careers.ing.com/en/job/slovakia/paid-internship-wb-csd-orchestration-team-for-students-only/3121/46272468864"
+        "title": "stageplaats Schilde",
+        "url": "https://careers.ing.com/en/job/flanders/stageplaats-schilde/3121/46281037312"
       },
       {
-        "title": "Lead Professional Wealth",
-        "url": "https://careers.ing.com/en/job/amsterdam/lead-professional-wealth/3121/45704839040"
+        "title": "Senior Java Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/senior-java-engineer/3121/46247740864"
       },
       {
-        "title": "Lead DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/sydney/lead-devops-engineer/3121/46272468736"
+        "title": "Investment Expert Lead Generation (locatie Brussel, Gent of Louvain-La-Neuve)",
+        "url": "https://careers.ing.com/en/job/brussels/investment-expert-lead-generation-locatie-brussel-gent-of-louvain-la-neuve/3121/40912394880"
       },
       {
-        "title": "Contractor, Procurement Travel Associate",
-        "url": "https://careers.ing.com/en/job/new-york/contractor-procurement-travel-associate/3121/41735925760"
+        "title": "Personal Banker Antwerpen",
+        "url": "https://careers.ing.com/en/job/flanders/personal-banker-antwerpen/3121/46281037120"
       }
     ]
   },
@@ -1971,15 +1971,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
