@@ -326,14 +326,6 @@
     ]
   },
   {
-    "name": "Axa",
-    "website": "https://www.axa.com",
-    "career_page_url": "https://www.axa.com/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Banco Santander",
     "website": "https://santander.com",
     "career_page_url": "https://www.santander.com/en/careers",
@@ -609,7 +601,7 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Zum Hauptinhalt springen",
+        "title": "Zum Hauptbereich springen",
         "url": "https://www.edeka.de/jobs"
       }
     ]
@@ -840,29 +832,29 @@
   {
     "name": "Glencore",
     "website": "https://www.glencore.com",
-    "career_page_url": "https://www.glencore.com/careers/jobs",
+    "career_page_url": "https://www.glencore.com/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "SKIP NAVIGATION",
-        "url": "https://www.glencore.com/careers/jobs"
+        "url": "https://www.glencore.com/careers"
       },
       {
         "title": "Careers",
         "url": "https://www.glencore.com/en/careers"
       },
       {
-        "title": "EN",
-        "url": "https://www.glencore.com/en/careers/jobs"
-      },
-      {
         "title": "FR",
-        "url": "https://www.glencore.com/fr/careers/jobs"
+        "url": "https://www.glencore.com/fr/careers"
       },
       {
         "title": "ES",
-        "url": "https://www.glencore.com/es/careers/jobs"
+        "url": "https://www.glencore.com/es/careers"
+      },
+      {
+        "title": "Jobs",
+        "url": "https://www.glencore.com/en/careers/jobs"
       },
       {
         "title": "Life at Glencore",
