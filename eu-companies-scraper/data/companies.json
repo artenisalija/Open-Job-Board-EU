@@ -1111,13 +1111,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1193,6 +1193,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Internship ING AI Engineering",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-ai-engineering/3121/44066654016"
+      },
+      {
         "title": "Internships Equity Capital Markets",
         "url": "https://careers.ing.com/en/job/amsterdam/internships-equity-capital-markets/3121/46169989120"
       },
@@ -1223,10 +1227,6 @@
       {
         "title": "stageplaats Turnhout",
         "url": "https://careers.ing.com/en/job/turnhout/stageplaats-turnhout/3121/46286546432"
-      },
-      {
-        "title": "Business Manager Wholesale Banking Belgium",
-        "url": "https://careers.ing.com/en/job/brussels/business-manager-wholesale-banking-belgium/3121/46286546368"
       }
     ]
   },
@@ -2004,7 +2004,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
