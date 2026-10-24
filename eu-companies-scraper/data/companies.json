@@ -840,29 +840,29 @@
   {
     "name": "Glencore",
     "website": "https://www.glencore.com",
-    "career_page_url": "https://www.glencore.com/careers",
+    "career_page_url": "https://www.glencore.com/careers/jobs",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "SKIP NAVIGATION",
-        "url": "https://www.glencore.com/careers"
+        "url": "https://www.glencore.com/careers/jobs"
       },
       {
         "title": "Careers",
         "url": "https://www.glencore.com/en/careers"
       },
       {
+        "title": "EN",
+        "url": "https://www.glencore.com/en/careers/jobs"
+      },
+      {
         "title": "FR",
-        "url": "https://www.glencore.com/fr/careers"
+        "url": "https://www.glencore.com/fr/careers/jobs"
       },
       {
         "title": "ES",
-        "url": "https://www.glencore.com/es/careers"
-      },
-      {
-        "title": "Jobs",
-        "url": "https://www.glencore.com/en/careers/jobs"
+        "url": "https://www.glencore.com/es/careers/jobs"
       },
       {
         "title": "Life at Glencore",
