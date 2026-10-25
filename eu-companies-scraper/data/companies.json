@@ -326,6 +326,14 @@
     ]
   },
   {
+    "name": "Axa",
+    "website": "https://www.axa.com",
+    "career_page_url": "https://www.axa.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Banco Santander",
     "website": "https://santander.com",
     "career_page_url": "https://www.santander.com/en/careers",
@@ -1249,19 +1257,6 @@
       {
         "title": "page",
         "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
-      }
-    ]
-  },
-  {
-    "name": "Lukoil",
-    "website": "https://www.lukoil.com",
-    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
-    "country_of_origin": "Russia",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Vacancies",
-        "url": "https://www.lukoil.com/Company/Career/Vacancies"
       }
     ]
   },
