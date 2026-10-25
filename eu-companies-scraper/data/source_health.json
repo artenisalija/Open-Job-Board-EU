@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T10:31:29.775453+00:00",
+  "generated_at_utc": "2026-10-25T15:23:49.156178+00:00",
   "candidates": {
     "wikipedia": 100,
     "wikipedia_global": 10,
@@ -15,6 +15,6 @@
     "wikipedia": 57,
     "wikipedia_global": 1
   },
-  "previous_published": 57,
+  "previous_published": 58,
   "status": "ok"
 }
