@@ -1111,13 +1111,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1193,6 +1193,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Assistant Manager/ Manager, Bank Guarantee Operation",
+        "url": "https://careers.ing.com/en/job/singapore/assistant-manager-manager-bank-guarantee-operation/3121/44835281920"
+      },
+      {
         "title": "Internship ING AI Engineering",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-ai-engineering/3121/44066654016"
       },
@@ -1223,10 +1227,6 @@
       {
         "title": "Internship Regulatory Data & AI",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-regulatory-data-and-ai/3121/46286546496"
-      },
-      {
-        "title": "stageplaats Turnhout",
-        "url": "https://careers.ing.com/en/job/turnhout/stageplaats-turnhout/3121/46286546432"
       }
     ]
   },
@@ -1293,20 +1293,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Sustainability Intern, Group Sustainability ESG Integration (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/sustainability-intern-group-sustainability-esg-integration-m-f-d/3342/46269279616"
+        "title": "Intern - IAM - Application Life Cycle Management (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-iam-application-life-cycle-management-m-f-d/3342/41156974912"
       },
       {
         "title": "Business Development Manager",
         "url": "https://www.munichre.com/en/job/london/business-development-manager/3342/46008771520"
       },
       {
-        "title": "Engineer Surveyor - Cat 2 - Blackburn",
-        "url": "https://www.munichre.com/en/job/blackburn/engineer-surveyor-cat-2-blackburn/3342/45622318720"
+        "title": "Category Manager - Real Estate & Office Services (m/f/d)* - befristet für 2 Jahre",
+        "url": "https://www.munichre.com/en/job/munich/category-manager-real-estate-and-office-services-m-f-d-befristet-fur-2-jahre/3342/46205208960"
       },
       {
-        "title": "Engineer Surveyor Cat 2 - Manchester",
-        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-cat-2-manchester/3342/45622317120"
+        "title": "Sustainability Intern, Group Sustainability ESG Integration (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/sustainability-intern-group-sustainability-esg-integration-m-f-d/3342/46269279616"
       },
       {
         "title": "Find jobs",
@@ -2007,12 +2007,7 @@
     "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
