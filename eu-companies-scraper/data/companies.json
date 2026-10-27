@@ -1193,40 +1193,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "IT Operations Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/it-operations-engineer/3121/46385215936"
+      },
+      {
+        "title": "Risk Model Oversight Expert",
+        "url": "https://careers.ing.com/en/job/amsterdam/risk-model-oversight-expert/3121/37239024576"
+      },
+      {
+        "title": "IT Risk Officer",
+        "url": "https://careers.ing.com/en/job/makati-city/it-risk-officer/3121/46385215808"
+      },
+      {
+        "title": "Intern, Finance Data & Analytics",
+        "url": "https://careers.ing.com/en/job/singapore/intern-finance-data-and-analytics/3121/46385215744"
+      },
+      {
+        "title": "Senior Compliance Officer - Financial Crime Compliance (FCC) Advisory - x 4 fixed term contracts until March 2027",
+        "url": "https://careers.ing.com/en/job/sydney/senior-compliance-officer-financial-crime-compliance-fcc-advisory-x-4-fixed-term-contracts-until-ma/3121/46380375232"
+      },
+      {
+        "title": "Head of Operational Design Control & Resilience",
+        "url": "https://careers.ing.com/en/job/sydney/head-of-operational-design-control-and-resilience/3121/46185946560"
+      },
+      {
+        "title": "Test Automation Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/test-automation-engineer/3121/46380375168"
+      },
+      {
         "title": "IT Integrator_PSS @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/it-integrator-pss-ing-hubs-romania/3121/46369312192"
       },
       {
         "title": "Data Analist",
         "url": "https://careers.ing.com/en/job/amsterdam/data-analist/3121/46369312128"
-      },
-      {
-        "title": "Client Portfolio Banker",
-        "url": "https://careers.ing.com/en/job/ottignies-louvain-la-neuve/client-portfolio-banker/3121/46369312064"
-      },
-      {
-        "title": "Lead FBA Wholesale Banking ING NL",
-        "url": "https://careers.ing.com/en/job/amsterdam/lead-fba-wholesale-banking-ing-nl/3121/46015339776"
-      },
-      {
-        "title": "Business Manager Wholesale Banking Belgium",
-        "url": "https://careers.ing.com/en/job/brussels/business-manager-wholesale-banking-belgium/3121/46286546368"
-      },
-      {
-        "title": "DevOps Engineer@ ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/devops-engineer-ing-hubs-romania/3121/46369311872"
-      },
-      {
-        "title": "Stageplek HBO Employee Relations",
-        "url": "https://careers.ing.com/en/job/amsterdam/stageplek-hbo-employee-relations/3121/46369311808"
-      },
-      {
-        "title": "IT Business Analyst / Advanced",
-        "url": "https://careers.ing.com/en/job/warsaw/it-business-analyst-advanced/3121/46369311744"
-      },
-      {
-        "title": "Treasury Specialist – Liquidity Management & Money Markets (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/treasury-specialist-liquidity-management-and-money-markets-w-m-d/3121/46369311680"
       }
     ]
   },
@@ -1293,20 +1293,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Intern - IAM - Application Life Cycle Management (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-iam-application-life-cycle-management-m-f-d/3342/41156974912"
+        "title": "Surety Underwriter Germany (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/surety-underwriter-germany-m-f-d/3342/44283374656"
       },
       {
-        "title": "Business Development Manager",
-        "url": "https://www.munichre.com/en/job/london/business-development-manager/3342/46008771520"
+        "title": "Assistant Longevity Client Manager",
+        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
       },
       {
-        "title": "Category Manager - Real Estate & Office Services (m/f/d)* - befristet für 2 Jahre",
-        "url": "https://www.munichre.com/en/job/munich/category-manager-real-estate-and-office-services-m-f-d-befristet-fur-2-jahre/3342/46205208960"
+        "title": "Partnership Manager",
+        "url": "https://www.munichre.com/en/job/london/partnership-manager/3342/45045947008"
       },
       {
-        "title": "Sustainability Intern, Group Sustainability ESG Integration (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/sustainability-intern-group-sustainability-esg-integration-m-f-d/3342/46269279616"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
         "title": "Find jobs",
@@ -2004,15 +2004,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
