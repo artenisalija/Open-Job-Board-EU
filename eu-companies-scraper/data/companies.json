@@ -1111,13 +1111,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1193,40 +1193,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Data Analyst (Data Modelling)",
+        "url": "https://careers.ing.com/en/job/makati-city/data-analyst-data-modelling/3121/46281037632"
+      },
+      {
+        "title": "SOX Control Officer",
+        "url": "https://careers.ing.com/en/job/makati-city/sox-control-officer/3121/46413911488"
+      },
+      {
+        "title": "Młodszy_a Specjalista_tka ds. Księgowości Operacyjnej",
+        "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-a-specjalista-tka-ds-ksiegowosci-operacyjnej/3121/46413911104"
+      },
+      {
+        "title": "Personal Banker",
+        "url": "https://careers.ing.com/en/job/brussels/personal-banker/3121/46413910656"
+      },
+      {
+        "title": "Collections Officer - Multiple opportunities available",
+        "url": "https://careers.ing.com/en/job/sydney/collections-officer-multiple-opportunities-available/3121/42731796800"
+      },
+      {
+        "title": "Financial Crime Compliance Officer – Transaction Monitoring Analyst",
+        "url": "https://careers.ing.com/en/job/sydney/financial-crime-compliance-officer-transaction-monitoring-analyst/3121/44328022336"
+      },
+      {
+        "title": "Data Governance Circle Lead, Scalable Data Services",
+        "url": "https://careers.ing.com/en/job/makati-city/data-governance-circle-lead-scalable-data-services/3121/46408993408"
+      },
+      {
+        "title": "Finance Intern (Wholesale Banking, Manila Branch)",
+        "url": "https://careers.ing.com/en/job/city-of-taguig/finance-intern-wholesale-banking-manila-branch/3121/42028417600"
+      },
+      {
         "title": "Data and Insights Analyst - Operations",
         "url": "https://careers.ing.com/en/job/sydney/data-and-insights-analyst-operations/3121/46405539264"
-      },
-      {
-        "title": "Data Protection Steward (12-Month Fixed Term Contract)",
-        "url": "https://careers.ing.com/en/job/sydney/data-protection-steward-12-month-fixed-term-contract/3121/45682206272"
-      },
-      {
-        "title": "Senior Frontend Engineering Expert (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/senior-frontend-engineering-expert-w-m-d/3121/46405536896"
-      },
-      {
-        "title": "Associate, Data Management & Analytics Professional",
-        "url": "https://careers.ing.com/en/job/new-york/associate-data-management-and-analytics-professional/3121/46402482496"
-      },
-      {
-        "title": "Customer Journey Expert Customer Data – Onboarding & KYC (w/m/d) in Frankfurt / Nürnberg",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/customer-journey-expert-customer-data-onboarding-and-kyc-w-m-d-in-frankfurt-nurnberg/3121/46402482368"
-      },
-      {
-        "title": "Change Expert Customer Data – Onboarding & KYC (w/m/d) in Frankfurt / Nürnberg",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/change-expert-customer-data-onboarding-and-kyc-w-m-d-in-frankfurt-nurnberg/3121/46397868864"
-      },
-      {
-        "title": "Director Transaction Services Sales – Card Sales (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/director-transaction-services-sales-card-sales-w-m-d/3121/43278542528"
-      },
-      {
-        "title": "Director Trade Solution Sales – Wholesale Banking (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/director-trade-solution-sales-wholesale-banking-w-m-d/3121/43602739072"
-      },
-      {
-        "title": "Analyst – Trade Sales - Center of Expertise",
-        "url": "https://careers.ing.com/en/job/brussels/analyst-trade-sales-center-of-expertise/3121/46397868672"
       }
     ]
   },
@@ -1293,20 +1293,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Principal AI Data Scientist",
-        "url": "https://www.munichre.com/en/job/amelia/principal-ai-data-scientist/3342/46405777088"
+        "title": "Product Manager",
+        "url": "https://www.munichre.com/en/job/london/product-manager/3342/46414206720"
       },
       {
-        "title": "Product Analyst",
-        "url": "https://www.munichre.com/en/job/amelia/product-analyst/3342/46175179840"
+        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
       },
       {
-        "title": "Accoutning Process Improvement Manager",
-        "url": "https://www.munichre.com/en/job/amelia/accoutning-process-improvement-manager/3342/46402595328"
+        "title": "Compliance Counsel (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/compliance-counsel-m-w-d/3342/46112808256"
       },
       {
-        "title": "Senior HR Business Partner",
-        "url": "https://www.munichre.com/en/job/princeton/senior-hr-business-partner/3342/46363334336"
+        "title": "Structuring Actuary",
+        "url": "https://www.munichre.com/en/job/tokyo/structuring-actuary/3342/36549336832"
       },
       {
         "title": "Find jobs",
@@ -1991,10 +1991,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
@@ -2125,6 +2130,39 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "X5 Group",
+    "website": "http://x5.ru/en",
+    "career_page_url": "http://x5.ru/en/career",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Смотреть все вакансии →",
+        "url": "http://x5.ru/vacancies"
+      },
+      {
+        "title": "Розничная торговля",
+        "url": "http://x5.ru/vacancies?vacancy_categories=магазиныидарксторы"
+      },
+      {
+        "title": "Логистика и РЦ",
+        "url": "http://x5.ru/vacancies?vacancy_categories=логистика,распределительныйцентр"
+      },
+      {
+        "title": "IT и разработка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=it"
+      },
+      {
+        "title": "Офис",
+        "url": "http://x5.ru/vacancies?vacancy_categories=офис"
+      },
+      {
+        "title": "Доставка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",
