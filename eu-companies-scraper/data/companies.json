@@ -217,6 +217,19 @@
     ]
   },
   {
+    "name": "All But Sugar",
+    "website": "https://www.allbutsugar.com",
+    "career_page_url": "https://www.allbutsugar.com/hiring",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "View job",
+        "url": "https://www.allbutsugar.com/hiring"
+      }
+    ]
+  },
+  {
     "name": "Assicurazioni Generali",
     "website": "https://www.generali.com",
     "career_page_url": "https://www.generali.com/work-with-us/join-us/job-search",
@@ -499,6 +512,63 @@
     "jobs": []
   },
   {
+    "name": "Collect & Exchange",
+    "website": "https://collectnexchange.cy",
+    "career_page_url": "https://collectnexchange.cy/career",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/sales-manager"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/customer-success-manager"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/cmo"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/account-manager-acquiring"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/finance-controller"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/head-of-legal"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/treasury-specialist"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/bookkeeper"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/aml-compliance-specialist"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/risk-manager"
+      },
+      {
+        "title": "Apply Now",
+        "url": "https://collectnexchange.cy/career/seo-content-writer"
+      }
+    ]
+  },
+  {
     "name": "Compass Group",
     "website": "https://www.compass-group.com",
     "career_page_url": "https://www.compass-group.com/en/working-for-us/career-opportunities.html",
@@ -602,6 +672,19 @@
     "jobs": []
   },
   {
+    "name": "Dinape Payment Orchestration Platform",
+    "website": "https://www.dinape.com",
+    "career_page_url": "https://www.dinape.com/careers",
+    "country_of_origin": "Austria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://www.dinape.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Edeka",
     "website": "https://www.edeka.de",
     "career_page_url": "https://www.edeka.de/jobs",
@@ -611,6 +694,19 @@
       {
         "title": "Zum Hauptinhalt springen",
         "url": "https://www.edeka.de/jobs"
+      }
+    ]
+  },
+  {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/careers"
       }
     ]
   },
@@ -838,6 +934,32 @@
     ]
   },
   {
+    "name": "Flametree AI",
+    "website": "https://flametree.ai",
+    "career_page_url": "https://flametree.ai/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://flametree.ai/careers"
+      }
+    ]
+  },
+  {
+    "name": "Gearstack",
+    "website": "https://g-stack.app",
+    "career_page_url": "https://g-stack.app/en/careers",
+    "country_of_origin": "Croatia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "EN English",
+        "url": "https://g-stack.app/en/careers"
+      }
+    ]
+  },
+  {
     "name": "Glencore",
     "website": "https://www.glencore.com",
     "career_page_url": "https://www.glencore.com/careers",
@@ -915,6 +1037,40 @@
       {
         "title": "Kazakhstan",
         "url": "https://www.glencore.com/en/careers/early-careers/kazakhstan"
+      }
+    ]
+  },
+  {
+    "name": "Helena Bioinformatics",
+    "website": "https://helena.bio",
+    "career_page_url": "https://helena.bio/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://helena.bio/careers"
+      }
+    ]
+  },
+  {
+    "name": "HELLAS DIRECT",
+    "website": "https://www.hellasdirect.gr",
+    "career_page_url": "https://www.hellasdirect.gr/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "English",
+        "url": "https://www.hellasdirect.gr/en/careers"
+      },
+      {
+        "title": "Δες τις ανοιχτές θέσεις",
+        "url": "https://www.hellasdirect.gr/careers"
+      },
+      {
+        "title": "Πες μας για σένα",
+        "url": "https://apply.workable.com/hellasdirect/j/A94C155643"
       }
     ]
   },
@@ -1111,13 +1267,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1193,40 +1349,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Analyst (Data Modelling)",
-        "url": "https://careers.ing.com/en/job/makati-city/data-analyst-data-modelling/3121/46281037632"
+        "title": "Payments Contract & Partner Management Senior Expert",
+        "url": "https://careers.ing.com/en/job/milan/payments-contract-and-partner-management-senior-expert/3121/46421137792"
       },
       {
-        "title": "SOX Control Officer",
-        "url": "https://careers.ing.com/en/job/makati-city/sox-control-officer/3121/46413911488"
+        "title": "Internship Human Resources Business Partners",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-human-resources-business-partners/3121/46421137728"
       },
       {
-        "title": "Młodszy_a Specjalista_tka ds. Księgowości Operacyjnej",
-        "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-a-specjalista-tka-ds-ksiegowosci-operacyjnej/3121/46413911104"
+        "title": "Team Lead AML - Fraud",
+        "url": "https://careers.ing.com/en/job/sydney/team-lead-aml-fraud/3121/46421137600"
       },
       {
-        "title": "Personal Banker",
-        "url": "https://careers.ing.com/en/job/brussels/personal-banker/3121/46413910656"
+        "title": "Team Lead AML - Fraud",
+        "url": "https://careers.ing.com/en/job/melbourne/team-lead-aml-fraud/3121/46421137408"
       },
       {
-        "title": "Collections Officer - Multiple opportunities available",
-        "url": "https://careers.ing.com/en/job/sydney/collections-officer-multiple-opportunities-available/3121/42731796800"
+        "title": "Head of Cyber Risk Management",
+        "url": "https://careers.ing.com/en/job/amsterdam/head-of-cyber-risk-management/3121/46421137024"
       },
       {
-        "title": "Financial Crime Compliance Officer – Transaction Monitoring Analyst",
-        "url": "https://careers.ing.com/en/job/sydney/financial-crime-compliance-officer-transaction-monitoring-analyst/3121/44328022336"
+        "title": "Private Banker - Business Developer Dutch speaking markets",
+        "url": "https://careers.ing.com/en/job/luxembourg/private-banker-business-developer-dutch-speaking-markets/3121/46421136960"
       },
       {
-        "title": "Data Governance Circle Lead, Scalable Data Services",
-        "url": "https://careers.ing.com/en/job/makati-city/data-governance-circle-lead-scalable-data-services/3121/46408993408"
+        "title": "Personal Banker Kortrijk",
+        "url": "https://careers.ing.com/en/job/kortrijk/personal-banker-kortrijk/3121/46421136768"
       },
       {
-        "title": "Finance Intern (Wholesale Banking, Manila Branch)",
-        "url": "https://careers.ing.com/en/job/city-of-taguig/finance-intern-wholesale-banking-manila-branch/3121/42028417600"
+        "title": "Senior Data Engineer for Financial Markets",
+        "url": "https://careers.ing.com/en/job/slovakia/senior-data-engineer-for-financial-markets/3121/46421136576"
       },
       {
-        "title": "Data and Insights Analyst - Operations",
-        "url": "https://careers.ing.com/en/job/sydney/data-and-insights-analyst-operations/3121/46405539264"
+        "title": "Personal banker Hasselt",
+        "url": "https://careers.ing.com/en/job/hasselt/personal-banker-hasselt/3121/46421136512"
       }
     ]
   },
@@ -1274,6 +1430,27 @@
     ]
   },
   {
+    "name": "MindDory: Vocabulary & Grammar",
+    "website": "https://minddory.com",
+    "career_page_url": "https://minddory.com/blog/job-interview-abroad-english-b2",
+    "country_of_origin": "Czechia",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Job Interview English at B2: What to Prepare",
+        "url": "https://minddory.com/blog/job-interview-abroad-english-b2"
+      },
+      {
+        "title": "First Month at Work: English for a New Job",
+        "url": "https://minddory.com/blog/first-month-at-work-english-b1"
+      },
+      {
+        "title": "Dependent Prepositions in English at B1 and B2",
+        "url": "https://minddory.com/blog/english-dependent-prepositions-b1-b2"
+      }
+    ]
+  },
+  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1293,20 +1470,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Product Manager",
-        "url": "https://www.munichre.com/en/job/london/product-manager/3342/46414206720"
+        "title": "Credit Analyst for Financial Institutions and Non-Bank Financial Institutions (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/credit-analyst-for-financial-institutions-and-non-bank-financial-institutions-m-f-d/3342/45185132032"
       },
       {
-        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
+        "title": "Data Business Analyst",
+        "url": "https://www.munichre.com/en/job/london/data-business-analyst/3342/46426175168"
       },
       {
-        "title": "Compliance Counsel (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/compliance-counsel-m-w-d/3342/46112808256"
+        "title": "Junior Product Manager",
+        "url": "https://www.munichre.com/en/job/london/junior-product-manager/3342/46414206720"
       },
       {
-        "title": "Structuring Actuary",
-        "url": "https://www.munichre.com/en/job/tokyo/structuring-actuary/3342/36549336832"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
         "title": "Find jobs",
@@ -1462,6 +1639,14 @@
     "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Predicto",
+    "website": "https://predicto.app",
+    "career_page_url": "https://predicto.app/careers",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -1638,6 +1823,39 @@
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "RoofWander",
+    "website": "https://roofwander.com",
+    "career_page_url": "https://roofwander.com/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://roofwander.com/careers"
+      },
+      {
+        "title": "RoofWander Careers",
+        "url": "https://roofwander.com/company"
+      },
+      {
+        "title": "Technology Technology Internship Work on a focused project in software, AI, analytics, or infrastructure — directly with the technical founder, from discovery through delivery. Brussels · remote start possible",
+        "url": "https://roofwander.com/careers/technology-internship"
+      },
+      {
+        "title": "Sales Sales Internship Help build relationships with manufacturers, retailers, and partners, from research and outreach to a repeatable sales process. Brussels · some travel",
+        "url": "https://roofwander.com/careers/sales-internship"
+      },
+      {
+        "title": "Marketing Marketing Internship Research audiences, run focused campaigns, and use website and campaign data to improve acquisition. Brussels · hybrid possible",
+        "url": "https://roofwander.com/careers/marketing-internship"
+      },
+      {
+        "title": "Open call Open Application If your strongest contribution falls outside our listed roles, tell us what you could help RoofWander achieve. Brussels · flexible by role",
+        "url": "https://roofwander.com/careers/open-application"
+      }
+    ]
   },
   {
     "name": "Sainsbury's",
@@ -1861,6 +2079,19 @@
     ]
   },
   {
+    "name": "SignFree",
+    "website": "https://signfree.io",
+    "career_page_url": "https://signfree.io/careers",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Sign Now",
+        "url": "https://signfree.io/careers"
+      }
+    ]
+  },
+  {
     "name": "Stellantis",
     "website": "https://www.stellantis.com",
     "career_page_url": "https://www.stellantis.com/en/careers",
@@ -1878,6 +2109,55 @@
     ]
   },
   {
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com",
+    "career_page_url": "https://www.swissre.com/careers.html",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content",
+        "url": "https://www.swissre.com/careers.html"
+      },
+      {
+        "title": "Policies and statements",
+        "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Search Swiss Re Careers",
+        "url": "https://www.swissre.com/careers/jobSearch.html"
+      },
+      {
+        "title": "Europe, Middle East and Africa",
+        "url": "https://www.swissre.com/careers/emea-careers.html"
+      },
+      {
+        "title": "Asia Pacific",
+        "url": "https://www.swissre.com/careers/apac-careers.html"
+      },
+      {
+        "title": "Americas",
+        "url": "https://www.swissre.com/careers/americas-careers.html"
+      },
+      {
+        "title": "Early Talent Opportunities",
+        "url": "https://www.swissre.com/careers/early-talent.html"
+      },
+      {
+        "title": "Career Returnees at Swiss Re",
+        "url": "https://www.swissre.com/careers/career-returnees.html"
+      },
+      {
+        "title": "Working at Swiss Re",
+        "url": "https://www.swissre.com/careers/working-at-swissre.html"
+      },
+      {
+        "title": "Data and Technology",
+        "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
     "name": "Talanx",
     "website": "https://www.talanx.com/en",
     "career_page_url": "https://www.talanx.com/en/talanx-group/careers",
@@ -1887,6 +2167,27 @@
       {
         "title": "Careers",
         "url": "https://www.talanx.com/en/talanx-group/careers"
+      }
+    ]
+  },
+  {
+    "name": "Timefold",
+    "website": "https://timefold.ai",
+    "career_page_url": "https://timefold.ai/blog/field-service-scheduling-how-to-balance-jobs-skills-slas-and-travel",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "The Cost of Afterthought",
+        "url": "https://timefold.ai/blog/field-service-scheduling-how-to-balance-jobs-skills-slas-and-travel"
+      },
+      {
+        "title": "Task Scheduling API docs",
+        "url": "https://docs.timefold.ai/job-scheduling/latest/introduction"
+      },
+      {
+        "title": "Careers",
+        "url": "https://jobs.timefold.ai"
       }
     ]
   },
@@ -1991,13 +2292,37 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "https://www.vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
     "jobs": [
       {
         "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
       }
     ]
   },
@@ -2120,6 +2445,115 @@
       {
         "title": "Careers with the Group",
         "url": "http://volkswagen-group.com/en/careers-with-the-group-16105"
+      }
+    ]
+  },
+  {
+    "name": "Voltmasters",
+    "website": "https://voltmasters.io",
+    "career_page_url": "https://voltmasters.io/en/jobs",
+    "country_of_origin": "Belgium",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://voltmasters.io/en/jobs"
+      },
+      {
+        "title": "Nederlands NL",
+        "url": "https://voltmasters.io/nl/jobs"
+      },
+      {
+        "title": "Deutsch DE",
+        "url": "https://voltmasters.io/de/jobs"
+      },
+      {
+        "title": "Français FR",
+        "url": "https://voltmasters.io/fr/jobs"
+      },
+      {
+        "title": "Português PT",
+        "url": "https://voltmasters.io/pt/jobs"
+      },
+      {
+        "title": "Italiano IT",
+        "url": "https://voltmasters.io/it/jobs"
+      },
+      {
+        "title": "Español ES",
+        "url": "https://voltmasters.io/es/jobs"
+      },
+      {
+        "title": "Polski PL",
+        "url": "https://voltmasters.io/pl/jobs"
+      },
+      {
+        "title": "Română RO",
+        "url": "https://voltmasters.io/ro/jobs"
+      },
+      {
+        "title": "Energy Management System Specialist Full-time Operations On-site Gistel, Belgium Become the link between our technology and the installations in the field: configure, optimise and monitor smart energy systems. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/energy-management-system-specialist"
+      },
+      {
+        "title": "Backend Developer Full-time Software Hybrid Gistel, Belgium Help build the core of our EMS platform in Laravel: the engine behind intelligent energy management. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/backend-developer"
+      },
+      {
+        "title": "Software Engineer Full-time Software Hybrid Gistel, Belgium Help build smart energy software that controls batteries, solar energy and consumption in real time. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/software-engineer"
+      },
+      {
+        "title": "Data Engineer Full-time Data Hybrid Gistel, Belgium Build the data pipeline behind our EMS, from raw sensor data to actionable insights. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/data-engineer"
+      },
+      {
+        "title": "Machine Learning Engineer Full-time Data Hybrid Gistel, Belgium Build the AI that steers batteries and forecasts energy prices and consumption. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/machine-learning-engineer"
+      },
+      {
+        "title": "DevOps Engineer Full-time Software Hybrid Gistel, Belgium Keep the infrastructure behind our EMS scalable, secure and reliable. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/devops-engineer"
+      },
+      {
+        "title": "Embedded Systems Engineer Full-time Software Hybrid Gistel, Belgium Build the firmware of the Voltmaster Controller, the device that steers every installation. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/embedded-systems-engineer"
+      },
+      {
+        "title": "Security Specialist Full-time Security Hybrid Gistel, Belgium Protect the platform, the controllers and the customers behind our EMS. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/security-specialist"
+      },
+      {
+        "title": "Business Development Manager DACH Full-time Sales Remote On-site DACH region Help build the German-speaking market for our Energy Management System, from first contact to long-term partnership. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/business-development-manager-dach"
+      },
+      {
+        "title": "Business Development Manager Iberia Full-time Sales Remote On-site Spain or Portugal Help build the Spanish and Portuguese market for our Energy Management System, from first contact to long-term partnership. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/business-development-manager-iberia"
+      },
+      {
+        "title": "Business Development Manager Nordics Full-time Sales Remote On-site Nordics Help build the Nordic market for our Energy Management System, from first contact to long-term partnership. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/business-development-manager-nordics"
+      },
+      {
+        "title": "Business Development Manager UK Full-time Sales Remote On-site United Kingdom Help build the UK market for our Energy Management System, from first contact to long-term partnership. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/business-development-manager-uk"
+      },
+      {
+        "title": "Marketing Intern Internship Marketing Hybrid Gistel, Belgium Help drive our growth and strengthen the Voltmasters story. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/marketing-intern"
+      },
+      {
+        "title": "Sales Intern Internship Sales Hybrid Gistel, Belgium Learn how technology and commerce come together in the world of sustainable energy. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/sales-intern"
+      },
+      {
+        "title": "Software Intern Internship Software Hybrid Gistel, Belgium Help build innovative tools for our controller and cloud environment. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/software-intern"
+      },
+      {
+        "title": "Open application Open Gistel, Belgium No matching vacancy, but convinced by our mission? We would love to hear from you. View vacancy",
+        "url": "https://voltmasters.io/en/jobs/open-application"
       }
     ]
   },
