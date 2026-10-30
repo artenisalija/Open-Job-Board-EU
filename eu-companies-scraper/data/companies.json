@@ -1041,6 +1041,19 @@
     ]
   },
   {
+    "name": "Guidy",
+    "website": "https://guidy.ai",
+    "career_page_url": "https://guidy.ai/use-cases/ai-for-career-change",
+    "country_of_origin": "Bulgaria",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "AI for starting a new job",
+        "url": "https://guidy.ai/use-cases/ai-for-starting-a-new-job"
+      }
+    ]
+  },
+  {
     "name": "Helena Bioinformatics",
     "website": "https://helena.bio",
     "career_page_url": "https://helena.bio/careers",
@@ -1349,40 +1362,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Internship - Financial Markets - Quantitative Analytics",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-financial-markets-quantitative-analytics/3121/46461449216"
+        "title": "Doradca_czyni Klienta Biznesowego",
+        "url": "https://careers.ing.com/en/job/silesia/doradca-czyni-klienta-biznesowego/3121/44774404608"
       },
       {
-        "title": "Financing Programs & Lending Solutions Product Manager @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/financing-programs-and-lending-solutions-product-manager-ing-bank/3121/46208586304"
+        "title": "Lead Relationship Banker",
+        "url": "https://careers.ing.com/en/job/turnhout/lead-relationship-banker/3121/45948995520"
       },
       {
-        "title": "Private Banker – Oost-Vlaanderen (Gent, Latem of Aalst)",
-        "url": "https://careers.ing.com/en/job/ghent/private-banker-oost-vlaanderen-gent-latem-of-aalst/3121/41327419520"
+        "title": "Contract Lifecycle Manager - Procurement Specialist with Legal Background",
+        "url": "https://careers.ing.com/en/job/katowice/contract-lifecycle-manager-procurement-specialist-with-legal-background/3121/40972536256"
       },
       {
-        "title": "Retail Lending Strategist",
-        "url": "https://careers.ing.com/en/job/madrid/retail-lending-strategist/3121/46000071616"
+        "title": "Financial Controller – Global Technology Infrastructure",
+        "url": "https://careers.ing.com/en/job/makati-city/financial-controller-global-technology-infrastructure/3121/44659393472"
       },
       {
-        "title": "Private Banker – West-Vlaanderen",
-        "url": "https://careers.ing.com/en/job/kortrijk/private-banker-west-vlaanderen/3121/41327419264"
+        "title": "IT Area Lead (PEGA)",
+        "url": "https://careers.ing.com/en/job/makati-city/it-area-lead-pega/3121/46391157312"
       },
       {
-        "title": "Data Steward@ ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/data-steward-ing-hubs-romania/3121/46421135936"
+        "title": "Team Lead AML - Fraud - 4 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/melbourne/team-lead-aml-fraud-4-months-fixed-term-contract/3121/46421137408"
       },
       {
-        "title": "Doradca_czyni Klienta Korporacyjnego ds. Leasingu",
-        "url": "https://careers.ing.com/en/job/silesia/doradca-czyni-klienta-korporacyjnego-ds-leasingu/3121/46454642560"
+        "title": "Team Lead AML - Fraud Sydney or Melbourne – 4 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/melbourne/team-lead-aml-fraud-sydney-or-melbourne-4-months-fixed-term-contract/3121/46437908032"
       },
       {
-        "title": "Project Manager / IT Integrator",
-        "url": "https://careers.ing.com/en/job/katowice/project-manager-it-integrator/3121/44845992128"
+        "title": "Finance Product Control Manager",
+        "url": "https://careers.ing.com/en/job/shanghai/finance-product-control-manager/3121/46467984512"
       },
       {
-        "title": "Digital Sales Expert",
-        "url": "https://careers.ing.com/en/job/madrid/digital-sales-expert/3121/46208587264"
+        "title": "Senior Product Manager (Senior Customer Journey Expert), Credit Cards - 12 months contract",
+        "url": "https://careers.ing.com/en/job/sydney/senior-product-manager-senior-customer-journey-expert-credit-cards-12-months-contract/3121/45921771136"
       }
     ]
   },
@@ -1470,20 +1483,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Accountant, General Accounting",
-        "url": "https://www.munichre.com/en/job/new-york/senior-accountant-general-accounting/3342/46461574848"
+        "title": "AVP FP&A Business Partner",
+        "url": "https://www.munichre.com/en/job/hartford/avp-fp-and-a-business-partner/3342/45585998784"
       },
       {
-        "title": "Senior Accountant, General Accounting",
-        "url": "https://www.munichre.com/en/job/atlanta/senior-accountant-general-accounting/3342/46461574720"
+        "title": "Building Control Project Manager",
+        "url": "https://www.munichre.com/en/job/birmingham/building-control-project-manager/3342/45731878016"
       },
       {
-        "title": "Senior Accountant, Financial Reporting",
-        "url": "https://www.munichre.com/en/job/new-york/senior-accountant-financial-reporting/3342/46461574528"
+        "title": "Intern Data-Analytics und Data Validation Framework (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/intern-data-analytics-und-data-validation-framework-m-w-d/3342/46391712704"
       },
       {
-        "title": "Senior Accountant, Financial Reporting",
-        "url": "https://www.munichre.com/en/job/atlanta/senior-accountant-financial-reporting/3342/46461574400"
+        "title": "Senior Business Development - Insurance Tech Solutions",
+        "url": "https://www.munichre.com/en/job/hartford/senior-business-development-insurance-tech-solutions/3342/45622317504"
       },
       {
         "title": "Find jobs",
@@ -1840,19 +1853,27 @@
         "url": "https://roofwander.com/company"
       },
       {
-        "title": "Technology Technology Internship Work on a focused project in software, AI, analytics, or infrastructure — directly with the technical founder, from discovery through delivery. Brussels · remote start possible",
+        "title": "Send an open application",
+        "url": "https://roofwander.com/careers/open-application/apply"
+      },
+      {
+        "title": "Technology Mobile App Internship Help get the RoofWander app ready for the 2027 rooftop-tent season. Work directly with the technical founder on what travellers feel most: fast search and map browsing, a booking flow that holds up on a real phone, and releases to the App Store and Google Play. Brussels · remote start possible · University internship",
+        "url": "https://roofwander.com/careers/mobile-app-internship"
+      },
+      {
+        "title": "Technology Technology Internship Build a useful part of RoofWander: a clearer booking journey, a partner map, a reliable API, or an internal tool. Work with the technical founder to scope one project, test it, and explain what improved. Brussels · remote start possible · University internship",
         "url": "https://roofwander.com/careers/technology-internship"
       },
       {
-        "title": "Sales Sales Internship Help build relationships with manufacturers, retailers, and partners, from research and outreach to a repeatable sales process. Brussels · some travel",
+        "title": "Sales Sales Internship Help build relationships with manufacturers, retailers, and partners, from research and outreach to a repeatable sales process. Brussels · some travel · University internship",
         "url": "https://roofwander.com/careers/sales-internship"
       },
       {
-        "title": "Marketing Marketing Internship Research audiences, run focused campaigns, and use website and campaign data to improve acquisition. Brussels · hybrid possible",
+        "title": "Marketing Marketing Internship Research audiences, run focused campaigns, and use website and campaign data to improve acquisition. Brussels · hybrid possible · University internship",
         "url": "https://roofwander.com/careers/marketing-internship"
       },
       {
-        "title": "Open call Open Application If your strongest contribution falls outside our listed roles, tell us what you could help RoofWander achieve. Brussels · flexible by role",
+        "title": "Open call Open Application If your strongest contribution falls outside our listed roles, tell us what you could help RoofWander achieve. Brussels · flexible by role · Experienced candidates & internships",
         "url": "https://roofwander.com/careers/open-application"
       }
     ]
