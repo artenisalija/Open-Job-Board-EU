@@ -1284,13 +1284,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1366,40 +1366,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Private banker family - Zone Centre - Région Waterloo",
-        "url": "https://careers.ing.com/en/job/nivelles/private-banker-family-zone-centre-region-waterloo/3121/45463500736"
+        "title": "Senior Data Scientist – Cyber Risk Analytics",
+        "url": "https://careers.ing.com/en/job/madrid/senior-data-scientist-cyber-risk-analytics/3121/46484570752"
       },
       {
-        "title": "Endpoint & SSE Security Engineer",
-        "url": "https://careers.ing.com/en/job/madrid/endpoint-and-sse-security-engineer/3121/46478751232"
+        "title": "Internship - Corporate Finance Mid-Market",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-corporate-finance-mid-market/3121/46484570688"
       },
       {
-        "title": "Meewerkstage Fraude",
-        "url": "https://careers.ing.com/en/job/leeuwarden/meewerkstage-fraude/3121/46426993408"
+        "title": "IT Risk Management Expert",
+        "url": "https://careers.ing.com/en/job/madrid/it-risk-management-expert/3121/46484570624"
       },
       {
-        "title": "Head of Marketing Communications",
-        "url": "https://careers.ing.com/en/job/brussels/head-of-marketing-communications/3121/46478751104"
+        "title": "Internship Conversational Banking",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-conversational-banking/3121/46484570560"
       },
       {
-        "title": "Praktikant Transaction Service Sales – Wholesale Banking (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352"
+        "title": "Architect - Data & Analytics",
+        "url": "https://careers.ing.com/en/job/amsterdam/architect-data-and-analytics/3121/45148353216"
       },
       {
-        "title": "Junior IRRBB Modelling Specialist",
-        "url": "https://careers.ing.com/en/job/warsaw/junior-irrbb-modelling-specialist/3121/46478750976"
+        "title": "Data Analyst – Central Data Office (Marketing Technology)",
+        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
       },
       {
-        "title": "Subject Matter Expert & Change",
-        "url": "https://careers.ing.com/en/job/amsterdam/subject-matter-expert-and-change/3121/43237643072"
+        "title": "Credit Risk Modelling and Monitoring Senior Specialist",
+        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-modelling-and-monitoring-senior-specialist/3121/46484569984"
       },
       {
-        "title": "Employee Journey Expert",
-        "url": "https://careers.ing.com/en/job/katowice/employee-journey-expert/3121/46478750848"
+        "title": "Credit Risk Model Monitoring Expert Lead",
+        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-model-monitoring-expert-lead/3121/46484569920"
       },
       {
-        "title": "Model Validator / Financial Risk IRRBB",
-        "url": "https://careers.ing.com/en/job/warsaw/model-validator-financial-risk-irrbb/3121/39535762816"
+        "title": "Accounting and Reporting Expert I",
+        "url": "https://careers.ing.com/en/job/makati-city/accounting-and-reporting-expert-i/3121/45356777280"
       }
     ]
   },
@@ -1430,6 +1430,19 @@
       {
         "title": "page",
         "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com",
+    "career_page_url": "https://www.lukoil.com/Company/Career/Vacancies",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Vacancies",
+        "url": "https://www.lukoil.com/Company/Career/Vacancies"
       }
     ]
   },
@@ -1474,20 +1487,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Broker Performance Manager",
-        "url": "https://www.munichre.com/en/job/london/broker-performance-manager/3342/46483762432"
+        "title": "Portfolio Underwriter",
+        "url": "https://www.munichre.com/en/job/hartford/portfolio-underwriter/3342/46391710912"
       },
       {
-        "title": "Senior Inherent Defects Claims Handler",
-        "url": "https://www.munichre.com/en/job/manchester/senior-inherent-defects-claims-handler/3342/46199242496"
+        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
+        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
       },
       {
-        "title": "AVP FP&A Business Partner - Claims",
-        "url": "https://www.munichre.com/en/job/hartford/avp-fp-and-a-business-partner-claims/3342/45585999040"
+        "title": "Senior Claims Specialist - Surety",
+        "url": "https://www.munichre.com/en/job/princeton/senior-claims-specialist-surety/3342/46021769600"
       },
       {
-        "title": "AVP FP&A Business Partner",
-        "url": "https://www.munichre.com/en/job/hartford/avp-fp-and-a-business-partner/3342/45585998784"
+        "title": "Global Employee & Travel Security Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/global-employee-and-travel-security-manager-m-f-d/3342/46112808320"
       },
       {
         "title": "Find jobs",
@@ -2317,10 +2330,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
