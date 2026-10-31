@@ -702,19 +702,6 @@
     ]
   },
   {
-    "name": "Enactia",
-    "website": "https://www.enactia.com",
-    "career_page_url": "https://www.enactia.com/careers",
-    "country_of_origin": "Cyprus",
-    "source": "eu_startups",
-    "jobs": [
-      {
-        "title": "Careers",
-        "url": "https://www.enactia.com/careers"
-      }
-    ]
-  },
-  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/careers/culture",
@@ -1487,6 +1474,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Engineer Surveyor - Cat 2 - St Helens",
+        "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-st-helens/3342/45622317952"
+      },
+      {
         "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
       },
@@ -1497,10 +1488,6 @@
       {
         "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
         "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
-      },
-      {
-        "title": "Senior Claims Specialist - Surety",
-        "url": "https://www.munichre.com/en/job/princeton/senior-claims-specialist-surety/3342/46021769600"
       },
       {
         "title": "Find jobs",
@@ -2330,7 +2317,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
