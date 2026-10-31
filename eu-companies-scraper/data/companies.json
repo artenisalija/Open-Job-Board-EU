@@ -702,6 +702,19 @@
     ]
   },
   {
+    "name": "Enactia",
+    "website": "https://www.enactia.com",
+    "career_page_url": "https://www.enactia.com/careers",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Careers",
+        "url": "https://www.enactia.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Enel",
     "website": "https://www.enel.com",
     "career_page_url": "https://www.enel.com/careers/culture",
@@ -1271,13 +1284,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1844,27 +1857,23 @@
         "url": "https://roofwander.com/company"
       },
       {
-        "title": "Send an open application",
-        "url": "https://roofwander.com/careers/open-application/apply"
-      },
-      {
-        "title": "Technology Mobile App Internship Help get the RoofWander app ready for the 2027 rooftop-tent season. Work directly with the technical founder on what travellers feel most: fast search and map browsing, a booking flow that holds up on a real phone, and releases to the App Store and Google Play. Brussels · remote start possible · University internship",
+        "title": "Mobile App Internship Help get the RoofWander app ready for the 2027 rooftop-tent season. Brussels · remote start possible · Starts Feb–Mar 2027 · 4–6 months · Apply by 10 Jan 2027 React Native Expo TypeScript TanStack Query",
         "url": "https://roofwander.com/careers/mobile-app-internship"
       },
       {
-        "title": "Technology Technology Internship Build a useful part of RoofWander: a clearer booking journey, a partner map, a reliable API, or an internal tool. Work with the technical founder to scope one project, test it, and explain what improved. Brussels · remote start possible · University internship",
+        "title": "Web & Platform Internship Improve the web booking journey, the API behind it, and the maps partners put on their websites. Brussels · remote start possible · Starts Feb–Mar 2027 · 3–6 months · Apply by 10 Jan 2027 React TypeScript Python Django PostgreSQL",
         "url": "https://roofwander.com/careers/technology-internship"
       },
       {
-        "title": "Sales Sales Internship Help build relationships with manufacturers, retailers, and partners, from research and outreach to a repeatable sales process. Brussels · some travel · University internship",
+        "title": "Sales Internship Help build relationships with manufacturers, retailers, and partners, from research and outreach to a repeatable sales process. Brussels · some travel · 3–6 months · Rolling applications",
         "url": "https://roofwander.com/careers/sales-internship"
       },
       {
-        "title": "Marketing Marketing Internship Research audiences, run focused campaigns, and use website and campaign data to improve acquisition. Brussels · hybrid possible · University internship",
+        "title": "Marketing Internship Research audiences, run focused campaigns, and use website and campaign data to improve acquisition. Brussels · hybrid possible · 3–6 months · Rolling applications",
         "url": "https://roofwander.com/careers/marketing-internship"
       },
       {
-        "title": "Open call Open Application If your strongest contribution falls outside our listed roles, tell us what you could help RoofWander achieve. Brussels · flexible by role · Experienced candidates & internships",
+        "title": "About the open application",
         "url": "https://roofwander.com/careers/open-application"
       }
     ]
@@ -2320,7 +2329,12 @@
     "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
