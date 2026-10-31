@@ -1284,13 +1284,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1487,6 +1487,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
+      },
+      {
         "title": "Portfolio Underwriter",
         "url": "https://www.munichre.com/en/job/hartford/portfolio-underwriter/3342/46391710912"
       },
@@ -1497,10 +1501,6 @@
       {
         "title": "Senior Claims Specialist - Surety",
         "url": "https://www.munichre.com/en/job/princeton/senior-claims-specialist-surety/3342/46021769600"
-      },
-      {
-        "title": "Global Employee & Travel Security Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/global-employee-and-travel-security-manager-m-f-d/3342/46112808320"
       },
       {
         "title": "Find jobs",
@@ -2330,15 +2330,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vitol",
