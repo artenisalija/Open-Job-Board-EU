@@ -1366,6 +1366,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Vice Presidents, Financial Accounting",
+        "url": "https://careers.ing.com/en/job/new-york/vice-presidents-financial-accounting/3121/45898390464"
+      },
+      {
+        "title": "Associate, Financial Reporting",
+        "url": "https://careers.ing.com/en/job/new-york/associate-financial-reporting/3121/41623233984"
+      },
+      {
         "title": "Performance and Reward Expert",
         "url": "https://careers.ing.com/en/job/city-of-taguig/performance-and-reward-expert/3121/46511792576"
       },
@@ -1392,14 +1400,6 @@
       {
         "title": "Data Analyst – Central Data Office (Marketing Technology)",
         "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
-      },
-      {
-        "title": "Credit Risk Modelling and Monitoring Senior Specialist",
-        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-modelling-and-monitoring-senior-specialist/3121/46484569984"
-      },
-      {
-        "title": "Credit Risk Model Monitoring Expert Lead",
-        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-model-monitoring-expert-lead/3121/46484569920"
       }
     ]
   },
@@ -1487,6 +1487,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
+        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
+      },
+      {
         "title": "Engineer Surveyor - Cat 2 - St Helens",
         "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-st-helens/3342/45622317952"
       },
@@ -1497,10 +1501,6 @@
       {
         "title": "Portfolio Underwriter",
         "url": "https://www.munichre.com/en/job/hartford/portfolio-underwriter/3342/46391710912"
-      },
-      {
-        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
-        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
       },
       {
         "title": "Find jobs",
@@ -1656,14 +1656,6 @@
     "career_page_url": "https://orange.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Predicto",
-    "website": "https://predicto.app",
-    "career_page_url": "https://predicto.app/careers",
-    "country_of_origin": "Bulgaria",
-    "source": "eu_startups",
     "jobs": []
   },
   {
@@ -2326,15 +2318,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vitol",
