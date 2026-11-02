@@ -1871,6 +1871,19 @@
     ]
   },
   {
+    "name": "SaaSCity.io",
+    "website": "https://saascity.io",
+    "career_page_url": "https://saascity.io/live/helvejobs",
+    "country_of_origin": "Cyprus",
+    "source": "eu_startups",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://saascity.io/live/helvejobs"
+      }
+    ]
+  },
+  {
     "name": "Sainsbury's",
     "website": "http://about.sainsburys.co.uk",
     "career_page_url": "http://about.sainsburys.co.uk/careers",
@@ -2318,10 +2331,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
