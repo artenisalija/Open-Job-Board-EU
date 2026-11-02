@@ -1087,13 +1087,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/mk/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/mk/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1169,12 +1169,20 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "AI / Copilot Studio Developer",
-        "url": "https://careers.ing.com/en/job/makati-city/ai-copilot-studio-developer/3121/45093361600"
+        "title": "Centre of Excellence Lead WB Resilience & Control",
+        "url": "https://careers.ing.com/en/job/amsterdam/centre-of-excellence-lead-wb-resilience-and-control/3121/46566284928"
       },
       {
-        "title": "Financial Risk Specialist (ALM & IRRBB)",
-        "url": "https://careers.ing.com/en/job/amsterdam/financial-risk-specialist-alm-and-irrbb/3121/46561600448"
+        "title": "Data Analyst – Central Data Office (Marketing Technology)",
+        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
+      },
+      {
+        "title": "Senior QA Engineer",
+        "url": "https://careers.ing.com/en/job/silesia/senior-qa-engineer/3121/46566284800"
+      },
+      {
+        "title": "AI / Copilot Studio Developer",
+        "url": "https://careers.ing.com/en/job/makati-city/ai-copilot-studio-developer/3121/45093361600"
       },
       {
         "title": "WB Client Services – Account Manager/ Connectivity Expert – Wholesale Banking Operations (COO) - Fixed-Term Contract 1.5 month",
@@ -1195,14 +1203,6 @@
       {
         "title": "Financial Risk Specialist",
         "url": "https://careers.ing.com/en/job/brussels/financial-risk-specialist/3121/46561599616"
-      },
-      {
-        "title": "Doradca_czyni Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/gliwice/doradca-czyni-klienta-korporacyjnego/3121/46561598016"
-      },
-      {
-        "title": "Doradca_czyni Klienta Biznesowego",
-        "url": "https://careers.ing.com/en/job/koszalin/doradca-czyni-klienta-biznesowego/3121/46561597376"
       }
     ]
   },
@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Claims Examiner",
-        "url": "https://www.munichre.com/en/job/toronto/claims-examiner/3342/46563418368"
+        "title": "Partnership Manager",
+        "url": "https://www.munichre.com/en/job/london/partnership-manager/3342/45045947008"
       },
       {
-        "title": "Claims Assistant",
-        "url": "https://www.munichre.com/en/job/toronto/claims-assistant/3342/46563418240"
+        "title": "Global Longevity Development Actuary (Pricing Lead)",
+        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
       },
       {
-        "title": "Head of Workplace Experience",
-        "url": "https://www.munichre.com/en/job/princeton/head-of-workplace-experience/3342/46391713408"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
       },
       {
-        "title": "Training and Adoption Lead",
-        "url": "https://www.munichre.com/en/job/amelia/training-and-adoption-lead/3342/45436743808"
+        "title": "Senior Actuarial Analyst (Longevity Pricing)",
+        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-longevity-pricing/3342/42889988992"
       },
       {
         "title": "Find jobs",
