@@ -560,7 +560,7 @@
       },
       {
         "title": "Apply Now",
-        "url": "https://collectnexchange.cy/career/aml-compliance-specialist"
+        "url": "https://collectnexchange.cy/career/account-management-team-lead"
       },
       {
         "title": "Apply Now",
@@ -1366,40 +1366,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Vice Presidents, Financial Accounting",
-        "url": "https://careers.ing.com/en/job/new-york/vice-presidents-financial-accounting/3121/45898390464"
+        "title": "Expert DevOps Engineer (Kotlin)",
+        "url": "https://careers.ing.com/en/job/silesia/expert-devops-engineer-kotlin/3121/46560300416"
       },
       {
-        "title": "Associate, Financial Reporting",
-        "url": "https://careers.ing.com/en/job/new-york/associate-financial-reporting/3121/41623233984"
+        "title": "Junior Transaction Monitoring Investigator with German",
+        "url": "https://careers.ing.com/en/job/warsaw/junior-transaction-monitoring-investigator-with-german/3121/46560300352"
       },
       {
-        "title": "Performance and Reward Expert",
-        "url": "https://careers.ing.com/en/job/city-of-taguig/performance-and-reward-expert/3121/46511792576"
+        "title": "Internship Software Development – Java & AI",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-software-development-java-and-ai/3121/46560300288"
       },
       {
-        "title": "Senior Data Scientist – Cyber Risk Analytics",
-        "url": "https://careers.ing.com/en/job/madrid/senior-data-scientist-cyber-risk-analytics/3121/46484570752"
+        "title": "Java Engineer Payments and Settlement Services@ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/java-engineer-payments-and-settlement-services-ing-hubs-romania/3121/46421134592"
       },
       {
-        "title": "Internship - Corporate Finance Mid-Market",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-corporate-finance-mid-market/3121/46484570688"
+        "title": "Transaction Monitoring Investigator with German",
+        "url": "https://careers.ing.com/en/job/warsaw/transaction-monitoring-investigator-with-german/3121/46560300160"
       },
       {
-        "title": "IT Risk Management Expert",
-        "url": "https://careers.ing.com/en/job/madrid/it-risk-management-expert/3121/46484570624"
+        "title": "Data Manager Building Experience & Excellence",
+        "url": "https://careers.ing.com/en/job/brussels/data-manager-building-experience-and-excellence/3121/46560300096"
       },
       {
-        "title": "Internship Conversational Banking",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-conversational-banking/3121/46484570560"
+        "title": "Senior Credit Risk Expert - Quality Assurance Function",
+        "url": "https://careers.ing.com/en/job/amsterdam/senior-credit-risk-expert-quality-assurance-function/3121/37514524992"
       },
       {
-        "title": "Architect - Data & Analytics",
-        "url": "https://careers.ing.com/en/job/amsterdam/architect-data-and-analytics/3121/45148353216"
+        "title": "Customer Loyalty Member with English @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/customer-loyalty-member-with-english-ing-hubs-romania/3121/44774404416"
       },
       {
-        "title": "Data Analyst – Central Data Office (Marketing Technology)",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
+        "title": "Vice President, Financial Institutions Advisory",
+        "url": "https://careers.ing.com/en/job/singapore/vice-president-financial-institutions-advisory/3121/41246859520"
       }
     ]
   },
@@ -1487,20 +1487,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Underwriter Liability & Cyber",
-        "url": "https://www.munichre.com/en/job/mumbai/senior-underwriter-liability-and-cyber/3342/43986774144"
+        "title": "Assistant Longevity Client Manager",
+        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
       },
       {
-        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
-        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
+        "title": "SimCorp Dimension (SCD) Specialist",
+        "url": "https://www.munichre.com/en/job/toronto/simcorp-dimension-scd-specialist/3342/46560819072"
       },
       {
-        "title": "Engineer Surveyor - Cat 2 - St Helens",
-        "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-st-helens/3342/45622317952"
+        "title": "Principal AI Data Scientist",
+        "url": "https://www.munichre.com/en/job/amelia/principal-ai-data-scientist/3342/46405777088"
       },
       {
-        "title": "Engineering Underwriter - Process Industries and new Technologies (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/engineering-underwriter-process-industries-and-new-technologies-m-f-d/3342/45894957888"
+        "title": "IT-Product Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-product-manager-m-f-d/3342/45969785408"
       },
       {
         "title": "Find jobs",
@@ -2331,15 +2331,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vitol",
