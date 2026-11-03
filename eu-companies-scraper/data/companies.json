@@ -1169,40 +1169,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "BE Fiducre Accounting - Senior Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/be-fiducre-accounting-senior-analyst/3121/46582316864"
+        "title": "Gestor Comercial Las Palmas (Temporary)",
+        "url": "https://careers.ing.com/en/job/las-palmas-de-gran-canaria/gestor-comercial-las-palmas-temporary/3121/46594129856"
       },
       {
-        "title": "Associate, Data Governance Expert",
-        "url": "https://careers.ing.com/en/job/singapore/associate-data-governance-expert/3121/46155027200"
+        "title": "Commercieel Product Manager Merchant Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/commercieel-product-manager-merchant-services/3121/46594129792"
       },
       {
-        "title": "AI Product Owner",
-        "url": "https://careers.ing.com/en/job/makati-city/ai-product-owner/3121/42093081024"
+        "title": "Staż z Lwem w Centrum Rozwoju i Zarządzania Talentami",
+        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-centrum-rozwoju-i-zarzadzania-talentami/3121/46594129728"
       },
       {
-        "title": "Intern, Financial Markets Client Solutions Group (CSG)",
-        "url": "https://careers.ing.com/en/job/singapore/intern-financial-markets-client-solutions-group-csg/3121/46577324416"
+        "title": "Third Party Risk Management Specialist",
+        "url": "https://careers.ing.com/en/job/slovakia/third-party-risk-management-specialist/3121/46594129664"
       },
       {
-        "title": "Customer Journey Expert – TAR-Billing",
-        "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-tar-billing/3121/46208585984"
+        "title": "Wholesale Banking COO Transaction Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/wholesale-banking-coo-transaction-services/3121/46594129600"
       },
       {
-        "title": "Data Governance & Protection Expert",
-        "url": "https://careers.ing.com/en/job/london/data-governance-and-protection-expert/3121/46570705344"
+        "title": "Ekspert_ka w obszarze rachunkowości",
+        "url": "https://careers.ing.com/en/job/silesia/ekspert-ka-w-obszarze-rachunkowosci/3121/46594129536"
       },
       {
-        "title": "Private Banker - Dirigeants de PME",
-        "url": "https://careers.ing.com/en/job/liege/private-banker-dirigeants-de-pme/3121/43435291328"
+        "title": "Analityk_czka HR",
+        "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-hr/3121/46594129472"
       },
       {
-        "title": "Centre of Excellence Lead WB Resilience & Control",
-        "url": "https://careers.ing.com/en/job/amsterdam/centre-of-excellence-lead-wb-resilience-and-control/3121/46566284928"
+        "title": "Przedstawiciel_ka Leasingowy_a Rynku Maszyn i Urządzeń",
+        "url": "https://careers.ing.com/en/job/silesia/przedstawiciel-ka-leasingowy-a-rynku-maszyn-i-urzadzen/3121/46594129408"
       },
       {
-        "title": "Data Analyst – Central Data Office (Marketing Technology)",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
+        "title": "Payments Contract & Partner Management Senior Expert",
+        "url": "https://careers.ing.com/en/job/milan/payments-contract-and-partner-management-senior-expert/3121/46421137792"
       }
     ]
   },
@@ -1218,6 +1218,14 @@
         "url": "https://www.jbsglobal.com/careers"
       }
     ]
+  },
+  {
+    "name": "Koç Holding",
+    "website": "https://www.koc.com.tr/en",
+    "career_page_url": "https://www.koc.com.tr/en/careers",
+    "country_of_origin": "Turkey",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1282,20 +1290,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
+        "title": "Senior Controller - IT Controlling Operations (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/senior-controller-it-controlling-operations-m-f-d/3342/46161110336"
       },
       {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
+        "title": "CTI-Authorized Inspector for Sweden",
+        "url": "https://www.munichre.com/en/job/sweden/cti-authorized-inspector-for-sweden/3342/44828512640"
       },
       {
-        "title": "Global Longevity Development Actuary (Strategy Lead)",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-strategy-lead/3342/46565402560"
+        "title": "IT-Project Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
       },
       {
-        "title": "Assistant Longevity Client Manager",
-        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
+        "title": "Solution Architect - Data",
+        "url": "https://www.munichre.com/en/job/princeton/solution-architect-data/3342/40315251520"
       },
       {
         "title": "Find jobs",
@@ -1459,7 +1467,16 @@
     "career_page_url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.renaultgroup.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Repsol",
@@ -1752,7 +1769,7 @@
   {
     "name": "Schneider Electric",
     "website": "https://www.se.com",
-    "career_page_url": "https://www.se.com/ww/en/about-us/careers/overview",
+    "career_page_url": "https://www.se.com/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
