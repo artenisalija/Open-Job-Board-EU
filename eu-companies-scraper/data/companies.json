@@ -1087,13 +1087,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1169,6 +1169,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "BE Fiducre Accounting - Senior Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/be-fiducre-accounting-senior-analyst/3121/46582316864"
+      },
+      {
+        "title": "Associate, Data Governance Expert",
+        "url": "https://careers.ing.com/en/job/singapore/associate-data-governance-expert/3121/46155027200"
+      },
+      {
         "title": "AI Product Owner",
         "url": "https://careers.ing.com/en/job/makati-city/ai-product-owner/3121/42093081024"
       },
@@ -1195,14 +1203,6 @@
       {
         "title": "Data Analyst – Central Data Office (Marketing Technology)",
         "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
-      },
-      {
-        "title": "Senior QA Engineer",
-        "url": "https://careers.ing.com/en/job/silesia/senior-qa-engineer/3121/46566284800"
-      },
-      {
-        "title": "AI / Copilot Studio Developer",
-        "url": "https://careers.ing.com/en/job/makati-city/ai-copilot-studio-developer/3121/45093361600"
       }
     ]
   },
@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Originator",
-        "url": "https://www.munichre.com/en/job/hong-kong/originator/3342/44339300672"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
       },
       {
-        "title": "Insurance Risk Management Intern",
-        "url": "https://www.munichre.com/en/job/amelia/insurance-risk-management-intern/3342/44723358336"
+        "title": "Actuarial Intern",
+        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
       },
       {
-        "title": "Longevity In-Force Actuary",
-        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/46565373760"
+        "title": "Global Longevity Development Actuary (Strategy Lead)",
+        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-strategy-lead/3342/46565402560"
       },
       {
-        "title": "Authorized Nuclear Inspector",
-        "url": "https://www.munichre.com/en/job/roanoke/authorized-nuclear-inspector/3342/43106998720"
+        "title": "Assistant Longevity Client Manager",
+        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
       },
       {
         "title": "Find jobs",
@@ -1459,16 +1459,7 @@
     "career_page_url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.renaultgroup.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Repsol",
