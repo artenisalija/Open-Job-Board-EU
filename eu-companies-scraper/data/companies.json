@@ -1087,13 +1087,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/il/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1169,6 +1169,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "AI Product Owner",
+        "url": "https://careers.ing.com/en/job/makati-city/ai-product-owner/3121/42093081024"
+      },
+      {
+        "title": "Intern, Financial Markets Client Solutions Group (CSG)",
+        "url": "https://careers.ing.com/en/job/singapore/intern-financial-markets-client-solutions-group-csg/3121/46577324416"
+      },
+      {
+        "title": "Customer Journey Expert – TAR-Billing",
+        "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-tar-billing/3121/46208585984"
+      },
+      {
         "title": "Data Governance & Protection Expert",
         "url": "https://careers.ing.com/en/job/london/data-governance-and-protection-expert/3121/46570705344"
       },
@@ -1191,18 +1203,6 @@
       {
         "title": "AI / Copilot Studio Developer",
         "url": "https://careers.ing.com/en/job/makati-city/ai-copilot-studio-developer/3121/45093361600"
-      },
-      {
-        "title": "WB Client Services – Account Manager/ Connectivity Expert – Wholesale Banking Operations (COO) - Fixed-Term Contract 1.5 month",
-        "url": "https://careers.ing.com/en/job/luxembourg/wb-client-services-account-manager-connectivity-expert-wholesale-banking-operations-coo-fixed-term-/3121/46561600384"
-      },
-      {
-        "title": "Portfolio Implementator",
-        "url": "https://careers.ing.com/en/job/brussels/portfolio-implementator/3121/46561600320"
-      },
-      {
-        "title": "Senior Portfolio Manager",
-        "url": "https://careers.ing.com/en/job/brussels/senior-portfolio-manager/3121/46561600256"
       }
     ]
   },
@@ -1282,6 +1282,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Originator",
+        "url": "https://www.munichre.com/en/job/hong-kong/originator/3342/44339300672"
+      },
+      {
         "title": "Insurance Risk Management Intern",
         "url": "https://www.munichre.com/en/job/amelia/insurance-risk-management-intern/3342/44723358336"
       },
@@ -1292,10 +1296,6 @@
       {
         "title": "Authorized Nuclear Inspector",
         "url": "https://www.munichre.com/en/job/roanoke/authorized-nuclear-inspector/3342/43106998720"
-      },
-      {
-        "title": "Senior Data Engineer",
-        "url": "https://www.munichre.com/en/job/princeton/senior-data-engineer/3342/46569144512"
       },
       {
         "title": "Find jobs",
@@ -1997,6 +1997,35 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "https://www.vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
+      }
+    ]
   },
   {
     "name": "Vodafone",
