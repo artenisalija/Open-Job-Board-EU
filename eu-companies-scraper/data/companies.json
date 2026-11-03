@@ -1087,13 +1087,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/mk/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/mk/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1169,6 +1169,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Data Governance & Protection Expert",
+        "url": "https://careers.ing.com/en/job/london/data-governance-and-protection-expert/3121/46570705344"
+      },
+      {
+        "title": "Private Banker - Dirigeants de PME",
+        "url": "https://careers.ing.com/en/job/liege/private-banker-dirigeants-de-pme/3121/43435291328"
+      },
+      {
         "title": "Centre of Excellence Lead WB Resilience & Control",
         "url": "https://careers.ing.com/en/job/amsterdam/centre-of-excellence-lead-wb-resilience-and-control/3121/46566284928"
       },
@@ -1195,14 +1203,6 @@
       {
         "title": "Senior Portfolio Manager",
         "url": "https://careers.ing.com/en/job/brussels/senior-portfolio-manager/3121/46561600256"
-      },
-      {
-        "title": "Werkstudent Human Resources – Young Talents (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-human-resources-young-talents-w-m-d/3121/46561600192"
-      },
-      {
-        "title": "Financial Risk Specialist",
-        "url": "https://careers.ing.com/en/job/brussels/financial-risk-specialist/3121/46561599616"
       }
     ]
   },
@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Partnership Manager",
-        "url": "https://www.munichre.com/en/job/london/partnership-manager/3342/45045947008"
+        "title": "Insurance Risk Management Intern",
+        "url": "https://www.munichre.com/en/job/amelia/insurance-risk-management-intern/3342/44723358336"
       },
       {
-        "title": "Global Longevity Development Actuary (Pricing Lead)",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
+        "title": "Longevity In-Force Actuary",
+        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/46565373760"
       },
       {
-        "title": "Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
+        "title": "Authorized Nuclear Inspector",
+        "url": "https://www.munichre.com/en/job/roanoke/authorized-nuclear-inspector/3342/43106998720"
       },
       {
-        "title": "Senior Actuarial Analyst (Longevity Pricing)",
-        "url": "https://www.munichre.com/en/job/london/senior-actuarial-analyst-longevity-pricing/3342/42889988992"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/princeton/senior-data-engineer/3342/46569144512"
       },
       {
         "title": "Find jobs",
