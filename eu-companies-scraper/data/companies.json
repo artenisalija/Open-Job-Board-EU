@@ -1169,40 +1169,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Liquidity Risk Manager",
+        "url": "https://careers.ing.com/en/job/sydney/liquidity-risk-manager/3121/44845991744"
+      },
+      {
+        "title": "Officer / Senior Officer, Branch Operations",
+        "url": "https://careers.ing.com/en/job/wan-chai/officer-senior-officer-branch-operations/3121/46610496128"
+      },
+      {
+        "title": "SRE Expert @ ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/sre-expert-ing-hubs-romania/3121/45470586368"
+      },
+      {
+        "title": "Credit Risk Analyst - 14 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/sydney/credit-risk-analyst-14-months-fixed-term-contract/3121/45704838400"
+      },
+      {
+        "title": "Senior Compliance Manager - Transaction Monitoring Design and Operations",
+        "url": "https://careers.ing.com/en/job/sydney/senior-compliance-manager-transaction-monitoring-design-and-operations/3121/42037351872"
+      },
+      {
+        "title": "IT Business Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/it-business-analyst/3121/46605579712"
+      },
+      {
+        "title": "Data Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/data-engineer/3121/46605579392"
+      },
+      {
         "title": "Vice President, Compliance Frameworks & Control",
         "url": "https://careers.ing.com/en/job/new-york/vice-president-compliance-frameworks-and-control/3121/45115989248"
       },
       {
-        "title": "Analyst, Market Risk Manager",
-        "url": "https://careers.ing.com/en/job/new-york/analyst-market-risk-manager/3121/39217778176"
-      },
-      {
         "title": "Gestor Comercial Las Palmas (Temporary)",
         "url": "https://careers.ing.com/en/job/las-palmas-de-gran-canaria/gestor-comercial-las-palmas-temporary/3121/46594129856"
-      },
-      {
-        "title": "Commercieel Product Manager Merchant Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/commercieel-product-manager-merchant-services/3121/46594129792"
-      },
-      {
-        "title": "Staż z Lwem w Centrum Rozwoju i Zarządzania Talentami",
-        "url": "https://careers.ing.com/en/job/warsaw/staz-z-lwem-w-centrum-rozwoju-i-zarzadzania-talentami/3121/46594129728"
-      },
-      {
-        "title": "Third Party Risk Management Specialist",
-        "url": "https://careers.ing.com/en/job/slovakia/third-party-risk-management-specialist/3121/46594129664"
-      },
-      {
-        "title": "Wholesale Banking COO Transaction Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/wholesale-banking-coo-transaction-services/3121/46594129600"
-      },
-      {
-        "title": "Ekspert_ka w obszarze rachunkowości",
-        "url": "https://careers.ing.com/en/job/silesia/ekspert-ka-w-obszarze-rachunkowosci/3121/46594129536"
-      },
-      {
-        "title": "Analityk_czka HR",
-        "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-hr/3121/46594129472"
       }
     ]
   },
@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
+        "title": "IT-Project Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
       },
       {
-        "title": "Senior Actuarial Analyst / Assistant Manager",
-        "url": "https://www.munichre.com/en/job/singapore/senior-actuarial-analyst-assistant-manager/3342/46602055168"
+        "title": "Business Architect",
+        "url": "https://www.munichre.com/en/job/london/business-architect/3342/46416408768"
       },
       {
-        "title": "Head of Commercial Surety",
-        "url": "https://www.munichre.com/en/job/new-york/head-of-commercial-surety/3342/44901560256"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
       },
       {
-        "title": "Senior Controller - IT Controlling Operations (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/senior-controller-it-controlling-operations-m-f-d/3342/46161110336"
+        "title": "Product Manager",
+        "url": "https://www.munichre.com/en/job/london/product-manager/3342/46414206720"
       },
       {
         "title": "Find jobs",
@@ -1993,10 +1993,39 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "https://www.vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
+      }
+    ]
   },
   {
     "name": "Vodafone",
