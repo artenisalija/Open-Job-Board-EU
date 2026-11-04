@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Actuarial Intern",
+        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
+      },
+      {
+        "title": "Senior Actuarial Analyst / Assistant Manager",
+        "url": "https://www.munichre.com/en/job/singapore/senior-actuarial-analyst-assistant-manager/3342/46602055168"
+      },
+      {
         "title": "Head of Commercial Surety",
         "url": "https://www.munichre.com/en/job/new-york/head-of-commercial-surety/3342/44901560256"
       },
       {
         "title": "Senior Controller - IT Controlling Operations (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/senior-controller-it-controlling-operations-m-f-d/3342/46161110336"
-      },
-      {
-        "title": "CTI-Authorized Inspector for Sweden",
-        "url": "https://www.munichre.com/en/job/sweden/cti-authorized-inspector-for-sweden/3342/44828512640"
-      },
-      {
-        "title": "IT-Project Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
       },
       {
         "title": "Find jobs",
@@ -1993,44 +1993,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
-  },
-  {
-    "name": "Vitol",
-    "website": "https://www.vitol.com",
-    "career_page_url": "https://www.vitol.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vitol.com/careers"
-      },
-      {
-        "title": "Early Careers in London",
-        "url": "https://www.vitol.com/vitol-early-careers"
-      },
-      {
-        "title": "Apply for role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
