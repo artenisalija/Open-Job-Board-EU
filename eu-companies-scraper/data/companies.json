@@ -1087,13 +1087,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1169,6 +1169,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Vice President, Compliance Frameworks & Control",
+        "url": "https://careers.ing.com/en/job/new-york/vice-president-compliance-frameworks-and-control/3121/45115989248"
+      },
+      {
+        "title": "Analyst, Market Risk Manager",
+        "url": "https://careers.ing.com/en/job/new-york/analyst-market-risk-manager/3121/39217778176"
+      },
+      {
         "title": "Gestor Comercial Las Palmas (Temporary)",
         "url": "https://careers.ing.com/en/job/las-palmas-de-gran-canaria/gestor-comercial-las-palmas-temporary/3121/46594129856"
       },
@@ -1195,14 +1203,6 @@
       {
         "title": "Analityk_czka HR",
         "url": "https://careers.ing.com/en/job/warsaw/analityk-czka-hr/3121/46594129472"
-      },
-      {
-        "title": "Przedstawiciel_ka Leasingowy_a Rynku Maszyn i Urządzeń",
-        "url": "https://careers.ing.com/en/job/silesia/przedstawiciel-ka-leasingowy-a-rynku-maszyn-i-urzadzen/3121/46594129408"
-      },
-      {
-        "title": "Payments Contract & Partner Management Senior Expert",
-        "url": "https://careers.ing.com/en/job/milan/payments-contract-and-partner-management-senior-expert/3121/46421137792"
       }
     ]
   },
@@ -1218,14 +1218,6 @@
         "url": "https://www.jbsglobal.com/careers"
       }
     ]
-  },
-  {
-    "name": "Koç Holding",
-    "website": "https://www.koc.com.tr/en",
-    "career_page_url": "https://www.koc.com.tr/en/careers",
-    "country_of_origin": "Turkey",
-    "source": "wikipedia",
-    "jobs": []
   },
   {
     "name": "L'Oréal",
@@ -1290,6 +1282,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Head of Commercial Surety",
+        "url": "https://www.munichre.com/en/job/new-york/head-of-commercial-surety/3342/44901560256"
+      },
+      {
         "title": "Senior Controller - IT Controlling Operations (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/senior-controller-it-controlling-operations-m-f-d/3342/46161110336"
       },
@@ -1300,10 +1296,6 @@
       {
         "title": "IT-Project Manager (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
-      },
-      {
-        "title": "Solution Architect - Data",
-        "url": "https://www.munichre.com/en/job/princeton/solution-architect-data/3342/40315251520"
       },
       {
         "title": "Find jobs",
@@ -2001,10 +1993,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
