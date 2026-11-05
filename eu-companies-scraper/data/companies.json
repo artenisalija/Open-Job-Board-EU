@@ -35,7 +35,7 @@
   {
     "name": "Accenture",
     "website": "http://accenture.com",
-    "career_page_url": "http://accenture.com/de-de/services/talent-organization",
+    "career_page_url": "http://accenture.com/de/services/talent-organization",
     "country_of_origin": "Ireland",
     "source": "wikipedia",
     "jobs": [
@@ -147,20 +147,12 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Safety---Reliability-Engineer_JR10451843?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=29247e57dbaf46fb855b224e03170bc7"
       },
       {
-        "title": "Aerodynamic Icing Engineer Bristol 20 October 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Aerodynamic-Icing-Engineer_JR10440518-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=29247e57dbaf46fb855b224e03170bc7"
-      },
-      {
         "title": "Certifying Staff Europe 01 September 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/jobs?q=certifying+staff"
       },
       {
         "title": "Principal Stress Engineer Wichita, KS or Mobile, AL (USA) 06 October 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Wichita-KS/Principal-Stress-Engineer_JR10447399-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=bc33aa3152ec42d4995f4791a106ed09"
-      },
-      {
-        "title": "Transfer of Work Manager Airframe Marseille, France 07 October 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Marseille-Area/Transfer-of-Work-Manager-Airframe_JR10429160-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=54c5b6971ffb4bf0b116fe7651ec789a"
       },
       {
         "title": "Training Product Support Engineer Bangalore, India 06 October 2026",
@@ -205,6 +197,18 @@
       {
         "title": "Browse all jobs",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+      },
+      {
+        "title": "Jumpstart your career",
+        "url": "https://airbus.com/en/careers/students-and-graduates"
+      },
+      {
+        "title": "Explore our professions",
+        "url": "https://airbus.com/en/careers/professionals"
+      },
+      {
+        "title": "Explore our locations",
+        "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
       }
     ]
   },
@@ -1169,6 +1173,26 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Compliance Officer - Financial Crime Compliance (FCC) Advisory",
+        "url": "https://careers.ing.com/en/job/sydney/senior-compliance-officer-financial-crime-compliance-fcc-advisory/3121/46638890240"
+      },
+      {
+        "title": "Starszy_a Specjalista_ka - Ryzyko Kredytowe",
+        "url": "https://careers.ing.com/en/job/silesia/starszy-a-specjalista-ka-ryzyko-kredytowe/3121/44338837696"
+      },
+      {
+        "title": "DevOps Engineer - PHS @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/devops-engineer-phs-ing-hubs-romania/3121/46616433344"
+      },
+      {
+        "title": "Test Automation Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/test-automation-engineer/3121/46380375168"
+      },
+      {
+        "title": "Model Validator / Financial Risk IRRBB",
+        "url": "https://careers.ing.com/en/job/warsaw/model-validator-financial-risk-irrbb/3121/46638889920"
+      },
+      {
         "title": "Senior Analyst - Regulatory Reporting",
         "url": "https://careers.ing.com/en/job/sydney/senior-analyst-regulatory-reporting/3121/46633980864"
       },
@@ -1183,26 +1207,6 @@
       {
         "title": "Customer Journey Expert - TFS",
         "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert-tfs/3121/46616432512"
-      },
-      {
-        "title": "Senior IT Auditor",
-        "url": "https://careers.ing.com/en/job/sydney/senior-it-auditor/3121/45875196800"
-      },
-      {
-        "title": "Manager, Group Reporting",
-        "url": "https://careers.ing.com/en/job/singapore/manager-group-reporting/3121/46633980416"
-      },
-      {
-        "title": "Data Modeling Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/data-modeling-analyst/3121/43998316160"
-      },
-      {
-        "title": "Expert Lead - NFR Business Team",
-        "url": "https://careers.ing.com/en/job/slovakia/expert-lead-nfr-business-team/3121/46630572800"
-      },
-      {
-        "title": "Expert Lead – Universal Banking Location team",
-        "url": "https://careers.ing.com/en/job/slovakia/expert-lead-universal-banking-location-team/3121/46630572736"
       }
     ]
   },
@@ -1282,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector - Modesto, California",
-        "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
+        "title": "Legal Counsel",
+        "url": "https://www.munichre.com/en/job/london/legal-counsel/3342/39784355904"
       },
       {
-        "title": "Inspector - Fall River, Massachusetts",
-        "url": "https://www.munichre.com/en/job/fall-river/inspector-fall-river-massachusetts/3342/42118514048"
+        "title": "Longevity In-Force Actuary",
+        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/46565373760"
       },
       {
-        "title": "Inspector - Plainfield, IL",
-        "url": "https://www.munichre.com/en/job/chicago/inspector-plainfield-il/3342/46619581760"
+        "title": "Accountant for Claims Transactions",
+        "url": "https://www.munichre.com/en/job/madrid/accountant-for-claims-transactions/3342/45958003712"
       },
       {
-        "title": "Geographic Information Systems (GIS)",
-        "url": "https://www.munichre.com/en/job/amelia/geographic-information-systems-gis/3342/46618707968"
+        "title": "Engineer Surveyor - Poole / Bournemouth - Cat 3",
+        "url": "https://www.munichre.com/en/job/southampton/engineer-surveyor-poole-bournemouth-cat-3/3342/46554608512"
       },
       {
         "title": "Find jobs",
