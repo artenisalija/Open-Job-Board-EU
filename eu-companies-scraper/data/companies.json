@@ -1169,6 +1169,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Devops Engineer",
+        "url": "https://careers.ing.com/en/job/luxembourg/devops-engineer/3121/46627263488"
+      },
+      {
+        "title": "Internship Financial Institutions Advisory Team",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-financial-institutions-advisory-team/3121/46627262272"
+      },
+      {
         "title": "Medior Full-Stack Engineer | BMG @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/medior-full-stack-engineer-bmg-ing-hubs-romania/3121/46622324352"
       },
@@ -1195,14 +1203,6 @@
       {
         "title": "Private Banking - Intern - Digitalisation & AI in Portfolio Management",
         "url": "https://careers.ing.com/en/job/brussels/private-banking-intern-digitalisation-and-ai-in-portfolio-management/3121/46622323584"
-      },
-      {
-        "title": "Private Banker Wealth Vlaamse Rand Brussel",
-        "url": "https://careers.ing.com/en/job/flanders/private-banker-wealth-vlaamse-rand-brussel/3121/42742545664"
-      },
-      {
-        "title": "DevOps Engineer - PHS @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/devops-engineer-phs-ing-hubs-romania/3121/46616433344"
       }
     ]
   },
@@ -1282,20 +1282,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Physical Security Technology Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/physical-security-technology-manager-m-f-d/3342/43209993280"
-      },
-      {
-        "title": "Global Employee & Travel Security Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/global-employee-and-travel-security-manager-m-f-d/3342/46112808320"
-      },
-      {
-        "title": "Inspector - Lawrence, MA",
-        "url": "https://www.munichre.com/en/job/lawrence/inspector-lawrence-ma/3342/40778566272"
-      },
-      {
         "title": "Inspector - Modesto, California",
         "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
+      },
+      {
+        "title": "Inspector - Fall River, Massachusetts",
+        "url": "https://www.munichre.com/en/job/fall-river/inspector-fall-river-massachusetts/3342/42118514048"
+      },
+      {
+        "title": "Inspector - Plainfield, IL",
+        "url": "https://www.munichre.com/en/job/chicago/inspector-plainfield-il/3342/46619581760"
+      },
+      {
+        "title": "Geographic Information Systems (GIS)",
+        "url": "https://www.munichre.com/en/job/amelia/geographic-information-systems-gis/3342/46618707968"
       },
       {
         "title": "Find jobs",
