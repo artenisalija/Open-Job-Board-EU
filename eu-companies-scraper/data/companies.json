@@ -919,15 +919,15 @@
       },
       {
         "title": "Professionals",
-        "url": "https://jobs.heraeus.com/professionals"
+        "url": "https://jobs.heraeus.com/en/professionals"
       },
       {
         "title": "Early Professionals",
-        "url": "https://jobs.heraeus.com/early-professional"
+        "url": "https://jobs.heraeus.com/en/early-professional"
       },
       {
         "title": "Stories",
-        "url": "https://jobs.heraeus.com/our-stories"
+        "url": "https://jobs.heraeus.com/en/our-stories"
       },
       {
         "title": "Deutsch Deutsch",
@@ -946,12 +946,16 @@
         "url": "https://jobs.heraeus.com/en/saved-jobs"
       },
       {
-        "title": "Work experience? Yes! The Heraeus team wants to move forward. So do you. Discover our job opportunities!",
-        "url": "https://jobs.heraeus.com/en/professionals"
+        "title": "Professionals",
+        "url": "https://jobs.heraeus.com/professionals"
       },
       {
-        "title": "Career entry? Yes! You’re looking forward to the future. So are we. Start your journey with us!",
-        "url": "https://jobs.heraeus.com/en/early-professional"
+        "title": "Early Professionals",
+        "url": "https://jobs.heraeus.com/early-professional"
+      },
+      {
+        "title": "Stories",
+        "url": "https://jobs.heraeus.com/our-stories"
       },
       {
         "title": "No Jobs Found - View All of Our Available Opportunities",
@@ -1087,13 +1091,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1158,7 +1162,7 @@
       },
       {
         "title": "Italiano Italian",
-        "url": "https://careers.ing.com/it"
+        "url": "https://careers.ing.com/it/lavori-di-ricerca"
       },
       {
         "title": "Română Romanian",
@@ -1169,40 +1173,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "(Sec) Financial Markets Sales Intern - 2027 1H",
-        "url": "https://careers.ing.com/en/job/seoul/sec-financial-markets-sales-%c4%b1ntern-2027-1h/3121/46667073984"
+        "title": "Third Party Operational Risk Specialist @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/third-party-operational-risk-specialist-ing-hubs-romania/3121/46679847744"
       },
       {
-        "title": "HR Business Partner Risk",
-        "url": "https://careers.ing.com/en/job/brussels/hr-business-partner-risk/3121/46667073600"
+        "title": "Ekspert ds. Oferty Kredytowej Private Banking (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ds-oferty-kredytowej-private-banking-k-m/3121/46679847680"
       },
       {
-        "title": "DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/devops-engineer/3121/46667073536"
+        "title": "Information Modeler - Analyst",
+        "url": "https://careers.ing.com/en/job/amsterdam/information-modeler-analyst/3121/46679847616"
       },
       {
-        "title": "External Dispute Resolution Case Manager",
-        "url": "https://careers.ing.com/en/job/sydney/external-dispute-resolution-case-manager/3121/45132982912"
+        "title": "Digital Assets Compliance Engineer",
+        "url": "https://careers.ing.com/en/job/istanbul/digital-assets-compliance-engineer/3121/43168817856"
       },
       {
-        "title": "Relationship Manager Large Enterprises (Zuid-West-Vlaanderen)",
-        "url": "https://careers.ing.com/en/job/kortrijk/relationship-manager-large-enterprises-zuid-west-vlaanderen/3121/46662062912"
+        "title": "Starszy Specjalista ds. Inwestycji i Relacji z Klientami (k/m)",
+        "url": "https://careers.ing.com/en/job/pomerania/starszy-specjalista-ds-inwestycji-i-relacji-z-klientami-k-m/3121/46679847488"
       },
       {
-        "title": "Product Lead - Digital Investment Products",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-lead-digital-%c4%b1nvestment-products/3121/46651024832"
+        "title": "Specjalista ds. Bankowości Transakcyjnej (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ds-bankowosci-transakcyjnej-k-m/3121/45851654784"
       },
       {
-        "title": "IT Area Lead Data & AI",
-        "url": "https://careers.ing.com/en/job/madrid/%c4%b1t-area-lead-data-and-a%c4%b1/3121/46651024768"
+        "title": "Agentic automation & AI Consultant",
+        "url": "https://careers.ing.com/en/job/amsterdam/agentic-automation-and-ai-consultant/3121/42373877568"
       },
       {
-        "title": "Vice President, Product Manager - Trade Finance",
-        "url": "https://careers.ing.com/en/job/new-york/vice-president-product-manager-trade-finance/3121/46651024704"
+        "title": "intern legal/paralegal",
+        "url": "https://careers.ing.com/en/job/brussels/intern-legal-paralegal/3121/46679847296"
       },
       {
-        "title": "Investment Expert | Investments Tribe @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/%c4%b1nvestment-expert-%c4%b1nvestments-tribe-%c4%b1ng-bank/3121/45961168000"
+        "title": "Główny Księgowy w ING Faktoring (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-ksiegowy-w-ing-faktoring-k-m/3121/41385916864"
       }
     ]
   },
@@ -1282,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Engineer Surveyor - Poole / Bournemouth - Cat 3",
-        "url": "https://www.munichre.com/en/job/southampton/engineer-surveyor-poole-bournemouth-cat-3/3342/46554608512"
+        "title": "Accounts Payable Technician",
+        "url": "https://www.munichre.com/en/job/manchester/accounts-payable-technician/3342/45650681728"
       },
       {
-        "title": "Intern Financial and Strategic Advisory (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/intern-financial-and-strategic-advisory-m-f-d/3342/46554608064"
+        "title": "Digital Product Owner Europe",
+        "url": "https://www.munichre.com/en/job/madrid/digital-product-owner-europe/3342/44465333120"
       },
       {
-        "title": "Senior Casualty Treaty Underwriter",
-        "url": "https://www.munichre.com/en/job/new-york/senior-casualty-treaty-underwriter/3342/46131830144"
+        "title": "Underwriting Analyst",
+        "url": "https://www.munichre.com/en/job/princeton/underwriting-analyst/3342/45900505728"
       },
       {
-        "title": "Accounts Payable & Receivable Technician",
-        "url": "https://www.munichre.com/en/job/madrid/accounts-payable-and-receivable-technician/3342/43057334528"
+        "title": "Praktikant Geospatial Solutions (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-geospatial-solutions-m-f-d/3342/46667344640"
       },
       {
         "title": "Find jobs",
@@ -1751,14 +1755,6 @@
     ]
   },
   {
-    "name": "Sberbank",
-    "website": "http://sberbank.com",
-    "career_page_url": "http://sberbank.com/jobs",
-    "country_of_origin": "Russia",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Schneider Electric",
     "website": "https://www.se.com",
     "career_page_url": "https://www.se.com/careers",
@@ -2190,13 +2186,5 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
-  },
-  {
-    "name": "Zurich Insurance Group",
-    "website": "https://www.zurich.com",
-    "career_page_url": "https://www.zurich.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": []
   }
 ]
