@@ -1158,7 +1158,7 @@
       },
       {
         "title": "Italiano Italian",
-        "url": "https://careers.ing.com/it/lavori-di-ricerca"
+        "url": "https://careers.ing.com/it"
       },
       {
         "title": "Română Romanian",
@@ -1169,16 +1169,32 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "(Sec) Financial Markets Sales Intern - 2027 1H",
+        "url": "https://careers.ing.com/en/job/seoul/sec-financial-markets-sales-%c4%b1ntern-2027-1h/3121/46667073984"
+      },
+      {
+        "title": "HR Business Partner Risk",
+        "url": "https://careers.ing.com/en/job/brussels/hr-business-partner-risk/3121/46667073600"
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/devops-engineer/3121/46667073536"
+      },
+      {
+        "title": "External Dispute Resolution Case Manager",
+        "url": "https://careers.ing.com/en/job/sydney/external-dispute-resolution-case-manager/3121/45132982912"
+      },
+      {
         "title": "Relationship Manager Large Enterprises (Zuid-West-Vlaanderen)",
         "url": "https://careers.ing.com/en/job/kortrijk/relationship-manager-large-enterprises-zuid-west-vlaanderen/3121/46662062912"
       },
       {
         "title": "Product Lead - Digital Investment Products",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-lead-digital-investment-products/3121/46651024832"
+        "url": "https://careers.ing.com/en/job/amsterdam/product-lead-digital-%c4%b1nvestment-products/3121/46651024832"
       },
       {
         "title": "IT Area Lead Data & AI",
-        "url": "https://careers.ing.com/en/job/madrid/it-area-lead-data-and-ai/3121/46651024768"
+        "url": "https://careers.ing.com/en/job/madrid/%c4%b1t-area-lead-data-and-a%c4%b1/3121/46651024768"
       },
       {
         "title": "Vice President, Product Manager - Trade Finance",
@@ -1186,23 +1202,7 @@
       },
       {
         "title": "Investment Expert | Investments Tribe @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/investment-expert-investments-tribe-ing-bank/3121/45961168000"
-      },
-      {
-        "title": "Senior IT Business Analyst",
-        "url": "https://careers.ing.com/en/job/silesia/senior-it-business-analyst/3121/46651024576"
-      },
-      {
-        "title": "Commercial Product Manager Merchant Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/commercial-product-manager-merchant-services/3121/46594129792"
-      },
-      {
-        "title": "Functional App Manager",
-        "url": "https://careers.ing.com/en/job/istanbul/functional-app-manager/3121/46651024448"
-      },
-      {
-        "title": "Technical Product Owner @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/technical-product-owner-ing-hubs-romania/3121/46651024384"
+        "url": "https://careers.ing.com/en/job/bucharest/%c4%b1nvestment-expert-%c4%b1nvestments-tribe-%c4%b1ng-bank/3121/45961168000"
       }
     ]
   },
@@ -1993,10 +1993,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
