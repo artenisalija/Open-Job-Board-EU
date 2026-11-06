@@ -434,6 +434,43 @@
     ]
   },
   {
+    "name": "Bosch",
+    "website": "https://www.bosch.com",
+    "career_page_url": "https://www.bosch.com/careers",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.bosch.com/careers"
+      },
+      {
+        "title": "Overview",
+        "url": "https://www.bosch.com/careers/why-bosch"
+      },
+      {
+        "title": "Benefits",
+        "url": "https://www.bosch.com/careers/why-bosch/benefits"
+      },
+      {
+        "title": "Associate stories",
+        "url": "https://www.bosch.com/careers/why-bosch/associate-stories"
+      },
+      {
+        "title": "Career opportunities",
+        "url": "https://www.bosch.com/careers/career-opportunities"
+      },
+      {
+        "title": "Fields of work",
+        "url": "https://www.bosch.com/careers/fields-of-work"
+      },
+      {
+        "title": "FAQ",
+        "url": "https://www.bosch.com/careers/faq"
+      }
+    ]
+  },
+  {
     "name": "Chubb",
     "website": "https://chubb.com",
     "career_page_url": "https://chubb.com/careers",
@@ -1132,6 +1169,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Relationship Manager Large Enterprises (Zuid-West-Vlaanderen)",
+        "url": "https://careers.ing.com/en/job/kortrijk/relationship-manager-large-enterprises-zuid-west-vlaanderen/3121/46662062912"
+      },
+      {
         "title": "Product Lead - Digital Investment Products",
         "url": "https://careers.ing.com/en/job/amsterdam/product-lead-digital-investment-products/3121/46651024832"
       },
@@ -1162,10 +1203,6 @@
       {
         "title": "Technical Product Owner @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/technical-product-owner-ing-hubs-romania/3121/46651024384"
-      },
-      {
-        "title": "Internship Asset Liability Management Model Development",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-asset-liability-management-model-development/3121/46651024320"
       }
     ]
   },
@@ -1960,35 +1997,6 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "Vitol",
-    "website": "https://www.vitol.com",
-    "career_page_url": "https://www.vitol.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia_global",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vitol.com/careers"
-      },
-      {
-        "title": "Early Careers in London",
-        "url": "https://www.vitol.com/vitol-early-careers"
-      },
-      {
-        "title": "Apply for role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
-      },
-      {
-        "title": "Apply for the role",
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
-      }
-    ]
   },
   {
     "name": "Vodafone",
