@@ -434,43 +434,6 @@
     ]
   },
   {
-    "name": "Bosch",
-    "website": "https://www.bosch.com",
-    "career_page_url": "https://www.bosch.com/careers",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.bosch.com/careers"
-      },
-      {
-        "title": "Overview",
-        "url": "https://www.bosch.com/careers/why-bosch"
-      },
-      {
-        "title": "Benefits",
-        "url": "https://www.bosch.com/careers/why-bosch/benefits"
-      },
-      {
-        "title": "Associate stories",
-        "url": "https://www.bosch.com/careers/why-bosch/associate-stories"
-      },
-      {
-        "title": "Career opportunities",
-        "url": "https://www.bosch.com/careers/career-opportunities"
-      },
-      {
-        "title": "Fields of work",
-        "url": "https://www.bosch.com/careers/fields-of-work"
-      },
-      {
-        "title": "FAQ",
-        "url": "https://www.bosch.com/careers/faq"
-      }
-    ]
-  },
-  {
     "name": "Chubb",
     "website": "https://chubb.com",
     "career_page_url": "https://chubb.com/careers",
@@ -1169,40 +1132,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "BE Fiducre Accounting CLM III",
-        "url": "https://careers.ing.com/en/job/makati-city/be-fiducre-accounting-clm-iii/3121/46645045888"
+        "title": "Product Lead - Digital Investment Products",
+        "url": "https://careers.ing.com/en/job/amsterdam/product-lead-digital-investment-products/3121/46651024832"
       },
       {
-        "title": "MS SQL Server Database Admin | BMG @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/ms-sql-server-database-admin-bmg-ing-hubs-romania/3121/46645045824"
+        "title": "IT Area Lead Data & AI",
+        "url": "https://careers.ing.com/en/job/madrid/it-area-lead-data-and-ai/3121/46651024768"
       },
       {
-        "title": "Branch Agent O´Donnell (Temporary)",
-        "url": "https://careers.ing.com/en/job/madrid/branch-agent-o-donnell-temporary/3121/46645045760"
+        "title": "Vice President, Product Manager - Trade Finance",
+        "url": "https://careers.ing.com/en/job/new-york/vice-president-product-manager-trade-finance/3121/46651024704"
       },
       {
-        "title": "Internship ING Financial Markets | eFX Sales",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-financial-markets-efx-sales/3121/44066653888"
+        "title": "Investment Expert | Investments Tribe @ING Bank",
+        "url": "https://careers.ing.com/en/job/bucharest/investment-expert-investments-tribe-ing-bank/3121/45961168000"
       },
       {
-        "title": "Praktikant Schuldschein Syndicate (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-schuldschein-syndicate-w-m-d/3121/46645045632"
+        "title": "Senior IT Business Analyst",
+        "url": "https://careers.ing.com/en/job/silesia/senior-it-business-analyst/3121/46651024576"
       },
       {
-        "title": "Senior Software Engineer – Filtering Automation",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-software-engineer-filtering-automation/3121/46645045568"
+        "title": "Commercial Product Manager Merchant Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/commercial-product-manager-merchant-services/3121/46594129792"
       },
       {
-        "title": "Customer Journey Expert - Banking Products and Processes @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/customer-journey-expert-banking-products-and-processes-ing-hubs-romania/3121/46645045312"
+        "title": "Functional App Manager",
+        "url": "https://careers.ing.com/en/job/istanbul/functional-app-manager/3121/46651024448"
       },
       {
-        "title": "Doradca_czyni Klienta Korporacyjnego",
-        "url": "https://careers.ing.com/en/job/bydgoszcz/doradca-czyni-klienta-korporacyjnego/3121/46645043712"
+        "title": "Technical Product Owner @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/technical-product-owner-ing-hubs-romania/3121/46651024384"
       },
       {
-        "title": "Senior Auditor/ Audit Supervisor Market Risk",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-auditor-audit-supervisor-market-risk/3121/45132982336"
+        "title": "Internship Asset Liability Management Model Development",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-asset-liability-management-model-development/3121/46651024320"
       }
     ]
   },
@@ -1282,6 +1245,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Engineer Surveyor - Poole / Bournemouth - Cat 3",
+        "url": "https://www.munichre.com/en/job/southampton/engineer-surveyor-poole-bournemouth-cat-3/3342/46554608512"
+      },
+      {
         "title": "Intern Financial and Strategic Advisory (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/intern-financial-and-strategic-advisory-m-f-d/3342/46554608064"
       },
@@ -1292,10 +1259,6 @@
       {
         "title": "Accounts Payable & Receivable Technician",
         "url": "https://www.munichre.com/en/job/madrid/accounts-payable-and-receivable-technician/3342/43057334528"
-      },
-      {
-        "title": "NOVA Program Manager",
-        "url": "https://www.munichre.com/en/job/wayne/nova-program-manager/3342/46648148800"
       },
       {
         "title": "Find jobs",
@@ -1459,7 +1422,16 @@
     "career_page_url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.renaultgroup.com/en/magazine/technology/how-the-jobs-of-tomorrow-are-shaping-todays-automotive-industry"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.renaultgroup.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Repsol",
@@ -1988,6 +1960,35 @@
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "Vitol",
+    "website": "https://www.vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
+      }
+    ]
   },
   {
     "name": "Vodafone",
