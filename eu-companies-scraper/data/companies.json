@@ -1091,13 +1091,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/kw/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ir/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/kw/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ir/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1286,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Accounts Payable Technician",
-        "url": "https://www.munichre.com/en/job/manchester/accounts-payable-technician/3342/45650681728"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
       },
       {
-        "title": "Digital Product Owner Europe",
-        "url": "https://www.munichre.com/en/job/madrid/digital-product-owner-europe/3342/44465333120"
+        "title": "Training and Adoption Lead",
+        "url": "https://www.munichre.com/en/job/amelia/training-and-adoption-lead/3342/45436743808"
       },
       {
-        "title": "Underwriting Analyst",
-        "url": "https://www.munichre.com/en/job/princeton/underwriting-analyst/3342/45900505728"
+        "title": "Senior Marketing Partner",
+        "url": "https://www.munichre.com/en/job/toronto/senior-marketing-partner/3342/45894994112"
       },
       {
-        "title": "Praktikant Geospatial Solutions (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-geospatial-solutions-m-f-d/3342/46667344640"
+        "title": "Associate Actuary - Wholesale & Specialty Insurance",
+        "url": "https://www.munichre.com/en/job/new-york/associate-actuary-wholesale-and-specialty-insurance/3342/46682694848"
       },
       {
         "title": "Find jobs",
@@ -2189,5 +2189,13 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
   }
 ]
