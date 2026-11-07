@@ -1091,13 +1091,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/us/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1173,6 +1173,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Business Analyst PSS SEPA Direct Debit @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/business-analyst-pss-sepa-direct-debit-ing-hubs-romania/3121/46684277376"
+      },
+      {
         "title": "Third Party Operational Risk Specialist @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/third-party-operational-risk-specialist-ing-hubs-romania/3121/46679847744"
       },
@@ -1203,10 +1207,6 @@
       {
         "title": "intern legal/paralegal",
         "url": "https://careers.ing.com/en/job/brussels/intern-legal-paralegal/3121/46679847296"
-      },
-      {
-        "title": "Główny Księgowy w ING Faktoring (k/m)",
-        "url": "https://careers.ing.com/en/job/warsaw/g%c5%82owny-ksiegowy-w-ing-faktoring-k-m/3121/41385916864"
       }
     ]
   },
@@ -1755,6 +1755,14 @@
     ]
   },
   {
+    "name": "Sberbank",
+    "website": "http://sberbank.com",
+    "career_page_url": "http://sberbank.com/jobs",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
     "name": "Schneider Electric",
     "website": "https://www.se.com",
     "career_page_url": "https://www.se.com/careers",
@@ -1989,15 +1997,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
@@ -2186,5 +2189,13 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
   }
 ]
