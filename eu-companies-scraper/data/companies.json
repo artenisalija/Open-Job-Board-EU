@@ -1091,13 +1091,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/kw/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/kw/en/talent/life-at-inditex"
       }
     ]
   },
@@ -2189,13 +2189,5 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
-  },
-  {
-    "name": "Zurich Insurance Group",
-    "website": "https://www.zurich.com",
-    "career_page_url": "https://www.zurich.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": []
   }
 ]
