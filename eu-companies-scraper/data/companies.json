@@ -131,7 +131,7 @@
         "url": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom"
       },
       {
-        "title": "UK Placement Years open for application! Final engineering roles closing 5 October, all other roles closing 25 October! Click through to find out more.",
+        "title": "UK Placement Years open for application! The perfect fit for your year-in-industry placement. Applications closing soon.",
         "url": "https://www.airbus.com/en/careers/students-and-graduates/interns/uk-industry-placement"
       },
       {
@@ -1173,6 +1173,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Specjalista ds. sprzedaży leasingu – pojazdy (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ds-sprzedazy-leasingu-pojazdy-k-m/3121/46750516672"
+      },
+      {
+        "title": "IT Business Analyst - AEDAL Core Banking @ ING Hubs Ro",
+        "url": "https://careers.ing.com/en/job/bucharest/it-business-analyst-aedal-core-banking-ing-hubs-ro/3121/46750516544"
+      },
+      {
+        "title": "Customer Care Specialist - Contact Centre",
+        "url": "https://careers.ing.com/en/job/wyong/customer-care-specialist-contact-centre/3121/46750516480"
+      },
+      {
+        "title": "IT Operations Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/it-operations-engineer/3121/46385215936"
+      },
+      {
         "title": "Customer Journey Expert",
         "url": "https://careers.ing.com/en/job/sydney/customer-journey-expert/3121/46745574912"
       },
@@ -1191,22 +1207,6 @@
       {
         "title": "Information Modeler - Analyst",
         "url": "https://careers.ing.com/en/job/amsterdam/information-modeler-analyst/3121/46679847616"
-      },
-      {
-        "title": "Digital Assets Compliance Engineer",
-        "url": "https://careers.ing.com/en/job/istanbul/digital-assets-compliance-engineer/3121/43168817856"
-      },
-      {
-        "title": "Starszy Specjalista ds. Inwestycji i Relacji z Klientami (k/m)",
-        "url": "https://careers.ing.com/en/job/pomerania/starszy-specjalista-ds-inwestycji-i-relacji-z-klientami-k-m/3121/46679847488"
-      },
-      {
-        "title": "Specjalista ds. Bankowości Transakcyjnej (k/m)",
-        "url": "https://careers.ing.com/en/job/warsaw/specjalista-ds-bankowosci-transakcyjnej-k-m/3121/45851654784"
-      },
-      {
-        "title": "Agentic automation & AI Consultant",
-        "url": "https://careers.ing.com/en/job/amsterdam/agentic-automation-and-ai-consultant/3121/42373877568"
       }
     ]
   },
@@ -1286,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Graphic Design Intern - Summer 2027",
-        "url": "https://www.munichre.com/en/job/amelia/graphic-design-intern-summer-2027/3342/45319110848"
+        "title": "Risk Management Surveyor - North",
+        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
       },
       {
-        "title": "Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/london/pricing-actuary/3342/45014432896"
+        "title": "Ausbildung zum Kaufmann/ zur Kauffrau für Versicherung und Finanzen 2027 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildung-zum-kaufmann-zur-kauffrau-fur-versicherung-und-finanzen-2027-m-w-d/3342/44213457152"
       },
       {
-        "title": "Training and Adoption Lead",
-        "url": "https://www.munichre.com/en/job/amelia/training-and-adoption-lead/3342/45436743808"
+        "title": "Munich Re Markets GmbH: Executive Assistant to the Global Head of Munich Re Markets (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-executive-assistant-to-the-global-head-of-munich-re-markets-m-f-d/3342/45309395712"
       },
       {
-        "title": "Senior Marketing Partner",
-        "url": "https://www.munichre.com/en/job/toronto/senior-marketing-partner/3342/45894994112"
+        "title": "Munich Re Markets GmbH: Senior Strategy Consultant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-senior-strategy-consultant-m-f-d/3342/45309395776"
       },
       {
         "title": "Find jobs",
@@ -2003,6 +2003,35 @@
     "jobs": []
   },
   {
+    "name": "Vitol",
+    "website": "https://www.vitol.com",
+    "career_page_url": "https://www.vitol.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia_global",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vitol.com/careers"
+      },
+      {
+        "title": "Early Careers in London",
+        "url": "https://www.vitol.com/vitol-early-careers"
+      },
+      {
+        "title": "Apply for role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000116708627-trade-settlements-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000154961064-claim-analyst"
+      },
+      {
+        "title": "Apply for the role",
+        "url": "https://jobs.smartrecruiters.com/Vitol/744000148282689-enterprise-architect"
+      }
+    ]
+  },
+  {
     "name": "Vodafone",
     "website": "https://vodafone.com",
     "career_page_url": "https://careers.vodafone.com",
@@ -2113,14 +2142,14 @@
   },
   {
     "name": "Volkswagen",
-    "website": "http://volkswagen-group.com",
-    "career_page_url": "http://volkswagen-group.com/en/career-16057",
+    "website": "https://www.volkswagen-group.com",
+    "career_page_url": "https://www.volkswagen-group.com/en/career-16057",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Careers with the Group",
-        "url": "http://volkswagen-group.com/en/careers-with-the-group-16105"
+        "url": "https://www.volkswagen-group.com/en/careers-with-the-group-16105"
       }
     ]
   },
