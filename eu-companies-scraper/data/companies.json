@@ -1091,13 +1091,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1173,6 +1173,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "domain architect Customer Data - Onboarding-1",
+        "url": "https://careers.ing.com/en/job/brussels/domain-architect-customer-data-onboarding-1/3121/46772357568"
+      },
+      {
         "title": "Mortgages Product Expert",
         "url": "https://careers.ing.com/en/job/milan/mortgages-product-expert/3121/46768760384"
       },
@@ -1203,10 +1207,6 @@
       {
         "title": "Internship - Supervisory Affairs & Public and Regulatory Affairs",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-supervisory-affairs-and-public-and-regulatory-affairs/3121/46764034176"
-      },
-      {
-        "title": "Doradca Klienta Korporacyjnego ds. Leasingu (k/m)",
-        "url": "https://careers.ing.com/en/job/silesia/doradca-klienta-korporacyjnego-ds-leasingu-k-m/3121/46454642560"
       }
     ]
   },
@@ -1286,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Digital Product Manager Client Lifecycle",
+        "url": "https://www.munichre.com/en/job/hartford/digital-product-manager-client-lifecycle/3342/46677011392"
+      },
+      {
+        "title": "Accounts Payable & Receivable Technician (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
+        "url": "https://www.munichre.com/en/job/milan/accounts-payable-and-receivable-technician-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/45428516416"
+      },
+      {
+        "title": "Munich Re Markets GmbH: Senior Strategy Consultant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-senior-strategy-consultant-m-f-d/3342/45309395776"
+      },
+      {
         "title": "IT-Project Manager (m/f/d)*",
         "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
-      },
-      {
-        "title": "Intern LLM Access and agent platform",
-        "url": "https://www.munichre.com/en/job/munich/intern-llm-access-and-agent-platform/3342/46756503296"
-      },
-      {
-        "title": "Praktikant in Volkswirtschaftlicher Abteilung (Economics) (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-in-volkswirtschaftlicher-abteilung-economics-m-f-d/3342/46391712960"
-      },
-      {
-        "title": "Credit Controller (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
-        "url": "https://www.munichre.com/en/job/milan/credit-controller-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/45428516352"
       },
       {
         "title": "Find jobs",
