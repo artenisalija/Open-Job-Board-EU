@@ -1173,6 +1173,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Analyst – Risk",
+        "url": "https://careers.ing.com/en/job/sydney/senior-analyst-risk/3121/46805137472"
+      },
+      {
+        "title": "Senior Manager, Issues and Regulatory Risk",
+        "url": "https://careers.ing.com/en/job/sydney/senior-manager-issues-and-regulatory-risk/3121/45720810688"
+      },
+      {
+        "title": "Senior Manager Portfolio Optimisation - Daily Banking - 9 Months F.T.C",
+        "url": "https://careers.ing.com/en/job/sydney/senior-manager-portfolio-optimisation-daily-banking-9-months-f-t-c/3121/46781017792"
+      },
+      {
         "title": "Facilities Finance Control",
         "url": "https://careers.ing.com/en/job/madrid/facilities-finance-control/3121/46793594240"
       },
@@ -1195,18 +1207,6 @@
       {
         "title": "Legal Operations Lead",
         "url": "https://careers.ing.com/en/job/brussels/legal-operations-lead/3121/43423728320"
-      },
-      {
-        "title": "Oracle Expert Engineer",
-        "url": "https://careers.ing.com/en/job/amsterdam/oracle-expert-engineer/3121/37927478272"
-      },
-      {
-        "title": "Senior Financial Risk Specialist – Financial Risk Management (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/senior-financial-risk-specialist-financial-risk-management-w-m-d/3121/46793593728"
-      },
-      {
-        "title": "Senior Product Manager (CJE) - Open Banking",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-product-manager-cje-open-banking/3121/46793593664"
       }
     ]
   },
@@ -1997,10 +1997,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vitol",
