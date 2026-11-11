@@ -1286,20 +1286,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Head of Surety Spain",
-        "url": "https://www.munichre.com/en/job/madrid/head-of-surety-spain/3342/46398207168"
+        "title": "Customer Service - Change Management Intern",
+        "url": "https://www.munichre.com/en/job/amelia/customer-service-change-management-intern/3342/46794919040"
       },
       {
-        "title": "Intern LLM Access and agent platform",
-        "url": "https://www.munichre.com/en/job/munich/intern-llm-access-and-agent-platform/3342/46756503296"
+        "title": "Property Field Adjuster - South New Jersey",
+        "url": "https://www.munichre.com/en/job/princeton/property-field-adjuster-south-new-jersey/3342/44073364352"
       },
       {
-        "title": "IT-Project Manager (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
+        "title": "Managing Data Science Lead",
+        "url": "https://www.munichre.com/en/job/amelia/managing-data-science-lead/3342/46797335680"
       },
       {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
+        "title": "Project Manager Senior",
+        "url": "https://www.munichre.com/en/job/hartford/project-manager-senior/3342/45745113280"
       },
       {
         "title": "Find jobs",
@@ -2218,5 +2218,13 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
   }
 ]
