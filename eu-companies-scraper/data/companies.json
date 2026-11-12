@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/ru/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/ru/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,26 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Payroll Expert (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/senior-payroll-expert-w-m-d/3121/46840637056"
+      },
+      {
+        "title": "Team Lead",
+        "url": "https://careers.ing.com/en/job/makati-city/team-lead/3121/46840636992"
+      },
+      {
+        "title": "CPS Performance and Rewards Senior Specialist",
+        "url": "https://careers.ing.com/en/job/makati-city/cps-performance-and-rewards-senior-specialist/3121/46840636928"
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/senior-backend-engineer/3121/46835590272"
+      },
+      {
+        "title": "Senior Manager, Financial Crime Compliance (Governance & Change)",
+        "url": "https://careers.ing.com/en/job/sydney/senior-manager-financial-crime-compliance-governance-and-change/3121/46421134656"
+      },
+      {
         "title": "Solution Architect Mandate Management",
         "url": "https://careers.ing.com/en/job/brussels/solution-architect-mandate-management/3121/46832068864"
       },
@@ -1131,26 +1151,6 @@
       {
         "title": "Product Expert | Investments Tribe @ING Bank",
         "url": "https://careers.ing.com/en/job/bucharest/product-expert-investments-tribe-ing-bank/3121/46155027584"
-      },
-      {
-        "title": "Senior Credit Risk Portfolio Analyst",
-        "url": "https://careers.ing.com/en/job/madrid/senior-credit-risk-portfolio-analyst/3121/44845992064"
-      },
-      {
-        "title": "Credit Fraud Expert",
-        "url": "https://careers.ing.com/en/job/brussels/credit-fraud-expert/3121/46824251008"
-      },
-      {
-        "title": "Data & AI adoption Intern",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-and-ai-adoption-intern/3121/46824250816"
-      },
-      {
-        "title": "Senior Media Specialist - Media & Research Insights",
-        "url": "https://careers.ing.com/en/job/bucharest/senior-media-specialist-media-and-research-insights/3121/46824250688"
-      },
-      {
-        "title": "Customer Loyalty Intern with English @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/customer-loyalty-intern-with-english-ing-hubs-romania/3121/46787201664"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Financial Analyst",
-        "url": "https://www.munichre.com/en/job/toronto/financial-analyst/3342/45667944832"
+        "title": "Longevity In-Force Actuary",
+        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/46565373760"
       },
       {
-        "title": "Accountant",
-        "url": "https://www.munichre.com/en/job/toronto/accountant/3342/45667944960"
+        "title": "Catastrophe Risk Analyst",
+        "url": "https://www.munichre.com/en/job/madrid/catastrophe-risk-analyst/3342/46783660992"
       },
       {
-        "title": "Compliance Manager",
-        "url": "https://www.munichre.com/en/job/london/compliance-manager/3342/39233366976"
+        "title": "Underwriting Assistant",
+        "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/46398207040"
       },
       {
-        "title": "Assistant Longevity Client Manager",
-        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
+        "title": "Finance Specialist",
+        "url": "https://www.munichre.com/en/job/vadodara/finance-specialist/3342/46843229504"
       },
       {
         "title": "Find jobs",
