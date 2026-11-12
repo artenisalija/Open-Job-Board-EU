@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/by/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/by/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Solution Architect Mandate Management",
+        "url": "https://careers.ing.com/en/job/brussels/solution-architect-mandate-management/3121/46832068864"
+      },
+      {
         "title": "Branch Agent Alicante (Temporary)",
         "url": "https://careers.ing.com/en/job/alicante/branch-agent-alicante-temporary/3121/46828791488"
       },
@@ -1147,10 +1151,6 @@
       {
         "title": "Customer Loyalty Intern with English @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/customer-loyalty-intern-with-english-ing-hubs-romania/3121/46787201664"
-      },
-      {
-        "title": "Workforce Management Expert @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/workforce-management-expert-ing-hubs-romania/3121/46824250496"
       }
     ]
   },
@@ -1941,15 +1941,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
