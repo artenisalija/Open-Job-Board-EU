@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,40 +1117,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Analyst (Fraud Rule Writer Senior Specialist)",
-        "url": "https://careers.ing.com/en/job/katowice/data-analyst-fraud-rule-writer-senior-specialist/3121/46870297984"
+        "title": "Senior Full-Stack Developer – Customer Data",
+        "url": "https://careers.ing.com/en/job/brussels/senior-full-stack-developer-customer-data/3121/46272469376"
       },
       {
-        "title": "Digital Sales Analyst",
-        "url": "https://careers.ing.com/en/job/sydney/digital-sales-analyst/3121/38609325760"
+        "title": "Internship Corporate Finance - FIG M&A (FI Advisory)",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-corporate-finance-fig-m-and-a-fi-advisory/3121/46627262272"
       },
       {
-        "title": "Internship – Account Manager, Private Banking",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760"
+        "title": "Data Scientist Specialist",
+        "url": "https://careers.ing.com/en/job/silesia/data-scientist-specialist/3121/46131517440"
       },
       {
-        "title": "Ekspert ds. Relacji Inwestorskich i Analiz Finansowych (sektor bankowy)(k/m)",
-        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ds-relacji-inwestorskich-i-analiz-finansowych-sektor-bankowy-k-m/3121/45018356480"
+        "title": "Starszy Doradca Klienta Korporacyjnego (k/m)",
+        "url": "https://careers.ing.com/en/job/krzyki/starszy-doradca-klienta-korporacyjnego-k-m/3121/46882257856"
       },
       {
-        "title": "Intern - HR & Business Administration Support",
-        "url": "https://careers.ing.com/en/job/amsterdam/intern-hr-and-business-administration-support/3121/46858366848"
+        "title": "Squad Master / Customer Journey Expert – Regulatory, External & Risk Changes squad - Tribe Mortgages",
+        "url": "https://careers.ing.com/en/job/brussels/squad-master-customer-journey-expert-regulatory-external-and-risk-changes-squad-tribe-mortgages/3121/46882257792"
       },
       {
-        "title": "Vice President, Non-Financial Risk Officer",
-        "url": "https://careers.ing.com/en/job/new-york/vice-president-non-financial-risk-officer/3121/46858366464"
+        "title": "Service Management Expert",
+        "url": "https://careers.ing.com/en/job/katowice/service-management-expert/3121/46882257728"
       },
       {
-        "title": "DevOps - Observability Engineer",
-        "url": "https://careers.ing.com/en/job/amsterdam/devops-observability-engineer/3121/45108866432"
+        "title": "Internship ING Investments",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-investments/3121/46882257664"
       },
       {
-        "title": "Private Banker voor Entrepreneurs & Executives – regio Aalst / Sint-Niklaas",
-        "url": "https://careers.ing.com/en/job/aalst/private-banker-voor-entrepreneurs-and-executives-regio-aalst-sint-niklaas/3121/44898280448"
+        "title": "Specjalista ds. Utrzymania Infrastruktury IT Data Center (k/m)",
+        "url": "https://careers.ing.com/en/job/silesia/specjalista-ds-utrzymania-infrastruktury-it-data-center-k-m/3121/45393858432"
       },
       {
-        "title": "Senior Strategy & Business Change Consultant",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-strategy-and-business-change-consultant/3121/46853838400"
+        "title": "Data Management Expert | Data Readiness @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/data-management-expert-data-readiness-ing-hubs-romania/3121/46882257536"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "PMO Analyst",
-        "url": "https://www.munichre.com/en/job/manchester/pmo-analyst/3342/41320141056"
+        "title": "Director, Long-Term Care Strategy & Claims Solutions",
+        "url": "https://www.munichre.com/en/job/atlanta/director-long-term-care-strategy-and-claims-solutions/3342/45356229632"
+      },
+      {
+        "title": "Sr. Product Analyst",
+        "url": "https://www.munichre.com/en/job/amelia/sr-product-analyst/3342/46881511360"
+      },
+      {
+        "title": "Finance Specialist",
+        "url": "https://www.munichre.com/en/job/vadodara/finance-specialist/3342/46843229504"
       },
       {
         "title": "Global Longevity Development Actuary (Pricing Lead)",
         "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
-      },
-      {
-        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/46820247104"
-      },
-      {
-        "title": "Senior Data Engineer",
-        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
         "title": "Find jobs",
