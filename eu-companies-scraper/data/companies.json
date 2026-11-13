@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Data Analyst (Fraud Rule Writer Senior Specialist)",
+        "url": "https://careers.ing.com/en/job/katowice/data-analyst-fraud-rule-writer-senior-specialist/3121/46870297984"
+      },
+      {
         "title": "Digital Sales Analyst",
         "url": "https://careers.ing.com/en/job/sydney/digital-sales-analyst/3121/38609325760"
       },
@@ -1147,10 +1151,6 @@
       {
         "title": "Senior Strategy & Business Change Consultant",
         "url": "https://careers.ing.com/en/job/amsterdam/senior-strategy-and-business-change-consultant/3121/46853838400"
-      },
-      {
-        "title": "Starszy Doradca Klienta Biznesowego MŚP 10-80 mln (k/m)",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-doradca-klienta-biznesowego-msp-10-80-mln-k-m/3121/46853838336"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "PMO Analyst",
+        "url": "https://www.munichre.com/en/job/manchester/pmo-analyst/3342/41320141056"
+      },
+      {
         "title": "Global Longevity Development Actuary (Pricing Lead)",
         "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
       },
       {
-        "title": "Credit Analyst for Financial Institutions and Non-Bank Financial Institutions (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/credit-analyst-for-financial-institutions-and-non-bank-financial-institutions-m-f-d/3342/45185132032"
+        "title": "Praktikum für den Bereich Eventmanagement (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/46820247104"
       },
       {
-        "title": "Inspector - Modesto, California",
-        "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
-      },
-      {
-        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
-        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
         "title": "Find jobs",
@@ -1928,7 +1928,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
