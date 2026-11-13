@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/fr/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,26 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Ekspert ds. Relacji Inwestorskich i Analiz Finansowych (sektor bankowy)(k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ds-relacji-inwestorskich-i-analiz-finansowych-sektor-bankowy-k-m/3121/45018356480"
+      },
+      {
+        "title": "Intern - HR & Business Administration Support",
+        "url": "https://careers.ing.com/en/job/amsterdam/intern-hr-and-business-administration-support/3121/46858366848"
+      },
+      {
+        "title": "Vice President, Non-Financial Risk Officer",
+        "url": "https://careers.ing.com/en/job/new-york/vice-president-non-financial-risk-officer/3121/46858366464"
+      },
+      {
+        "title": "DevOps - Observability Engineer",
+        "url": "https://careers.ing.com/en/job/amsterdam/devops-observability-engineer/3121/45108866432"
+      },
+      {
+        "title": "Private Banker voor Entrepreneurs & Executives – regio Aalst / Sint-Niklaas",
+        "url": "https://careers.ing.com/en/job/aalst/private-banker-voor-entrepreneurs-and-executives-regio-aalst-sint-niklaas/3121/44898280448"
+      },
+      {
         "title": "Senior Strategy & Business Change Consultant",
         "url": "https://careers.ing.com/en/job/amsterdam/senior-strategy-and-business-change-consultant/3121/46853838400"
       },
@@ -1131,26 +1151,6 @@
       {
         "title": "Starszy Doradca Klienta Korporacyjnego (k/m)",
         "url": "https://careers.ing.com/en/job/poznan/starszy-doradca-klienta-korporacyjnego-k-m/3121/42688516928"
-      },
-      {
-        "title": "Head PCM Operations",
-        "url": "https://careers.ing.com/en/job/amsterdam/head-pcm-operations/3121/46853837440"
-      },
-      {
-        "title": "Private Banker voor Entrepreneurs & Executives – regio Aalst / Sint-Niklaas",
-        "url": "https://careers.ing.com/en/job/aalst/private-banker-voor-entrepreneurs-and-executives-regio-aalst-sint-niklaas/3121/44898280448"
-      },
-      {
-        "title": "Cloud DevOps Expert Engineer",
-        "url": "https://careers.ing.com/en/job/silesia/cloud-devops-expert-engineer/3121/43288823168"
-      },
-      {
-        "title": "BMG OPS Engineer",
-        "url": "https://careers.ing.com/en/job/amsterdam/bmg-ops-engineer/3121/46847880576"
-      },
-      {
-        "title": "Junior AI Engineer",
-        "url": "https://careers.ing.com/en/job/madrid/junior-ai-engineer/3121/46847880448"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Longevity In-Force Actuary",
-        "url": "https://www.munichre.com/en/job/london/longevity-in-force-actuary/3342/46565373760"
+        "title": "Credit Analyst for Financial Institutions and Non-Bank Financial Institutions (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/credit-analyst-for-financial-institutions-and-non-bank-financial-institutions-m-f-d/3342/45185132032"
       },
       {
-        "title": "Global Longevity Development Actuary (Strategy Lead)",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-strategy-lead/3342/46565402560"
+        "title": "Inspector - Modesto, California",
+        "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
       },
       {
-        "title": "Global Longevity Actuary",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-actuary/3342/46565373440"
+        "title": "Authorized Nuclear Inservice Inspector-Shippingport, PA",
+        "url": "https://www.munichre.com/en/job/pittsburgh/authorized-nuclear-inservice-inspector-shippingport-pa/3342/46487405440"
       },
       {
-        "title": "Global Longevity Development Actuary (Pricing Lead)",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
+        "title": "Inspector - Houston, TX",
+        "url": "https://www.munichre.com/en/job/houston/inspector-houston-tx/3342/46619584512"
       },
       {
         "title": "Find jobs",
