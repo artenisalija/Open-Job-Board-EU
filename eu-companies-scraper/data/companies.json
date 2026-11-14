@@ -625,7 +625,104 @@
     "career_page_url": "https://jobs.engie.com",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://jobs.engie.com"
+      },
+      {
+        "title": "Deutsch ‎(German)‎",
+        "url": "https://jobs.engie.com/?locale=de_DE"
+      },
+      {
+        "title": "English US ‎(English US)‎",
+        "url": "https://jobs.engie.com/?locale=en_US"
+      },
+      {
+        "title": "Español ‎(Spanish)‎",
+        "url": "https://jobs.engie.com/?locale=es_ES"
+      },
+      {
+        "title": "Español ‎(Mexico)‎",
+        "url": "https://jobs.engie.com/?locale=es_MX"
+      },
+      {
+        "title": "Français ‎(French)‎",
+        "url": "https://jobs.engie.com/?locale=fr_FR"
+      },
+      {
+        "title": "Italiano ‎(Italian)‎",
+        "url": "https://jobs.engie.com/?locale=it_IT"
+      },
+      {
+        "title": "Nederlands ‎(Dutch)‎",
+        "url": "https://jobs.engie.com/?locale=nl_NL"
+      },
+      {
+        "title": "Polski ‎(Polish)‎",
+        "url": "https://jobs.engie.com/?locale=pl_PL"
+      },
+      {
+        "title": "Português do Brasil ‎(Brazilian Portuguese)‎",
+        "url": "https://jobs.engie.com/?locale=pt_BR"
+      },
+      {
+        "title": "Română ‎(Romanian)‎",
+        "url": "https://jobs.engie.com/?locale=ro_RO"
+      },
+      {
+        "title": "Slovenčina ‎(Slovak)‎",
+        "url": "https://jobs.engie.com/?locale=sk_SK"
+      },
+      {
+        "title": "Open jobs",
+        "url": "https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch="
+      },
+      {
+        "title": "Students",
+        "url": "https://jobs.engie.com/go/students-us/9419755"
+      },
+      {
+        "title": "Young professionals",
+        "url": "https://jobs.engie.com/go/young-professionals-us/9421555"
+      },
+      {
+        "title": "Experts",
+        "url": "https://jobs.engie.com/go/experts-us/9414455"
+      },
+      {
+        "title": "Technicians",
+        "url": "https://jobs.engie.com/go/technicians-us/9420455"
+      },
+      {
+        "title": "Engineers",
+        "url": "https://jobs.engie.com/go/engineers-us/9413255"
+      },
+      {
+        "title": "Data / Digital & IT",
+        "url": "https://jobs.engie.com/go/data-digital-&-it-us/9412455"
+      },
+      {
+        "title": "Support functions",
+        "url": "https://jobs.engie.com/go/support-functions-us/9420055"
+      },
+      {
+        "title": "R&D / Innovation",
+        "url": "https://jobs.engie.com/go/r&d-innovation-us/9418855"
+      },
+      {
+        "title": "Management & Consulting",
+        "url": "https://jobs.engie.com/go/management-&-consulting-us/9417655"
+      },
+      {
+        "title": "Spontaneous application",
+        "url": "https://jobs.engie.com/lp/Data%20Capture%20Economist/e166a269a52500d0/?locale=en_US"
+      },
+      {
+        "title": "Job alerts",
+        "url": "https://jobs.engie.com/content/Job-Alerts/?locale=en_US"
+      }
+    ]
   },
   {
     "name": "Eni",
@@ -1020,12 +1117,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior QA Engineer w obszarze Global Digital Platform",
-        "url": "https://careers.ing.com/en/job/silesia/senior-qa-engineer-w-obszarze-global-digital-platform/3121/46566284800"
-      },
-      {
         "title": "Doradca Klienta Biznesowego (k/m)",
         "url": "https://careers.ing.com/en/job/koszalin/doradca-klienta-biznesowego-k-m/3121/46561597376"
+      },
+      {
+        "title": "Senior QA Engineer w obszarze Global Digital Platform",
+        "url": "https://careers.ing.com/en/job/silesia/senior-qa-engineer-w-obszarze-global-digital-platform/3121/46566284800"
       },
       {
         "title": "Senior Full-Stack Developer – Customer Data",
@@ -1133,6 +1230,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Global Longevity Development Actuary (Pricing Lead)",
+        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
+      },
+      {
         "title": "Application Support Intern",
         "url": "https://www.munichre.com/en/job/amelia/application-support-intern/3342/46885995840"
       },
@@ -1143,10 +1244,6 @@
       {
         "title": "Enterprise Risk Lead",
         "url": "https://www.munichre.com/en/job/amelia/enterprise-risk-lead/3342/46885995712"
-      },
-      {
-        "title": "Tax Accountant Intern",
-        "url": "https://www.munichre.com/en/job/princeton/tax-accountant-intern/3342/46885161920"
       },
       {
         "title": "Find jobs",
