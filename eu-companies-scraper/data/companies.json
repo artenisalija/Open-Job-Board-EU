@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/ir/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/ir/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -2062,39 +2062,6 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "X5 Group",
-    "website": "http://x5.ru/en",
-    "career_page_url": "http://x5.ru/en/career",
-    "country_of_origin": "Russia",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Смотреть все вакансии →",
-        "url": "http://x5.ru/vacancies"
-      },
-      {
-        "title": "Розничная торговля",
-        "url": "http://x5.ru/vacancies?vacancy_categories=магазиныидарксторы"
-      },
-      {
-        "title": "Логистика и РЦ",
-        "url": "http://x5.ru/vacancies?vacancy_categories=логистика,распределительныйцентр"
-      },
-      {
-        "title": "IT и разработка",
-        "url": "http://x5.ru/vacancies?vacancy_categories=it"
-      },
-      {
-        "title": "Офис",
-        "url": "http://x5.ru/vacancies?vacancy_categories=офис"
-      },
-      {
-        "title": "Доставка",
-        "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
-      }
-    ]
   },
   {
     "name": "ZF Friedrichshafen",
