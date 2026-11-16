@@ -1117,40 +1117,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Data Management Expert | Data Readiness @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/data-management-expert-data-readiness-ing-hubs-romania/3121/46882257536"
+      },
+      {
+        "title": "Product Owner - PSS SEPA Direct Debits @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/product-owner-pss-sepa-direct-debits-ing-hubs-romania/3121/46955180160"
+      },
+      {
+        "title": "(BANK) Client Services Delivery Intern 2027 1H",
+        "url": "https://careers.ing.com/en/job/seoul/bank-client-services-delivery-intern-2027-1h/3121/46955180096"
+      },
+      {
+        "title": "Associate, BMG Account Manager, Greater China",
+        "url": "https://careers.ing.com/en/job/wan-chai/associate-bmg-account-manager-greater-china/3121/44218275904"
+      },
+      {
+        "title": "IT Chapter Lead – Application Support",
+        "url": "https://careers.ing.com/en/job/slovakia/it-chapter-lead-application-support/3121/46955179968"
+      },
+      {
+        "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
+        "url": "https://careers.ing.com/en/job/gdynia/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/45136445632"
+      },
+      {
+        "title": "Customer Journey Expert - Payments Optimisation",
+        "url": "https://careers.ing.com/en/job/sydney/customer-journey-expert-payments-optimisation/3121/46781017728"
+      },
+      {
         "title": "Doradca Klienta Biznesowego (k/m)",
         "url": "https://careers.ing.com/en/job/koszalin/doradca-klienta-biznesowego-k-m/3121/46561597376"
       },
       {
         "title": "Senior QA Engineer w obszarze Global Digital Platform",
         "url": "https://careers.ing.com/en/job/silesia/senior-qa-engineer-w-obszarze-global-digital-platform/3121/46566284800"
-      },
-      {
-        "title": "Senior Full-Stack Developer – Customer Data",
-        "url": "https://careers.ing.com/en/job/brussels/senior-full-stack-developer-customer-data/3121/46272469376"
-      },
-      {
-        "title": "Internship Corporate Finance - FIG M&A (FI Advisory)",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-corporate-finance-fig-m-and-a-fi-advisory/3121/46627262272"
-      },
-      {
-        "title": "Data Scientist Specialist",
-        "url": "https://careers.ing.com/en/job/silesia/data-scientist-specialist/3121/46131517440"
-      },
-      {
-        "title": "Starszy Doradca Klienta Korporacyjnego (k/m)",
-        "url": "https://careers.ing.com/en/job/krzyki/starszy-doradca-klienta-korporacyjnego-k-m/3121/46882257856"
-      },
-      {
-        "title": "Squad Master / Customer Journey Expert – Regulatory, External & Risk Changes squad - Tribe Mortgages",
-        "url": "https://careers.ing.com/en/job/brussels/squad-master-customer-journey-expert-regulatory-external-and-risk-changes-squad-tribe-mortgages/3121/46882257792"
-      },
-      {
-        "title": "Service Management Expert",
-        "url": "https://careers.ing.com/en/job/katowice/service-management-expert/3121/46882257728"
-      },
-      {
-        "title": "Internship ING Investments",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-ing-investments/3121/46882257664"
       }
     ]
   },
@@ -1234,16 +1234,16 @@
         "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
       },
       {
-        "title": "Application Support Intern",
-        "url": "https://www.munichre.com/en/job/amelia/application-support-intern/3342/46885995840"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
-        "title": "Head of Enterprise Program Management Office",
-        "url": "https://www.munichre.com/en/job/amelia/head-of-enterprise-program-management-office/3342/46877081536"
+        "title": "Claims Handler",
+        "url": "https://www.munichre.com/en/job/manchester/claims-handler/3342/46197253120"
       },
       {
-        "title": "Enterprise Risk Lead",
-        "url": "https://www.munichre.com/en/job/amelia/enterprise-risk-lead/3342/46885995712"
+        "title": "Risk Management Surveyor - Birmingham",
+        "url": "https://www.munichre.com/en/job/birmingham/risk-management-surveyor-birmingham/3342/46955416768"
       },
       {
         "title": "Find jobs",
@@ -2062,6 +2062,39 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "X5 Group",
+    "website": "http://x5.ru/en",
+    "career_page_url": "http://x5.ru/en/career",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Смотреть все вакансии →",
+        "url": "http://x5.ru/vacancies"
+      },
+      {
+        "title": "Розничная торговля",
+        "url": "http://x5.ru/vacancies?vacancy_categories=магазиныидарксторы"
+      },
+      {
+        "title": "Логистика и РЦ",
+        "url": "http://x5.ru/vacancies?vacancy_categories=логистика,распределительныйцентр"
+      },
+      {
+        "title": "IT и разработка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=it"
+      },
+      {
+        "title": "Офис",
+        "url": "http://x5.ru/vacancies?vacancy_categories=офис"
+      },
+      {
+        "title": "Доставка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",
