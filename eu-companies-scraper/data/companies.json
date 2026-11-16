@@ -1926,14 +1926,6 @@
     ]
   },
   {
-    "name": "Vinci",
-    "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
     "name": "Vodafone",
     "website": "https://vodafone.com",
     "career_page_url": "https://careers.vodafone.com",
@@ -2062,6 +2054,39 @@
     "country_of_origin": "Sweden",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "X5 Group",
+    "website": "http://x5.ru/en",
+    "career_page_url": "http://x5.ru/en/career",
+    "country_of_origin": "Russia",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Смотреть все вакансии →",
+        "url": "http://x5.ru/vacancies"
+      },
+      {
+        "title": "Розничная торговля",
+        "url": "http://x5.ru/vacancies?vacancy_categories=магазиныидарксторы"
+      },
+      {
+        "title": "Логистика и РЦ",
+        "url": "http://x5.ru/vacancies?vacancy_categories=логистика,распределительныйцентр"
+      },
+      {
+        "title": "IT и разработка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=it"
+      },
+      {
+        "title": "Офис",
+        "url": "http://x5.ru/vacancies?vacancy_categories=офис"
+      },
+      {
+        "title": "Доставка",
+        "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
+      }
+    ]
   },
   {
     "name": "ZF Friedrichshafen",
