@@ -1117,6 +1117,14 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Customer Care Specialist - Contact Centre",
+        "url": "https://careers.ing.com/en/job/wyong/customer-care-specialist-contact-centre/3121/46750516480"
+      },
+      {
+        "title": "Data Protection Compliance Specialist @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/data-protection-compliance-specialist-ing-hubs-romania/3121/46975165056"
+      },
+      {
         "title": "Financial Crime Prevention Analyst (Temporary)",
         "url": "https://careers.ing.com/en/job/madrid/financial-crime-prevention-analyst-temporary/3121/46971862784"
       },
@@ -1143,14 +1151,6 @@
       {
         "title": "L1 Support Administrator",
         "url": "https://careers.ing.com/en/job/slovakia/l1-support-administrator/3121/46967351488"
-      },
-      {
-        "title": "Starszy Specjalista ds. Restrukturyzacji w ING Leasing (k/m)",
-        "url": "https://careers.ing.com/en/job/warsaw/starszy-specjalista-ds-restrukturyzacji-w-ing-leasing-k-m/3121/46967351424"
-      },
-      {
-        "title": "Senior Manager - Data, Asset & Vendor Risk",
-        "url": "https://careers.ing.com/en/job/sydney/senior-manager-data-asset-and-vendor-risk/3121/46961442624"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Management Liability Underwriter",
-        "url": "https://www.munichre.com/en/job/chicago/management-liability-underwriter/3342/46972031104"
+        "title": "Cyber Consultant",
+        "url": "https://www.munichre.com/en/job/mumbai/cyber-consultant/3342/46445065024"
       },
       {
-        "title": "Head of Core Claims",
-        "url": "https://www.munichre.com/en/job/princeton/head-of-core-claims/3342/46972030848"
+        "title": "Data Science & Gen-AI Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/46975842048"
       },
       {
-        "title": "Global Longevity Development Actuary (Pricing Lead)",
-        "url": "https://www.munichre.com/en/job/london/global-longevity-development-actuary-pricing-lead/3342/46565409472"
+        "title": "ISO 19443 Lead Auditor",
+        "url": "https://www.munichre.com/en/job/seattle/iso-19443-lead-auditor/3342/46970168704"
       },
       {
-        "title": "Associate Actuary - Wholesale & Specialty Insurance",
-        "url": "https://www.munichre.com/en/job/new-york/associate-actuary-wholesale-and-specialty-insurance/3342/46682694848"
+        "title": "Data Engineer Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/46975841856"
       },
       {
         "title": "Find jobs",
@@ -1932,7 +1932,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
