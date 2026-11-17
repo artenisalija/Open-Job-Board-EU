@@ -825,20 +825,20 @@
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Look for jobs",
-        "url": "https://www.glencore.com/en/careers/jobs"
+        "title": "Recherche d’emploi",
+        "url": "https://www.glencore.com/fr/careers/jobs"
       },
       {
-        "title": "Early careers",
-        "url": "https://www.glencore.com/en/careers/early-careers"
+        "title": "Début de carrière",
+        "url": "https://www.glencore.com/fr/careers/early-careers"
       },
       {
-        "title": "How we hire",
-        "url": "https://www.glencore.com/en/careers/how-we-hire"
+        "title": "Notre processus de recrutement",
+        "url": "https://www.glencore.com/fr/careers/how-we-hire"
       },
       {
-        "title": "Get to know us",
-        "url": "https://www.glencore.com/en/careers/life-at-glencore"
+        "title": "Apprenez à nous connaître",
+        "url": "https://www.glencore.com/fr/careers/life-at-glencore"
       }
     ]
   },
@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Learning & Capability Consultant - 12 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/sydney/learning-and-capability-consultant-12-months-fixed-term-contract/3121/46978688576"
+      },
+      {
         "title": "Customer Care Specialist - Contact Centre",
         "url": "https://careers.ing.com/en/job/wyong/customer-care-specialist-contact-centre/3121/46750516480"
       },
@@ -1147,10 +1151,6 @@
       {
         "title": "Private Banker SME owners & self-employed - Kempen",
         "url": "https://careers.ing.com/en/job/turnhout/private-banker-sme-owners-and-self-employed-kempen/3121/46967351936"
-      },
-      {
-        "title": "L1 Support Administrator",
-        "url": "https://careers.ing.com/en/job/slovakia/l1-support-administrator/3121/46967351488"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Cyber Consultant",
-        "url": "https://www.munichre.com/en/job/mumbai/cyber-consultant/3342/46445065024"
+        "title": "Engineer Surveyor - Cat 2 - Liverpool",
+        "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-liverpool/3342/46986394816"
       },
       {
-        "title": "Data Science & Gen-AI Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-science-and-gen-ai-intern/3342/46975842048"
+        "title": "IT-Project Manager (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-project-manager-m-f-d/3342/46591294272"
       },
       {
-        "title": "ISO 19443 Lead Auditor",
-        "url": "https://www.munichre.com/en/job/seattle/iso-19443-lead-auditor/3342/46970168704"
+        "title": "Engineer Surveyor - London - Cat 2",
+        "url": "https://www.munichre.com/en/job/london/engineer-surveyor-london-cat-2/3342/45341457024"
       },
       {
-        "title": "Data Engineer Intern",
-        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/46975841856"
+        "title": "Country Claims Manager, Italy (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
+        "url": "https://www.munichre.com/en/job/milan/country-claims-manager-italy-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/42445813376"
       },
       {
         "title": "Find jobs",
@@ -1893,46 +1893,9 @@
     ]
   },
   {
-    "name": "Veolia",
-    "website": "https://www.veolia.com/en",
-    "career_page_url": "https://www.veolia.com/en/careers",
-    "country_of_origin": "France",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.veolia.com/en/careers"
-      },
-      {
-        "title": "Working at Veolia",
-        "url": "https://www.veolia.com/en/careers/why-join-veolia"
-      },
-      {
-        "title": "Students, recent graduates",
-        "url": "https://www.veolia.com/en/careers/your-career/students-trainees-recent-graduates"
-      },
-      {
-        "title": "Evolve at Veolia",
-        "url": "https://www.veolia.com/en/careers/evolve-veolia"
-      },
-      {
-        "title": "Professions",
-        "url": "https://www.veolia.com/en/careers/professions"
-      },
-      {
-        "title": "the recruitment process",
-        "url": "https://www.veolia.com/en/careers/join-us/our-recruitment-process"
-      },
-      {
-        "title": "Internal mobility",
-        "url": "https://www.veolia.com/en/careers/internal-mobility"
-      }
-    ]
-  },
-  {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
