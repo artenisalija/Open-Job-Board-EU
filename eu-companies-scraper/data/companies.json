@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/se/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/se/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,40 +1117,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Wholesale Banking Model Data Analyst (multiple seniority levels)",
-        "url": "https://careers.ing.com/en/job/warsaw/wholesale-banking-model-data-analyst-multiple-seniority-levels/3121/46990070592"
+        "title": "Senior Java Engineer OnePAM Integration Layer @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/senior-java-engineer-onepam-integration-layer-ing-hubs-romania/3121/46169988352"
       },
       {
-        "title": "Front Office Quant – Risk Factor Modelling",
-        "url": "https://careers.ing.com/en/job/amsterdam/front-office-quant-risk-factor-modelling/3121/46990070528"
+        "title": "Technical Project Manager | GKYC @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/technical-project-manager-gkyc-ing-hubs-romania/3121/46193006400"
       },
       {
-        "title": "ING WB Capital Markets & Advisory Internship Program",
-        "url": "https://careers.ing.com/en/job/brussels/ing-wb-capital-markets-and-advisory-internship-program/3121/46990070464"
+        "title": "Data Analyst",
+        "url": "https://careers.ing.com/en/job/slovakia/data-analyst/3121/46995907136"
       },
       {
-        "title": "Internship Front End Engineering — InfraPort DMS",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-front-end-engineering-infraport-dms/3121/46990070400"
+        "title": "Ekspert ds. produktów i procesów finansowania firm (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/ekspert-ds-produktow-i-procesow-finansowania-firm-k-m/3121/46995906944"
       },
       {
         "title": "CJE-Business Analyst-Mortgages",
         "url": "https://careers.ing.com/en/job/amsterdam/cje-business-analyst-mortgages/3121/46990070336"
       },
       {
-        "title": "Customer Journey Expert / Product manager",
-        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-product-manager/3121/46990070144"
+        "title": "Customer Journey Expert Tribe Home",
+        "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-tribe-home/3121/46995906624"
       },
       {
-        "title": "Backend Engineer",
-        "url": "https://careers.ing.com/en/job/istanbul/backend-engineer/3121/46990070080"
+        "title": "Data Analyst in Risk Reporting",
+        "url": "https://careers.ing.com/en/job/warsaw/data-analyst-in-risk-reporting/3121/46362822912"
       },
       {
-        "title": "Lead New Products MGA",
-        "url": "https://careers.ing.com/en/job/amsterdam/lead-new-products-mga/3121/46990069888"
+        "title": "Sr. Product Manager | Digital Communication Core @ING Bank",
+        "url": "https://careers.ing.com/en/job/bucharest/sr-product-manager-digital-communication-core-ing-bank/3121/46995906304"
       },
       {
-        "title": "PhD internship project on Research on Confidence scoring for LLM answers",
-        "url": "https://careers.ing.com/en/job/amsterdam/phd-internship-project-on-research-on-confidence-scoring-for-llm-answers/3121/46990069824"
+        "title": "Internship – Account Manager, Private Banking",
+        "url": "https://careers.ing.com/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760"
       }
     ]
   },
@@ -1230,20 +1230,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Risk Consultant (Non Financial Risk)",
-        "url": "https://www.munichre.com/en/job/madrid/risk-consultant-non-financial-risk/3342/45659001536"
+        "title": "From Campus to Career: Insurance Info Session with Munich Re",
+        "url": "https://www.munichre.com/en/job/princeton/from-campus-to-career-insurance-info-session-with-munich-re/3342/46203909568"
       },
       {
-        "title": "Tax Accountant",
-        "url": "https://www.munichre.com/en/job/london/tax-accountant/3342/46995139520"
+        "title": "Principal Engineer - HVAC",
+        "url": "https://www.munichre.com/en/job/hartford/principal-engineer-hvac/3342/46368472000"
       },
       {
-        "title": "Head of Casualty Underwriting, Ireland",
-        "url": "https://www.munichre.com/en/job/dublin/head-of-casualty-underwriting-ireland/3342/46840872064"
+        "title": "Data Analyst, Reinsurance Operations - Reporting (4 months contract)",
+        "url": "https://www.munichre.com/en/job/toronto/data-analyst-reinsurance-operations-reporting-4-months-contract/3342/46997203008"
       },
       {
-        "title": "Digital Finance Associate",
-        "url": "https://www.munichre.com/en/job/london/digital-finance-associate/3342/46992087232"
+        "title": "Risk Modeling Intern",
+        "url": "https://www.munichre.com/en/job/hartford/risk-modeling-intern/3342/45384530368"
       },
       {
         "title": "Find jobs",
@@ -2060,6 +2060,31 @@
       {
         "title": "Доставка",
         "url": "http://x5.ru/vacancies?vacancy_categories=курьеры"
+      }
+    ]
+  },
+  {
+    "name": "ZF Friedrichshafen",
+    "website": "https://www.zf.com",
+    "career_page_url": "https://www.zf.com/mobile/en/careers/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams. Diversity & Inclusion At ZF, we promote diversity and inclusion because they are the foundation of our creativity and innovation. We guarantee equal opportunities in our global and diverse teams.",
+        "url": "https://www.zf.com/mobile/en/careers/diversity_and_inclusion/diversity_and_inclusion.html"
+      },
+      {
+        "title": "Find Your Job",
+        "url": "https://www.zf.com/mobile/en/careers/students/students.html"
+      },
+      {
+        "title": "Read more",
+        "url": "https://www.zf.com/mobile/en/careers/employee_stories/employee_stories.html"
+      },
+      {
+        "title": "Career@ZF",
+        "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
   },
