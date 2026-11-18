@@ -1035,13 +1035,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/se/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/se/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1117,6 +1117,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "VP, Financial Markets - FI Sales",
+        "url": "https://careers.ing.com/en/job/seoul/vp-financial-markets-fi-sales/3121/47007513856"
+      },
+      {
+        "title": "International Talent Programme (ITP) - Business Banking 2027",
+        "url": "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-business-banking-2027/3121/47007513792"
+      },
+      {
+        "title": "Data and Insights Analyst - Operations",
+        "url": "https://careers.ing.com/en/job/sydney/data-and-insights-analyst-operations/3121/46405539264"
+      },
+      {
         "title": "Senior Java Engineer OnePAM Integration Layer @ING Hubs Romania",
         "url": "https://careers.ing.com/en/job/bucharest/senior-java-engineer-onepam-integration-layer-ing-hubs-romania/3121/46169988352"
       },
@@ -1139,18 +1151,6 @@
       {
         "title": "Customer Journey Expert Tribe Home",
         "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-tribe-home/3121/46995906624"
-      },
-      {
-        "title": "Data Analyst in Risk Reporting",
-        "url": "https://careers.ing.com/en/job/warsaw/data-analyst-in-risk-reporting/3121/46362822912"
-      },
-      {
-        "title": "Sr. Product Manager | Digital Communication Core @ING Bank",
-        "url": "https://careers.ing.com/en/job/bucharest/sr-product-manager-digital-communication-core-ing-bank/3121/46995906304"
-      },
-      {
-        "title": "Internship – Account Manager, Private Banking",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760"
       }
     ]
   },
