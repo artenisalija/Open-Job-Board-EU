@@ -372,13 +372,21 @@
   {
     "name": "Compass Group",
     "website": "https://www.compass-group.com",
-    "career_page_url": "https://www.compass-group.com/en/working-for-us/career-opportunities.html",
+    "career_page_url": "https://www.compass-group.com/en/careers",
     "country_of_origin": "United Kingdom",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Visit our locations page for global careers opportunities",
-        "url": "https://www.compass-group.com/en/what-we-do/locations.html"
+        "title": "Skip to main content",
+        "url": "https://www.compass-group.com/en/careers"
+      },
+      {
+        "title": "Life at Compass",
+        "url": "https://www.compass-group.com/en/careers/life-at-compass"
+      },
+      {
+        "title": "Find Jobs",
+        "url": "https://www.compass-group.com/en/careers/find-jobs"
       }
     ]
   },
@@ -926,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/cz/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/cz/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1008,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Senior Customer Journey Expert / Product Manager - Transaction Banking, Business Banking",
-        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-product-manager-transaction-banking-business-banking/3121/47042361536"
+        "title": "Data Quality Expert",
+        "url": "https://careers.ing.com/en/job/makati-city/data-quality-expert/3121/47050049472"
       },
       {
-        "title": "Performance marketing specialist ING Private Banking & Wealth Management",
-        "url": "https://careers.ing.com/en/job/amsterdam/performance-marketing-specialist-ing-private-banking-and-wealth-management/3121/46240514432"
+        "title": "Data Definition & Lineage Expert",
+        "url": "https://careers.ing.com/en/job/makati-city/data-definition-and-lineage-expert/3121/47050049408"
       },
       {
-        "title": "Internal Dispute Resolution Specialist - Multiple Opportunities Available",
-        "url": "https://careers.ing.com/en/job/wyong/internal-dispute-resolution-specialist-multiple-opportunities-available/3121/47042361408"
+        "title": "Microsoft 365 Exchange Engineer",
+        "url": "https://careers.ing.com/en/job/katowice/microsoft-365-exchange-engineer/3121/47050049344"
       },
       {
-        "title": "Senior Web Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-web-engineer/3121/47042361344"
+        "title": "Cards Manager Operations",
+        "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
       },
       {
-        "title": "Product Area Lead - Credit Cards 12 months Fixed term contract",
-        "url": "https://careers.ing.com/en/job/sydney/product-area-lead-credit-cards-12-months-fixed-term-contract/3121/47012715520"
+        "title": "Praktikant Asset Securitisation (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216"
       },
       {
-        "title": "CPS Reporting Senior Specialist",
-        "url": "https://careers.ing.com/en/job/makati-city/cps-reporting-senior-specialist/3121/47042360960"
+        "title": "FEC I&I Internship",
+        "url": "https://careers.ing.com/en/job/brussels/fec-i-and-i-internship/3121/47050049152"
       },
       {
-        "title": "Senior Data Governance Specialist -12 Month Fixed Term",
-        "url": "https://careers.ing.com/en/job/sydney/senior-data-governance-specialist-12-month-fixed-term/3121/47037281728"
+        "title": "INTERNSHIP - HR Operations",
+        "url": "https://careers.ing.com/en/job/luxembourg/internship-hr-operations/3121/38478345920"
       },
       {
-        "title": "CPS Performance and Rewards Senior Specialist",
-        "url": "https://careers.ing.com/en/job/makati-city/cps-performance-and-rewards-senior-specialist/3121/47037281664"
+        "title": "Legal Expert",
+        "url": "https://careers.ing.com/en/job/amsterdam/legal-expert/3121/46757977280"
       },
       {
-        "title": "Data Protection Professional",
-        "url": "https://careers.ing.com/en/job/makati-city/data-protection-professional/3121/44659393920"
+        "title": "Relatiemanager Private Banking",
+        "url": "https://careers.ing.com/en/job/venlo/relatiemanager-private-banking/3121/45314692160"
       }
     ]
   },
@@ -1121,20 +1129,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Building Control Project Manager",
-        "url": "https://www.munichre.com/en/job/birmingham/building-control-project-manager/3342/45731878016"
+        "title": "Broker Relationship Manager",
+        "url": "https://www.munichre.com/en/job/madrid/broker-relationship-manager/3342/45689345024"
       },
       {
-        "title": "Claims Handler",
-        "url": "https://www.munichre.com/en/job/birkenhead/claims-handler/3342/38654383296"
+        "title": "Authorized Nuclear Inservice Inspector - Quincy, IL",
+        "url": "https://www.munichre.com/en/job/springfield/authorized-nuclear-inservice-inspector-quincy-il/3342/47054341760"
       },
       {
-        "title": "Actuarial Intern",
-        "url": "https://www.munichre.com/en/job/south-korea/actuarial-intern/3342/46584666624"
+        "title": "Digital Product Owner Europe",
+        "url": "https://www.munichre.com/en/job/madrid/digital-product-owner-europe/3342/44465333120"
       },
       {
-        "title": "Internship at Global Sales & Distribution | Client Services (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-at-global-sales-and-distribution-client-services-m-f-d/3342/46988570112"
+        "title": "Risk Modeling Intern",
+        "url": "https://www.munichre.com/en/job/hartford/risk-modeling-intern/3342/45384530368"
       },
       {
         "title": "Find jobs",
@@ -1782,15 +1790,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
