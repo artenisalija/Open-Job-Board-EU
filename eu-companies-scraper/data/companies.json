@@ -926,13 +926,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/lt/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/lt/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1008,6 +1008,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Internship Front End Engineering— InfraPort DMS",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-front-end-engineering-infraport-dms/3121/47030313280"
+      },
+      {
         "title": "Datacenter - Zaalwacht",
         "url": "https://careers.ing.com/en/job/rotterdam/datacenter-zaalwacht/3121/46824250368"
       },
@@ -1038,10 +1042,6 @@
       {
         "title": "Rechtsreferendar Legal Retail Banking (w/m/d)",
         "url": "https://careers.ing.com/en/job/frankfurt-am-main/rechtsreferendar-legal-retail-banking-w-m-d/3121/47025687488"
-      },
-      {
-        "title": "Accounting and Reporting Specialist III",
-        "url": "https://careers.ing.com/en/job/makati-city/accounting-and-reporting-specialist-iii/3121/47025687360"
       }
     ]
   },
@@ -1121,20 +1121,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Claims Adjuster, Energy & Complex Risk Claims",
-        "url": "https://www.munichre.com/en/job/london/senior-claims-adjuster-energy-and-complex-risk-claims/3342/38689084672"
+        "title": "Internal Auditor",
+        "url": "https://www.munichre.com/en/job/toronto/internal-auditor/3342/47031379456"
       },
       {
-        "title": "Engineer Surveyor Cat 2 - Manchester",
-        "url": "https://www.munichre.com/en/job/manchester/engineer-surveyor-cat-2-manchester/3342/46810543424"
+        "title": "Head of Core Claims",
+        "url": "https://www.munichre.com/en/job/princeton/head-of-core-claims/3342/46972030848"
       },
       {
-        "title": "Enterprise Risk Lead",
-        "url": "https://www.munichre.com/en/job/amelia/enterprise-risk-lead/3342/46885995712"
+        "title": "Senior IT Incident Responder",
+        "url": "https://www.munichre.com/en/job/toronto/senior-it-incident-responder/3342/47030482432"
       },
       {
-        "title": "Longevity Actuary",
-        "url": "https://www.munichre.com/en/job/london/longevity-actuary/3342/44901559168"
+        "title": "Underwriting Assistant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/frankfurt-am-main/underwriting-assistant-m-f-d/3342/46269279232"
       },
       {
         "title": "Find jobs",
@@ -1782,7 +1782,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
