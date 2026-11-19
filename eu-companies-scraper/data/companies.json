@@ -1008,6 +1008,10 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Senior Data Governance Specialist - 12 Months Fixed Term",
+        "url": "https://careers.ing.com/en/job/sydney/senior-data-governance-specialist-12-months-fixed-term/3121/47033668800"
+      },
+      {
         "title": "Internship Front End Engineering— InfraPort DMS",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-front-end-engineering-infraport-dms/3121/47030313280"
       },
@@ -1038,10 +1042,6 @@
       {
         "title": "Global SEPA & SEPA Direct Debits Architect",
         "url": "https://careers.ing.com/en/job/amsterdam/global-sepa-and-sepa-direct-debits-architect/3121/45898390016"
-      },
-      {
-        "title": "Rechtsreferendar Legal Retail Banking (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/rechtsreferendar-legal-retail-banking-w-m-d/3121/47025687488"
       }
     ]
   },
@@ -1785,7 +1785,12 @@
     "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
