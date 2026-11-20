@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/cz/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/fi/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/cz/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/fi/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Quality Expert",
-        "url": "https://careers.ing.com/en/job/makati-city/data-quality-expert/3121/47050049472"
+        "title": "Test engineer 3rd Party Software",
+        "url": "https://careers.ing.com/en/job/amsterdam/test-engineer-3rd-party-software/3121/47059726656"
       },
       {
-        "title": "Data Definition & Lineage Expert",
-        "url": "https://careers.ing.com/en/job/makati-city/data-definition-and-lineage-expert/3121/47050049408"
-      },
-      {
-        "title": "Microsoft 365 Exchange Engineer",
-        "url": "https://careers.ing.com/en/job/katowice/microsoft-365-exchange-engineer/3121/47050049344"
-      },
-      {
-        "title": "Cards Manager Operations",
-        "url": "https://careers.ing.com/en/job/milan/cards-manager-operations/3121/46131517184"
-      },
-      {
-        "title": "Praktikant Asset Securitisation (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216"
-      },
-      {
-        "title": "FEC I&I Internship",
-        "url": "https://careers.ing.com/en/job/brussels/fec-i-and-i-internship/3121/47050049152"
-      },
-      {
-        "title": "INTERNSHIP - HR Operations",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-hr-operations/3121/38478345920"
-      },
-      {
-        "title": "Legal Expert",
-        "url": "https://careers.ing.com/en/job/amsterdam/legal-expert/3121/46757977280"
+        "title": "Internship - Interest Rate Risk in the Banking Book",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-interest-rate-risk-in-the-banking-book/3121/47059726592"
       },
       {
         "title": "Relatiemanager Private Banking",
         "url": "https://careers.ing.com/en/job/venlo/relatiemanager-private-banking/3121/45314692160"
+      },
+      {
+        "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
+        "url": "https://careers.ing.com/en/job/krakow/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/47055133504"
+      },
+      {
+        "title": "Data Protection & Governance Specialist",
+        "url": "https://careers.ing.com/en/job/london/data-protection-and-governance-specialist/3121/46570705344"
+      },
+      {
+        "title": "Business Reporting Specialist",
+        "url": "https://careers.ing.com/en/job/milan/business-reporting-specialist/3121/46818142848"
+      },
+      {
+        "title": "Customer Journey Expert",
+        "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert/3121/45609018304"
+      },
+      {
+        "title": "IT Area Lead Enterprise Platforms & Services",
+        "url": "https://careers.ing.com/en/job/amsterdam/it-area-lead-enterprise-platforms-and-services/3121/47055130368"
+      },
+      {
+        "title": "Lead Facilities Management",
+        "url": "https://careers.ing.com/en/job/madrid/lead-facilities-management/3121/47025687680"
       }
     ]
   },
@@ -1129,20 +1129,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Broker Relationship Manager",
-        "url": "https://www.munichre.com/en/job/madrid/broker-relationship-manager/3342/45689345024"
+        "title": "Inspector - Modesto, California",
+        "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
       },
       {
-        "title": "Authorized Nuclear Inservice Inspector - Quincy, IL",
-        "url": "https://www.munichre.com/en/job/springfield/authorized-nuclear-inservice-inspector-quincy-il/3342/47054341760"
+        "title": "Data & Process Automation Intern",
+        "url": "https://www.munichre.com/en/job/princeton/data-and-process-automation-intern/3342/47055402880"
       },
       {
-        "title": "Digital Product Owner Europe",
-        "url": "https://www.munichre.com/en/job/madrid/digital-product-owner-europe/3342/44465333120"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/toronto/senior-data-engineer/3342/47058870720"
       },
       {
-        "title": "Risk Modeling Intern",
-        "url": "https://www.munichre.com/en/job/hartford/risk-modeling-intern/3342/45384530368"
+        "title": "Senior HR Business Partner",
+        "url": "https://www.munichre.com/en/job/princeton/senior-hr-business-partner/3342/46363334336"
       },
       {
         "title": "Find jobs",
@@ -1982,13 +1982,5 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
-  },
-  {
-    "name": "Zurich Insurance Group",
-    "website": "https://www.zurich.com",
-    "career_page_url": "https://www.zurich.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": []
   }
 ]
