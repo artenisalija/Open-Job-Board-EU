@@ -82,6 +82,19 @@
     ]
   },
   {
+    "name": "ACS Group",
+    "website": "http://grupoacs.com",
+    "career_page_url": "http://grupoacs.com/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "http://grupoacs.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -458,6 +471,52 @@
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
+  },
+  {
+    "name": "DHL Group",
+    "website": "https://group.dhl.com/en.html",
+    "career_page_url": "https://group.dhl.com/en/careers.html",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": []
+  },
+  {
+    "name": "Edeka",
+    "website": "https://www.edeka.de",
+    "career_page_url": "https://www.edeka.de/jobs",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Zum Hauptinhalt springen",
+        "url": "https://www.edeka.de/jobs"
+      }
+    ]
+  },
+  {
+    "name": "Enel",
+    "website": "https://www.enel.com",
+    "career_page_url": "https://www.enel.com/careers/culture",
+    "country_of_origin": "Italy",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to content",
+        "url": "https://www.enel.com/careers/culture"
+      },
+      {
+        "title": "Being Enel",
+        "url": "https://www.enel.com/careers/being-enel"
+      },
+      {
+        "title": "Teams",
+        "url": "https://www.enel.com/careers/teams"
+      },
+      {
+        "title": "Discover more",
+        "url": "https://www.enel.com/careers/employee-experiences"
+      }
+    ]
   },
   {
     "name": "Engie",
@@ -875,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex"
       }
     ]
   },
@@ -957,6 +1016,18 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Tax Compliance Specialist III (Subject Matter Expert) – Client Tax Services (CTS)",
+        "url": "https://careers.ing.com/en/job/makati-city/tax-compliance-specialist-iii-subject-matter-expert-client-tax-services-cts/3121/45184770560"
+      },
+      {
+        "title": "Lending Operation Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/lending-operation-analyst/3121/47072688256"
+      },
+      {
+        "title": "Praktikant Marketing und Sales – Sparen (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-marketing-und-sales-sparen-w-m-d/3121/47072688064"
+      },
+      {
         "title": "External Dispute Resolution Case Manager",
         "url": "https://careers.ing.com/en/job/sydney/external-dispute-resolution-case-manager/3121/45132982912"
       },
@@ -979,18 +1050,6 @@
       {
         "title": "Test engineer 3rd Party Software",
         "url": "https://careers.ing.com/en/job/amsterdam/test-engineer-3rd-party-software/3121/47059726656"
-      },
-      {
-        "title": "Internship - Interest Rate Risk in the Banking Book",
-        "url": "https://careers.ing.com/en/job/amsterdam/internship-interest-rate-risk-in-the-banking-book/3121/47059726592"
-      },
-      {
-        "title": "Relatiemanager Private Banking",
-        "url": "https://careers.ing.com/en/job/venlo/relatiemanager-private-banking/3121/45314692160"
-      },
-      {
-        "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
-        "url": "https://careers.ing.com/en/job/krakow/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/47055133504"
       }
     ]
   },
@@ -1070,20 +1129,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Associate Financial Specialist",
-        "url": "https://www.munichre.com/en/job/princeton/associate-financial-specialist/3342/47063164032"
+        "title": "Internship at Global Sales & Distribution | Client Services (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-at-global-sales-and-distribution-client-services-m-f-d/3342/46988570112"
       },
       {
-        "title": "Inspector - Amarillo, Texas",
-        "url": "https://www.munichre.com/en/job/amarillo/inspector-amarillo-texas/3342/46963565440"
+        "title": "Praktikant Corporate Art (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-corporate-art-m-f-d/3342/47047018048"
       },
       {
-        "title": "Inspector - Houston, TX",
-        "url": "https://www.munichre.com/en/job/houston/inspector-houston-tx/3342/46619584512"
+        "title": "IT Product Manager Reserving Systems Team (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/it-product-manager-reserving-systems-team-m-f-d/3342/47071015872"
       },
       {
-        "title": "L&H Pricing Actuary (m/f/d*) - Southern Europe & Latin America",
-        "url": "https://www.munichre.com/en/job/sao-paulo/l-and-h-pricing-actuary-m-f-d-southern-europe-and-latin-america/3342/46995137344"
+        "title": "Assistant Longevity Client Manager",
+        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
       },
       {
         "title": "Find jobs",
@@ -1731,7 +1790,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
