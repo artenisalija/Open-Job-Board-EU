@@ -82,19 +82,6 @@
     ]
   },
   {
-    "name": "ACS Group",
-    "website": "http://grupoacs.com",
-    "career_page_url": "http://grupoacs.com/careers",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "http://grupoacs.com/careers"
-      }
-    ]
-  },
-  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -471,52 +458,6 @@
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": []
-  },
-  {
-    "name": "DHL Group",
-    "website": "https://group.dhl.com/en.html",
-    "career_page_url": "https://group.dhl.com/en/careers.html",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": []
-  },
-  {
-    "name": "Edeka",
-    "website": "https://www.edeka.de",
-    "career_page_url": "https://www.edeka.de/jobs",
-    "country_of_origin": "Germany",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Zum Hauptinhalt springen",
-        "url": "https://www.edeka.de/jobs"
-      }
-    ]
-  },
-  {
-    "name": "Enel",
-    "website": "https://www.enel.com",
-    "career_page_url": "https://www.enel.com/careers/culture",
-    "country_of_origin": "Italy",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to content",
-        "url": "https://www.enel.com/careers/culture"
-      },
-      {
-        "title": "Being Enel",
-        "url": "https://www.enel.com/careers/being-enel"
-      },
-      {
-        "title": "Teams",
-        "url": "https://www.enel.com/careers/teams"
-      },
-      {
-        "title": "Discover more",
-        "url": "https://www.enel.com/careers/employee-experiences"
-      }
-    ]
   },
   {
     "name": "Engie",
@@ -934,13 +875,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/fi/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/fi/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,6 +957,26 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "External Dispute Resolution Case Manager",
+        "url": "https://careers.ing.com/en/job/sydney/external-dispute-resolution-case-manager/3121/45132982912"
+      },
+      {
+        "title": "AU Daily Business Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/au-daily-business-analyst/3121/47067542464"
+      },
+      {
+        "title": "Finance Product Control Manager, 1 year contract",
+        "url": "https://careers.ing.com/en/job/shanghai/finance-product-control-manager-1-year-contract/3121/46467984512"
+      },
+      {
+        "title": "Senior Customer Journey Expert / Product Manager - Savings, Business Banking",
+        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-product-manager-savings-business-banking/3121/47050048640"
+      },
+      {
+        "title": "Senior Customer Journey Expert / Product Manager - Transaction Banking, Business Banking",
+        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-product-manager-transaction-banking-business-banking/3121/47042361536"
+      },
+      {
         "title": "Test engineer 3rd Party Software",
         "url": "https://careers.ing.com/en/job/amsterdam/test-engineer-3rd-party-software/3121/47059726656"
       },
@@ -1030,26 +991,6 @@
       {
         "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
         "url": "https://careers.ing.com/en/job/krakow/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/47055133504"
-      },
-      {
-        "title": "Data Protection & Governance Specialist",
-        "url": "https://careers.ing.com/en/job/london/data-protection-and-governance-specialist/3121/46570705344"
-      },
-      {
-        "title": "Business Reporting Specialist",
-        "url": "https://careers.ing.com/en/job/milan/business-reporting-specialist/3121/46818142848"
-      },
-      {
-        "title": "Customer Journey Expert",
-        "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert/3121/45609018304"
-      },
-      {
-        "title": "IT Area Lead Enterprise Platforms & Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/it-area-lead-enterprise-platforms-and-services/3121/47055130368"
-      },
-      {
-        "title": "Lead Facilities Management",
-        "url": "https://careers.ing.com/en/job/madrid/lead-facilities-management/3121/47025687680"
       }
     ]
   },
@@ -1129,20 +1070,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector - Modesto, California",
-        "url": "https://www.munichre.com/en/job/sacramento/inspector-modesto-california/3342/46619584576"
+        "title": "Associate Financial Specialist",
+        "url": "https://www.munichre.com/en/job/princeton/associate-financial-specialist/3342/47063164032"
       },
       {
-        "title": "Data & Process Automation Intern",
-        "url": "https://www.munichre.com/en/job/princeton/data-and-process-automation-intern/3342/47055402880"
+        "title": "Inspector - Amarillo, Texas",
+        "url": "https://www.munichre.com/en/job/amarillo/inspector-amarillo-texas/3342/46963565440"
       },
       {
-        "title": "Senior Data Engineer",
-        "url": "https://www.munichre.com/en/job/toronto/senior-data-engineer/3342/47058870720"
+        "title": "Inspector - Houston, TX",
+        "url": "https://www.munichre.com/en/job/houston/inspector-houston-tx/3342/46619584512"
       },
       {
-        "title": "Senior HR Business Partner",
-        "url": "https://www.munichre.com/en/job/princeton/senior-hr-business-partner/3342/46363334336"
+        "title": "L&H Pricing Actuary (m/f/d*) - Southern Europe & Latin America",
+        "url": "https://www.munichre.com/en/job/sao-paulo/l-and-h-pricing-actuary-m-f-d-southern-europe-and-latin-america/3342/46995137344"
       },
       {
         "title": "Find jobs",
@@ -1790,7 +1731,7 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1982,5 +1923,13 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
   }
 ]
