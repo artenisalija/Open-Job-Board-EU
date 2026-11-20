@@ -82,19 +82,6 @@
     ]
   },
   {
-    "name": "ACS Group",
-    "website": "http://grupoacs.com",
-    "career_page_url": "http://grupoacs.com/careers",
-    "country_of_origin": "Spain",
-    "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "http://grupoacs.com/careers"
-      }
-    ]
-  },
-  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -934,13 +921,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,40 +1003,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Tax Compliance Specialist III (Subject Matter Expert) – Client Tax Services (CTS)",
-        "url": "https://careers.ing.com/en/job/makati-city/tax-compliance-specialist-iii-subject-matter-expert-client-tax-services-cts/3121/45184770560"
+        "title": "Expert QA Engineer w obszarze rynków finansowych",
+        "url": "https://careers.ing.com/en/job/warsaw/expert-qa-engineer-w-obszarze-rynkow-finansowych/3121/47079302208"
       },
       {
-        "title": "Lending Operation Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/lending-operation-analyst/3121/47072688256"
+        "title": "Front Office Quant – Portfolio Models",
+        "url": "https://careers.ing.com/en/job/amsterdam/front-office-quant-portfolio-models/3121/47079302080"
       },
       {
-        "title": "Praktikant Marketing und Sales – Sparen (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-marketing-und-sales-sparen-w-m-d/3121/47072688064"
+        "title": "Product Owner",
+        "url": "https://careers.ing.com/en/job/makati-city/product-owner/3121/45878044864"
       },
       {
-        "title": "External Dispute Resolution Case Manager",
-        "url": "https://careers.ing.com/en/job/sydney/external-dispute-resolution-case-manager/3121/45132982912"
+        "title": "Solution Architect",
+        "url": "https://careers.ing.com/en/job/makati-city/solution-architect/3121/47079301824"
       },
       {
-        "title": "AU Daily Business Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/au-daily-business-analyst/3121/47067542464"
+        "title": "Werkstudent Talent & Learning – Human Resources (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-talent-and-learning-human-resources-w-m-d/3121/47079301696"
       },
       {
-        "title": "Finance Product Control Manager, 1 year contract",
-        "url": "https://careers.ing.com/en/job/shanghai/finance-product-control-manager-1-year-contract/3121/46467984512"
+        "title": "Customer Journey Expert ING Private Banking",
+        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-ing-private-banking/3121/46247740928"
       },
       {
-        "title": "Senior Customer Journey Expert / Product Manager - Savings, Business Banking",
-        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-product-manager-savings-business-banking/3121/47050048640"
+        "title": "Intern Business analyst – Center of Expertise Architecture",
+        "url": "https://careers.ing.com/en/job/brussels/intern-business-analyst-center-of-expertise-architecture/3121/47079301504"
       },
       {
-        "title": "Senior Customer Journey Expert / Product Manager - Transaction Banking, Business Banking",
-        "url": "https://careers.ing.com/en/job/sydney/senior-customer-journey-expert-product-manager-transaction-banking-business-banking/3121/47042361536"
+        "title": "Doradca Klienta Biznesowego (k/m)",
+        "url": "https://careers.ing.com/en/job/bydgoszcz/doradca-klienta-biznesowego-k-m/3121/47079301376"
       },
       {
-        "title": "Test engineer 3rd Party Software",
-        "url": "https://careers.ing.com/en/job/amsterdam/test-engineer-3rd-party-software/3121/47059726656"
+        "title": "Java Developer - OnePAM Integration Layer @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/java-developer-onepam-integration-layer-ing-hubs-romania/3121/47079301248"
       }
     ]
   },
@@ -1129,20 +1116,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Internship at Global Sales & Distribution | Client Services (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/internship-at-global-sales-and-distribution-client-services-m-f-d/3342/46988570112"
+        "title": "Underwriting Assistant",
+        "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/46398207040"
       },
       {
-        "title": "Praktikant Corporate Art (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-corporate-art-m-f-d/3342/47047018048"
+        "title": "Data Business Analyst",
+        "url": "https://www.munichre.com/en/job/london/data-business-analyst/3342/46426175168"
       },
       {
-        "title": "IT Product Manager Reserving Systems Team (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/it-product-manager-reserving-systems-team-m-f-d/3342/47071015872"
+        "title": "Property Field Adjuster - Butler, PA",
+        "url": "https://www.munichre.com/en/job/butler/property-field-adjuster-butler-pa/3342/46451102080"
       },
       {
-        "title": "Assistant Longevity Client Manager",
-        "url": "https://www.munichre.com/en/job/london/assistant-longevity-client-manager/3342/46385442176"
+        "title": "Administrative Assistant - Legal",
+        "url": "https://www.munichre.com/en/job/princeton/administrative-assistant-legal/3342/46970168640"
       },
       {
         "title": "Find jobs",
