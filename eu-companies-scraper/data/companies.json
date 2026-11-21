@@ -82,6 +82,19 @@
     ]
   },
   {
+    "name": "ACS Group",
+    "website": "http://grupoacs.com",
+    "career_page_url": "http://grupoacs.com/careers",
+    "country_of_origin": "Spain",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "http://grupoacs.com/careers"
+      }
+    ]
+  },
+  {
     "name": "Ahold Delhaize",
     "website": "https://www.aholddelhaize.com",
     "career_page_url": "https://www.aholddelhaize.com/careers",
@@ -1003,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Expert QA Engineer w obszarze rynków finansowych",
-        "url": "https://careers.ing.com/en/job/warsaw/expert-qa-engineer-w-obszarze-rynkow-finansowych/3121/47079302208"
+        "title": "Contractor, Senior IT Engineer",
+        "url": "https://careers.ing.com/en/job/new-york/contractor-senior-it-engineer/3121/44077344640"
       },
       {
-        "title": "Front Office Quant – Portfolio Models",
-        "url": "https://careers.ing.com/en/job/amsterdam/front-office-quant-portfolio-models/3121/47079302080"
+        "title": "Global Senior Management Consultant",
+        "url": "https://careers.ing.com/en/job/amsterdam/global-senior-management-consultant/3121/46616433216"
       },
       {
-        "title": "Product Owner",
-        "url": "https://careers.ing.com/en/job/makati-city/product-owner/3121/45878044864"
+        "title": "Customer Journey Expert / Product manager",
+        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-product-manager/3121/46990070144"
       },
       {
-        "title": "Solution Architect",
-        "url": "https://careers.ing.com/en/job/makati-city/solution-architect/3121/47079301824"
+        "title": "Director Transaction Services Sales – Card Sales (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/director-transaction-services-sales-card-sales-w-m-d/3121/43278542528"
       },
       {
-        "title": "Werkstudent Talent & Learning – Human Resources (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-talent-and-learning-human-resources-w-m-d/3121/47079301696"
+        "title": "Umowa zlecenie w obszarze testów",
+        "url": "https://careers.ing.com/en/job/silesia/umowa-zlecenie-w-obszarze-testow/3121/47085242752"
       },
       {
-        "title": "Customer Journey Expert ING Private Banking",
-        "url": "https://careers.ing.com/en/job/amsterdam/customer-journey-expert-ing-private-banking/3121/46247740928"
+        "title": "Business Controller - Group COO Finance @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/business-controller-group-coo-finance-ing-hubs-romania/3121/45619387072"
       },
       {
-        "title": "Intern Business analyst – Center of Expertise Architecture",
-        "url": "https://careers.ing.com/en/job/brussels/intern-business-analyst-center-of-expertise-architecture/3121/47079301504"
+        "title": "Meewerkstage Event Management",
+        "url": "https://careers.ing.com/en/job/amsterdam/meewerkstage-event-management/3121/47025687936"
       },
       {
-        "title": "Doradca Klienta Biznesowego (k/m)",
-        "url": "https://careers.ing.com/en/job/bydgoszcz/doradca-klienta-biznesowego-k-m/3121/47079301376"
+        "title": "Starszy specjalista (k/m) ds. komunikacji kontekstowej w zespole sprzedaży zdalnej",
+        "url": "https://careers.ing.com/en/job/warsaw/starszy-specjalista-k-m-ds-komunikacji-kontekstowej-w-zespole-sprzedazy-zdalnej/3121/41505601088"
       },
       {
-        "title": "Java Developer - OnePAM Integration Layer @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/java-developer-onepam-integration-layer-ing-hubs-romania/3121/47079301248"
+        "title": "REQ-10123063 Credit Risk Model Developer (multiple seniority levels)",
+        "url": "https://careers.ing.com/en/job/warsaw/req-10123063-credit-risk-model-developer-multiple-seniority-levels/3121/47085242496"
       }
     ]
   },
@@ -1116,20 +1129,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Underwriting Assistant",
-        "url": "https://www.munichre.com/en/job/madrid/underwriting-assistant/3342/46398207040"
+        "title": "Senior Underwriter, Casualty & Property",
+        "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-casualty-and-property/3342/47090174976"
       },
       {
-        "title": "Data Business Analyst",
-        "url": "https://www.munichre.com/en/job/london/data-business-analyst/3342/46426175168"
+        "title": "Data Engineer",
+        "url": "https://www.munichre.com/en/job/princeton/data-engineer/3342/47090174912"
       },
       {
-        "title": "Property Field Adjuster - Butler, PA",
-        "url": "https://www.munichre.com/en/job/butler/property-field-adjuster-butler-pa/3342/46451102080"
+        "title": "Group Pricing Specialist",
+        "url": "https://www.munichre.com/en/job/johannesburg/group-pricing-specialist/3342/44832276928"
       },
       {
-        "title": "Administrative Assistant - Legal",
-        "url": "https://www.munichre.com/en/job/princeton/administrative-assistant-legal/3342/46970168640"
+        "title": "Account Manager - Locations: Wayne, PA or Hartford, CT or Charlotte, NC",
+        "url": "https://www.munichre.com/en/job/wayne/account-manager-locations-wayne-pa-or-hartford-ct-or-charlotte-nc/3342/46971013440"
       },
       {
         "title": "Find jobs",
