@@ -147,8 +147,8 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Safety---Reliability-Engineer_JR10451843?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=29247e57dbaf46fb855b224e03170bc7"
       },
       {
-        "title": "Certifying Staff Europe 01 September 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/jobs?q=certifying+staff"
+        "title": "Certifying Staff Europe 02 November 2026",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/jobs?q=%27certifying+staff%27+OR+%27LMA%27+OR+%27TMA%27"
       },
       {
         "title": "Principal Stress Engineer Wichita, KS or Mobile, AL (USA) 06 October 2026",
@@ -179,20 +179,12 @@
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Tokyo/Customer-Account-Director_JR10442542-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=8b705da2becf43cfaccc091da0988ab2"
       },
       {
-        "title": "Finance Analyst Bangkok, Thailand 01 October 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangkok-Area/Finance-Analyst_JR10447258?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=873d0f604e3b458c990cb4d83a5c0f14"
-      },
-      {
         "title": "Technical Representative Rio De Janeiro, Brazil 01 October 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Rio-De-Janeiro/Representante-Tcnico---Technical-Representative_JR10411519?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=1a29bb1357b240ab99a2fa755cc87c0e"
       },
       {
         "title": "Product Support Manager Subang 07 October 2026",
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Subang/Product-Support-Manager_JR10448324?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=972dc4ba8d454bc0b893ff84b1529077"
-      },
-      {
-        "title": "In-Service Airworthiness Engineering Bangalore, India 06 October 2026",
-        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/In-Service-Airworthiness-Engineering_JR10446954?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e"
       },
       {
         "title": "Browse all jobs",
@@ -209,6 +201,18 @@
       {
         "title": "Explore our locations",
         "url": "https://airbus.com/en/careers/life-at-airbus/working-here"
+      },
+      {
+        "title": "LGBTQ+ Pride@Airbus is committed to contributing to a safer and better workplace, helping people bring their true selves to work and…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/lgbtq"
+      },
+      {
+        "title": "Gender Balance The “WIN” initiatives are a dynamic network of local and global women's networks, dedicated to fostering professional growth and…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/gender-balance"
+      },
+      {
+        "title": "(dis)Ability ADAPT is an Employee Resource Group (ERG) dedicated to changing perceptions, building a network and providing support to those…",
+        "url": "https://airbus.com/en/careers/life-at-airbus/disability"
       }
     ]
   },
@@ -1005,7 +1009,7 @@
       },
       {
         "title": "Italiano Italian",
-        "url": "https://careers.ing.com/it/lavori-di-ricerca"
+        "url": "https://careers.ing.com/it"
       },
       {
         "title": "Română Romanian",
@@ -1016,12 +1020,16 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "ODCR Manager, Third and Intragroup Party Risk - 12 months fixed term contract",
+        "url": "https://careers.ing.com/en/job/sydney/odcr-manager-third-and-%c4%b1ntragroup-party-risk-12-months-fixed-term-contract/3121/47154334656"
+      },
+      {
         "title": "Junior Financieel Expert in Leuven",
         "url": "https://careers.ing.com/en/job/turnhout/junior-financieel-expert-in-leuven/3121/47150673664"
       },
       {
         "title": "Contractor, Senior IT Engineer",
-        "url": "https://careers.ing.com/en/job/new-york/contractor-senior-it-engineer/3121/44077344640"
+        "url": "https://careers.ing.com/en/job/new-york/contractor-senior-%c4%b1t-engineer/3121/44077344640"
       },
       {
         "title": "Customer Journey Expert / Product manager",
@@ -1037,7 +1045,7 @@
       },
       {
         "title": "Business Controller - Group COO Finance @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/business-controller-group-coo-finance-ing-hubs-romania/3121/45619387072"
+        "url": "https://careers.ing.com/en/job/bucharest/business-controller-group-coo-finance-%c4%b1ng-hubs-romania/3121/45619387072"
       },
       {
         "title": "Meewerkstage Event Management",
@@ -1046,10 +1054,6 @@
       {
         "title": "Starszy specjalista (k/m) ds. komunikacji kontekstowej w zespole sprzedaży zdalnej",
         "url": "https://careers.ing.com/en/job/warsaw/starszy-specjalista-k-m-ds-komunikacji-kontekstowej-w-zespole-sprzedazy-zdalnej/3121/41505601088"
-      },
-      {
-        "title": "REQ-10123063 Credit Risk Model Developer (multiple seniority levels)",
-        "url": "https://careers.ing.com/en/job/warsaw/req-10123063-credit-risk-model-developer-multiple-seniority-levels/3121/47085242496"
       }
     ]
   },
@@ -1129,20 +1133,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Principal Data Scientist",
-        "url": "https://www.munichre.com/en/job/singapore/principal-data-scientist/3342/44300088064"
+        "title": "Risk Management Surveyor - South",
+        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
       },
       {
-        "title": "ISO 19443 Lead Auditor",
-        "url": "https://www.munichre.com/en/job/seattle/iso-19443-lead-auditor/3342/46970168704"
+        "title": "Risk Management Surveyor - Birmingham",
+        "url": "https://www.munichre.com/en/job/birmingham/risk-management-surveyor-birmingham/3342/46955416768"
       },
       {
-        "title": "Authorized Nuclear Inservice Inspector - Quincy, IL",
-        "url": "https://www.munichre.com/en/job/springfield/authorized-nuclear-inservice-inspector-quincy-il/3342/47054341760"
+        "title": "Risk Management Surveyor - North",
+        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
       },
       {
-        "title": "Senior Underwriter, Casualty & Property",
-        "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-casualty-and-property/3342/47090174976"
+        "title": "Internship at Global Sales & Distribution | Client Services (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/internship-at-global-sales-and-distribution-client-services-m-f-d/3342/46988570112"
       },
       {
         "title": "Find jobs",
@@ -1790,10 +1794,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
