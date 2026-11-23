@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/hu/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/hu/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1129,20 +1129,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "ISO 19443 Lead Auditor",
+        "url": "https://www.munichre.com/en/job/seattle/iso-19443-lead-auditor/3342/46970168704"
+      },
+      {
+        "title": "Authorized Nuclear Inservice Inspector - Quincy, IL",
+        "url": "https://www.munichre.com/en/job/springfield/authorized-nuclear-inservice-inspector-quincy-il/3342/47054341760"
+      },
+      {
         "title": "Senior Underwriter, Casualty & Property",
         "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-casualty-and-property/3342/47090174976"
       },
       {
         "title": "Data Engineer",
         "url": "https://www.munichre.com/en/job/princeton/data-engineer/3342/47090174912"
-      },
-      {
-        "title": "Group Pricing Specialist",
-        "url": "https://www.munichre.com/en/job/johannesburg/group-pricing-specialist/3342/44832276928"
-      },
-      {
-        "title": "Account Manager - Locations: Wayne, PA or Hartford, CT or Charlotte, NC",
-        "url": "https://www.munichre.com/en/job/wayne/account-manager-locations-wayne-pa-or-hartford-ct-or-charlotte-nc/3342/46971013440"
       },
       {
         "title": "Find jobs",
