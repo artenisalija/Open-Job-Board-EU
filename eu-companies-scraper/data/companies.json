@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/nl/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,12 +1016,12 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Contractor, Senior IT Engineer",
-        "url": "https://careers.ing.com/en/job/new-york/contractor-senior-it-engineer/3121/44077344640"
+        "title": "Junior Financieel Expert in Leuven",
+        "url": "https://careers.ing.com/en/job/turnhout/junior-financieel-expert-in-leuven/3121/47150673664"
       },
       {
-        "title": "Global Senior Management Consultant",
-        "url": "https://careers.ing.com/en/job/amsterdam/global-senior-management-consultant/3121/46616433216"
+        "title": "Contractor, Senior IT Engineer",
+        "url": "https://careers.ing.com/en/job/new-york/contractor-senior-it-engineer/3121/44077344640"
       },
       {
         "title": "Customer Journey Expert / Product manager",
@@ -1129,6 +1129,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Principal Data Scientist",
+        "url": "https://www.munichre.com/en/job/singapore/principal-data-scientist/3342/44300088064"
+      },
+      {
         "title": "ISO 19443 Lead Auditor",
         "url": "https://www.munichre.com/en/job/seattle/iso-19443-lead-auditor/3342/46970168704"
       },
@@ -1139,10 +1143,6 @@
       {
         "title": "Senior Underwriter, Casualty & Property",
         "url": "https://www.munichre.com/en/job/toronto/senior-underwriter-casualty-and-property/3342/47090174976"
-      },
-      {
-        "title": "Data Engineer",
-        "url": "https://www.munichre.com/en/job/princeton/data-engineer/3342/47090174912"
       },
       {
         "title": "Find jobs",
