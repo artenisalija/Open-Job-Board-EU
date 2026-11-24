@@ -1020,6 +1020,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Backend Chapter Lead (Collection)",
+        "url": "https://careers.ing.com/en/job/istanbul/backend-chapter-lead-collection/3121/47190015296"
+      },
+      {
+        "title": "Customer Journey Expert",
+        "url": "https://careers.ing.com/en/job/makati-city/customer-journey-expert/3121/47190015232"
+      },
+      {
+        "title": "Data Retention and Deletion Business Analyst (DM GKYC)",
+        "url": "https://careers.ing.com/en/job/makati-city/data-retention-and-deletion-business-analyst-dm-gkyc/3121/45658374720"
+      },
+      {
+        "title": "Java Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/java-engineer/3121/46147536064"
+      },
+      {
         "title": "Internship Brand & Social Media: Creative",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-brand-and-social-media-creative/3121/47177771008"
       },
@@ -1038,22 +1054,6 @@
       {
         "title": "Customer Journey Expert- Primary Mobile (Regular Income)",
         "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-primary-mobile-regular-income/3121/47173135104"
-      },
-      {
-        "title": "Data Analyst – Central Data Office (Marketing Technology)",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-analyst-central-data-office-marketing-technology/3121/45697255488"
-      },
-      {
-        "title": "Backend Engineer",
-        "url": "https://careers.ing.com/en/job/istanbul/backend-engineer/3121/46990070080"
-      },
-      {
-        "title": "Credit Risk Model Developer (multiple seniority levels)",
-        "url": "https://careers.ing.com/en/job/warsaw/credit-risk-model-developer-multiple-seniority-levels/3121/47085242496"
-      },
-      {
-        "title": "Customer Journey Expert - Private Banking - Digital & AI",
-        "url": "https://careers.ing.com/en/job/brussels/customer-journey-expert-private-banking-digital-and-ai/3121/47173134848"
       }
     ]
   },
@@ -1133,20 +1133,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Underwriting Associate - 2027 New Graduate Program",
-        "url": "https://www.munichre.com/en/job/toronto/underwriting-associate-2027-new-graduate-program/3342/47177887296"
+        "title": "Valuation Actuary (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/valuation-actuary-m-f-d/3342/47192621056"
       },
       {
-        "title": "Managing Data Science Lead - Pricing",
-        "url": "https://www.munichre.com/en/job/amelia/managing-data-science-lead-pricing/3342/46797335680"
+        "title": "Head of Property Claims Europe (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/head-of-property-claims-europe-m-f-d/3342/46984126336"
       },
       {
-        "title": "Senior Accountant",
-        "url": "https://www.munichre.com/en/job/toronto/senior-accountant/3342/47176904064"
+        "title": "Munich Re Markets GmbH: Senior Strategy Consultant (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-senior-strategy-consultant-m-f-d/3342/47188365248"
       },
       {
-        "title": "MRSGM NA Logistics Claims Manager - First Party",
-        "url": "https://www.munichre.com/en/job/schaumburg/mrsgm-na-logistics-claims-manager-first-party/3342/36972296512"
+        "title": "Munich Re Markets GmbH: Executive Assistant to the Global Head of Munich Re Markets (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/munich-re-markets-gmbh-executive-assistant-to-the-global-head-of-munich-re-markets-m-f-d/3342/47188348352"
       },
       {
         "title": "Find jobs",
@@ -1661,29 +1661,21 @@
   {
     "name": "Siemens Energy",
     "website": "https://www.siemens-energy.com",
-    "career_page_url": "https://www.siemens-energy.com/global/en/home/careers/working-at-siemens-energy-.html",
+    "career_page_url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
-        "title": "Rotating grid stabilizers",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/working-at-siemens-energy-.html"
-      },
-      {
-        "title": "Careers",
+        "title": "Products and services",
         "url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html"
       },
       {
-        "title": "Early career",
+        "title": "Explore graduate programs",
+        "url": "https://www.siemens-energy.com/global/en/home/careers/graduate-program.html"
+      },
+      {
+        "title": "Explore early career programs",
         "url": "https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html"
-      },
-      {
-        "title": "How we hire",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/how-we-hire.html"
-      },
-      {
-        "title": "Learn more about how we live equality",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/inclusion-diversity.html"
       }
     ]
   },
@@ -1727,6 +1719,10 @@
       {
         "title": "Main menu",
         "url": "https://www.totalenergies.com/careers"
+      },
+      {
+        "title": "Careers",
+        "url": "https://www.totalenergies.com/jobseekers"
       }
     ]
   },
