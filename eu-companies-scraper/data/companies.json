@@ -938,13 +938,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1020,40 +1020,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Blockchain Customer Journey Expert",
-        "url": "https://careers.ing.com/en/job/istanbul/blockchain-customer-journey-expert/3121/44774404032"
+        "title": "Straż z Lwem w Departamencie Skarbu",
+        "url": "https://careers.ing.com/en/job/warsaw/straz-z-lwem-w-departamencie-skarbu/3121/47226064320"
       },
       {
-        "title": "Frontend Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/frontend-engineer/3121/47219420224"
+        "title": "Praktikant Transaction, Advice & Control - Credit Risk (w/m/d)",
+        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136"
       },
       {
-        "title": "AI Developer (Copilot Studio)",
-        "url": "https://careers.ing.com/en/job/slovakia/ai-developer-copilot-studio/3121/44008552640"
+        "title": "Private Banker",
+        "url": "https://careers.ing.com/en/job/venlo/private-banker/3121/45314692160"
       },
       {
-        "title": "WPS Engineer",
-        "url": "https://careers.ing.com/en/job/istanbul/wps-engineer/3121/47219419456"
+        "title": "Threat Engineer in Threat Management",
+        "url": "https://careers.ing.com/en/job/amsterdam/threat-engineer-in-threat-management/3121/47226064128"
       },
       {
-        "title": "Vice President – Regional Tax",
-        "url": "https://careers.ing.com/en/job/singapore/vice-president-regional-tax/3121/42785366976"
+        "title": "Praktikant Workforce Management (w/m/d)",
+        "url": "https://careers.ing.com/en/job/hannover/praktikant-workforce-management-w-m-d/3121/47226064064"
       },
       {
-        "title": "Contractor, Technology Project Manager & Business Analyst",
-        "url": "https://careers.ing.com/en/job/new-york/contractor-technology-project-manager-and-business-analyst/3121/47210641664"
+        "title": "Senior Pricing Marketeer for Savings",
+        "url": "https://careers.ing.com/en/job/amsterdam/senior-pricing-marketeer-for-savings/3121/46757977984"
       },
       {
-        "title": "Banker SME Food & Agri - Business Banking Hub Hainaut (Gosselies)",
-        "url": "https://careers.ing.com/en/job/charleroi/banker-sme-food-and-agri-business-banking-hub-hainaut-gosselies/3121/47210623680"
+        "title": "Internship Cybersecurity Risk Management",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-cybersecurity-risk-management/3121/47226063936"
       },
       {
-        "title": "Branch Agent Alicante (Temporary)",
-        "url": "https://careers.ing.com/en/job/alicante/branch-agent-alicante-temporary/3121/46828791488"
+        "title": "Backend Chapter Lead (Collection)",
+        "url": "https://careers.ing.com/en/job/istanbul/backend-chapter-lead-collection/3121/47190015296"
       },
       {
-        "title": "Finance Mangement Reporting and Control Analyst",
-        "url": "https://careers.ing.com/en/job/madrid/finance-mangement-reporting-and-control-analyst/3121/47207331968"
+        "title": "Intern, Compliance",
+        "url": "https://careers.ing.com/en/job/singapore/intern-compliance/3121/47226063744"
       }
     ]
   },
@@ -1114,6 +1114,115 @@
     ]
   },
   {
+    "name": "Mercedes-Benz Group",
+    "website": "https://group.mercedes-benz.com",
+    "career_page_url": "https://group.mercedes-benz.com/careers/about-us/locations",
+    "country_of_origin": "Germany",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://group.mercedes-benz.com/careers/about-us/locations"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers"
+      },
+      {
+        "title": "International Talent Program",
+        "url": "https://group.mercedes-benz.com/careers/international-talent-programs"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers/about-us"
+      },
+      {
+        "title": "Work Culture",
+        "url": "https://group.mercedes-benz.com/careers/about-us/work-culture"
+      },
+      {
+        "title": "Insights",
+        "url": "https://group.mercedes-benz.com/careers/about-us/insights"
+      },
+      {
+        "title": "All about IT @Mercedes-Benz",
+        "url": "https://group.mercedes-benz.com/careers/about-us/all-about-it-mercedes-benz"
+      },
+      {
+        "title": "Mercedes-Benz Operating System",
+        "url": "https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system"
+      },
+      {
+        "title": "Artificial Intelligence",
+        "url": "https://group.mercedes-benz.com/careers/about-us/artificial-intelligence"
+      },
+      {
+        "title": "Events",
+        "url": "https://group.mercedes-benz.com/careers/about-us/events"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers/pupils"
+      },
+      {
+        "title": "Vocational training",
+        "url": "https://group.mercedes-benz.com/careers/pupils/vocational-training"
+      },
+      {
+        "title": "Dual study",
+        "url": "https://group.mercedes-benz.com/careers/pupils/dual-study"
+      },
+      {
+        "title": "School work experience",
+        "url": "https://group.mercedes-benz.com/careers/pupils/school-work-experience"
+      },
+      {
+        "title": "Holiday jobs",
+        "url": "https://group.mercedes-benz.com/careers/pupils/holiday-jobs"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers/students"
+      },
+      {
+        "title": "Internship",
+        "url": "https://group.mercedes-benz.com/careers/students/internship"
+      },
+      {
+        "title": "Thesis",
+        "url": "https://group.mercedes-benz.com/careers/students/dissertation"
+      },
+      {
+        "title": "Working student",
+        "url": "https://group.mercedes-benz.com/careers/students/student-interns"
+      },
+      {
+        "title": "Holiday jobs",
+        "url": "https://group.mercedes-benz.com/careers/students/holiday-jobs"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers/graduates"
+      },
+      {
+        "title": "Inspire - Your Journey of Growth",
+        "url": "https://group.mercedes-benz.com/careers/graduates/inspire-journey"
+      },
+      {
+        "title": "Doctorates",
+        "url": "https://group.mercedes-benz.com/careers/graduates/promotion"
+      },
+      {
+        "title": "Direct entry",
+        "url": "https://group.mercedes-benz.com/careers/graduates/direct-entry"
+      },
+      {
+        "title": "Overview",
+        "url": "https://group.mercedes-benz.com/careers/professionals"
+      }
+    ]
+  },
+  {
     "name": "Munich Re",
     "website": "https://www.munichre.com",
     "career_page_url": "https://www.munichre.com/careers",
@@ -1133,20 +1242,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior Data Engineer",
-        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
+        "title": "SimCorp Dimension (SCD) Specialist",
+        "url": "https://www.munichre.com/en/job/toronto/simcorp-dimension-scd-specialist/3342/46560819072"
       },
       {
-        "title": "Engineer Surveyor - Cat 2 - Liverpool",
-        "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-liverpool/3342/46986394816"
+        "title": "Risk Management Surveyor - South",
+        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
       },
       {
-        "title": "HR Business Partner & South Africa HR Lead",
-        "url": "https://www.munichre.com/en/job/johannesburg/hr-business-partner-and-south-africa-hr-lead/3342/47173396928"
+        "title": "Praktikant im Bereich HR Talent Development & Learning (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-im-bereich-hr-talent-development-and-learning-m-w-d/3342/47226672384"
       },
       {
-        "title": "Country Claims Manager, Italy (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
-        "url": "https://www.munichre.com/en/job/milan/country-claims-manager-italy-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/42445813376"
+        "title": "Associate - HSB New Graduate Program",
+        "url": "https://www.munichre.com/en/job/hartford/associate-hsb-new-graduate-program/3342/47198558400"
       },
       {
         "title": "Find jobs",
@@ -1723,10 +1832,6 @@
       {
         "title": "Main menu",
         "url": "https://www.totalenergies.com/careers"
-      },
-      {
-        "title": "Careers",
-        "url": "https://www.totalenergies.com/jobseekers"
       }
     ]
   },
