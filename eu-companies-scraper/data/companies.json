@@ -938,13 +938,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/tr/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/tr/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/no/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1020,6 +1020,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Blockchain Customer Journey Expert",
+        "url": "https://careers.ing.com/en/job/istanbul/blockchain-customer-journey-expert/3121/44774404032"
+      },
+      {
+        "title": "Frontend Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/frontend-engineer/3121/47219420224"
+      },
+      {
+        "title": "AI Developer (Copilot Studio)",
+        "url": "https://careers.ing.com/en/job/slovakia/ai-developer-copilot-studio/3121/44008552640"
+      },
+      {
+        "title": "WPS Engineer",
+        "url": "https://careers.ing.com/en/job/istanbul/wps-engineer/3121/47219419456"
+      },
+      {
         "title": "Vice President – Regional Tax",
         "url": "https://careers.ing.com/en/job/singapore/vice-president-regional-tax/3121/42785366976"
       },
@@ -1038,22 +1054,6 @@
       {
         "title": "Finance Mangement Reporting and Control Analyst",
         "url": "https://careers.ing.com/en/job/madrid/finance-mangement-reporting-and-control-analyst/3121/47207331968"
-      },
-      {
-        "title": "Product Domain Lead Payments",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-domain-lead-payments/3121/47202475584"
-      },
-      {
-        "title": "Private Banker Antwerpen SME owners & self-employed",
-        "url": "https://careers.ing.com/en/job/flanders/private-banker-antwerpen-sme-owners-and-self-employed/3121/47202475520"
-      },
-      {
-        "title": "Private Banker Hasselt SME owners & self-employed",
-        "url": "https://careers.ing.com/en/job/hasselt/private-banker-hasselt-sme-owners-and-self-employed/3121/47202475456"
-      },
-      {
-        "title": "Doradca Klienta Biznesowego (k/m)",
-        "url": "https://careers.ing.com/en/job/szczecin/doradca-klienta-biznesowego-k-m/3121/46561597376"
       }
     ]
   },
@@ -1133,20 +1133,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Pricing Actuary",
-        "url": "https://www.munichre.com/en/job/singapore/pricing-actuary/3342/46778598912"
+        "title": "Senior Data Engineer",
+        "url": "https://www.munichre.com/en/job/london/senior-data-engineer/3342/46385441856"
       },
       {
-        "title": "Risk Management Surveyor - North",
-        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
+        "title": "Engineer Surveyor - Cat 2 - Liverpool",
+        "url": "https://www.munichre.com/en/job/liverpool/engineer-surveyor-cat-2-liverpool/3342/46986394816"
       },
       {
-        "title": "Risk Management Surveyor - South",
-        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
+        "title": "HR Business Partner & South Africa HR Lead",
+        "url": "https://www.munichre.com/en/job/johannesburg/hr-business-partner-and-south-africa-hr-lead/3342/47173396928"
       },
       {
-        "title": "Building Control Project Manager",
-        "url": "https://www.munichre.com/en/job/birmingham/building-control-project-manager/3342/45731878016"
+        "title": "Country Claims Manager, Italy (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
+        "url": "https://www.munichre.com/en/job/milan/country-claims-manager-italy-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/42445813376"
       },
       {
         "title": "Find jobs",
@@ -1660,22 +1660,26 @@
   },
   {
     "name": "Siemens Energy",
-    "website": "https://www.siemens-energy.com",
-    "career_page_url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html",
+    "website": "https://www.omterra.com",
+    "career_page_url": "https://www.omterra.com/global/en/home/careers/working-with-us.html",
     "country_of_origin": "Germany",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "Products and services",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html"
+        "url": "https://www.omterra.com/global/en/home/careers/working-with-us.html"
+      },
+      {
+        "title": "Early career",
+        "url": "https://www.omterra.com/global/en/home/careers/early-career-programs.html"
+      },
+      {
+        "title": "How we hire",
+        "url": "https://www.omterra.com/global/en/home/careers/how-we-hire.html"
       },
       {
         "title": "Explore graduate programs",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/graduate-program.html"
-      },
-      {
-        "title": "Explore early career programs",
-        "url": "https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html"
+        "url": "https://www.omterra.com/global/en/home/careers/graduate-program.html"
       }
     ]
   },
@@ -1790,15 +1794,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
@@ -1994,63 +1993,6 @@
     "career_page_url": "https://www.zurich.com/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.zurich.com/careers"
-      },
-      {
-        "title": "Governance & positions",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions"
-      },
-      {
-        "title": "Governance",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/governance"
-      },
-      {
-        "title": "Remuneration",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/remuneration"
-      },
-      {
-        "title": "Being a responsible taxpayer",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/being-a-responsible-taxpayer"
-      },
-      {
-        "title": "Our positions",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions"
-      },
-      {
-        "title": "Fossil fuels",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/fossil-fuels"
-      },
-      {
-        "title": "Banned cluster munitions and anti-personnel land mines",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/banned-cluster-munitions-and-anti-personnel-land-mines"
-      },
-      {
-        "title": "Respecting human rights",
-        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/respecting-human-rights"
-      },
-      {
-        "title": "Our Hiring Process",
-        "url": "https://www.zurich.com/careers/hiring-process"
-      },
-      {
-        "title": "Students and Early Careers",
-        "url": "https://www.zurich.com/careers/students-and-early-careers"
-      },
-      {
-        "title": "NextGen Tech Internship Program",
-        "url": "https://www.zurich.com/careers/nextgen-tech"
-      },
-      {
-        "title": "Careers for Experienced Professionals",
-        "url": "https://www.zurich.com/careers/experienced-hires"
-      },
-      {
-        "title": "Hiring Process FAQs",
-        "url": "https://www.zurich.com/careers/frequently-asked-questions"
-      }
-    ]
+    "jobs": []
   }
 ]
