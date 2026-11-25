@@ -938,13 +938,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/tr/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/tr/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1020,6 +1020,26 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Vice President – Regional Tax",
+        "url": "https://careers.ing.com/en/job/singapore/vice-president-regional-tax/3121/42785366976"
+      },
+      {
+        "title": "Contractor, Technology Project Manager & Business Analyst",
+        "url": "https://careers.ing.com/en/job/new-york/contractor-technology-project-manager-and-business-analyst/3121/47210641664"
+      },
+      {
+        "title": "Banker SME Food & Agri - Business Banking Hub Hainaut (Gosselies)",
+        "url": "https://careers.ing.com/en/job/charleroi/banker-sme-food-and-agri-business-banking-hub-hainaut-gosselies/3121/47210623680"
+      },
+      {
+        "title": "Branch Agent Alicante (Temporary)",
+        "url": "https://careers.ing.com/en/job/alicante/branch-agent-alicante-temporary/3121/46828791488"
+      },
+      {
+        "title": "Finance Mangement Reporting and Control Analyst",
+        "url": "https://careers.ing.com/en/job/madrid/finance-mangement-reporting-and-control-analyst/3121/47207331968"
+      },
+      {
         "title": "Product Domain Lead Payments",
         "url": "https://careers.ing.com/en/job/amsterdam/product-domain-lead-payments/3121/47202475584"
       },
@@ -1034,26 +1054,6 @@
       {
         "title": "Doradca Klienta Biznesowego (k/m)",
         "url": "https://careers.ing.com/en/job/szczecin/doradca-klienta-biznesowego-k-m/3121/46561597376"
-      },
-      {
-        "title": "International Payments Pricing Model Data Analyst",
-        "url": "https://careers.ing.com/en/job/brussels/international-payments-pricing-model-data-analyst/3121/47202475328"
-      },
-      {
-        "title": "Data scientist(AI Automation)-2",
-        "url": "https://careers.ing.com/en/job/brussels/data-scientist-ai-automation-2/3121/47202475264"
-      },
-      {
-        "title": "AI Engineer(intern)",
-        "url": "https://careers.ing.com/en/job/brussels/ai-engineer-intern/3121/47202475200"
-      },
-      {
-        "title": "Praktikant Transaction, Advice & Control - Credit Risk (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136"
-      },
-      {
-        "title": "Customer Journey Expert – Performance Marketing & Partnerships",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/customer-journey-expert-performance-marketing-and-partnerships/3121/47202475072"
       }
     ]
   },
@@ -1133,20 +1133,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Binding Authority Technician",
-        "url": "https://www.munichre.com/en/job/london/binding-authority-technician/3342/47201687872"
+        "title": "Pricing Actuary",
+        "url": "https://www.munichre.com/en/job/singapore/pricing-actuary/3342/46778598912"
       },
       {
-        "title": "Inspector - Lawrence, MA",
-        "url": "https://www.munichre.com/en/job/lawrence/inspector-lawrence-ma/3342/40778566272"
+        "title": "Risk Management Surveyor - North",
+        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
       },
       {
-        "title": "Inspector - Fall River, Massachusetts",
-        "url": "https://www.munichre.com/en/job/fall-river/inspector-fall-river-massachusetts/3342/42118514048"
+        "title": "Risk Management Surveyor - South",
+        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
       },
       {
-        "title": "Senior IT Security Incident Responder",
-        "url": "https://www.munichre.com/en/job/toronto/senior-it-security-incident-responder/3342/47030482432"
+        "title": "Building Control Project Manager",
+        "url": "https://www.munichre.com/en/job/birmingham/building-control-project-manager/3342/45731878016"
       },
       {
         "title": "Find jobs",
@@ -1790,10 +1790,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
@@ -1989,6 +1994,63 @@
     "career_page_url": "https://www.zurich.com/careers",
     "country_of_origin": "Switzerland",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.zurich.com/careers"
+      },
+      {
+        "title": "Governance & positions",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions"
+      },
+      {
+        "title": "Governance",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/governance"
+      },
+      {
+        "title": "Remuneration",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/remuneration"
+      },
+      {
+        "title": "Being a responsible taxpayer",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/being-a-responsible-taxpayer"
+      },
+      {
+        "title": "Our positions",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions"
+      },
+      {
+        "title": "Fossil fuels",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/fossil-fuels"
+      },
+      {
+        "title": "Banned cluster munitions and anti-personnel land mines",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/banned-cluster-munitions-and-anti-personnel-land-mines"
+      },
+      {
+        "title": "Respecting human rights",
+        "url": "https://www.zurich.com/sustainability/governance-and-positions/our-positions/respecting-human-rights"
+      },
+      {
+        "title": "Our Hiring Process",
+        "url": "https://www.zurich.com/careers/hiring-process"
+      },
+      {
+        "title": "Students and Early Careers",
+        "url": "https://www.zurich.com/careers/students-and-early-careers"
+      },
+      {
+        "title": "NextGen Tech Internship Program",
+        "url": "https://www.zurich.com/careers/nextgen-tech"
+      },
+      {
+        "title": "Careers for Experienced Professionals",
+        "url": "https://www.zurich.com/careers/experienced-hires"
+      },
+      {
+        "title": "Hiring Process FAQs",
+        "url": "https://www.zurich.com/careers/frequently-asked-questions"
+      }
+    ]
   }
 ]
