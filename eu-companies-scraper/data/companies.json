@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Product Manager – Physical Workplace & Physical Security Services",
-        "url": "https://careers.ing.com/en/job/amsterdam/product-manager-physical-workplace-and-physical-security-services/3121/47236555904"
+        "title": "Liquidity Reporting Specialist",
+        "url": "https://careers.ing.com/en/job/sydney/liquidity-reporting-specialist/3121/47248181952"
       },
       {
-        "title": "Senior Auditor Tech & Data Management Belgium",
-        "url": "https://careers.ing.com/en/job/brussels/senior-auditor-tech-and-data-management-belgium/3121/47232224320"
+        "title": "Intern, Communications and Brand Experience APAC",
+        "url": "https://careers.ing.com/en/job/singapore/intern-communications-and-brand-experience-apac/3121/47248181888"
       },
       {
-        "title": "Senior Vulnerability Intelligence Analyst",
-        "url": "https://careers.ing.com/en/job/madrid/senior-vulnerability-intelligence-analyst/3121/47232224256"
+        "title": "Data Analyst (Credit Risk)",
+        "url": "https://careers.ing.com/en/job/makati-city/data-analyst-credit-risk/3121/46876483584"
       },
       {
-        "title": "PSS Payments Security Architect",
-        "url": "https://careers.ing.com/en/job/amsterdam/pss-payments-security-architect/3121/47232224192"
+        "title": "Senior DevOps Engineer",
+        "url": "https://careers.ing.com/en/job/makati-city/senior-devops-engineer/3121/46201154240"
       },
       {
-        "title": "Straż z Lwem w Departamencie Skarbu",
-        "url": "https://careers.ing.com/en/job/warsaw/straz-z-lwem-w-departamencie-skarbu/3121/47226064320"
+        "title": "Internship – Account Manager, Private Banking",
+        "url": "https://careers.ing.com/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760"
       },
       {
-        "title": "Praktikant Transaction, Advice & Control - Credit Risk (w/m/d)",
-        "url": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136"
+        "title": "Key Control Tester I",
+        "url": "https://careers.ing.com/en/job/makati-city/key-control-tester-i/3121/47243129408"
       },
       {
-        "title": "Private Banker",
-        "url": "https://careers.ing.com/en/job/venlo/private-banker/3121/45314692160"
+        "title": "Technology Risk Manager",
+        "url": "https://careers.ing.com/en/job/sydney/technology-risk-manager/3121/47243129344"
       },
       {
-        "title": "Threat Engineer in Threat Management",
-        "url": "https://careers.ing.com/en/job/amsterdam/threat-engineer-in-threat-management/3121/47226064128"
+        "title": "VP, Transaction Monitoring & Regulatory Controls",
+        "url": "https://careers.ing.com/en/job/singapore/vp-transaction-monitoring-and-regulatory-controls/3121/44822462656"
       },
       {
-        "title": "Praktikant Workforce Management (w/m/d)",
-        "url": "https://careers.ing.com/en/job/hannover/praktikant-workforce-management-w-m-d/3121/47226064064"
+        "title": "Compliance Officer",
+        "url": "https://careers.ing.com/en/job/makati-city/compliance-officer/3121/47243129152"
       }
     ]
   },
@@ -1238,20 +1238,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Inspector - Springfield, MO",
-        "url": "https://www.munichre.com/en/job/springfield/inspector-springfield-mo/3342/47049392320"
+        "title": "Rechtsreferendar (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/rechtsreferendar-m-w-d/3342/33908705792"
       },
       {
-        "title": "Financial & Professional Claims Manager",
-        "url": "https://www.munichre.com/en/job/princeton/financial-and-professional-claims-manager/3342/47232523712"
+        "title": "Praktikant Underwriting (Engineering / Construction) (m/f/d)*",
+        "url": "https://www.munichre.com/en/job/munich/praktikant-underwriting-engineering-construction-m-f-d/3342/45925099136"
       },
       {
-        "title": "Sr. Claims Specialist Surety",
-        "url": "https://www.munichre.com/en/job/princeton/sr-claims-specialist-surety/3342/47232523584"
+        "title": "Ausbildungsintegriertes Studium International Business Computer Science (IBCS) 2027 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-computer-science-ibcs-2027-m-w-d/3342/44213412160"
       },
       {
-        "title": "SimCorp Dimension (SCD) Specialist",
-        "url": "https://www.munichre.com/en/job/toronto/simcorp-dimension-scd-specialist/3342/46560819072"
+        "title": "Ausbildungsintegriertes Studium Wirtschaftsmathematik 2027 (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-wirtschaftsmathematik-2027-m-w-d/3342/44213457664"
       },
       {
         "title": "Find jobs",
@@ -1806,6 +1806,55 @@
     ]
   },
   {
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com",
+    "career_page_url": "https://www.swissre.com/careers.html",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": [
+      {
+        "title": "Content",
+        "url": "https://www.swissre.com/careers.html"
+      },
+      {
+        "title": "Policies and statements",
+        "url": "https://www.swissre.com/sustainability/position-statements.html"
+      },
+      {
+        "title": "Search Swiss Re Careers",
+        "url": "https://www.swissre.com/careers/jobSearch.html"
+      },
+      {
+        "title": "Europe, Middle East and Africa",
+        "url": "https://www.swissre.com/careers/emea-careers.html"
+      },
+      {
+        "title": "Asia Pacific",
+        "url": "https://www.swissre.com/careers/apac-careers.html"
+      },
+      {
+        "title": "Americas",
+        "url": "https://www.swissre.com/careers/americas-careers.html"
+      },
+      {
+        "title": "Early Talent Opportunities",
+        "url": "https://www.swissre.com/careers/early-talent.html"
+      },
+      {
+        "title": "Career Returnees at Swiss Re",
+        "url": "https://www.swissre.com/careers/career-returnees.html"
+      },
+      {
+        "title": "Working at Swiss Re",
+        "url": "https://www.swissre.com/careers/working-at-swissre.html"
+      },
+      {
+        "title": "Data and Technology",
+        "url": "https://www.swissre.com/careers/it-careers.html"
+      }
+    ]
+  },
+  {
     "name": "Talanx",
     "website": "https://www.talanx.com/en",
     "career_page_url": "https://www.talanx.com/en/talanx-group/careers",
@@ -1895,15 +1944,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
