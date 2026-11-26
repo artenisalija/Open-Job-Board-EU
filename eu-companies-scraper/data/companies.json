@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/pl/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1238,6 +1238,10 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
+        "title": "Inspector - Springfield, MO",
+        "url": "https://www.munichre.com/en/job/springfield/inspector-springfield-mo/3342/47049392320"
+      },
+      {
         "title": "Financial & Professional Claims Manager",
         "url": "https://www.munichre.com/en/job/princeton/financial-and-professional-claims-manager/3342/47232523712"
       },
@@ -1248,10 +1252,6 @@
       {
         "title": "SimCorp Dimension (SCD) Specialist",
         "url": "https://www.munichre.com/en/job/toronto/simcorp-dimension-scd-specialist/3342/46560819072"
-      },
-      {
-        "title": "Risk Management Surveyor - South",
-        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
       },
       {
         "title": "Find jobs",
@@ -1895,10 +1895,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
