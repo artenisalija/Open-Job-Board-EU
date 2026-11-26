@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/de/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Liquidity Reporting Specialist",
-        "url": "https://careers.ing.com/en/job/sydney/liquidity-reporting-specialist/3121/47248181952"
+        "title": "Data Analyst",
+        "url": "https://careers.ing.com/en/job/makati-city/data-analyst/3121/47255013120"
       },
       {
-        "title": "Intern, Communications and Brand Experience APAC",
-        "url": "https://careers.ing.com/en/job/singapore/intern-communications-and-brand-experience-apac/3121/47248181888"
+        "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
+        "url": "https://careers.ing.com/en/job/poznan/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/47255013056"
       },
       {
-        "title": "Data Analyst (Credit Risk)",
-        "url": "https://careers.ing.com/en/job/makati-city/data-analyst-credit-risk/3121/46876483584"
+        "title": "Data scientist Payment Problems",
+        "url": "https://careers.ing.com/en/job/amsterdam/data-scientist-payment-problems/3121/47255012992"
       },
       {
-        "title": "Senior DevOps Engineer",
-        "url": "https://careers.ing.com/en/job/makati-city/senior-devops-engineer/3121/46201154240"
+        "title": "Senior Data & MLOps Engineer",
+        "url": "https://careers.ing.com/en/job/madrid/senior-data-and-mlops-engineer/3121/47255012928"
       },
       {
-        "title": "Internship – Account Manager, Private Banking",
-        "url": "https://careers.ing.com/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760"
+        "title": "Compliance Data Methodology",
+        "url": "https://careers.ing.com/en/job/warsaw/compliance-data-methodology/3121/47255012864"
       },
       {
-        "title": "Key Control Tester I",
-        "url": "https://careers.ing.com/en/job/makati-city/key-control-tester-i/3121/47243129408"
+        "title": "Senior Google Cloud Security",
+        "url": "https://careers.ing.com/en/job/madrid/senior-google-cloud-security/3121/45881937280"
       },
       {
-        "title": "Technology Risk Manager",
-        "url": "https://careers.ing.com/en/job/sydney/technology-risk-manager/3121/47243129344"
+        "title": "Facilities Finance Control",
+        "url": "https://careers.ing.com/en/job/madrid/facilities-finance-control/3121/46793594240"
       },
       {
-        "title": "VP, Transaction Monitoring & Regulatory Controls",
-        "url": "https://careers.ing.com/en/job/singapore/vp-transaction-monitoring-and-regulatory-controls/3121/44822462656"
+        "title": "Chapter Lead – Agentic AI Engineering",
+        "url": "https://careers.ing.com/en/job/istanbul/chapter-lead-agentic-ai-engineering/3121/47255012608"
       },
       {
-        "title": "Compliance Officer",
-        "url": "https://careers.ing.com/en/job/makati-city/compliance-officer/3121/47243129152"
+        "title": "Customer Loyalty Intern with English @ING Hubs Romania",
+        "url": "https://careers.ing.com/en/job/bucharest/customer-loyalty-intern-with-english-ing-hubs-romania/3121/46787201664"
       }
     ]
   },
@@ -1238,20 +1238,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Rechtsreferendar (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/rechtsreferendar-m-w-d/3342/33908705792"
+        "title": "Field Risk Consultant (Inspector) - Alberta",
+        "url": "https://www.munichre.com/en/job/calgary/field-risk-consultant-inspector-alberta/3342/47260488192"
       },
       {
-        "title": "Praktikant Underwriting (Engineering / Construction) (m/f/d)*",
-        "url": "https://www.munichre.com/en/job/munich/praktikant-underwriting-engineering-construction-m-f-d/3342/45925099136"
+        "title": "Field Risk Consultant (Inspector) - Manitoba & Northern Ontario",
+        "url": "https://www.munichre.com/en/job/toronto/field-risk-consultant-inspector-manitoba-and-northern-ontario/3342/47260487744"
       },
       {
-        "title": "Ausbildungsintegriertes Studium International Business Computer Science (IBCS) 2027 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-international-business-computer-science-ibcs-2027-m-w-d/3342/44213412160"
+        "title": "Risk Management Surveyor - North",
+        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
       },
       {
-        "title": "Ausbildungsintegriertes Studium Wirtschaftsmathematik 2027 (m/w/d)*",
-        "url": "https://www.munichre.com/en/job/munich/ausbildungsintegriertes-studium-wirtschaftsmathematik-2027-m-w-d/3342/44213457664"
+        "title": "Risk Management Surveyor - South",
+        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
       },
       {
         "title": "Find jobs",
@@ -1717,7 +1717,7 @@
   {
     "name": "Schneider Electric",
     "website": "https://www.se.com",
-    "career_page_url": "https://www.se.com/careers",
+    "career_page_url": "https://www.se.com/ww/en/about-us/careers/overview",
     "country_of_origin": "France",
     "source": "wikipedia",
     "jobs": []
@@ -1944,10 +1944,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
