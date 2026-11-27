@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/at/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/at/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1020,10 +1020,6 @@
         "url": "https://careers.ing.com/en/job/milan/customer-journey-expert-human-sales-and-interactions-fast-line-and-concierge/3121/47266625664"
       },
       {
-        "title": "Senior IT Auditor",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-it-auditor/3121/46391158144"
-      },
-      {
         "title": "Performance marketing specialist ING Private Banking & Wealth Management",
         "url": "https://careers.ing.com/en/job/amsterdam/performance-marketing-specialist-ing-private-banking-and-wealth-management/3121/46240514432"
       },
@@ -1050,6 +1046,10 @@
       {
         "title": "Creative Design Intern-1",
         "url": "https://careers.ing.com/en/job/amsterdam/creative-design-intern-1/3121/47261425216"
+      },
+      {
+        "title": "Domain Architect - Channels",
+        "url": "https://careers.ing.com/en/job/brussels/domain-architect-channels/3121/47261425152"
       }
     ]
   },
@@ -1944,10 +1944,15 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/join-us",
+    "career_page_url": "https://www.vinci.com/en/careers",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://www.vinci.com/en/careers"
+      }
+    ]
   },
   {
     "name": "Vodafone",
@@ -2136,13 +2141,5 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
-  },
-  {
-    "name": "Zurich Insurance Group",
-    "website": "https://www.zurich.com",
-    "career_page_url": "https://www.zurich.com/careers",
-    "country_of_origin": "Switzerland",
-    "source": "wikipedia",
-    "jobs": []
   }
 ]
