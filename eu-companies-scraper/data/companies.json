@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/at/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/at/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,40 +1016,40 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
-        "title": "Data Analyst",
-        "url": "https://careers.ing.com/en/job/makati-city/data-analyst/3121/47255013120"
+        "title": "Customer Journey Expert (Human Sales & Interactions – Fast Line & Concierge)",
+        "url": "https://careers.ing.com/en/job/milan/customer-journey-expert-human-sales-and-interactions-fast-line-and-concierge/3121/47266625664"
       },
       {
-        "title": "Specjalista w obszarze bankowości detalicznej (k/m)",
-        "url": "https://careers.ing.com/en/job/poznan/specjalista-w-obszarze-bankowosci-detalicznej-k-m/3121/47255013056"
+        "title": "Senior IT Auditor",
+        "url": "https://careers.ing.com/en/job/amsterdam/senior-it-auditor/3121/46391158144"
       },
       {
-        "title": "Data scientist Payment Problems",
-        "url": "https://careers.ing.com/en/job/amsterdam/data-scientist-payment-problems/3121/47255012992"
+        "title": "Performance marketing specialist ING Private Banking & Wealth Management",
+        "url": "https://careers.ing.com/en/job/amsterdam/performance-marketing-specialist-ing-private-banking-and-wealth-management/3121/46240514432"
       },
       {
-        "title": "Senior Data & MLOps Engineer",
-        "url": "https://careers.ing.com/en/job/madrid/senior-data-and-mlops-engineer/3121/47255012928"
+        "title": "Creative Producer Intern",
+        "url": "https://careers.ing.com/en/job/amsterdam/creative-producer-intern/3121/47261425664"
       },
       {
-        "title": "Compliance Data Methodology",
-        "url": "https://careers.ing.com/en/job/warsaw/compliance-data-methodology/3121/47255012864"
+        "title": "Młodszy Specjalista - Wsparcie Biznesu (k/m)",
+        "url": "https://careers.ing.com/en/job/warsaw/m%c5%82odszy-specjalista-wsparcie-biznesu-k-m/3121/47261425600"
       },
       {
-        "title": "Senior Google Cloud Security",
-        "url": "https://careers.ing.com/en/job/madrid/senior-google-cloud-security/3121/45881937280"
+        "title": "Internship Talent, Learning, Leadership & DIB",
+        "url": "https://careers.ing.com/en/job/amsterdam/internship-talent-learning-leadership-and-dib/3121/47261425536"
       },
       {
-        "title": "Facilities Finance Control",
-        "url": "https://careers.ing.com/en/job/madrid/facilities-finance-control/3121/46793594240"
+        "title": "Domain Architect Financial Crime Prevention",
+        "url": "https://careers.ing.com/en/job/brussels/domain-architect-financial-crime-prevention/3121/47261425472"
       },
       {
-        "title": "Chapter Lead – Agentic AI Engineering",
-        "url": "https://careers.ing.com/en/job/istanbul/chapter-lead-agentic-ai-engineering/3121/47255012608"
+        "title": "Creative Videographer Internship",
+        "url": "https://careers.ing.com/en/job/amsterdam/creative-videographer-internship/3121/47261425280"
       },
       {
-        "title": "Customer Loyalty Intern with English @ING Hubs Romania",
-        "url": "https://careers.ing.com/en/job/bucharest/customer-loyalty-intern-with-english-ing-hubs-romania/3121/46787201664"
+        "title": "Creative Design Intern-1",
+        "url": "https://careers.ing.com/en/job/amsterdam/creative-design-intern-1/3121/47261425216"
       }
     ]
   },
@@ -1238,20 +1238,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Field Risk Consultant (Inspector) - Alberta",
-        "url": "https://www.munichre.com/en/job/calgary/field-risk-consultant-inspector-alberta/3342/47260488192"
+        "title": "Senior FP&A Accountant",
+        "url": "https://www.munichre.com/en/job/birkenhead/senior-fp-and-a-accountant/3342/47203798464"
       },
       {
         "title": "Field Risk Consultant (Inspector) - Manitoba & Northern Ontario",
         "url": "https://www.munichre.com/en/job/toronto/field-risk-consultant-inspector-manitoba-and-northern-ontario/3342/47260487744"
       },
       {
-        "title": "Risk Management Surveyor - North",
-        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
+        "title": "Field Risk Consultant (Inspector) - Alberta",
+        "url": "https://www.munichre.com/en/job/calgary/field-risk-consultant-inspector-alberta/3342/47260488192"
       },
       {
-        "title": "Risk Management Surveyor - South",
-        "url": "https://www.munichre.com/en/job/bristol/risk-management-surveyor-south/3342/45731878080"
+        "title": "Risk Management Surveyor - North",
+        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
       },
       {
         "title": "Find jobs",
@@ -1944,15 +1944,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
