@@ -934,13 +934,13 @@
   {
     "name": "Inditex",
     "website": "http://www.inditex.com",
-    "career_page_url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex",
+    "career_page_url": "http://www.inditex.com/itxcomweb/hu/en/talent/life-at-inditex",
     "country_of_origin": "Spain",
     "source": "wikipedia",
     "jobs": [
       {
         "title": "More than a job",
-        "url": "http://www.inditex.com/itxcomweb/es/en/talent/life-at-inditex"
+        "url": "http://www.inditex.com/itxcomweb/hu/en/talent/life-at-inditex"
       }
     ]
   },
@@ -1016,6 +1016,22 @@
         "url": "https://careers.ing.com/pl/szukanie-pracy"
       },
       {
+        "title": "Vendor Manager - KYC",
+        "url": "https://careers.ing.com/en/job/sydney/vendor-manager-kyc/3121/47279541952"
+      },
+      {
+        "title": "Intern, Financial Markets Client Solutions Group (CSG)",
+        "url": "https://careers.ing.com/en/job/singapore/intern-financial-markets-client-solutions-group-csg/3121/46577324416"
+      },
+      {
+        "title": "International Talent Programme (ITP) - Business Banking 2027",
+        "url": "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-business-banking-2027/3121/47007513792"
+      },
+      {
+        "title": "Information Architect",
+        "url": "https://careers.ing.com/en/job/sydney/information-architect/3121/47274469056"
+      },
+      {
         "title": "Customer Journey Expert (Human Sales & Interactions – Fast Line & Concierge)",
         "url": "https://careers.ing.com/en/job/milan/customer-journey-expert-human-sales-and-interactions-fast-line-and-concierge/3121/47266625664"
       },
@@ -1034,22 +1050,6 @@
       {
         "title": "Internship Talent, Learning, Leadership & DIB",
         "url": "https://careers.ing.com/en/job/amsterdam/internship-talent-learning-leadership-and-dib/3121/47261425536"
-      },
-      {
-        "title": "Domain Architect Financial Crime Prevention",
-        "url": "https://careers.ing.com/en/job/brussels/domain-architect-financial-crime-prevention/3121/47261425472"
-      },
-      {
-        "title": "Creative Videographer Internship",
-        "url": "https://careers.ing.com/en/job/amsterdam/creative-videographer-internship/3121/47261425280"
-      },
-      {
-        "title": "Creative Design Intern-1",
-        "url": "https://careers.ing.com/en/job/amsterdam/creative-design-intern-1/3121/47261425216"
-      },
-      {
-        "title": "Domain Architect - Channels",
-        "url": "https://careers.ing.com/en/job/brussels/domain-architect-channels/3121/47261425152"
       }
     ]
   },
@@ -1238,20 +1238,20 @@
         "url": "https://www.munichre.com/en/munichre-search-results"
       },
       {
-        "title": "Senior FP&A Accountant",
-        "url": "https://www.munichre.com/en/job/birkenhead/senior-fp-and-a-accountant/3342/47203798464"
+        "title": "Senior Property & Engineering Underwriter (m/f/d*) - Munich Re Specialty Global Markets (MRS-GM)",
+        "url": "https://www.munichre.com/en/job/milan/senior-property-and-engineering-underwriter-m-f-d-munich-re-specialty-global-markets-mrs-gm/3342/45141601088"
       },
       {
-        "title": "Field Risk Consultant (Inspector) - Manitoba & Northern Ontario",
-        "url": "https://www.munichre.com/en/job/toronto/field-risk-consultant-inspector-manitoba-and-northern-ontario/3342/47260487744"
+        "title": "Werkstudent Projekt Management Support - New Work (m/w/d)*",
+        "url": "https://www.munichre.com/en/job/munich/werkstudent-projekt-management-support-new-work-m-w-d/3342/47222956032"
       },
       {
-        "title": "Field Risk Consultant (Inspector) - Alberta",
-        "url": "https://www.munichre.com/en/job/calgary/field-risk-consultant-inspector-alberta/3342/47260488192"
+        "title": "Capital Analyst",
+        "url": "https://www.munichre.com/en/job/sydney/capital-analyst/3342/47277160512"
       },
       {
-        "title": "Risk Management Surveyor - North",
-        "url": "https://www.munichre.com/en/job/birkenhead/risk-management-surveyor-north/3342/45731878208"
+        "title": "Data Engineer Intern",
+        "url": "https://www.munichre.com/en/job/singapore/data-engineer-intern/3342/46975841856"
       },
       {
         "title": "Find jobs",
@@ -1349,6 +1349,10 @@
       {
         "title": "Job search Explore our opportunities and see where you could make the biggest impact.",
         "url": "https://www.novartis.com/careers/career-search"
+      },
+      {
+        "title": "Sign up",
+        "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/page/66a0bef41f73100012bc75b3b5a80000"
       },
       {
         "title": "Turning personal experience into purpose-driven careers What drives someone to dedicate their career to reimagining medicine? Three women at Novartis share their deeply personal and unique stories.",
@@ -1944,15 +1948,10 @@
   {
     "name": "Vinci",
     "website": "https://www.vinci.com",
-    "career_page_url": "https://www.vinci.com/en/careers",
+    "career_page_url": "https://www.vinci.com/join-us",
     "country_of_origin": "France",
     "source": "wikipedia",
-    "jobs": [
-      {
-        "title": "Skip to main content",
-        "url": "https://www.vinci.com/en/careers"
-      }
-    ]
+    "jobs": []
   },
   {
     "name": "Vodafone",
@@ -2141,5 +2140,13 @@
         "url": "https://www.zf.com/mobile/en/careers/careers.html"
       }
     ]
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "website": "https://www.zurich.com",
+    "career_page_url": "https://www.zurich.com/careers",
+    "country_of_origin": "Switzerland",
+    "source": "wikipedia",
+    "jobs": []
   }
 ]
