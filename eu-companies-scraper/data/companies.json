@@ -1020,10 +1020,6 @@
         "url": "https://careers.ing.com/en/job/bucharest/operations-engineer-ing-hubs-romania/3121/47296451904"
       },
       {
-        "title": "(Senior) Sector economist Semiconductors & AI",
-        "url": "https://careers.ing.com/en/job/amsterdam/senior-sector-economist-semiconductors-and-ai/3121/42491872896"
-      },
-      {
         "title": "Personal Banker",
         "url": "https://careers.ing.com/en/job/brussels/personal-banker/3121/46413910656"
       },
@@ -1050,6 +1046,10 @@
       {
         "title": "Private Banker – International Market & Italy",
         "url": "https://careers.ing.com/en/job/luxembourg/private-banker-international-market-and-italy/3121/47291785344"
+      },
+      {
+        "title": "Vendor Manager Technology",
+        "url": "https://careers.ing.com/en/job/amsterdam/vendor-manager-technology/3121/33898442560"
       }
     ]
   },
@@ -1404,6 +1404,14 @@
         "url": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html"
       }
     ]
+  },
+  {
+    "name": "Orange",
+    "website": "https://orange.com",
+    "career_page_url": "https://orange.com/careers",
+    "country_of_origin": "France",
+    "source": "wikipedia",
+    "jobs": []
   },
   {
     "name": "Renault",
