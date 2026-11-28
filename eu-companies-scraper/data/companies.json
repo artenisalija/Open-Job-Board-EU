@@ -475,10 +475,19 @@
   {
     "name": "DHL Group",
     "website": "https://group.dhl.com/en.html",
-    "career_page_url": "https://group.dhl.com/en/careers.html",
+    "career_page_url": "https://group.dhl.com/en.html/careers",
     "country_of_origin": "Germany",
     "source": "wikipedia",
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Skip to main content",
+        "url": "https://group.dhl.com/en.html/careers"
+      },
+      {
+        "title": "Careers",
+        "url": "https://group.dhl.com/en/careers.html"
+      }
+    ]
   },
   {
     "name": "Edeka",
